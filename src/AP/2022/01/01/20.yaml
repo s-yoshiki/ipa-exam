@@ -1,5 +1,5 @@
 label: '20'
-question: FPGAの説明として適切なものはどれか。 
+question: FPGAの説明として適切なものはどれか。
 choice:
   - label: ア
     text: 電気的に記憶内容の書換えを行うことができる不揮発性メモリ

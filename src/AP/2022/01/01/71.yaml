@@ -8,7 +8,7 @@ choice:
   - label: ウ
     text: 企業の財務情報
   - label: エ
-    text: 
+    text:
 calculation: false
 figure: false
 answer: ウ

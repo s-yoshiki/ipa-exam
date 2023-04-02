@@ -4,14 +4,17 @@
   "description": "IPA試験の過去問題をテキストデータに起こしたもの。",
   "main": "index.js",
   "scripts": {
+    "format": "prettier --write src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Yoshiki Shinagawa <s.yoshiki1123@gmail.com> (https://github.com/s-yoshiki)",
   "license": "ISC",
   "dependencies": {
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.0",
+    "openai": "^3.2.1"
   },
   "devDependencies": {
-    "@types/js-yaml": "^4.0.5"
+    "@types/js-yaml": "^4.0.5",
+    "prettier": "^2.8.7"
   }
 }

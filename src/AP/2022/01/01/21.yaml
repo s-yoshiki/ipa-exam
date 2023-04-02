@@ -25,7 +25,7 @@ question: |-
                                       始点 
                                             終点 
                                                 8ビット 
-                                                479 
+                                                479
 
 choice:
   - label: ア
@@ -42,5 +42,3 @@ answer: ウ
 category: T
 figureTEXT: |
   <img src="https://www.progeduc.com/wp-content/uploads/2013/05/Question-1-HDD.jpg" alt="直線のメモリ割り当て" width="400" height="400">
-
-解説: 直線の始点(5,4) から終点(98,?) まで描画する。y の増分は固定されないため, (98-x)fの座標が求められる。また, 1画素は16ビットのため, x軸方向に16ビットずつ移動することになる。したがって, x が7の場所のメモリのアドレスは7 x 16 = 112番地から始まる。
