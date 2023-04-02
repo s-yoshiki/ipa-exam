@@ -10,6 +10,7 @@ questions:
         text: SMTP サーバの第三者不正中継の脆弱性を悪用したフィッシングメールの配信
       - label: ヘ
         text: 電子メールサービスに対する電子メール爆弾
-    inferredFigure: ''
     figure: false
     answer: イ
+    category: T
+    figureText: ''

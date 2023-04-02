@@ -10,6 +10,7 @@ questions:
         text: '2.25'
       - label: エ
         text: 変わらない
-    inferredFigure: ''
     figure: false
-    answer: イ
+    answer: エ
+    category: T
+    figureText: ''

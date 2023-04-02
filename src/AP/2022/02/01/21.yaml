@@ -10,6 +10,7 @@ questions:
         text: ダイオード
       - label: エ
         text: 抵抗器
-    inferredFigure: ''
     figure: false
     answer: ウ
+    category: T
+    figureText: ''

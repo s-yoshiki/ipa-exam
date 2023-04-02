@@ -10,6 +10,7 @@ questions:
         text: Shift-JIS
       - label: エ
         text: UTF-16
-    inferredFigure: ''
     figure: false
     answer: エ
+    category: T
+    figureText: ''

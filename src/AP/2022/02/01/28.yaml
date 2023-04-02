@@ -12,6 +12,7 @@ questions:
         text: '4'
       - label: '-'
         text: '-'
-    inferredFigure: ''
     figure: false
-    answer: '3'
+    answer: ウ
+    category: T
+    figureText: ''

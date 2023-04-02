@@ -10,6 +10,7 @@ questions:
         text: 指揮命令権は発注者にないが、発注者の事業所での作業を実施可能にするために、受注者に所属する作業者は新たな雇用契約を発注者と結ぶ。
       - label: エ
         text: 指揮命令権は発注者になく、受注者に所属する作業者は新たな雇用契約を発注者と結ぶことなく、発注者の事業所で作業を実施する。
-    inferredFigure: ''
     figure: false
-    answer: イ
+    answer: エ
+    category: S
+    figureText: ''

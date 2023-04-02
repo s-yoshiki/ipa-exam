@@ -12,6 +12,7 @@ questions:
         text: データ処理において, リアルタイム性よりも, ビッグデータの蓄積と事後の分析が重視されているか。
       - label: エ
         text: データを迅速に活用するために, 全体最適よりも、 個別最適を志向した IT システムとなっているか。
-    inferredFigure: ''
     figure: false
     answer: イ
+    category: S
+    figureText: ''

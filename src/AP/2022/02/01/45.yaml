@@ -14,6 +14,7 @@ questions:
         text: >-
           マークアップ言語で書かれた文字列を処理する前に、 その言語にとって特別な意味をもつ文字や記号を別の文字列に置換して,
           脆弱性が悪用されるのを防止する。
-    inferredFigure: ''
     figure: false
     answer: イ
+    category: T
+    figureText: ''

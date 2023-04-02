@@ -10,6 +10,7 @@ questions:
         text: 物理サーバのホスト OS と仮想化ソフトウェアによって、プログラムの実行環境を仮想化するので、仮想サーバに個別のゲスト OS をもたない。
       - label: エ
         text: 物理サーバのホスト OS にインストールした仮想化ソフトウェアによって、個別のゲスト OS をもった仮想サーバを動作させる。
-    inferredFigure: ''
     figure: false
-    answer: エ
+    answer: ウ
+    category: T
+    figureText: ''

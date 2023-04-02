@@ -14,6 +14,7 @@ questions:
         text: '200'
       - label: エ
         text: '400'
-    inferredFigure: ''
     figure: false
-    answer: ウ
+    answer: ア
+    category: T
+    figureText: ''

@@ -11,6 +11,7 @@ questions:
         text: '25'
       - label: エ
         text: '26'
-    inferredFigure: ''
     figure: false
     answer: エ
+    category: M
+    figureText: ''

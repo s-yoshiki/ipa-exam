@@ -10,6 +10,7 @@ questions:
         text: 使用可能なホストアドレスは最大6個である。
       - label: エ
         text: ホスト部は 29 ビットである。
-    inferredFigure: ''
     figure: false
-    answer: イ
+    answer: ウ
+    category: T
+    figureText: ''

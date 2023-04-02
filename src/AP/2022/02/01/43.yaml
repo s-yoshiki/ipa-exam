@@ -10,6 +10,7 @@ questions:
         text: WPA 機能による、不正な Web サイトへの接続に対する防止効果
       - label: エ
         text: WPS機能による、インターネットからのマルウェア感染に対する防止効果
-    inferredFigure: ''
     figure: false
     answer: ア
+    category: T
+    figureText: ''

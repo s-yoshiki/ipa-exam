@@ -10,7 +10,10 @@ questions:
         text: BCD + BD
       - label: エ
         text: ABD + BCD
-    inferredFigure: |-
+    figure: true
+    answer: エ
+    category: T
+    figureText: |-
       ```
       00 01 11
       10
@@ -19,5 +22,3 @@ questions:
       11 0
       10 0
       ```
-    figure: true
-    answer: エ

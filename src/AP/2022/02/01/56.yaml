@@ -9,6 +9,7 @@ questions:
         text: '11'
       - label: ウ
         text: '12'
-    inferredFigure: ''
     figure: false
-    answer: イ
+    answer: ウ
+    category: M
+    figureText: ''

@@ -10,6 +10,7 @@ questions:
         text: '900'
       - label: 1,500
         text: 1,500
-    inferredFigure: ''
     figure: false
-    answer: '600'
+    answer: イ
+    category: S
+    figureText: ''

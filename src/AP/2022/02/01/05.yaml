@@ -12,6 +12,7 @@ questions:
         text: nがa+bの倍数
       - label: エ
         text: nがa-bの倍数
-    inferredFigure: ''
     figure: false
-    answer: エ
+    answer: イ
+    category: T
+    figureText: ''

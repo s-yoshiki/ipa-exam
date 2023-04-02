@@ -11,7 +11,10 @@ questions:
         text: 13日
       - label: エ
         text: 25日
-    inferredFigure: >-
+    figure: true
+    answer: イ
+    category: M
+    figureText: >-
       ```
 
       A -> C
@@ -25,5 +28,3 @@ questions:
       ```
 
       アクティビティA、B、Cがあり、Aは6日で完了し、Bは7日で完了します。Aは開始から2日後にスタートできますが、Bは開始から3日後に開始しなければなりません。CはAおよびBが終了した後に開始できます。Cの完了に必要な期間は5日です。
-    figure: true
-    answer: ア

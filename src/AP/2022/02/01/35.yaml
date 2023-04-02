@@ -10,6 +10,7 @@ questions:
         text: ウパス (/member/login) の直後
       - label: エ
         text: ホスト名 (www.example.com) の直後
-    inferredFigure: ''
     figure: false
     answer: エ
+    category: T
+    figureText: ''

@@ -11,6 +11,7 @@ questions:
         text: C社
       - label: エ
         text: 社員D
-    inferredFigure: ''
     figure: false
     answer: ウ
+    category: S
+    figureText: ''

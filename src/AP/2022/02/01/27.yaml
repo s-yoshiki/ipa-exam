@@ -10,6 +10,7 @@ questions:
         text: 異動表の従業員 ID、従業員名、所属 のすべての行が含まれる表が得られる。
       - label: エ
         text: 異動表の従業員 ID、従業員名、所属 のすべての行を除いた従業員表が得られる。
-    inferredFigure: ''
     figure: false
-    answer: エ
+    answer: イ
+    category: T
+    figureText: ''

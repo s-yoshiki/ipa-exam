@@ -11,6 +11,7 @@ questions:
         text: トップダウンテスト
       - label: エ
         text: 並行シミュレーション
-    inferredFigure: ''
     figure: false
     answer: ア
+    category: T
+    figureText: ''

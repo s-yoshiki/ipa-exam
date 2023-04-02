@@ -10,6 +10,7 @@ questions:
         text: 合意した目標の中で、合意したサービス継続のコミットメントを果たすことを確実にする。
       - label: エ
         text: 変更の影響を評価し、リスクを最小とするようにして実施し、レビューすることを確実にする。
-    inferredFigure: ''
     figure: false
     answer: イ
+    category: M
+    figureText: ''

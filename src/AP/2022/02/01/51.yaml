@@ -10,6 +10,7 @@ questions:
         text: 外部システムとの連携に関わる作業を別プロジェクトにする
       - label: エ
         text: テスト担当者を交代する
-    inferredFigure: ''
     figure: false
     answer: ウ
+    category: M
+    figureText: ''

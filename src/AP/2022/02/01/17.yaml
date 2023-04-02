@@ -11,6 +11,7 @@ questions:
         text: ページ内の無駄な空き領域が減少するので、主記憶不足が緩和される。
       - label: エ
         text: ページフォールトの回数が増加するので、システム性能が低下する。
-    inferredFigure: ''
     figure: false
-    answer: エ
+    answer: ウ
+    category: T
+    figureText: ''

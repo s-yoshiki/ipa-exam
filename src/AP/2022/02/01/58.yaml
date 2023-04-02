@@ -10,6 +10,7 @@ questions:
         text: マルウェアスキャンでスパイウェアが検知され、駆除されていた。
       - label: エ
         text: リスクアセスメントを実施した後に、リスク受容基準を決めていた。
-    inferredFigure: ''
     figure: false
     answer: エ
+    category: M
+    figureText: ''

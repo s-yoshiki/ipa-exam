@@ -11,6 +11,7 @@ questions:
         text: 4,750
       - label: エ
         text: 6,150
-    inferredFigure: ''
     figure: false
-    answer: エ
+    answer: イ
+    category: S
+    figureText: ''

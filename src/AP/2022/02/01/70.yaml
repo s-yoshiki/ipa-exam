@@ -14,6 +14,7 @@ questions:
           を使い可視化することによって, 商圏における売上規模を分析できるようになった。
       - label: エ
         text: ホテル事業者が, 他社が公開しているタクシー配車アプリのAPIを自社のアプリに組み込み, サービスを提供した。
-    inferredFigure: ''
     figure: false
     answer: エ
+    category: S
+    figureText: ''

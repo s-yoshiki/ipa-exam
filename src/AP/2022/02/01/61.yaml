@@ -10,6 +10,7 @@ questions:
         text: 業務効率の向上, 業務コストの削減を目的に、業務プロセスを対象としてアウトソースを実施するもの
       - label: エ
         text: 事業の中断・阻害に対応し、事業を復旧し、再開し、あらかじめ定められたレベルに回復するように組織を導く手順を文書化したもの
-    inferredFigure: ''
     figure: false
     answer: エ
+    category: S
+    figureText: ''

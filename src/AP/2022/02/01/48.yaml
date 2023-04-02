@@ -13,6 +13,7 @@ questions:
         text: 'Coによる網羅率: 80%, C,による網羅率: 100%'
       - label: ハ
         text: 'Coによる網羅率: 80%, C,による網羅率: 80%'
-    inferredFigure: ''
     figure: false
     answer: イ
+    category: T
+    figureText: ''

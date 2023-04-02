@@ -10,6 +10,7 @@ questions:
         text: 電圧を印加すると発光する薄膜デバイスを用いて表示する。
       - label: エ
         text: 半導体デバイス上に作成した微小な鏡の向きを変えて、反射することによって表示する。
-    inferredFigure: ''
     figure: false
-    answer: ア
+    answer: イ
+    category: T
+    figureText: ''

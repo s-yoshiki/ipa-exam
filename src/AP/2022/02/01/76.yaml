@@ -10,6 +10,7 @@ questions:
         text: 親和図法
       - label: エ
         text: ブレーンストーミング
-    inferredFigure: ''
     figure: false
     answer: ウ
+    category: S
+    figureText: ''

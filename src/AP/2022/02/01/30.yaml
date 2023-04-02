@@ -10,6 +10,7 @@ questions:
         text: 原子性
       - label: エ
         text: 耐久性
-    inferredFigure: ''
     figure: false
-    answer: エ
+    answer: イ
+    category: T
+    figureText: ''

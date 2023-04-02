@@ -10,6 +10,7 @@ questions:
         text: 証拠保全ガイドライン
       - label: エ
         text: 組織における内部不正防止ガイドライン
-    inferredFigure: ''
     figure: false
     answer: ア
+    category: T
+    figureText: ''

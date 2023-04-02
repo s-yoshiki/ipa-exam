@@ -10,6 +10,7 @@ questions:
         text: DHCPによる自動設定を行うPCにDHCPサーバのアドレスを設定しておく必要はない。
       - label: エ
         text: 一度IPアドレスを割り当てられたPCは、その後電源が切られた期間があっても必ず同じIPアドレスを割り当てられる。
-    inferredFigure: ''
     figure: false
-    answer: エ
+    answer: ウ
+    category: T
+    figureText: ''

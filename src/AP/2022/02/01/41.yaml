@@ -10,6 +10,7 @@ questions:
         text: リスク分析, リスク対応, リスク受容
       - label: エ
         text: リスク分析, リスク評価, リスク対応
-    inferredFigure: ''
     figure: false
-    answer: エ
+    answer: イ
+    category: T
+    figureText: ''

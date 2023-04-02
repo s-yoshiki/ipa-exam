@@ -12,12 +12,13 @@ questions:
         text: C
       - label: エ
         text: 投資をしない
-    inferredFigure: |-
+    figure: true
+    answer: イ
+    category: S
+    figureText: |-
       | シナリオ | 投資額 | 1年目 | 2年目 | 3年目 |
       | ---- | ---- | ---- | ---- | ---- |
       | A | 220 | 40 | 80 | 120 |
       | B | 220 | 120 | 80 | 40 |
       | C | 220 | 80 | 80 | 80 |
       | 投資をしない | 0 | 0 | 0 | 0 |
-    figure: true
-    answer: ウ

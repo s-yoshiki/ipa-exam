@@ -11,6 +11,7 @@ questions:
         text: 要件定義フェーズからシステム結合フェーズまで
       - label: エ
         text: システム内部設計フェーズからシステム結合フェーズまで
-    inferredFigure: ''
     figure: false
-    answer: イ
+    answer: エ
+    category: S
+    figureText: ''

@@ -12,6 +12,7 @@ questions:
         text: TCP
       - label: エ
         text: UDP
-    inferredFigure: ''
     figure: false
     answer: エ
+    category: T
+    figureText: ''

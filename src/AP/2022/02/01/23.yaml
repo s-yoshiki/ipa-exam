@@ -19,6 +19,7 @@ questions:
           Y
           Z
           X >
-    inferredFigure: ''
     figure: false
-    answer: ア
+    answer: ウ
+    category: T
+    figureText: ''

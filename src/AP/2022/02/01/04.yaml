@@ -11,6 +11,7 @@ questions:
       - label: エ
         text: >-
           膨大な訓練データを学習させても効果が得られない場合に、学習目標として成功と判断するための報酬を与えることによって、何が成功か分かるようにする。
-    inferredFigure: ''
     figure: false
     answer: イ
+    category: T
+    figureText: ''

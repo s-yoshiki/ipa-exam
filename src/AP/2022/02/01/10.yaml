@@ -13,6 +13,7 @@ questions:
         text: '0.95'
       - label: エ
         text: '0.98'
-    inferredFigure: ''
     figure: false
     answer: エ
+    category: T
+    figureText: ''

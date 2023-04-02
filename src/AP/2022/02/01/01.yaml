@@ -10,6 +10,7 @@ questions:
         text: n^2
       - label: エ
         text: 2n-1
-    inferredFigure: ''
     figure: false
     answer: イ
+    category: T
+    figureText: ''

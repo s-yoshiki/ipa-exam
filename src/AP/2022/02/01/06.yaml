@@ -10,6 +10,7 @@ questions:
         text: 挿入ソート
       - label: エ
         text: バブルソート
-    inferredFigure: ''
     figure: true
     answer: エ
+    category: T
+    figureText: ''

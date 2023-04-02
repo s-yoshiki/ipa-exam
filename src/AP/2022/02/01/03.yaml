@@ -12,6 +12,7 @@ questions:
         text: '89'
       - label: エ
         text: '245'
-    inferredFigure: ''
     figure: false
-    answer: イ
+    answer: ア
+    category: T
+    figureText: ''

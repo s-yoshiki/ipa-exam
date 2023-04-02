@@ -11,6 +11,7 @@ questions:
         text: 製品C
       - label: エ
         text: 製品D
-    inferredFigure: ''
     figure: false
-    answer: エ
+    answer: ウ
+    category: M
+    figureText: ''

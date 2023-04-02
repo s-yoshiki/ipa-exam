@@ -13,6 +13,7 @@ questions:
         text: '6'
       - label: オ
         text: '11'
-    inferredFigure: ''
     figure: false
-    answer: ウ
+    answer: ア
+    category: T
+    figureText: ''

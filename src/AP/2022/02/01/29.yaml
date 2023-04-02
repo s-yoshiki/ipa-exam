@@ -12,7 +12,10 @@ questions:
         text: T4,T5
       - label: エ
         text: T3,T4,T5
-    inferredFigure: |-
+    figure: true
+    answer: ウ
+    category: T
+    figureText: |-
       ```
       # チェックポイント
       開始 T1 コミット
@@ -29,5 +32,3 @@ questions:
       - T4
       - T5
       ```
-    figure: true
-    answer: ウ

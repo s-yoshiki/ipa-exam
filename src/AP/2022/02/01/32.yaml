@@ -10,6 +10,7 @@ questions:
         text: SMTP
       - label: エ
         text: SNMP
-    inferredFigure: ''
     figure: false
-    answer: ウ
+    answer: ア
+    category: T
+    figureText: ''

@@ -10,6 +10,7 @@ questions:
         text: テストでのカバレージを高めることを目的とする。
       - label: エ
         text: プログラムを書く前にテストコードを記述する。
-    inferredFigure: ''
     figure: false
     answer: エ
+    category: T
+    figureText: ''

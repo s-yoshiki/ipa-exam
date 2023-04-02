@@ -10,6 +10,7 @@ questions:
         text: チェックによって発見された入力データの誤りは、情報システム部門の判断で迅速に修正する。
       - label: エ
         text: 入力原票やEDI受信ファイルなどの取引情報は、機密性を確保するために、データをシステムに取り込んだ後に速やかに廃棄する。
-    inferredFigure: ''
     figure: false
-    answer: エ
+    answer: イ
+    category: M
+    figureText: ''

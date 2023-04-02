@@ -10,6 +10,7 @@ questions:
         text: 生産設備である工場をもたないので, 固定費を圧縮することができ, 需給変動などにも迅速に対応可能であり, 企画・開発に注力することができる。
       - label: エ
         text: 生産設備をもたない企業から製造を請け負う事業者・生産形態のことであり, 効率の良い設備運営や高度な研究開発を行うことができる。
-    inferredFigure: ''
     figure: false
-    answer: エ
+    answer: ウ
+    category: S
+    figureText: ''

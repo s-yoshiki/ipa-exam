@@ -10,6 +10,7 @@ questions:
         text: 利用者がPCにインストールしたOS
       - label: エ
         text: 利用者によってネットワークからダウンロードされたデータ
-    inferredFigure: ''
     figure: false
     answer: ア
+    category: S
+    figureText: ''
