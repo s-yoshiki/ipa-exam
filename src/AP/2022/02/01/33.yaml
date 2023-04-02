@@ -9,6 +9,7 @@ choice:
     text: 使用可能なホストアドレスは最大6個である。
   - label: エ
     text: ホスト部は 29 ビットである。
+calculation: false
 figure: false
 answer: ウ
 category: T

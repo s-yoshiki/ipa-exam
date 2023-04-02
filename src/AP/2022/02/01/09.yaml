@@ -9,6 +9,7 @@ choice:
     text: 主記憶のデータの変更は、キャッシュメモリから当該データが追い出される時に行う。
   - label: エ
     text: 主記憶へのアクセス頻度が少ないので、バスの占有率が低い。
+calculation: false
 figure: false
 answer: イ
 category: T

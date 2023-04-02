@@ -9,6 +9,7 @@ choice:
     text: Shift-JIS
   - label: エ
     text: UTF-16
+calculation: false
 figure: false
 answer: エ
 category: T

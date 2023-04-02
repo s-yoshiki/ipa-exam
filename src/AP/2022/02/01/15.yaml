@@ -13,6 +13,7 @@ choice:
     text: '200'
   - label: エ
     text: '400'
+calculation: false
 figure: false
 answer: ア
 category: T

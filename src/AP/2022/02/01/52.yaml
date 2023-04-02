@@ -10,6 +10,7 @@ choice:
     text: 13日
   - label: エ
     text: 25日
+calculation: false
 figure: true
 answer: イ
 category: M

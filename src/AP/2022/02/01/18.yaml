@@ -11,6 +11,7 @@ choice:
     text: 割り込み処理ルーチンは、最も優先度の高いタスクよりも優先して実行される。
   - label: エ
     text: 割り込み処理ルーチンは、割り込まれたタスクと同一のコンテキストで実行される。
+calculation: false
 figure: false
 answer: ウ
 category: T

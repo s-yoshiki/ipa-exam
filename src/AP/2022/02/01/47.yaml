@@ -9,6 +9,7 @@ choice:
     text: 障害に関するデータを収集し、原因について「なぜなぜ分析」を行い、根本原因を明らかにする。
   - label: エ
     text: 多角的で、互いに重ならないように定義した ODC 属性に従って障害を分類し、どの分類に障害が集中しているかを調べる。
+calculation: false
 figure: false
 answer: イ
 category: T

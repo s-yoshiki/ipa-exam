@@ -10,6 +10,7 @@ choice:
     text: C社
   - label: エ
     text: 社員D
+calculation: false
 figure: false
 answer: ウ
 category: S

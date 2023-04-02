@@ -8,6 +8,7 @@ choice:
     text: '11'
   - label: ウ
     text: '12'
+calculation: false
 figure: false
 answer: ウ
 category: M

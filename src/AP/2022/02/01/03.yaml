@@ -11,6 +11,7 @@ choice:
     text: '89'
   - label: エ
     text: '245'
+calculation: false
 figure: false
 answer: ア
 category: T

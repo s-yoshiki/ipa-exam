@@ -9,6 +9,7 @@ choice:
     text: コンピュータが出力した電気信号を力学的な運動に変える。
   - label: エ
     text: 物理量を検出して、電気信号に変える。
+calculation: false
 figure: false
 answer: ウ
 category: T

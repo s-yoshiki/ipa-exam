@@ -10,6 +10,7 @@ choice:
     text: 製品C
   - label: エ
     text: 製品D
+calculation: false
 figure: false
 answer: ウ
 category: M

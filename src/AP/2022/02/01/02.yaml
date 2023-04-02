@@ -9,6 +9,7 @@ choice:
     text: BCD + BD
   - label: エ
     text: ABD + BCD
+calculation: false
 figure: true
 answer: エ
 category: T

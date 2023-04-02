@@ -11,6 +11,7 @@ choice:
     text: 通信を行う2者間に割り込み, 両者が交換する情報を自分のものとすり替えることによって, その後の通信を気付かれることなく盗聴する。
   - label: エ
     text: データベースを利用する Web サイトに入力パラメータとして SQL文の断片を送信することによって, データベースを改ざんする。
+calculation: false
 figure: false
 answer: ア
 category: T

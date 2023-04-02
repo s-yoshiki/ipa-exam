@@ -9,6 +9,7 @@ choice:
     text: 同時点における複数の観測データの統計比較分析によって将来を予測する。
   - label: エ
     text: 複数の専門家へのアンケートの繰返しによる回答の収束によって将来を予測する。
+calculation: false
 figure: false
 answer: エ
 category: S

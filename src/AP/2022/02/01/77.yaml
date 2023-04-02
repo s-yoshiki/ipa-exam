@@ -10,6 +10,7 @@ choice:
     text: 4,750
   - label: エ
     text: 6,150
+calculation: false
 figure: false
 answer: イ
 category: S

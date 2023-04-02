@@ -9,6 +9,7 @@ choice:
     text: テレビ会議やテレビ電話で双方向のビデオ配信を制御するための通信方式
   - label: エ
     text: ワンセグやインターネットで用いられる動画データの圧縮符号化方式
+calculation: false
 figure: false
 answer: エ
 category: T

@@ -9,6 +9,7 @@ choice:
     text: '900'
   - label: 1,500
     text: 1,500
+calculation: false
 figure: false
 answer: イ
 category: S

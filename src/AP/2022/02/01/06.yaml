@@ -9,6 +9,7 @@ choice:
     text: 挿入ソート
   - label: エ
     text: バブルソート
+calculation: false
 figure: true
 answer: エ
 category: T

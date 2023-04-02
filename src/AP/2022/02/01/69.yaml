@@ -9,6 +9,7 @@ choice:
     text: 同一世代は年齢を重ねても, 時代が変化しても, 共通の行動や意識を示すことに注目した,消費者の行動を分析する手法
   - label: I
     text: ブランドがもつ複数のイメージ項目を散布図にプロットし, それぞれのブランドのポジショニングを分析する手法
+calculation: false
 figure: false
 answer: イ
 category: S

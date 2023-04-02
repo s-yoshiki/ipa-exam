@@ -9,6 +9,7 @@ choice:
     text: 情報システムのガバナンス、マネジメント、コントロールを点検・評価・検証する際の判断の尺度となるもの
   - label: エ
     text: どのような組織体においても情報システムの管理において共通して留意すべき基本事項を体系化一般化したもの
+calculation: false
 figure: false
 answer: ア
 category: M

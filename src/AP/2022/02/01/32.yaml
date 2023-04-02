@@ -9,6 +9,7 @@ choice:
     text: SMTP
   - label: エ
     text: SNMP
+calculation: false
 figure: false
 answer: ア
 category: T

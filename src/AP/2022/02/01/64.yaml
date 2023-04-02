@@ -11,6 +11,7 @@ choice:
     text: C
   - label: エ
     text: 投資をしない
+calculation: false
 figure: true
 answer: イ
 category: S

@@ -11,6 +11,7 @@ choice:
     text: nがa+bの倍数
   - label: エ
     text: nがa-bの倍数
+calculation: false
 figure: false
 answer: イ
 category: T

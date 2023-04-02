@@ -9,6 +9,7 @@ choice:
     text: 定期的にリフレッシュしないと、データが失われる。
   - label: エ
     text: データ書換え時には、あらかじめ前のデータを消去してから書込みを行う。
+calculation: false
 figure: false
 answer: エ
 category: T

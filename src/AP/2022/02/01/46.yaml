@@ -10,6 +10,7 @@ choice:
     text: トップダウンテスト
   - label: エ
     text: 並行シミュレーション
+calculation: false
 figure: false
 answer: ア
 category: T

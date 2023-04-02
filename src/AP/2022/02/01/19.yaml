@@ -10,6 +10,7 @@ choice:
     text: '9'
   - label: ウ
     text: '11'
+calculation: false
 figure: false
 answer: ウ
 category: T

@@ -9,6 +9,7 @@ choice:
     text: データ項目 '賞与金額' と同じ意味で 'ボーナス金額' というデータ項目がある。
   - label: エ
     text: データ項目 '取引先' が、'取引先コード' か '取引先名' か、判別できない。
+calculation: false
 figure: false
 answer: イ
 category: T

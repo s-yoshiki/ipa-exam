@@ -9,6 +9,7 @@ choice:
     text: '2.25'
   - label: エ
     text: 変わらない
+calculation: false
 figure: false
 answer: エ
 category: T

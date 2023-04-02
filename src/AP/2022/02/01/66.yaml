@@ -10,6 +10,7 @@ choice:
     text: 要件定義フェーズからシステム結合フェーズまで
   - label: エ
     text: システム内部設計フェーズからシステム結合フェーズまで
+calculation: false
 figure: false
 answer: エ
 category: S

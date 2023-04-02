@@ -11,6 +11,7 @@ choice:
     text: T4,T5
   - label: エ
     text: T3,T4,T5
+calculation: false
 figure: true
 answer: ウ
 category: T

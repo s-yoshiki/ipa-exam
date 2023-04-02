@@ -9,6 +9,7 @@ choice:
     text: 原子性
   - label: エ
     text: 耐久性
+calculation: false
 figure: false
 answer: イ
 category: T

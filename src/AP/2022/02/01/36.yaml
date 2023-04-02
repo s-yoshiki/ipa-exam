@@ -11,6 +11,7 @@ choice:
     text: 送信元IP アドレスを偽装した DNS 問合せを多数の DNS サーバに送ることによって, 攻撃対象のコンピュータに大量の応答を送る。
   - label: エ
     text: 誰でも電子メールの送信ができるメールサーバを踏み台にして, 電子メールの送信元アドレスを詐称したなりすましメールを大量に送信する。
+calculation: false
 figure: false
 answer: ウ
 category: T

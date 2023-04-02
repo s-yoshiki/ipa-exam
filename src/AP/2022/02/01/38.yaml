@@ -9,6 +9,7 @@ choice:
     text: OCSP
   - label: エ
     text: SNMP
+calculation: false
 figure: false
 answer: ウ
 category: T

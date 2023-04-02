@@ -9,6 +9,7 @@ choice:
     text: セグメンテーション
   - label: エ
     text: デューデリジェンス
+calculation: false
 figure: false
 answer: エ
 category: S

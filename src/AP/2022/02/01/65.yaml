@@ -9,6 +9,7 @@ choice:
     text: 複数の会社の見積りを比較検討して、委託先を選定する。
   - label: エ
     text: 部品調達のリスクが顕在化したときに備えて、対処するための計画を策定する。
+calculation: false
 figure: false
 answer: エ
 category: S

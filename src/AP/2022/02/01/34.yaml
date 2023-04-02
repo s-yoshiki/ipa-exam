@@ -9,6 +9,7 @@ choice:
     text: TCP
   - label: エ
     text: UDP
+calculation: false
 figure: false
 answer: エ
 category: T

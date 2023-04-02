@@ -10,6 +10,7 @@ choice:
     text: '25'
   - label: エ
     text: '26'
+calculation: false
 figure: false
 answer: エ
 category: M

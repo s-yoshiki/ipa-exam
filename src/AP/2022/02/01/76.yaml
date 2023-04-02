@@ -9,6 +9,7 @@ choice:
     text: 親和図法
   - label: エ
     text: ブレーンストーミング
+calculation: false
 figure: false
 answer: ウ
 category: S

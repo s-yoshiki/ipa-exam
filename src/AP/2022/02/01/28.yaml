@@ -11,6 +11,7 @@ choice:
     text: '4'
   - label: '-'
     text: '-'
+calculation: false
 figure: false
 answer: ウ
 category: T

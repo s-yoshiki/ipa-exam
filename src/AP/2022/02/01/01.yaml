@@ -9,6 +9,7 @@ choice:
     text: n^2
   - label: エ
     text: 2n-1
+calculation: false
 figure: false
 answer: イ
 category: T

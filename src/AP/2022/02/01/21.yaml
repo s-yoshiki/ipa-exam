@@ -9,6 +9,7 @@ choice:
     text: ダイオード
   - label: エ
     text: 抵抗器
+calculation: false
 figure: false
 answer: ウ
 category: T
