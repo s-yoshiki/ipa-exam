@@ -1,5 +1,12 @@
 "use strict";
 
+const getCategory = (s) => {
+  if (s === "Ｓ") return "S";
+  if (s === "Ｍ") return "M";
+  if (s === "Ｔ") return "T";
+  return s;
+};
+
 /**
  *
  * @param {String} arg OCRのテキストデータ
@@ -14,7 +21,11 @@ function main(arg) {
   const result = [];
   let count = 1;
   for (let i = 0; i < data.length; i += 3) {
-    const [label, ans, category] = [count++, data[i + 1], data[i + 2]];
+    const [label, ans, category] = [
+      count++,
+      data[i + 1].trim(),
+      getCategory(data[i + 2].trim()),
+    ];
     result.push({
       label,
       ans,
