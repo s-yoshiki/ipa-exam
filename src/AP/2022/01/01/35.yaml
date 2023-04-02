@@ -1,0 +1,16 @@
+label: '35'
+question: 'OpenFlow を使った SDN (Software-Defined Networking) に関する記述として、適切なものはどれか。'
+choice:
+  - label: ア
+    text: 'インターネットのドメイン名を管理する世界規模の分散データベースを用いて、IPアドレスの代わりに名前を指定して通信できるようにする仕組み'
+  - label: イ
+    text: '携帯電話網において、回線交換方式ではなく、パケット交換方式で音声通話を実現する方式'
+  - label: ウ
+    text: 'ストレージ装置とサーバを接続し、WWN (World Wide Name) によってノードやポートを識別するストレージ用ネットワーク'
+  - label: エ
+    text: 'データ転送機能とネットワーク制御機能を論理的に分離し、ネットワーク制御を集中的に行うことを可能にしたアーキテクチャ'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

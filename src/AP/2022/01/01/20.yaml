@@ -1,0 +1,16 @@
+label: '20'
+question: FPGAの説明として適切なものはどれか。 
+choice:
+  - label: ア
+    text: 電気的に記憶内容の書換えを行うことができる不揮発性メモリ
+  - label: イ
+    text: 特定の分野及びアプリケーション用に限定した特定用途向け汎用集積回路
+  - label: ウ
+    text: 浮動小数点数の演算を高速に実行する演算ユニット
+  - label: エ
+    text: 論理回路を基板上に実装した後で再プログラムできる集積回路
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

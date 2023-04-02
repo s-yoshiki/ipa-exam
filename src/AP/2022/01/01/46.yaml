@@ -1,0 +1,16 @@
+label: '46'
+question: モジュールの独立性の尺度であるモジュール結合度は、低いほど独立性が高くなる。次のうち、モジュールの独立性が最も高い結合はどれか。
+choice:
+  - label: ア
+    text: 外部結合
+  - label: イ
+    text: 共通結合
+  - label: ウ
+    text: スタンプ結合
+  - label: エ
+    text: データ結合
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

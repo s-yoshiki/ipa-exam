@@ -1,0 +1,16 @@
+label: '55'
+question: あるシステムにおけるデータ復旧の要件が次のとおりであるとき、データのバックアップは最長で何時間ごとに取得する必要があるか。
+choice:
+  - label: ア
+    text: '3'
+  - label: イ
+    text: '9'
+  - label: ウ
+    text: '12'
+  - label: エ
+    text: '15'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

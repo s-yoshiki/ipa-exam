@@ -1,0 +1,16 @@
+label: '11'
+question: 8Tバイトの磁気ディスク装置6台を、予備ディスク(ホットスペアディスク)1台込みのRAID5構成にした場合、実効データ容量は何Tバイトになるか。
+choice:
+  - label: ア
+    text: '24'
+  - label: イ
+    text: ''
+  - label: ウ
+    text: '40'
+  - label: エ
+    text: '48'
+calculation: true
+figure: false
+answer: ウ
+category: T
+figureText: ''

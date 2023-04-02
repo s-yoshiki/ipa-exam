@@ -1,0 +1,16 @@
+label: '40'
+question: 'Webブラウザのcookieに関する設定と、それによって期待される効果の記述のうち、最も適切なものはどれか。'
+choice:
+  - label: ア
+    text: 'サードパーティcookieをブロックする設定によって、当該Webブラウザが閲覧したWebサイトのコンテンツのキャッシュが保持されなくなり、閲覧したコンテンツが当該Webブラウザのほかの利用者に知られないようになる。'
+  - label: イ
+    text: 'サードパーティcookieをブロックする設定によって、当該Webブラウザが複数のWebサイトを閲覧したときにトラッキングされないようになる。'
+  - label: ウ
+    text: 'ファーストパーティcookieを承諾する設定によって、当該WebブラウザがWebサイトの改ざんをcookieのハッシュ値を用いて検知できるようになる。'
+  - label: エ
+    text: 'ファーストパーティcookieを承諾する設定によって、当該Webブラウザがデジタル証明書の失効情報を入手でき、閲覧中のWebサイトのデジタル証明書の有効性を確認できるようになる。'
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

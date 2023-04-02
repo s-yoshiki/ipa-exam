@@ -1,0 +1,16 @@
+label: '22'
+question: アクチュエータの説明として、適切なものはどれか。 
+choice:
+  - label: ア
+    text: 与えられた目標量と、センサから得られた制御量を比較し、制御量を目標量に一致させるように操作量を出力する。 
+  - label: イ
+    text: 位置、角度、速度、加速度、力、 温度などを検出し、電気的な情報に変換する。
+  - label: ウ
+    text: エネルギー源からのパワーを、回転、直進などの動きに変換する。
+  - label: エ
+    text: マイクロフォン、センサなどが出力する微小な電気信号を増幅する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

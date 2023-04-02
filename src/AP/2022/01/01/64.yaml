@@ -1,0 +1,16 @@
+label: '64'
+question: 'IT投資効果の評価方法において、キャッシュフローベースで初年度の投資によるキャッシュアウトを何年後に回収できるかという指標はどれか。'
+choice:
+  - label: ア
+    text: ROI (Return On Investment)
+  - label: イ
+    text: NPV (Net Present Value)
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: false
+answer: PBP (Pay Back Period)
+category: T
+figureText: ''

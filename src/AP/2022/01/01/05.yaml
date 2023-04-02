@@ -1,0 +1,16 @@
+label: '5'
+question: リストを配列で実現した場合の特徴として、適切なものはどれか。
+choice:
+  - label: ア
+    text: リストに実際の要素数に応じた領域を確保し、余分な領域が発生しないため効率的である。
+  - label: イ
+    text: リストの中間要素を参照するために要素数に比例した時間が必要である。
+  - label: ウ
+    text: リストにはポインタを用いることができず、配列で実現することはできない。
+  - label: エ
+    text: リストへの挿入位置が分かる場合にも、要素の挿入には要素数に比例した時間が必要である。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

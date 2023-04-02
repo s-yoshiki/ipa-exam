@@ -1,0 +1,16 @@
+label: '67'
+question: PPMにおいて、投資用の資金源として位置付けられる事業はどれか？
+choice:
+  - label: ア
+    text: 市場成長率が高く、相対的市場占有率が高い事業
+  - label: イ
+    text: 市場成長率が高く、相対的市場占有率が低い事業
+  - label: ウ
+    text: 市場成長率が低く、相対的市場占有率が高い事業
+  - label: エ
+    text: 市場成長率が低く、相対的市場占有率が低い事業
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

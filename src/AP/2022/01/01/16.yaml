@@ -1,0 +1,16 @@
+label: '16'
+question: ジョブ群と実行の条件が次のとおりであるとき、一時ファイルを作成する磁気ディスクに必要な容量は最低何Mバイトか。
+choice:
+  - label: ア
+    text: 100
+  - label: イ
+    text: 150
+  - label: ウ
+    text: 200
+  - label: '-'
+    text: '250'
+calculation: true
+figure: false
+answer: ウ
+category: T
+figureText: ''

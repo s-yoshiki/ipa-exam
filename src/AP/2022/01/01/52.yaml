@@ -1,0 +1,16 @@
+label: '52'
+question: プロジェクトのスケジュールを短縮するために、アクティビティに割り当てる資源を増やして、アクティビティの所要期間を短縮する技法はどれか。
+choice:
+  - label: ア
+    text: アクラッシング
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ファストトラッキング
+  - label: エ
+    text: エモンテカルロ法
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

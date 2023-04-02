@@ -1,0 +1,16 @@
+label: '79'
+question: A社とB社の間で業務委託契約があり、B社がA社の指揮命令に従って業務を行う場合、偽装請負とされるのはどのような場合か。
+choice:
+  - label: ア
+    text: A社の従業員が、B社を作業場所として、A社の責任者の指揮命令に従ってシステムの検証を行う。
+  - label: イ
+    text: A社の従業員が、B社を作業場所として、B社の責任者の指揮命令に従ってシステムの検証を行う。
+  - label: ウ
+    text: B社の従業員が、A社を作業場所として、A社の責任者の指揮命令に従って設計書を作成している。
+  - label: エ
+    text: B社の従業員が、A社を作業場所として、B社の責任者の指揮命令に従って設計書を作成している。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

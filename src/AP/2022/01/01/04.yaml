@@ -1,0 +1,13 @@
+label: '4'
+question: ハミング符号 1110011には1ビットの誤りが存在する。誤りビットを訂正したハミング符号はどれか。
+choice:
+  - label: ア
+    text: 0110011
+  - label: イ
+    text: 1010011
+  - label: ウ
+    text: 1100011
+  - label: H
+    text: 1110111
+answer: ア
+category: T

@@ -1,0 +1,16 @@
+label: '6'
+question: 再入可能プログラムの特徴はどれか。
+choice:
+  - label: ア
+    text: 主記憶上のどのアドレスから配置しても、実行することができる。
+  - label: イ
+    text: 手続の内部から自分自身を呼び出すことができる。
+  - label: ウ
+    text: 必要な部分を補助記憶装置から読み込みながら動作する。主記憶領域の大きさに制限があるときに、有効な手法である。
+  - label: エ
+    text: 複数のタスクからの呼出しに対して、並行して実行されても、それぞれのタスクに正しい結果を返す。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

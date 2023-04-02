@@ -1,0 +1,16 @@
+label: '26'
+question: CAP 定理におけるAとPの特性をもつ分散システムの説明として、適切なものはどれか。
+choice:
+  - label: ア
+    text: 可用性と整合性と分断耐性の全てを満たすことができる。
+  - label: イ
+    text: 可用性と整合性を満たすが分断耐性を満たさない。
+  - label: ウ
+    text: 可用性と分断耐性を満たすが整合性を満たさない。
+  - label: エ
+    text: 整合性と分断耐性を満たすが可用性を満たさない。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

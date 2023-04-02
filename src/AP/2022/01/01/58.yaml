@@ -1,0 +1,16 @@
+label: '58'
+question: 事業継続計画(BCP) について監査を実施した結果、 適切な状況と判断されるもの はどれか。 
+choice:
+  - label: ア
+    text: 従業員の緊急連絡先リストを作成し, 最新版に更新している。 
+  - label: イ
+    text: 重要書類は複製せずに, 1か所で集中保管している。 
+  - label: ウ
+    text: 全ての業務について, 優先順位なしに同一水準のBCP を策定している。 
+  - label: エ
+    text: 平時には BCP を従業員に非公開としている。 
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''
