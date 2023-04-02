@@ -1,6 +1,5 @@
 data:
-  year: 2022
-  name: 秋期
+  name: 春期
   part:
     - label: 午前
       link: '01'

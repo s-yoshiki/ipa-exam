@@ -1,0 +1,7 @@
+data:
+  name: 秋期
+  part:
+    - label: 午前
+      link: '01'
+    - label: 午後
+      link: '02'
