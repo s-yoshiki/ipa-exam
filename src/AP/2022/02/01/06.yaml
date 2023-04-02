@@ -1,16 +1,15 @@
-questions:
-  - label: '6'
-    question: 未整列の配列 A[i] (i=1, 2, ..., n) を、次の流れ図によって整列する。ここで用いられる整列アルゴリズムはどれか。
-    choice:
-      - label: ア
-        text: クイックソート
-      - label: イ
-        text: 選択ソート
-      - label: ウ
-        text: 挿入ソート
-      - label: エ
-        text: バブルソート
-    figure: true
-    answer: エ
-    category: T
-    figureText: ''
+label: '6'
+question: 未整列の配列 A[i] (i=1, 2, ..., n) を、次の流れ図によって整列する。ここで用いられる整列アルゴリズムはどれか。
+choice:
+  - label: ア
+    text: クイックソート
+  - label: イ
+    text: 選択ソート
+  - label: ウ
+    text: 挿入ソート
+  - label: エ
+    text: バブルソート
+figure: true
+answer: エ
+category: T
+figureText: ''

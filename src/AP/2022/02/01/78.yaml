@@ -1,17 +1,16 @@
-questions:
-  - label: '78'
-    question: >-
-      A社がB社に委託した顧客管理システムの開発において、B社は要件定義を行った上で、ソフトウェア設計・プログラミング・ソフトウェアテストまでを、協力会社であるC社に委託した。C社の社員がその作業を担当した場合、開発したプログラムの著作権はどこに帰属するか。なお、関係者の間には著作権の帰属に関する特段の取決めはないものとする。
-    choice:
-      - label: ア
-        text: A社
-      - label: イ
-        text: B社
-      - label: ウ
-        text: C社
-      - label: エ
-        text: 社員D
-    figure: false
-    answer: ウ
-    category: S
-    figureText: ''
+label: '78'
+question: >-
+  A社がB社に委託した顧客管理システムの開発において、B社は要件定義を行った上で、ソフトウェア設計・プログラミング・ソフトウェアテストまでを、協力会社であるC社に委託した。C社の社員がその作業を担当した場合、開発したプログラムの著作権はどこに帰属するか。なお、関係者の間には著作権の帰属に関する特段の取決めはないものとする。
+choice:
+  - label: ア
+    text: A社
+  - label: イ
+    text: B社
+  - label: ウ
+    text: C社
+  - label: エ
+    text: 社員D
+figure: false
+answer: ウ
+category: S
+figureText: ''

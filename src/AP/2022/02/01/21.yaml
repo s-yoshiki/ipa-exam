@@ -1,16 +1,15 @@
-questions:
-  - label: '21'
-    question: 次の電子部品のうち、整流作用をもつ素子はどれか。
-    choice:
-      - label: ア
-        text: コイル
-      - label: イ
-        text: コンデンサ
-      - label: ウ
-        text: ダイオード
-      - label: エ
-        text: 抵抗器
-    figure: false
-    answer: ウ
-    category: T
-    figureText: ''
+label: '21'
+question: 次の電子部品のうち、整流作用をもつ素子はどれか。
+choice:
+  - label: ア
+    text: コイル
+  - label: イ
+    text: コンデンサ
+  - label: ウ
+    text: ダイオード
+  - label: エ
+    text: 抵抗器
+figure: false
+answer: ウ
+category: T
+figureText: ''

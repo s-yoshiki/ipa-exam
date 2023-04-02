@@ -1,16 +1,15 @@
-questions:
-  - label: '31'
-    question: IPアドレスの自動設定をするために DHCP サーバが設置された LAN環境の説明のうち、適切なものはどれか。
-    choice:
-      - label: ア
-        text: DHCPによる自動設定を行うPCでは、IPアドレスは自動設定できるが、サブネットマスクやデフォルトゲートウェイアドレスは自動設定できない。
-      - label: イ
-        text: DHCPによる自動設定を行うPCと、IPアドレスが固定のPCを混在させることはできない。
-      - label: ウ
-        text: DHCPによる自動設定を行うPCにDHCPサーバのアドレスを設定しておく必要はない。
-      - label: エ
-        text: 一度IPアドレスを割り当てられたPCは、その後電源が切られた期間があっても必ず同じIPアドレスを割り当てられる。
-    figure: false
-    answer: ウ
-    category: T
-    figureText: ''
+label: '31'
+question: IPアドレスの自動設定をするために DHCP サーバが設置された LAN環境の説明のうち、適切なものはどれか。
+choice:
+  - label: ア
+    text: DHCPによる自動設定を行うPCでは、IPアドレスは自動設定できるが、サブネットマスクやデフォルトゲートウェイアドレスは自動設定できない。
+  - label: イ
+    text: DHCPによる自動設定を行うPCと、IPアドレスが固定のPCを混在させることはできない。
+  - label: ウ
+    text: DHCPによる自動設定を行うPCにDHCPサーバのアドレスを設定しておく必要はない。
+  - label: エ
+    text: 一度IPアドレスを割り当てられたPCは、その後電源が切られた期間があっても必ず同じIPアドレスを割り当てられる。
+figure: false
+answer: ウ
+category: T
+figureText: ''

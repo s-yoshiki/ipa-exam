@@ -1,16 +1,15 @@
-questions:
-  - label: '51'
-    question: プロジェクトマネジメントにおけるスコープの管理の活動はどれか。
-    choice:
-      - label: ア
-        text: 開発ツールの教育期間を延長する
-      - label: イ
-        text: 追加予算を確保する
-      - label: ウ
-        text: 外部システムとの連携に関わる作業を別プロジェクトにする
-      - label: エ
-        text: テスト担当者を交代する
-    figure: false
-    answer: ウ
-    category: M
-    figureText: ''
+label: '51'
+question: プロジェクトマネジメントにおけるスコープの管理の活動はどれか。
+choice:
+  - label: ア
+    text: 開発ツールの教育期間を延長する
+  - label: イ
+    text: 追加予算を確保する
+  - label: ウ
+    text: 外部システムとの連携に関わる作業を別プロジェクトにする
+  - label: エ
+    text: テスト担当者を交代する
+figure: false
+answer: ウ
+category: M
+figureText: ''

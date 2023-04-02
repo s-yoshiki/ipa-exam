@@ -1,34 +1,33 @@
-questions:
-  - label: '29'
-    question: >-
-      チェックポイントを取得する DBMSにおいて、図のような時間経過でシステム障害が発生した。前進復帰 (ロールフォワード)
-      によって障害回復できるトランザクションだけを全て挙げたものはどれか。
-    choice:
-      - label: ア
-        text: T1
-      - label: イ
-        text: T2,T3
-      - label: ウ
-        text: T4,T5
-      - label: エ
-        text: T3,T4,T5
-    figure: true
-    answer: ウ
-    category: T
-    figureText: |-
-      ```
-      # チェックポイント
-      開始 T1 コミット
-      開始 T2
-      開始 T3
-      開始 T4
-      コミット
-      開始 T5 コミット
+label: '29'
+question: >-
+  チェックポイントを取得する DBMSにおいて、図のような時間経過でシステム障害が発生した。前進復帰 (ロールフォワード)
+  によって障害回復できるトランザクションだけを全て挙げたものはどれか。
+choice:
+  - label: ア
+    text: T1
+  - label: イ
+    text: T2,T3
+  - label: ウ
+    text: T4,T5
+  - label: エ
+    text: T3,T4,T5
+figure: true
+answer: ウ
+category: T
+figureText: |-
+  ```
+  # チェックポイント
+  開始 T1 コミット
+  開始 T2
+  開始 T3
+  開始 T4
+  コミット
+  開始 T5 コミット
 
-      # システム障害発生
+  # システム障害発生
 
-      # 前進復帰 (ロールフォワード) によって障害回復できるトランザクションだけ
-      - T3
-      - T4
-      - T5
-      ```
+  # 前進復帰 (ロールフォワード) によって障害回復できるトランザクションだけ
+  - T3
+  - T4
+  - T5
+  ```

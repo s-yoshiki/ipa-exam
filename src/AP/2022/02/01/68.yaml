@@ -1,16 +1,15 @@
-questions:
-  - label: '68'
-    question: ターゲットリターン価格設定の説明はどれか。
-    choice:
-      - label: ア
-        text: 競合の価格を十分に考慮した上で価格を決定する。
-      - label: イ
-        text: 顧客層、時間帯、場所など市場セグメントごとに異なった価格を決定する。
-      - label: ウ
-        text: 目標とする投資収益率を実現するように価格を決定する。
-      - label: エ
-        text: リサーチなどによる消費者の値頃感に基づいて価格を決定する。
-    figure: false
-    answer: ウ
-    category: S
-    figureText: ''
+label: '68'
+question: ターゲットリターン価格設定の説明はどれか。
+choice:
+  - label: ア
+    text: 競合の価格を十分に考慮した上で価格を決定する。
+  - label: イ
+    text: 顧客層、時間帯、場所など市場セグメントごとに異なった価格を決定する。
+  - label: ウ
+    text: 目標とする投資収益率を実現するように価格を決定する。
+  - label: エ
+    text: リサーチなどによる消費者の値頃感に基づいて価格を決定する。
+figure: false
+answer: ウ
+category: S
+figureText: ''

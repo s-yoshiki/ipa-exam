@@ -1,16 +1,15 @@
-questions:
-  - label: '35'
-    question: 次の URL に対し, 受理する Web サーバのポート番号 (8080) を指定できる箇所はどれか。
-    choice:
-      - label: ア
-        text: アクエリ文字列 (id=user) の直後
-      - label: イ
-        text: イスキーム (https) の直後
-      - label: ウ
-        text: ウパス (/member/login) の直後
-      - label: エ
-        text: ホスト名 (www.example.com) の直後
-    figure: false
-    answer: エ
-    category: T
-    figureText: ''
+label: '35'
+question: 次の URL に対し, 受理する Web サーバのポート番号 (8080) を指定できる箇所はどれか。
+choice:
+  - label: ア
+    text: アクエリ文字列 (id=user) の直後
+  - label: イ
+    text: イスキーム (https) の直後
+  - label: ウ
+    text: ウパス (/member/login) の直後
+  - label: エ
+    text: ホスト名 (www.example.com) の直後
+figure: false
+answer: エ
+category: T
+figureText: ''

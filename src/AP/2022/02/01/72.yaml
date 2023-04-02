@@ -1,16 +1,15 @@
-questions:
-  - label: '72'
-    question: 構成表の製品 A を300個出荷しようとするとき、部品 b の正味所要量は何個か。
-    choice:
-      - label: '200'
-        text: '200'
-      - label: '600'
-        text: '600'
-      - label: '900'
-        text: '900'
-      - label: 1,500
-        text: 1,500
-    figure: false
-    answer: イ
-    category: S
-    figureText: ''
+label: '72'
+question: 構成表の製品 A を300個出荷しようとするとき、部品 b の正味所要量は何個か。
+choice:
+  - label: '200'
+    text: '200'
+  - label: '600'
+    text: '600'
+  - label: '900'
+    text: '900'
+  - label: 1,500
+    text: 1,500
+figure: false
+answer: イ
+category: S
+figureText: ''

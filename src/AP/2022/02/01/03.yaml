@@ -1,18 +1,17 @@
-questions:
-  - label: '3'
-    question: >-
-      製品
-      100個を1ロットとして生産する。一つのロットからサンプルを3個抽出して検査し、3個とも良品であればロット全体を合格とする。100個中に10個の不良品を含むロットが合格と判定される確率はどれか。
-    choice:
-      - label: ア
-        text: '178'
-      - label: イ
-        text: '405'
-      - label: ウ
-        text: '89'
-      - label: エ
-        text: '245'
-    figure: false
-    answer: ア
-    category: T
-    figureText: ''
+label: '3'
+question: >-
+  製品
+  100個を1ロットとして生産する。一つのロットからサンプルを3個抽出して検査し、3個とも良品であればロット全体を合格とする。100個中に10個の不良品を含むロットが合格と判定される確率はどれか。
+choice:
+  - label: ア
+    text: '178'
+  - label: イ
+    text: '405'
+  - label: ウ
+    text: '89'
+  - label: エ
+    text: '245'
+figure: false
+answer: ア
+category: T
+figureText: ''

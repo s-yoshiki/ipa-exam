@@ -1,16 +1,15 @@
-questions:
-  - label: '20'
-    question: アクチュエーターの機能として、適切なものはどれか。
-    choice:
-      - label: ア
-        text: アナログ電気信号を、コンピュータが処理可能なデジタル信号に変える。
-      - label: イ
-        text: キーボード、タッチパネルなどに使用され、コンピュータに情報を入力する。
-      - label: ウ
-        text: コンピュータが出力した電気信号を力学的な運動に変える。
-      - label: エ
-        text: 物理量を検出して、電気信号に変える。
-    figure: false
-    answer: ウ
-    category: T
-    figureText: ''
+label: '20'
+question: アクチュエーターの機能として、適切なものはどれか。
+choice:
+  - label: ア
+    text: アナログ電気信号を、コンピュータが処理可能なデジタル信号に変える。
+  - label: イ
+    text: キーボード、タッチパネルなどに使用され、コンピュータに情報を入力する。
+  - label: ウ
+    text: コンピュータが出力した電気信号を力学的な運動に変える。
+  - label: エ
+    text: 物理量を検出して、電気信号に変える。
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,17 +1,16 @@
-questions:
-  - label: '77'
-    question: >-
-      表の製品甲と乙とを製造販売するとき、年間の最大営業利益は何千円か。ここで、甲と乙の製造には同一の機械が必要であり、機械の年間使用可能時間は延べ10,000時間、年間の固定費総額は10,000千円とする。また、甲と乙の製造に関して、機械の使用時間以外の制約条件はないものとする。
-    choice:
-      - label: ア
-        text: 2,000
-      - label: イ
-        text: 3,750
-      - label: ウ
-        text: 4,750
-      - label: エ
-        text: 6,150
-    figure: false
-    answer: イ
-    category: S
-    figureText: ''
+label: '77'
+question: >-
+  表の製品甲と乙とを製造販売するとき、年間の最大営業利益は何千円か。ここで、甲と乙の製造には同一の機械が必要であり、機械の年間使用可能時間は延べ10,000時間、年間の固定費総額は10,000千円とする。また、甲と乙の製造に関して、機械の使用時間以外の制約条件はないものとする。
+choice:
+  - label: ア
+    text: 2,000
+  - label: イ
+    text: 3,750
+  - label: ウ
+    text: 4,750
+  - label: エ
+    text: 6,150
+figure: false
+answer: イ
+category: S
+figureText: ''
