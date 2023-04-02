@@ -1,0 +1,15 @@
+questions:
+  - label: '22'
+    question: フラッシュメモリの特徴として、適切なものはどれか。
+    choice:
+      - label: ア
+        text: 書込み回数は無制限である。
+      - label: イ
+        text: 書き込み時は回路基板から外して、専用のROMライターで書き込まなければならない。
+      - label: ウ
+        text: 定期的にリフレッシュしないと、データが失われる。
+      - label: エ
+        text: データ書換え時には、あらかじめ前のデータを消去してから書込みを行う。
+    inferredFigure: ''
+    figure: false
+    answer: イ

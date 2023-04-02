@@ -1,0 +1,15 @@
+questions:
+  - label: '80'
+    question: ソフトウェアやデータに欠陥がある場合に、製造物責任法の対象となるものはどれか。
+    choice:
+      - label: ア
+        text: ROM化したソフトウェアを内蔵した組込み機器
+      - label: イ
+        text: アプリケーションソフトウェアパッケージ
+      - label: ウ
+        text: 利用者がPCにインストールしたOS
+      - label: エ
+        text: 利用者によってネットワークからダウンロードされたデータ
+    inferredFigure: ''
+    figure: false
+    answer: ア

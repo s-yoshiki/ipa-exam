@@ -1,0 +1,24 @@
+
+tasks:
+  - task: FE
+    name: 基本情報技術者試験
+  - task: AP
+    name: 応用情報技術者試験
+  - task: ST
+    name: ITストラテジスト試験
+  - task: SA
+    name: システムアーキテクト試験
+  - task: NW
+    name: ネットワークスペシャリスト試験
+  - task: SM
+    name: ITサービスマネージャ試験
+  - task: PM
+    name: プロジェクトマネージャ試験
+  - task: DB
+    name: データベーススペシャリスト試験
+  - task: ES
+    name: エンベデッドシステムスペシャリスト試験
+  - task: AU
+    name: システム監査技術者試験
+  - task: SC
+    name: 情報処理安全確保支援士試験

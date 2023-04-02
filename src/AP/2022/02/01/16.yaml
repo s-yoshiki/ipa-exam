@@ -1,0 +1,15 @@
+questions:
+  - label: '16'
+    question: 二つのタスクが共用する二つの資源を排他的に使用するとき, デッドロックが発生するおそれがある。このデッドロックの発生を防ぐ方法はどれか。
+    choice:
+      - label: ア
+        text: 一方のタスクの優先度を高くする。
+      - label: イ
+        text: 資源獲得の順序を両方のタスクで同じにする。
+      - label: ウ
+        text: 資源獲得の順序を両方のタスクで逆にする。
+      - label: エ
+        text: 両方のタスクの優先度を同じにする。
+    inferredFigure: ''
+    figure: false
+    answer: イ

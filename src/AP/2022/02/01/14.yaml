@@ -1,0 +1,15 @@
+questions:
+  - label: '14'
+    question: あるシステムにおいて、MTBFとMTTRがともに1.5倍になったとき、アベイラビリティ（稼働率）は何倍になるか。
+    choice:
+      - label: ア
+        text: 2/3
+      - label: イ
+        text: '1.5'
+      - label: ウ
+        text: '2.25'
+      - label: エ
+        text: 変わらない
+    inferredFigure: ''
+    figure: false
+    answer: イ

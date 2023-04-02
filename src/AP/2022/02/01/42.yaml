@@ -1,0 +1,15 @@
+questions:
+  - label: '42'
+    question: WAF による防御が有効な攻撃として、最も適切なものはどれか。
+    choice:
+      - label: ア
+        text: DNS サーバに対する DNS キャッシュポイズニング
+      - label: イ
+        text: REST API サービスに対するAPI の脆弱性を狙った攻撃
+      - label: ウ
+        text: SMTP サーバの第三者不正中継の脆弱性を悪用したフィッシングメールの配信
+      - label: ヘ
+        text: 電子メールサービスに対する電子メール爆弾
+    inferredFigure: ''
+    figure: false
+    answer: イ

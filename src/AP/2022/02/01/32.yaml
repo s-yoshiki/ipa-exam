@@ -1,0 +1,15 @@
+questions:
+  - label: '32'
+    question: TCP/IP ネットワークで、 データ転送用と制御用とに異なるウェルノウンポート番号が割り当てられているプロトコルはどれか。
+    choice:
+      - label: ア
+        text: FTP
+      - label: イ
+        text: POP3
+      - label: ウ
+        text: SMTP
+      - label: エ
+        text: SNMP
+    inferredFigure: ''
+    figure: false
+    answer: ウ

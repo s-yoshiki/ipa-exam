@@ -1,0 +1,14 @@
+questions:
+  - label: '56'
+    question: >-
+      あるサービスデスクで、1日3交替のシフト制で勤務している要員を勤務表及び勤務条件に従って労働時間を制限すると、少なくとも1週間に何人以上の要員が必要となるか。
+    choice:
+      - label: ア
+        text: '8'
+      - label: イ
+        text: '11'
+      - label: ウ
+        text: '12'
+    inferredFigure: ''
+    figure: false
+    answer: イ
