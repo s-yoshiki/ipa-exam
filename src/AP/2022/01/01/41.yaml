@@ -11,6 +11,6 @@ choice:
     text: 利用者IDなどの情報をWebサーバに送信するのは、利用者のPCではなく、リバースプロキシサーバである。
 calculation: false
 figure: false
-answer: ア
+answer: エ
 category: T
 figureText: ''

@@ -11,6 +11,6 @@ choice:
     text: 複数のタスクからの呼出しに対して、並行して実行されても、それぞれのタスクに正しい結果を返す。
 calculation: false
 figure: false
-answer: ア
+answer: エ
 category: T
 figureText: ''

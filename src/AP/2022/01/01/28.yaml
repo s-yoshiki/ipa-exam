@@ -11,6 +11,6 @@ choice:
     text: 第1正規形、第3正規形は満たされているが、第2正規形の特徴が満たされていない。
 calculation: false
 figure: false
-answer: ブ # ア, イ, ウ, エの中から正答と思われる選択肢を記載
+answer: ウ
 category: T
 figureText: ''

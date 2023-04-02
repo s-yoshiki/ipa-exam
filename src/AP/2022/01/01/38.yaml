@@ -11,6 +11,6 @@ choice:
     text: 利用者が入力したパスワードと, サーバから受け取ったランダムなデータとをクライアントで演算し、その結果をサーバに送信して, サーバで検証する。
 calculation: false
 figure: false
-answer: ウ
+answer: エ
 category: T
 figureText: ''

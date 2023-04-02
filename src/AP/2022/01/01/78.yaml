@@ -11,6 +11,6 @@ choice:
     text: '不正アクセスの目的で、不正に入手した他人の利用者IDとパスワードをPCに保管する。'
 calculation: false
 figure: false
-answer: イ
+answer: ア
 category: T
 figureText: ''

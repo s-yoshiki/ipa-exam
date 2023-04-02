@@ -11,6 +11,6 @@ choice:
     text: リストへの挿入位置が分かる場合にも、要素の挿入には要素数に比例した時間が必要である。
 calculation: false
 figure: false
-answer: イ
+answer: ア
 category: T
 figureText: ''

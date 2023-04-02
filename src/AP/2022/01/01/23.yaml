@@ -11,6 +11,6 @@ choice:
     text: 内部メモリの物理アドレスを整然と配置する。
 calculation: false
 figure: false
-answer: ア
+answer: ウ
 category: T
 figureText: ''

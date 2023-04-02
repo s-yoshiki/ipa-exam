@@ -11,6 +11,6 @@ choice:
     text: 平均サービス回復時間
 calculation: false
 figure: false
-answer: イ
+answer: エ
 category: M
 figureText: ''

@@ -11,6 +11,6 @@ choice:
     text: '地震などの大規模災害時であっても,144時間以内にシステムを復旧できること'
 calculation: false
 figure: false
-answer: ア # ア、イ、ウ、エの中から正答と思われる選択肢を記載
+answer: ア
 category: T
 figureText: ''

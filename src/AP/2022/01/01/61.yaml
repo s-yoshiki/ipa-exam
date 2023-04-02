@@ -9,6 +9,6 @@ choice:
     text: '特権的アクセスのログはあまり重要ではないので、分析対象から除外する。保管したログは、情報セキュリティインシデントが発生した場合にだけ分析し、分析結果に応じて必要な対策を講じる。'
 calculation: false
 figure: false
-answer: 'イ'
+answer: 'ア'
 category: T
 figureText: ''

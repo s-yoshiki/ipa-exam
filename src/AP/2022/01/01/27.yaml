@@ -11,6 +11,6 @@ choice:
     text: データの冗長性を排除し、更新の一貫性と効率性を保持するための正規化
 calculation: false
 figure: false
-answer: ウ
+answer: ア
 category: T
 figureText: ''
