@@ -1,5 +1,7 @@
 label: '2'
-question: '全体集合S 内に異なる部分集合AとBがあるとき, And に等しいものはどれか。ここで, AUB はAとBの和集合, AnBはAとBの積集合, ĀはSにおけるAの補集合,A-BはAからBを除いた差集合を表す。'
+question: >-
+  全体集合S 内に異なる部分集合AとBがあるとき, And に等しいものはどれか。ここで, AUB はAとBの和集合, AnBはAとBの積集合,
+  ĀはSにおけるAの補集合,A-BはAからBを除いた差集合を表す。
 choice:
   - label: ア
     text: A-B

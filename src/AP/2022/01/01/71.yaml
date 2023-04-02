@@ -1,5 +1,5 @@
 label: '71'
-question: 'XBRLで主要な取扱いの対象とされている情報はどれか。'
+question: XBRLで主要な取扱いの対象とされている情報はどれか。
 choice:
   - label: ア
     text: 医療機関のカルテ情報
@@ -8,7 +8,7 @@ choice:
   - label: ウ
     text: 企業の財務情報
   - label: エ
-    text:
+    text: null
 calculation: false
 figure: false
 answer: ウ

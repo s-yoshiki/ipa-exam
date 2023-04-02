@@ -9,8 +9,8 @@ choice:
     text: 思考発話法とヒューリスティック評価法
   - label: エ
     text: 認知的ウォークスルー法とヒューリスティック評価法
-answer: ウ
-category: T
 calculation: false
 figure: false
+answer: ウ
+category: T
 figureText: ''

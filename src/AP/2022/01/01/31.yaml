@@ -1,14 +1,14 @@
 label: '31'
-question: 'IPv6アドレスの表記として、適切なものはどれか。'
+question: IPv6アドレスの表記として、適切なものはどれか。
 choice:
   - label: ア
-    text: '2001:db8::3ab::ff01'
+    text: 2001:db8::3ab::ff01
   - label: イ
-    text: '2001:db8:3ab:ff01'
+    text: 2001:db8:3ab:ff01
   - label: ウ
-    text: '2001:db8.3ab:ff01'
+    text: 2001:db8.3ab:ff01
   - label: エ
-    text: '2001.db8.3ab.ff01'
+    text: 2001.db8.3ab.ff01
 calculation: false
 figure: false
 answer: イ
