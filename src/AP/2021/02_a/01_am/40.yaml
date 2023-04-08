@@ -12,6 +12,6 @@ choice:
       IoTデバイスにメモリカードリーダを実装して、IoTデバイスの故障時にはメモリカードをIoTデバイスの予備機に差し替えることによって、IoTデバイスを復旧できる。
 calculation: false
 figure: false
-answer: ウ
+answer: ア
 category: T
 figureText: ''

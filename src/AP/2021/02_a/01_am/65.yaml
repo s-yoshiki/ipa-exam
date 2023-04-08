@@ -11,6 +11,6 @@ choice:
     text: 要件定義との整合性を図り,利用者と開発要員及び運用要員の共有物とするために,業務処理の概要, 入出力情報の一覧, データフローなどをまとめた文書
 calculation: false
 figure: false
-answer: ウ
-category: M
+answer: エ
+category: S
 figureText: ''

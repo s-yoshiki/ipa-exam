@@ -11,6 +11,6 @@ choice:
     text: 複数のサーバに一つの表が重複して存在しても, プログラムは表の重複を意識する必要がない。
 calculation: false
 figure: false
-answer: ウ
+answer: イ
 category: T
 figureText: ''

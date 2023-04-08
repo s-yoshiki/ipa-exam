@@ -11,6 +11,6 @@ choice:
     text: 赤外線でデータ通信する。
 calculation: false
 figure: false
-answer: ア
+answer: エ
 category: T
 figureText: ''

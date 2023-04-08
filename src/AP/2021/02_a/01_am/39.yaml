@@ -13,8 +13,8 @@ choice:
     text: 利用者の行動と意図した結果とが一貫性をもつ。
 calculation: false
 figure: false
-answer: ア
-category: M
+answer: ウ
+category: T
 figureText: ''
 comment: |
   否認防止の特性に関する説明は「ある利用者があるシステムを利用したという事実が証明可能である」になります。

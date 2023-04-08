@@ -28,8 +28,8 @@ choice:
     text: MBO (Management by Objectives) の導入
 calculation: false
 figure: true
-answer: ア
-category: M
+answer: ウ
+category: S
 figureText: >-
   ```plantuml (*) -down-> "a"  "a" -down-> "b"  "b" -down-> "c"  "c" -down->
   "(*)"  ```

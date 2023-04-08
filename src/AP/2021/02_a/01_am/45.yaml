@@ -14,6 +14,6 @@ choice:
     text: 定期的にソフトウェアをアップデートする機器に対して,情報ネットワークから入手したアップデートソフトウェアを提供するパッチ管理サーバ
 calculation: false
 figure: false
-answer: イ
+answer: ウ
 category: T
 figureText: ''

@@ -11,6 +11,6 @@ choice:
     text: プロジェクトのパフォーマンスや進捗状況を評価して, プロジェクトの継続や中止を判断する。
 calculation: false
 figure: false
-answer: エ
+answer: ア
 category: M
 figureText: ''

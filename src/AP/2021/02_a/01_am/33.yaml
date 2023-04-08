@@ -12,6 +12,6 @@ choice:
     text: 送信元のポート番号と送信元のIPアドレス
 calculation: false
 figure: false
-answer: ア
+answer: エ
 category: T
 figureText: ''

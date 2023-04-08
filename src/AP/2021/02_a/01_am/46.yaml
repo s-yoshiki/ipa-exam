@@ -11,6 +11,6 @@ choice:
     text: エデータをエンティティ、関連及び属性の三つの構成要素でモデル化したものであり、業務で扱うエンティティの相互関係を示すことができる。
 calculation: false
 figure: false
-answer: イ
+answer: ウ
 category: T
 figureText: ''

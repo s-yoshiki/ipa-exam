@@ -2,15 +2,15 @@ label: 10
 question: USB Type-Cのプラグ側コネクタの断面図はどれか。ここで、図の縮尺は同一ではない。
 choice:
   - label: ア
-    text: 
+    text: null
   - label: イ
-    text: 
+    text: null
   - label: ウ
-    text: 
+    text: null
   - label: エ
-    text: 
+    text: null
 calculation: false
 figure: true
-answer: ア
+answer: イ
 category: T
 figureText: 上から見た図、プラグ側の幅をア表示、長さをウ表示、厚みをイ表示、刻印部分の形状の違いを示すためにHを示している。

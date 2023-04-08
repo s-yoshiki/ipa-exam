@@ -11,6 +11,6 @@ choice:
     text: 問題を特定するために、インシデントのデータ及び傾向を分析する。
 calculation: false
 figure: false
-answer: ア
+answer: エ
 category: M
 figureText: ''

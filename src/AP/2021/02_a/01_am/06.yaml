@@ -17,6 +17,6 @@ choice:
     text: 再配置可能なプログラムは、実行の度に領域を再度割り当てることができるため、再配置可能であるが、問題文で求められた特性とは異なるため、不適切である。
 calculation: false
 figure: false
-answer: ウ
+answer: エ
 category: T
 figureText: ''

@@ -11,6 +11,6 @@ choice:
     text: 主記憶のバックアップとして, 主記憶の内容を格納する。
 calculation: false
 figure: false
-answer: ア
+answer: エ
 category: T
 figureText: ''

@@ -11,7 +11,7 @@ choice:
     text: 750
   - label: エ
     text: 1,200
-answer: イ
+answer: ア
 calculation: true
 category: T
 figureText: ''

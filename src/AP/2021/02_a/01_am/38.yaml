@@ -12,6 +12,6 @@ choice:
     text: 脆弱性の対応状況をJVNに書き込み、公表する。
 calculation: false
 figure: false
-answer: ウ
-category: M
+answer: イ
+category: T
 figureText: ''

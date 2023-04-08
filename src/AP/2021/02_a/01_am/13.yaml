@@ -11,6 +11,6 @@ choice:
     text: 動作中の機械から一定の範囲内に人間が立ち入ったことをセンサが感知したとき、機械の動作を停止させる仕組み
 calculation: false
 figure: false
-answer: エ
+answer: ウ
 category: T
 figureText: ''

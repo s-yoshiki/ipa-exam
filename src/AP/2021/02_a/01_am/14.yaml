@@ -12,6 +12,6 @@ choice:
     text: ホストOSで仮想化ソフトウェアを動かし、その上で複数のゲストOSを稼働させるので、物理サーバにアクセスするにはホストOSを経由する必要がある。
 calculation: false
 figure: false
-answer: ア
+answer: エ
 category: T
 figureText: ''

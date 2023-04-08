@@ -1,5 +1,7 @@
 label: 4
-question: 図のように 16 ビットのデータを 4×4 の正方形状に並べ、 行と列にパリティビットを付加することによって何ビットまでの誤りを訂正できるか。 ここで,図の網掛け 部分はパリティビットを表す。
+question: >-
+  図のように 16 ビットのデータを 4×4 の正方形状に並べ、 行と列にパリティビットを付加することによって何ビットまでの誤りを訂正できるか。
+  ここで,図の網掛け 部分はパリティビットを表す。
 choice:
   - label: ア
     text: 4ビット
@@ -11,6 +13,6 @@ choice:
     text: 8ビット
 calculation: false
 figure: false
-answer: ウ
+answer: ア
 category: T
-figureText: ""
+figureText: ''

@@ -54,7 +54,7 @@ choice:
              |___太線の四角形
 calculation: false
 figure: true
-answer: イ
+answer: ア
 category: T
 figureText: |
   ```mermaid

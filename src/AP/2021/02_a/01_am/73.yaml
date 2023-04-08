@@ -11,6 +11,6 @@ choice:
     text: 周りの環境から微小なエネルギーを収穫して、電力に変換する。
 calculation: false
 figure: false
-answer: ア
-category: T
+answer: エ
+category: S
 figureText: ''

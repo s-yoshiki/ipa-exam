@@ -20,6 +20,6 @@ choice:
     text: エレイトレーシングは、形状が定義された物体の表面に、別に定義された模様を張り付けて画像を作成する。
 calculation: false
 figure: false
-answer: イ
+answer: ウ
 category: T
 figureText: ''

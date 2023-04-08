@@ -11,6 +11,6 @@ choice:
     text: システムが一定時間異常であった場合、上位の管理プログラムを呼び出す。
 calculation: false
 figure: false
-answer: ア
+answer: エ
 category: T
 figureText: ''

@@ -12,6 +12,6 @@ choice:
     text: プロダクトバックログの優先順位を決定する。
 calculation: false
 figure: false
-answer: イ
-category: M
+answer: エ
+category: T
 figureText: ''
