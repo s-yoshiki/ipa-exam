@@ -1,0 +1,17 @@
+label: 79
+question: >-
+  企業が、「特定電子メールの送信の適正化等に関する法律」に定められた特定電子メールに該当する広告宣伝メールを送信する場合に関する記述のうち、適切なものはどれか。
+choice:
+  - label: ア
+    text: SMSで送信する場合はオプトアウト方式を利用する。
+  - label: イ
+    text: オプトイン方式、オプトアウト方式のいずれかを企業が自ら選択する。
+  - label: ウ
+    text: 原則としてオプトアウト方式を利用する。
+  - label: エ
+    text: 原則としてオプトイン方式を利用する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

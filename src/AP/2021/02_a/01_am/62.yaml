@@ -1,0 +1,35 @@
+label: 62
+question: |-
+  物流業務において、10%の物流コストの削減の目標を立てて、図のような業務プロセスの改善活動を実施している。図中のcに相当する活動はどれか。
+  [改善活動]
+  [目標の設定例]
+  物流コストの削減活動の開始
+  a
+  ・10%の物流コストの削減
+  ・在庫の削減
+  b
+  誤出荷の削減
+  在庫日数7日以内 誤出荷率3%以内
+  改善活動の実施
+  成果の計測と目標値とのギャップ分析
+  ア CSF (Critical Success Factor) の抽出
+  イ KGI (Key Goal Indicator) の設定
+  ウ KPI (Key Performance Indicator) の設定
+  I
+  MBO (Management by Objectives) の導入
+choice:
+  - label: ア
+    text: CSF (Critical Success Factor) の抽出
+  - label: イ
+    text: KGI (Key Goal Indicator) の設定
+  - label: ウ
+    text: KPI (Key Performance Indicator) の設定
+  - label: エ
+    text: MBO (Management by Objectives) の導入
+calculation: false
+figure: true
+answer: ア
+category: M
+figureText: >-
+  ```plantuml (*) -down-> "a"  "a" -down-> "b"  "b" -down-> "c"  "c" -down->
+  "(*)"  ```

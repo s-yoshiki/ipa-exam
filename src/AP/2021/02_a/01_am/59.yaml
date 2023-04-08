@@ -1,0 +1,16 @@
+label: 59
+question: データの生成から入力、処理、出力、活用までのプロセス、及び組み込まれているコントロールを、システム監査人が書面上で又は実際に追跡する技法はどれか。
+choice:
+  - label: ア
+    text: インタビュー法
+  - label: イ
+    text: ウォークスルー法
+  - label: ウ
+    text: 監査モジュール法
+  - label: エ
+    text: ペネトレーションテスト法
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

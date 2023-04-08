@@ -1,0 +1,25 @@
+question: |-
+  A社とB社の比較表から分かる、A社の特徴はどれか。
+  
+  | 単位   | A社 | B社 |
+  | ---- | ---- | ---- |
+  | 売上高 | 1,000 | 1,000 |
+  | 変動費 | 500 | 800 |
+  | 固定費 | 400 | 100 |
+  | 營業利益 | 100 | 100 |
+
+choice:
+  - label: ア
+    text: 売上高の増加が大きな利益に結び付きやすい。
+  - label: イ
+    text: 限界利益率が低い。
+  - label: ウ
+    text: 損益分岐点が低い。
+  - label: エ
+    text: 不況時にも、売上高の減少が大きな損失に結び付かず不況抵抗力は強い。
+
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

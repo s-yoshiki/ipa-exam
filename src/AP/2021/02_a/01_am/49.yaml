@@ -1,0 +1,39 @@
+label: 49
+question: |-
+  アジャイル開発におけるプラクティスの一つであるバーンダウンチャートはどれか。 
+  ここで,図中の破線は予定又は予想を, 実線は実績を表す。 
+  残作業量 
+  ア 
+  ウ 
+  累積バグ数 
+  イ 
+  発生不具合数 
+  時間 
+  H 
+  要員数 
+  時間 
+  時間 
+  L 
+choice:
+  - label: ア
+    text: 残作業量
+  - label: イ
+    text: 累積バグ数
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: M
+figureText: |-
+  | 
+  |__
+     |
+     |______ 予定又は予想
+  _____|__________________
+  |                       |
+  実線                   |
+                          |
+                          |___ 実績

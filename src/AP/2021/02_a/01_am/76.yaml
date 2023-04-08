@@ -1,0 +1,16 @@
+question: |-
+  製品 X, Y を 1 台製造するのに必要な部品数は、表のとおりである。 製品1台当たりの利益が X, Y ともに1万円のとき, 利益は最大何万円になるか。 ここで、部品 Aは120個、部品 Bは60個まで使えるものとする。
+choice:
+  - label: ア
+    text: 30 
+  - label: イ
+    text: 40 
+  - label: ウ
+    text: 45 
+  - label: エ
+    text: 60 
+calculation: true
+figure: false
+answer: ウ
+category: T
+figureText: ''

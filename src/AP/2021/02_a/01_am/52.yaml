@@ -1,0 +1,23 @@
+question: |-
+  次のプレシデンスダイアグラムで表現されたプロジェクトスケジュールネットワーク図を、アローダイアグラムに書き直したものはどれか。ここで、プレシデンスダイアグラムの依存関係は全てFS関係とする。
+choice:
+  - label: ア
+    text: ABGHDEFC
+  - label: イ
+    text: ABCDEFGH
+  - label: ウ
+    text: ACEDGBFH
+  - label: エ
+    text: ACHGFEDB
+answer: ウ
+category: M
+calculation: false
+figure: true
+figureText: "
+      A
+      |
+      C
+     / \
+    E   D
+   /   / \
+  G   H   F"

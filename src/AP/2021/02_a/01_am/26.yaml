@@ -1,0 +1,29 @@
+label: 26
+question: |-
+  関係R と関係 Sに対して,関係Xを求める関係演算はどれか。 
+  [R] 
+  ID A B 
+  0001 a 100 
+  0002 b 200 
+  0003 d 300 
+  [S] 
+  ID A B 
+  0001 a 100 
+  0002 a 200 
+  0003 d 300 
+  [X]
+  ID A B
+choice:
+  - label: ア
+    text: IDで結合
+  - label: イ
+    text: 差
+  - label: ウ
+    text: 直積
+  - label: エ
+    text: 和
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

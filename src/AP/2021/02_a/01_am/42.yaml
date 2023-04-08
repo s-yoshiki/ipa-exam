@@ -1,0 +1,16 @@
+label: 42
+question: 盗まれたクレジットカードの不正利用を防ぐ仕組みのうち、オンラインショッピングサイトでの不正利用の防止に有効なものはどれか。
+choice:
+  - label: ア
+    text: 3Dセキュアによって本人確認する。
+  - label: イ
+    text: クレジットカード内に保持されたPINとの照合によって本人確認する。
+  - label: ウ
+    text: クレジットカードの有効期限を確認する。
+  - label: エ
+    text: セキュリティコードの入力によって券面認証する。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

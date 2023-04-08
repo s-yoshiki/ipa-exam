@@ -1,0 +1,21 @@
+label: 56
+question: |-
+  "24時間 365日" の有人オペレーションサービスを提供する。 シフト勤務の条件が次のとき、オペレータは最少で何人必要か。
+  [条件]
+  (1)1日に3シフトの交代勤務とする。
+  (2)各シフトで勤務するオペレータは2人以上とする。
+  (3)各オペレータの勤務回数は7日間当たり5回以内とする。
+choice:
+  - label: ア
+    text: 70
+  - label: イ
+    text: 9
+  - label: ウ
+    text: 10
+  - label: エ
+    text: 30
+calculation: true
+figure: false
+answer: イ
+category: T
+figureText: ''

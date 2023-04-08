@@ -1,0 +1,17 @@
+label: 17
+question: >-
+  主記憶へのアクセスを1命令当たり平均2回行い、ページフォールトが発生すると1回当たり40ミリ秒のオーバヘッドを伴うシステムがある。ページフォールトによる命令実行の遅れを1命令当たり平均0.4マイクロ秒以下にするために許容できるページフォールト発生率は最大幾らか。ここで、他のオーバーヘッドは考慮しないものとする。
+choice:
+  - label: ア
+    text: 5×10^-6
+  - label: イ
+    text: 1×10^-5
+  - label: ウ
+    text: 5×10^-5
+  - label: H
+    text: 1×10^-4
+calculation: true
+figure: false
+answer: D
+category: T
+figureText: ''

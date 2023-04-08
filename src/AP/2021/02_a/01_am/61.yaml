@@ -1,0 +1,16 @@
+label: 61
+question: テレワークで活用しているVDI（Virtual Desktop Infrastructure）に関する記述として、適切なものはどれか。
+choice:
+  - label: ア
+    text: PC環境を仮想化してサーバ上に置くことで、社外から端末の種類を選ばず自分のデスクトップPC環境として利用できるシステム
+  - label: イ
+    text: インターネット上に仮想の専用線を設定し、特定の人だけが利用できる専用ネットワーク
+  - label: ウ
+    text: 紙で保管されている資料を、ネットワークを介して遠隔地からでも参照可能な電子書類に変換・保存することができるツール
+  - label: エ
+    text: 対面での会議開催が困難な場合に、ネットワークを介して対面と同じようなコミュニケーションができるツール
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

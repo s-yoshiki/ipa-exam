@@ -1,0 +1,17 @@
+label: 33
+question: >-
+  PCが、NAPT(IPマスカレード)機能を有効にしているルータを経由してインターネットに接続されているとき、PCからインターネットに送出されるパケットのTCPとIPのヘッダのうち、ルータを経由する際に書き換えられるものはどれか。
+choice:
+  - label: ア
+    text: 宛先のIPアドレスと宛先のポート番号
+  - label: イ
+    text: 宛先のIPアドレスと送信元のIPアドレス
+  - label: ウ
+    text: 送信元のポート番号と宛先のポート番号
+  - label: エ
+    text: 送信元のポート番号と送信元のIPアドレス
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

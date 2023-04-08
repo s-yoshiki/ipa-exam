@@ -1,0 +1,20 @@
+label: 8
+question: >-
+  演算レジスタが16ビットのCPUで符号付き16ビット整数x1, x2を16ビット符号付き加算(x1+x2) するときに, 全ての x1, x2
+  の組合せにおいて加算結果がオーバフローしないものはどれか。
+
+  ここで、|x|はxの絶対値を表し、負数は2の補数で表すものとする。
+choice:
+  - label: ア
+    text: '|x1|+|x2| ≦ 32,768 の場合'
+  - label: イ
+    text: '|x1|及び|x2|がともに 32,767 未満の場合'
+  - label: ウ
+    text: x1xx2>0の場合
+  - label: エ
+    text: x1とx2の符号が異なる場合
+calculation: true
+figure: false
+answer: ウ
+category: T
+figureText: ''

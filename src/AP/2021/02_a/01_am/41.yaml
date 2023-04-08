@@ -1,0 +1,16 @@
+label: 41
+question: 基本評価基準、現状評価基準、環境評価基準の三つの基準で情報システムの脆弱性の深刻度を評価するものはどれか。
+choice:
+  - label: ア
+    text: 7 CVSS
+  - label: イ
+    text: イ ISMS
+  - label: ウ
+    text: ウ PCI DSS
+  - label: エ
+    text: PMS
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''
