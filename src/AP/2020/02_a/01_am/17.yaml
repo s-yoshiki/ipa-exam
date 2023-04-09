@@ -1,0 +1,14 @@
+label: 17
+question: >-
+  三つの資源X～Zを占有して処理を行う四つのプロセスA～Dがある。各プロセスは処理の進行に伴い，表中の数値の順に資源を占有し，実行終了時に三つの資源を一括して解放する。プロセスAとデッドロックを起こす可能性のあるプロセスはどれか。
+choice:
+  - label: ア
+    text: B，C，D
+  - label: イ
+    text: C，D
+  - label: ウ
+    text: Cだけ
+  - label: エ
+    text: Dだけ
+answer: イ
+category: T

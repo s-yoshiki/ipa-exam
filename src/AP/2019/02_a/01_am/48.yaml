@@ -1,0 +1,13 @@
+label: 48
+question: 作業成果物の作成者以外の参加者がモデレータとして主導する役割を受け持つこと，並びに公式な記録及び分析を行うことが特徴のレビュー技法はどれか。
+choice:
+  - label: ア
+    text: インスペクション
+  - label: イ
+    text: ウォークスルー
+  - label: ウ
+    text: パスアラウンド
+  - label: エ
+    text: ペアプログラミング
+answer: ア
+category: T

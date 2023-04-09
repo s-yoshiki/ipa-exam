@@ -1,0 +1,15 @@
+label: 23
+question: >-
+  次の表に示す値が格納されたLUT(Lookup
+  Table)と等価な回路はどれか。ここで，LUTのアドレス信号A2～A0はA0がLSBで，ア～エの回路の入力信号aがA2，bがA1，cがA0に対応する。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+answer: イ
+category: T

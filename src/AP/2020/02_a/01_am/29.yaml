@@ -1,0 +1,15 @@
+label: 29
+question: >-
+  "東京在庫"表と"大阪在庫"表に対して，SQL文を実行して得られる結果はどれか。ここで，実線の下線は主キーを表す。〔SQL文〕SELECT
+  商品コード，在庫数 FROM 東京在庫　　UNION ALLSELECT 商品コード，在庫数 FROM 大阪在庫
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+answer: エ
+category: T

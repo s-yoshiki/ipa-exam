@@ -1,0 +1,15 @@
+label: 40
+question: >-
+  JIS Q
+  27000:2019(情報セキュリティマネジメントシステム－用語)では，情報セキュリティは主に三つの特性を維持することとされている。それらのうちの二つは機密性と完全性である。残りの一つはどれか。
+choice:
+  - label: ア
+    text: 可用性
+  - label: イ
+    text: 効率性
+  - label: ウ
+    text: 保守性
+  - label: エ
+    text: 有効性
+answer: ア
+category: T

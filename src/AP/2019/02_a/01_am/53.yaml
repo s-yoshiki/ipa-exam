@@ -1,0 +1,13 @@
+label: 53
+question: プロジェクトのスケジュールを短縮するために，アクティビティに割り当てる資源を増やして，アクティビティの所要期間を短縮する技法はどれか。
+choice:
+  - label: ア
+    text: クラッシング
+  - label: イ
+    text: クリティカルチェーン法
+  - label: ウ
+    text: ファストトラッキング
+  - label: エ
+    text: モンテカルロ法
+answer: ア
+category: M

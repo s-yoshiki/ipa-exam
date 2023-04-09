@@ -1,0 +1,13 @@
+label: 51
+question: PMBOKガイド第6版によれば，プロジェクト・スコープ記述書に記述する項目はどれか。
+choice:
+  - label: ア
+    text: WBS
+  - label: イ
+    text: コスト見積額
+  - label: ウ
+    text: ステークホルダ分類
+  - label: エ
+    text: プロジェクトからの除外事項
+answer: エ
+category: M

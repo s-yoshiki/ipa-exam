@@ -1,0 +1,13 @@
+label: 33
+question: TCP/IPネットワークで使用されるARPの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: IPアドレスからMACアドレスを得るためプロトコル
+  - label: イ
+    text: IPアドレスからホスト名(ドメイン名)を得るためのプロトコル
+  - label: ウ
+    text: MACアドレスからIPアドレスを得るためのプロトコル
+  - label: エ
+    text: ホスト名(ドメイン名)からIPアドレスを得るためのプロトコル
+answer: ア
+category: T

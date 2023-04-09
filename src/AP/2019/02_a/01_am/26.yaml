@@ -1,0 +1,13 @@
+label: 26
+question: データベースの概念設計に用いられ，対象世界を，実体と実体間の関連という二つの概念で表現するデータモデルはどれか。
+choice:
+  - label: ア
+    text: E-Rモデル
+  - label: イ
+    text: 階層モデル
+  - label: ウ
+    text: 関係モデル
+  - label: エ
+    text: ネットワークモデル
+answer: ア
+category: T

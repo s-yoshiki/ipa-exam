@@ -1,0 +1,13 @@
+label: 5
+question: 組込みシステムにおけるリアルタイムシステムにおいて，システムへの入力に対する応答のうち，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: OSを使用しないで応答する。
+  - label: イ
+    text: 定められた制限時間内に応答する。
+  - label: ウ
+    text: 入力された順序を守って応答する。
+  - label: エ
+    text: 入力時刻を記録して応答する。
+answer: イ
+category: T

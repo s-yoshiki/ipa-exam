@@ -1,0 +1,13 @@
+label: 21
+question: FPGAなどに実装するディジタル回路を記述して，直接論理合成するために使用されるものはどれか。
+choice:
+  - label: ア
+    text: DDL
+  - label: イ
+    text: HDL
+  - label: ウ
+    text: UML
+  - label: エ
+    text: XML
+answer: イ
+category: T

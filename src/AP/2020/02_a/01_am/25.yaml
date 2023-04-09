@@ -1,0 +1,14 @@
+label: 25
+question: >-
+  800×600ピクセル，24ビットフルカラーで30フレーム／秒の動画像の配信に最小限必要な帯域幅はおよそ幾らか。ここで，通信時にデータ圧縮は行わないものとする。
+choice:
+  - label: ア
+    text: 350kビット／秒
+  - label: イ
+    text: 3.5Mビット／秒
+  - label: ウ
+    text: 35Mビット／秒
+  - label: エ
+    text: 350Mビット／秒
+answer: エ
+category: T

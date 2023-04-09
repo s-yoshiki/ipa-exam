@@ -1,0 +1,13 @@
+label: 31
+question: 無線LANのアクセスポイントやIP電話機などに，LANケーブルを利用して給電も行う仕組みはどれか。
+choice:
+  - label: ア
+    text: PLC
+  - label: イ
+    text: PoE
+  - label: ウ
+    text: UPS
+  - label: エ
+    text: USB
+answer: イ
+category: T

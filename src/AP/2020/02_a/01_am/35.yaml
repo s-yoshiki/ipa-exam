@@ -1,0 +1,14 @@
+label: 35
+question: >-
+  IPv4ネットワークにおいて，IPアドレスを付与されていないPCがDHCPサーバを利用してネットワーク設定を行う際，最初にDHCPDISCOVERメッセージをブロードキャストする。このメッセージの送信元IPアドレスと宛先IPアドレスの適切な組合せはどれか。ここで，このPCにはDHCPサーバからIPアドレス192.168.10.24が付与されるものとする。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+answer: イ
+category: T

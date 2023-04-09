@@ -1,0 +1,13 @@
+label: 67
+question: 企業の事業活動を機能ごとに主活動と支援活動に分け，企業が顧客に提供する製品やサービスの利益は，どの活動で生み出されているかを分析する手法はどれか。
+choice:
+  - label: ア
+    text: 3C分析
+  - label: イ
+    text: SWOT分析
+  - label: ウ
+    text: バリューチェーン分析
+  - label: エ
+    text: ファイブフォース分析
+answer: ウ
+category: S

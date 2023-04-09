@@ -1,0 +1,13 @@
+label: 45
+question: 電子メールをスマートフォンで受信する際のメールサーバとスマートフォンとの間の通信をメール本文を含めて暗号化するプロトコルはどれか。
+choice:
+  - label: ア
+    text: APOP
+  - label: イ
+    text: IMAPS
+  - label: ウ
+    text: POP3
+  - label: エ
+    text: SMTP Submission
+answer: イ
+category: T

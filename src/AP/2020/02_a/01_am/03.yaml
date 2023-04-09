@@ -1,0 +1,13 @@
+label: 3
+question: 式A＋B×Cの逆ポーランド表記法による表現として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ＋×CBA
+  - label: イ
+    text: ×＋ABC
+  - label: ウ
+    text: ABC×＋
+  - label: エ
+    text: CBA＋×
+answer: ウ
+category: T

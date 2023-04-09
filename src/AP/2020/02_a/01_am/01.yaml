@@ -1,0 +1,13 @@
+label: 1
+question: 正の整数の10進表示の桁数Dと2進表示の桁数Bとの関係を表す式のうち、最も適切なものはどれか。
+choice:
+  - label: ア
+    text: D≒2log10B
+  - label: イ
+    text: D≒10log2B
+  - label: ウ
+    text: D≒Blog210
+  - label: エ
+    text: D≒Blog102
+answer: エ
+category: T

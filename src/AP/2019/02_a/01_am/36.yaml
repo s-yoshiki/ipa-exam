@@ -1,0 +1,13 @@
+label: 36
+question: IPv6において，拡張ヘッダを利用することによって実現できるセキュリティ機能はどれか。
+choice:
+  - label: ア
+    text: URLフィルタリング機能
+  - label: イ
+    text: 暗号化通信機能
+  - label: ウ
+    text: 情報漏えい検知機能
+  - label: エ
+    text: マルウェア検知機能
+answer: イ
+category: T

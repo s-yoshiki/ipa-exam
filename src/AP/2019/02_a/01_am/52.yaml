@@ -1,0 +1,14 @@
+label: 52
+question: >-
+  アローダイアグラムで表される作業A～Hを見直したところ，作業Dだけが短縮可能であり，その所要日数は6日間に短縮できることが分かった。作業全体の所要日数は何日間短縮できるか。
+choice:
+  - label: ア
+    text: '1'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '3'
+  - label: エ
+    text: '4'
+answer: ウ
+category: M

@@ -1,0 +1,13 @@
+label: 76
+question: 複雑な要因の絡む問題について，その因果関係を明らかにすることによって，問題の原因を究明する手法はどれか。
+choice:
+  - label: ア
+    text: PDPC法
+  - label: イ
+    text: クラスタ分析法
+  - label: ウ
+    text: 系統図法
+  - label: エ
+    text: 連関図法
+answer: エ
+category: S

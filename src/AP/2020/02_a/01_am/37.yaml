@@ -1,0 +1,13 @@
+label: 37
+question: PCからサーバに対し，IPv6を利用した通信を行う場合，ネットワーク層で暗号化を行うのに利用するものはどれか。
+choice:
+  - label: ア
+    text: IPsec
+  - label: イ
+    text: PPP
+  - label: ウ
+    text: SSH
+  - label: エ
+    text: TLS
+answer: ア
+category: T

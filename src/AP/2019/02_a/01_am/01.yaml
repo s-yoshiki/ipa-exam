@@ -1,0 +1,14 @@
+label: 1
+question: >-
+  あるホテルは客室を1,000部屋もち，部屋番号は，数字4と9を使用しないで0001から順に数字4桁の番号としている。部屋番号が0330の部屋は，何番目の部屋か。
+choice:
+  - label: ア
+    text: '204'
+  - label: イ
+    text: '210'
+  - label: ウ
+    text: '216'
+  - label: エ
+    text: '218'
+answer: ウ
+category: T

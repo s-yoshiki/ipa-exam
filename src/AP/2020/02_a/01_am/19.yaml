@@ -1,0 +1,13 @@
+label: 19
+question: OSS(Open Source Software)における，ディストリビュータの役割はどれか。
+choice:
+  - label: ア
+    text: OSSやアプリケーションソフトウェアを組み合わせて，パッケージにして提供する。
+  - label: イ
+    text: OSSを開発し，活動状況をWebで公開する。
+  - label: ウ
+    text: OSSを稼働用のコンピュータにインストールし，動作確認を行う。
+  - label: エ
+    text: OSSを含むソフトウェアを利用したシステムの提案を行う。
+answer: ア
+category: T

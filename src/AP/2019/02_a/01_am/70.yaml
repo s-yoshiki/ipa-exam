@@ -1,0 +1,13 @@
+label: 70
+question: TLO(Technology Licensing Organization)の役割として，適切なものはどれか。
+choice:
+  - label: ア
+    text: TLO自らが研究開発して取得した特許の，企業へのライセンス
+  - label: イ
+    text: 企業から大学への委託研究の問合せ及び申込みの受付
+  - label: ウ
+    text: 新規事業又は市場への参入のための，企業の合併又は買収の支援
+  - label: エ
+    text: 大学の研究成果の特許化及び企業への技術移転の促進
+answer: エ
+category: S

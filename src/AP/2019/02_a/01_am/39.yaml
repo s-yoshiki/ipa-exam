@@ -1,0 +1,13 @@
+label: 39
+question: 無線LAN環境におけるWPA2-PSKの機能はどれか。
+choice:
+  - label: ア
+    text: アクセスポイントに設定されているSSIDを共通鍵とし，通信を暗号化する。
+  - label: イ
+    text: アクセスポイントに設定されているのと同じSSIDとパスワード(Pre-Shared Key)が設定されている端末だけに接続を許可する。
+  - label: ウ
+    text: アクセスポイントは，IEEE 802.11acに準拠している端末だけに接続を許可する。
+  - label: エ
+    text: アクセスポイントは，利用者ごとに付与されたSSIDを確認し，無線LANへのアクセス権限を識別する。
+answer: イ
+category: T

@@ -1,0 +1,13 @@
+label: 8
+question: 分割統治を利用した整列法はどれか。
+choice:
+  - label: ア
+    text: 基数ソート
+  - label: イ
+    text: クイックソート
+  - label: ウ
+    text: 選択ソート
+  - label: エ
+    text: 挿入ソート
+answer: イ
+category: T

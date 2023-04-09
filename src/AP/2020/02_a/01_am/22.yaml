@@ -1,0 +1,15 @@
+label: 22
+question: >-
+  モータの速度制御などにPWM(Pulse Width
+  Modulation)制御が用いられる。PWMの駆動波形を示したものはどれか。ここで，波形は制御回路のポート出力であり，低域通過フィルタを通していないものとする。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+answer: イ
+category: T

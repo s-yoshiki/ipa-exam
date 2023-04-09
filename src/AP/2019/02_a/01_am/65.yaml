@@ -1,0 +1,13 @@
+label: 65
+question: 共通フレーム2013によれば，要件定義プロセスで行うことはどれか。
+choice:
+  - label: ア
+    text: システム化計画の立案
+  - label: イ
+    text: システム方式設計
+  - label: ウ
+    text: ソフトウェア詳細設計
+  - label: エ
+    text: 利害関係者の識別
+answer: エ
+category: S

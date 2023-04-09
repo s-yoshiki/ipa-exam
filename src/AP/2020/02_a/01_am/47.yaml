@@ -1,0 +1,15 @@
+label: 47
+question: >-
+  次の流れ図において，　①→②→③→⑤→②→③→④→②→⑥
+  の順に実行させるために，①においてmとnに与えるべき初期値aとbの関係はどれか。ここで，a，bはともに正の整数とする。
+choice:
+  - label: ア
+    text: a＝2b
+  - label: イ
+    text: 2a＝b
+  - label: ウ
+    text: 2a＝3b
+  - label: エ
+    text: 3a＝2b
+answer: エ
+category: T
