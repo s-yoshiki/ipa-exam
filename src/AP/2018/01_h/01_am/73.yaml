@@ -1,0 +1,13 @@
+label: 73
+question: インターネットショッピングで売上の全体に対して，あまり売れない商品の売上合計の占める割合が無視できない割合になっていることを指すものはどれか。
+choice:
+  - label: ア
+    text: アフィリエイト
+  - label: イ
+    text: オプトイン
+  - label: ウ
+    text: ドロップシッピング
+  - label: エ
+    text: ロングテール
+answer: エ
+category: S

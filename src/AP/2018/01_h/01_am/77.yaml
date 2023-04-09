@@ -1,0 +1,13 @@
+label: 77
+question: 損益計算資料から求められる損益分岐点売上高は，何百万円か。
+choice:
+  - label: ア
+    text: '225'
+  - label: イ
+    text: '300'
+  - label: ウ
+    text: '450'
+  - label: エ
+    text: '480'
+answer: ウ
+category: S

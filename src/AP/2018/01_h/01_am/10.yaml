@@ -1,0 +1,13 @@
+label: 10
+question: NAND型フラッシュメモリに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: バイト単位で書込み，ページ単位で読出しを行う。
+  - label: イ
+    text: バイト単位で書込み及び読出しを行う。
+  - label: ウ
+    text: ページ単位で書込み，バイト単位で読出しを行う。
+  - label: エ
+    text: ページ単位で書込み及び読出しを行う。
+answer: エ
+category: T

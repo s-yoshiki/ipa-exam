@@ -1,0 +1,13 @@
+label: 29
+question: 関係データベース管理システム(RDBMS)のデータディクショナリに格納されるものはどれか。
+choice:
+  - label: ア
+    text: OSが管理するファイルの定義情報
+  - label: イ
+    text: スキーマの定義情報
+  - label: ウ
+    text: 表の列データの組
+  - label: エ
+    text: 表の列に付けられたインデックスの内容
+answer: イ
+category: T

@@ -1,0 +1,13 @@
+label: 40
+question: サイバーレスキュー隊(J-CRAT)は，どの脅威による被害の低減と拡大防止を活動目的としているか。
+choice:
+  - label: ア
+    text: クレジットカードのスキミング
+  - label: イ
+    text: 内部不正による情報漏えい
+  - label: ウ
+    text: 標的型サイバー攻撃
+  - label: エ
+    text: 無線LANの盗聴
+answer: ウ
+category: T

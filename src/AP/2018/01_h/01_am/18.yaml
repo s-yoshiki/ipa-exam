@@ -1,0 +1,13 @@
+label: 18
+question: セマフォを用いる目的として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 共有資源を管理する。
+  - label: イ
+    text: スタックを容易に実現する。
+  - label: ウ
+    text: スラッシングの発生を回避する。
+  - label: エ
+    text: セグメンテーションを実現する。
+answer: ア
+category: T

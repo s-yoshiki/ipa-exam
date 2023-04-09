@@ -1,0 +1,13 @@
+label: 27
+question: 関係Rと関係Sに対して，関係Xを求める関係演算はどれか。
+choice:
+  - label: ア
+    text: IDで結合
+  - label: イ
+    text: 差
+  - label: ウ
+    text: 直積
+  - label: エ
+    text: 和
+answer: エ
+category: T

@@ -1,0 +1,13 @@
+label: 65
+question: EMS(electronics manufacturing services)の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 相手先ブランドで販売する電子機器の設計だけを受託し，製造は相手先で行う。
+  - label: イ
+    text: 外部から調達した電子機器に付加価値を加えて，自社ブランドで販売する。
+  - label: ウ
+    text: 自社ブランドで販売する電子機器のソフトウェア開発だけを外部に委託し，ハードウェアは自社で設計製造する。
+  - label: エ
+    text: 生産設備をもつ企業が，他社からの委託を受けて電子機器を製造する。
+answer: エ
+category: S

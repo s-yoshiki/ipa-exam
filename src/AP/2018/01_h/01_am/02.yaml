@@ -1,0 +1,13 @@
+label: 2
+question: 表は，文字A～Eを符号化したときのビット表記と，それぞれの文字の出現確率を表したものである。1文字当たりの平均ビット数は幾らになるか。
+choice:
+  - label: ア
+    text: '1.6'
+  - label: イ
+    text: '1.8'
+  - label: ウ
+    text: '2.5'
+  - label: エ
+    text: '2.8'
+answer: イ
+category: T

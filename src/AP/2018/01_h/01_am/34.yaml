@@ -1,0 +1,13 @@
+label: 34
+question: TCP/IPネットワークにおけるRARPの機能として，適切なものはどれか。
+choice:
+  - label: ア
+    text: IPパケットが通信先のIPアドレスに到達するかどうかを調べる。
+  - label: イ
+    text: MACアドレスからIPアドレスを求める。
+  - label: ウ
+    text: ドメイン名とホスト名からIPアドレスを求める。
+  - label: エ
+    text: プライベートIPアドレスとグローバルIPアドレスを相互に変換する。
+answer: イ
+category: T

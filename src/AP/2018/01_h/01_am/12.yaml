@@ -1,0 +1,13 @@
+label: 12
+question: USB3.0の特徴として，適切なものはどれか。
+choice:
+  - label: ア
+    text: USB2.0は半二重通信であるが，USB3.0は全二重通信である。
+  - label: イ
+    text: Wireless USBに対応している。
+  - label: ウ
+    text: 最大供給電流は，USB2.0と同じ500ミリアンペアである。
+  - label: エ
+    text: ピン数が9本に増えたので，USB2.0のケーブルは挿すことができない。
+answer: ア
+category: T

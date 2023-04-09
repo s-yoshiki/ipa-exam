@@ -1,0 +1,13 @@
+label: 7
+question: オブジェクト指向プログラミングにおいて，同一クラス内に，メソッド名が同一であって，引数の型，個数又は並び順が異なる複数のメソッドを定義することを何と呼ぶか。
+choice:
+  - label: ア
+    text: オーバーライド
+  - label: イ
+    text: オーバーロード
+  - label: ウ
+    text: カプセル化
+  - label: エ
+    text: 汎化
+answer: イ
+category: T

@@ -1,0 +1,13 @@
+label: 33
+question: 伝送速度30Mビット／秒の回線を使ってデータを連続送信したとき，平均して100秒に1回の1ビット誤りが発生した。この回線のビット誤り率は幾らか。
+choice:
+  - label: ア
+    text: 4.17×10-11
+  - label: イ
+    text: 3.33×10-10
+  - label: ウ
+    text: '4.17×10-5 '
+  - label: エ
+    text: 3.33×10-4
+answer: イ
+category: T

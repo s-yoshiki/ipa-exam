@@ -1,0 +1,14 @@
+label: 54
+question: >-
+  あるソフトウェア開発部門では，開発工数E(人月)と開発規模L(キロ行)との関係を，E＝5.2L0.98としている。L＝10としたときの生産性(キロ行／人月)は，およそ幾らか。
+choice:
+  - label: ア
+    text: '0.2'
+  - label: イ
+    text: '0.5'
+  - label: ウ
+    text: '1.9'
+  - label: エ
+    text: '5.2'
+answer: ア
+category: M

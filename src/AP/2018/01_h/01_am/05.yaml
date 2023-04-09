@@ -1,0 +1,13 @@
+label: 5
+question: 非負の整数m，nに対して次のとおりに定義された関数 Ack(m，n) がある。Ack(1，3) の値はどれか。
+choice:
+  - label: ア
+    text: '3'
+  - label: イ
+    text: '4'
+  - label: ウ
+    text: '5'
+  - label: エ
+    text: '6'
+answer: ウ
+category: T
