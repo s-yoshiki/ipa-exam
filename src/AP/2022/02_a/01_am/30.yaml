@@ -1,5 +1,5 @@
 label: 30
-question: ACID特性の四つの性質に<u>含まれないもの</u>はどれか。
+question: ACID特性の四つの性質に含まれないものはどれか。
 choice:
   - label: ア
     text: 一貫性

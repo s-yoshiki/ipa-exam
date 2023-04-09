@@ -1,7 +1,5 @@
 label: 23
-question: >-
-  入力G＝0のときはX＝A，Y＝Bを出力し，G＝1のときはX＝<span class="ol">A</span>，Y＝<span
-  class="ol">B</span>を出力する回路はどれか。
+question: 入力G＝0のときはX＝A，Y＝Bを出力し，G＝1のときはX＝A，Y＝Bを出力する回路はどれか。
 choice:
   - label: ア
     text: ''

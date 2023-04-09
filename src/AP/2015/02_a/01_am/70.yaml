@@ -1,5 +1,5 @@
 label: 70
-question: IoT(Internet of Things)の実用例として，<b>適切でないもの</b>はどれか。
+question: IoT(Internet of Things)の実用例として，**適切でないもの**はどれか。
 choice:
   - label: ア
     text: インターネットにおけるセキュリティの問題を回避する目的で，サーバに接続せず，単独でファイルの管理や演算処理，印刷処理などの作業を行うコンピュータ

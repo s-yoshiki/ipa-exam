@@ -1,14 +1,21 @@
 label: 2
 question: >-
-  次のBNFにおいて非終端記号&lt;A&gt;から生成される文字列はどれか。<br><br>&lt;R<sub>0</sub>&gt; ::=
-  0｜3｜6｜9<br>&lt;R<sub>1</sub>&gt; ::= 1｜4｜7<br>&lt;R<sub>2</sub>&gt; ::=
-  2｜5｜8<br>&lt;A&gt; ::= &lt;R<sub>0</sub>&gt;｜&lt;A&gt;
-  &lt;R<sub>0</sub>&gt;｜&lt;B&gt; &lt;R<sub>2</sub>&gt;｜&lt;C&gt;&lt;
-  R<sub>1</sub>&gt;<br>&lt;B&gt; ::= &lt;R<sub>1</sub>&gt;｜&lt;A&gt;
-  &lt;R<sub>1</sub>&gt;｜&lt;B&gt; &lt;R<sub>0</sub>&gt;｜&lt;C&gt;&lt;
-  R<sub>2</sub>&gt;<br>&lt;C&gt; ::= &lt;R<sub>2</sub>&gt;｜&lt;A&gt;
-  &lt;R<sub>2</sub>&gt;｜&lt;B&gt; &lt;R<sub>1</sub>&gt;｜&lt;C&gt;
-  &lt;R<sub>0</sub>&gt;
+  次のBNFにおいて非終端記号<A>から生成される文字列はどれか。  
+    
+  <R<sub>0</sub>\> ::= 0｜3｜6｜9  
+
+  <R<sub>1</sub>\> ::= 1｜4｜7  
+
+  <R<sub>2</sub>\> ::= 2｜5｜8  
+
+  <A> ::= <R<sub>0</sub>\>｜<A> <R<sub>0</sub>\>｜<B> <R<sub>2</sub>\>｜<C><
+  R<sub>1</sub>\>  
+
+  <B> ::= <R<sub>1</sub>\>｜<A> <R<sub>1</sub>\>｜<B> <R<sub>0</sub>\>｜<C><
+  R<sub>2</sub>\>  
+
+  <C> ::= <R<sub>2</sub>\>｜<A> <R<sub>2</sub>\>｜<B> <R<sub>1</sub>\>｜<C>
+  <R<sub>0</sub>\>
 choice:
   - label: ア
     text: '123'

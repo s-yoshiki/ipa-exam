@@ -1,6 +1,7 @@
 label: 35
-question: >-
-  次のURLに対し，受理するWebサーバのポート番号(8080)を指定できる箇所はどれか。<br>https://www.example.com/member/login?id=user
+question: |-
+  次のURLに対し，受理するWebサーバのポート番号(8080)を指定できる箇所はどれか。  
+  https://www.example.com/member/login?id=user
 choice:
   - label: ア
     text: クエリ文字列(id=user)の直後https://www.example.com/member/login?id=user:8080
