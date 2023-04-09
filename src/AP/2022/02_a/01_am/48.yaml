@@ -1,19 +1,17 @@
-label: '48'
+label: 48
 question: >-
-  流れ図で示したモジュールを表の二つのテストケースを用いてテストしたとき、テストカバレージ指標であるCo(命令網羅)C,(分岐網羅)とによる網羅率の適切な組みはどれか。
-
-  ここで、変数V~変数Zの値は、途中の命令で変更されない。
+  流れ図で示したモジュールを表の二つのテストケースを用いてテストしたとき，テストカバレージ指標であるC<sub>0</sub>(命令網羅)とC<sub>1</sub>(分岐網羅)とによる網羅率の適切な組みはどれか。ここで，変数V～変数Zの値は，途中の命令で変更されない。
 choice:
   - label: ア
-    text: 'Coによる網羅率: 100%, C,による網羅率: 100%'
+    text: ''
   - label: イ
-    text: 'Coによる網羅率: 100%, C,による網羅率: 80%'
+    text: ''
   - label: ウ
-    text: 'Coによる網羅率: 80%, C,による網羅率: 100%'
-  - label: ハ
-    text: 'Coによる網羅率: 80%, C,による網羅率: 80%'
+    text: ''
+  - label: エ
+    text: ''
 calculation: false
-figure: false
+figure: true
 answer: イ
 category: T
 figureText: ''

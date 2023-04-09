@@ -1,18 +1,19 @@
-label: '28'
-question: "“商品” 表に対して, 次のSQL文を実行して得られる仕入先コード数は幾つか。 [SQL文] SELECT DISTINCT 仕入先コード FROM 商品 WHERE (販売単価 仕入単価) > (SELECT AVG (販売単価 仕入単価) FROM 商品)\n商品\t商品コード\t商品名\t販売単価\t仕入先コード\t仕入単価\nA001\tA\t1,000\t$1\t800\nB002\tB\t2,500\t$2\t2,300\nC003\tC\t1,500\tS2\t1,400\nD004\tD\t2,500\t$1\t1,600\nE005\tE\t2,000\t$1\t1,600\nF006\tபட\tF\t3,000\t$3\t2,800\nG007\tG\t2,500\tS3\t2,200\nH008\tH\t2,500\t$4\t2,000\n1009\tI\t2,500\t$5\t2,000\nJ010\tJ\t1,300\t$6\t1,000\nア\t1\n1\t2\nウ\t3\nI\t4\n-\n14\n-"
+label: 28
+question: >-
+  "商品"表に対して，次のSQL文を実行して得られる仕入先コード数は幾つか。<br><br>〔SQL文〕<br><div
+  class="code">SELECT DISTINCT 仕入先コード FROM 商品<br>　WHERE (販売単価 - 仕入単価)
+  &gt;<br>　　(SELECT AVG (販売単価 - 仕入単価) FROM 商品)</div>
 choice:
-  - label: '1'
+  - label: ア
     text: '1'
-  - label: '2'
+  - label: イ
     text: '2'
-  - label: '3'
+  - label: ウ
     text: '3'
-  - label: '4'
+  - label: エ
     text: '4'
-  - label: '-'
-    text: '-'
 calculation: false
-figure: false
+figure: true
 answer: ウ
 category: T
 figureText: ''

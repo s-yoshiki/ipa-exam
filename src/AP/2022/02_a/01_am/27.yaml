@@ -1,16 +1,16 @@
-label: '27'
-question: 以下の表の従業員と異動について、差集合演算を行った場合に得られる結果は何か。ア、イ、ウ、エから選びなさい。
+label: 27
+question: '"従業員"表に対して"異動"表による差集合演算を行った結果はどれか。'
 choice:
   - label: ア
-    text: 従業員 ID、従業員名、所属 のすべての列を含む表が得られる。
+    text: ''
   - label: イ
-    text: 従業員 ID、従業員名、所属 のすべての列を含む表に更新があった場合、その更新内容のみが含まれた表が得られる。
+    text: ''
   - label: ウ
-    text: 異動表の従業員 ID、従業員名、所属 のすべての行が含まれる表が得られる。
+    text: ''
   - label: エ
-    text: 異動表の従業員 ID、従業員名、所属 のすべての行を除いた従業員表が得られる。
+    text: ''
 calculation: false
-figure: false
+figure: true
 answer: イ
 category: T
 figureText: ''

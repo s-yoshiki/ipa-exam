@@ -1,14 +1,14 @@
-label: '1'
-question: aを正の整数とし、b = a^2とする。aを2進数で表現するとnビットであるとき、bを2進数で表現すると最大で何ビットになるか。
+label: 1
+question: aを正の整数とし，b＝a<sup>2</sup>とする。aを2進数で表現するとnビットであるとき，bを2進数で表現すると最大で何ビットになるか。
 choice:
   - label: ア
-    text: n+1
+    text: n＋1
   - label: イ
     text: 2n
   - label: ウ
-    text: n^2
+    text: n2
   - label: エ
-    text: 2n-1
+    text: 2n
 calculation: false
 figure: false
 answer: イ

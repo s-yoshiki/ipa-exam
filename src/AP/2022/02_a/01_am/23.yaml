@@ -1,25 +1,16 @@
-label: '23'
-question: 入力 XとYの値が同じときにだけ、出力Zに1を出力する回路はどれか。
+label: 23
+question: 入力XとYの値が同じときにだけ，出力Zに1を出力する回路はどれか。
 choice:
   - label: ア
-    text: |-
-      X
-      Y
-      Z
+    text: ''
   - label: イ
-    text: |-
-      N
-      X >
-      Y
-      Z
+    text: ''
   - label: ウ
-    text: |-
-      H
-      Y
-      Z
-      X >
+    text: ''
+  - label: エ
+    text: ''
 calculation: false
-figure: false
+figure: true
 answer: ウ
 category: T
 figureText: ''

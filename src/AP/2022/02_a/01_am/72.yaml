@@ -1,16 +1,18 @@
-label: '72'
-question: 構成表の製品 A を300個出荷しようとするとき、部品 b の正味所要量は何個か。
+label: 72
+question: >-
+  構成表の製品Aを300個出荷しようとするとき，部品bの正味所要量は何個か。ここで，A，a，b，c
+  の在庫量は在庫表のとおりとする。また，他の仕掛残，注文残，引当残などはないものとする。
 choice:
-  - label: '200'
+  - label: ア
     text: '200'
-  - label: '600'
+  - label: イ
     text: '600'
-  - label: '900'
+  - label: ウ
     text: '900'
-  - label: 1,500
+  - label: エ
     text: 1,500
 calculation: false
-figure: false
+figure: true
 answer: イ
 category: S
 figureText: ''

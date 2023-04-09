@@ -1,10 +1,10 @@
-label: '39'
-question: 組織的なインシデント対応体制の構築を支援する目的で JPCERT コーディネーションセンターが作成したものはどれか。
+label: 39
+question: 組織的なインシデント対応体制の構築や運用を支援する目的でJPCERTコーディネーションセンターが作成したものはどれか。
 choice:
   - label: ア
-    text: CSIRT マテリアル
+    text: CSIRTマテリアル
   - label: イ
-    text: ISMS ユーザーズガイド
+    text: ISMSユーザーズガイド
   - label: ウ
     text: 証拠保全ガイドライン
   - label: エ

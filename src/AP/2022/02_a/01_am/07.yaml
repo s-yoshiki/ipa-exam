@@ -1,5 +1,5 @@
-label: '7'
-question: XMLにおいて、XML宣言中で符号化宣言を省略できる文字コードはどれか？
+label: 7
+question: XMLにおいて，XML宣言中で符号化宣言を省略できる文字コードはどれか。
 choice:
   - label: ア
     text: EUC-JP

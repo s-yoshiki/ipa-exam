@@ -1,5 +1,5 @@
-label: '21'
-question: 次の電子部品のうち、整流作用をもつ素子はどれか。
+label: 21
+question: 次の電子部品のうち，整流作用をもつ素子はどれか。
 choice:
   - label: ア
     text: コイル
