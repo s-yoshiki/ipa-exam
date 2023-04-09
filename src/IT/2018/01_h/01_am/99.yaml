@@ -1,0 +1,16 @@
+label: 99
+question: 複数の異なる周波数帯の電波を束ねることによって，無線通信の高速化や安定化を図る手法はどれか。
+choice:
+  - label: ア
+    text: FTTH
+  - label: イ
+    text: MVNO
+  - label: ウ
+    text: キャリアアグリゲーション
+  - label: エ
+    text: ハンドオーバ
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

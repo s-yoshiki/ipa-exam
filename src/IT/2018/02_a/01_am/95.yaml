@@ -1,0 +1,16 @@
+label: 95
+question: ターボブーストとも呼ばれるコンピュータの処理性能向上技術に関する説明はどれか。
+choice:
+  - label: ア
+    text: CPUと主記憶の間に配置して，主記憶の読み書きの遅さを補う。
+  - label: イ
+    text: CPUの許容発熱量や消費電力量に余裕があるときに，コアの動作周波数を上げる。
+  - label: ウ
+    text: 演算を行う核となる部分をCPU内部に複数もち，複数の処理を同時に実行する。
+  - label: エ
+    text: 複数のコンピュータのCPUを共有して，膨大な量の処理を分散して実行する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

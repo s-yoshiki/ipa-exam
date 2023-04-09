@@ -1,0 +1,22 @@
+label: 99
+question: |-
+  インタフェースの規格①～④のうち，接続ケーブルなどによる物理的な接続を必要としない規格だけを全て挙げたものはどれか。
+
+  1.  Bluetooth
+  2.  IEEE1394
+  3.  IrDA
+  4.  USB3.0
+choice:
+  - label: ア
+    text: ①，②
+  - label: イ
+    text: ①，③
+  - label: ウ
+    text: ②，③
+  - label: エ
+    text: ③，④
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

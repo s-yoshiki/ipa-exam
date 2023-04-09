@@ -1,0 +1,16 @@
+label: 83
+question: 情報セキュリティにおいて，可用性が損なわれる事象はどれか。
+choice:
+  - label: ア
+    text: 機密情報のコピーが格納されたUSBメモリが盗難にあった。
+  - label: イ
+    text: 顧客情報管理システムの顧客情報が誤った内容のまま運用されていた。
+  - label: ウ
+    text: 社内のサーバに不正侵入されて，社外秘の情報が漏えいした。
+  - label: エ
+    text: 取引先との電子決済システムがDoS攻撃を受け，処理ができなくなった。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

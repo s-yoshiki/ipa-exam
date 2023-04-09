@@ -1,0 +1,16 @@
+label: 87
+question: 単語を読みやすくするために，表示したり印刷したりするときの文字幅が，文字ごとに異なるフォントを何と呼ぶか。
+choice:
+  - label: ア
+    text: アウトラインフォント
+  - label: イ
+    text: 等幅フォント
+  - label: ウ
+    text: ビットマップフォント
+  - label: エ
+    text: プロポーショナルフォント
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

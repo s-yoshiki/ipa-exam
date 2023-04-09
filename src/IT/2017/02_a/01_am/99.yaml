@@ -1,0 +1,22 @@
+label: 99
+question: |-
+  PCやサーバ，通信機器，プリンタなどの間で通信を行う事例のうち，WANを使う必要があるものだけを全て挙げたものはどれか。  
+    
+
+  1.  サーバルーム内で，PCとWebサーバを同一のハブに接続し，PCからWebサーバに会社紹介のWebページをアップロードする。
+  2.  大学の構内LANのアクセスポイントにノートPCを接続し，同じ構内にあるWebサーバから講義資料をダウンロードする。
+  3.  東京本社内のLANに接続されているファイルサーバに大阪支社のPCからアクセスし，ファイルをダウンロードする。
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: b
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

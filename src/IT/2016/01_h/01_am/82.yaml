@@ -1,0 +1,17 @@
+label: 82
+question: >-
+  ファイルを4冊まで置くことができる机で，A～Fの6冊のファイルを使って仕事をする。机上に5冊目のファイルを置きたいときは，机上の4冊のファイルのうち，最後に参照してから最も時間が経過しているファイルを引き出しにしまうことにする。ファイルをA，B，C，D，E，C，B，D，F，Bの順で机上に置いて参照するとき，最後に引き出しにしまうファイルはどれか。
+choice:
+  - label: ア
+    text: A
+  - label: イ
+    text: B
+  - label: ウ
+    text: D
+  - label: エ
+    text: E
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

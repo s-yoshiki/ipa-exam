@@ -1,0 +1,16 @@
+label: 88
+question: IEEE 802.11伝送規格を使用した異なるメーカの無線LAN製品同士で相互接続性が保証されていることを示すブランド名はどれか。
+choice:
+  - label: ア
+    text: MVNO
+  - label: イ
+    text: NFC
+  - label: ウ
+    text: Wi-Fi
+  - label: エ
+    text: WPA2
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

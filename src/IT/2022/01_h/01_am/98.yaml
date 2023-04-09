@@ -1,0 +1,16 @@
+label: 98
+question: 関係データベースで管理している"従業員"表から，氏名の列だけを取り出す操作を何というか。
+choice:
+  - label: ア
+    text: 結合
+  - label: イ
+    text: 射影
+  - label: ウ
+    text: 選択
+  - label: エ
+    text: 和
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

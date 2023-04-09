@@ -1,0 +1,16 @@
+label: 93
+question: NFCに準拠した無線通信方式を利用したものはどれか。
+choice:
+  - label: ア
+    text: ETC車載器との無線通信
+  - label: イ
+    text: エアコンのリモートコントロール
+  - label: ウ
+    text: カーナビの位置計測
+  - label: エ
+    text: 交通系のIC乗車券による改札
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

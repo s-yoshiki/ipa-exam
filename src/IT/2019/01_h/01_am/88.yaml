@@ -1,0 +1,16 @@
+label: 88
+question: ウイルスの感染に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: OSやアプリケーションだけではなく，機器に組み込まれたファームウェアも感染することがある。
+  - label: イ
+    text: PCをネットワークにつなげず，他のPCとのデータ授受に外部記憶媒体だけを利用すれば，感染することはない。
+  - label: ウ
+    text: 感染が判明したPCはネットワークにつなげたままにして，直ちにOSやセキュリティ対策ソフトのアップデート作業を実施する。
+  - label: エ
+    text: 電子メールの添付ファイルを開かなければ，感染することはない。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

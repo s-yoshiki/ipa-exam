@@ -1,0 +1,17 @@
+label: 99
+question: >-
+  文書をAさんからBさんに送るとき，公開鍵暗号方式を用いた暗号化とディジタル署名によって，セキュリティを確保したい。このとき，Aさんの公開鍵が使われる場面はどれか。
+choice:
+  - label: ア
+    text: Aさんが送る文書の暗号化
+  - label: イ
+    text: Aさんが送る文書へのディジタル署名の付与
+  - label: ウ
+    text: Bさんが受け取った文書に付与されたディジタル署名の検証
+  - label: エ
+    text: Bさんが受け取った文書の復号
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

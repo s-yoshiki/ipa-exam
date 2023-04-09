@@ -1,0 +1,16 @@
+label: 82
+question: ネットワークに接続した複数のコンピュータで並列処理を行うことによって，仮想的に高い処理能力をもつコンピュータとして利用する方式はどれか。
+choice:
+  - label: ア
+    text: ウェアラブルコンピューティング
+  - label: イ
+    text: グリッドコンピューティング
+  - label: ウ
+    text: モバイルコンピューティング
+  - label: エ
+    text: ユビキタスコンピューティング
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

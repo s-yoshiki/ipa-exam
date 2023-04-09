@@ -1,0 +1,16 @@
+label: 100
+question: 無線LANにおいて，あらかじめアクセスポイントへ登録された機器だけに接続を許可するセキュリティ対策はどれか。
+choice:
+  - label: ア
+    text: ANY接続拒否
+  - label: イ
+    text: ESSIDのステルス化
+  - label: ウ
+    text: MACアドレスフィルタリング
+  - label: エ
+    text: WPA2
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

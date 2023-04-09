@@ -1,0 +1,17 @@
+label: 94
+question: >-
+  商品の仕入状況を管理している関係データベースの"仕入一覧"表を正規化して，"仕入"表と"商品"表に分割したい。分割後の二つの表に共通して必要なフィールドとして，最も適切なものはどれか。ここで，仕入れは一度に一つの商品だけを仕入れることとし，仕入番号で一意に識別できる。また，商品は商品番号で一意に識別できる。
+choice:
+  - label: ア
+    text: 仕入番号
+  - label: イ
+    text: 支払方法
+  - label: ウ
+    text: 商品番号
+  - label: エ
+    text: 商品名
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

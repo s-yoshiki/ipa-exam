@@ -1,0 +1,16 @@
+label: 94
+question: インクジェットプリンタの印字方式を説明したものはどれか。
+choice:
+  - label: ア
+    text: インクの微細な粒子を用紙に直接吹き付けて印字する。
+  - label: イ
+    text: インクリボンを印字用のワイヤなどで用紙に打ち付けて印字する。
+  - label: ウ
+    text: 熱で溶けるインクを印字ヘッドで加熱して用紙に印字する。
+  - label: エ
+    text: レーザ光によって感光体にトナーを付着させて用紙に印字する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

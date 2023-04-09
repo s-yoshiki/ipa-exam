@@ -1,0 +1,16 @@
+label: 92
+question: CPUのキャッシュメモリに関する説明のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: キャッシュメモリのサイズは，主記憶のサイズよりも大きいか同じである。
+  - label: イ
+    text: キャッシュメモリは，主記憶の実効アクセス時間を短縮するために使われる。
+  - label: ウ
+    text: 主記憶の大きいコンピュータには，キャッシュメモリを搭載しても効果はない。
+  - label: エ
+    text: ヒット率を上げるために，よく使うプログラムを利用者が指定して常駐させる。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

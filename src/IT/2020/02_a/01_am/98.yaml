@@ -1,0 +1,24 @@
+label: 98
+question: >-
+  IoTエリアネットワークの構築に当たり，①～③の通信規格の使用を検討している。これらの通信規格を有線と無線に分類したとき，無線ネットワークに分類されるものだけを全て挙げたものはどれか。
+
+
+  1.  BLE
+
+  2.  PLC
+
+  3.  ZigBee
+choice:
+  - label: ア
+    text: ①，②
+  - label: イ
+    text: ①，②，③
+  - label: ウ
+    text: ①，③
+  - label: エ
+    text: ②，③
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

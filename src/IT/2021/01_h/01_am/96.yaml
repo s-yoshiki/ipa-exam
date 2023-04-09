@@ -1,0 +1,16 @@
+label: 96
+question: 情報セキュリティ方針に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 一度定めた内容は，運用が定着するまで変更してはいけない。
+  - label: イ
+    text: 企業が目指す情報セキュリティの理想像を記載し，その理想像に近づくための活動を促す。
+  - label: ウ
+    text: 企業の情報資産を保護するための重要な事項を記載しているので，社外に非公開として厳重に管理する。
+  - label: エ
+    text: 自社の事業内容，組織の特性及び所有する情報資産の特徴を考慮して策定する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

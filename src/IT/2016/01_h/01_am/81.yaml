@@ -1,0 +1,16 @@
+label: 81
+question: PCに接続された周辺装置と，OSやアプリケーションソフトとを仲介して，周辺装置を制御・操作するソフトウェアはどれか。
+choice:
+  - label: ア
+    text: アーカイバ
+  - label: イ
+    text: インストーラ
+  - label: ウ
+    text: デバイスドライバ
+  - label: エ
+    text: ミドルウェア
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

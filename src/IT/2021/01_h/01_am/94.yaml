@@ -1,0 +1,17 @@
+label: 94
+question: >-
+  特定のPCから重要情報を不正に入手するといった標的型攻撃に利用され，攻撃対象のPCに対して遠隔から操作を行って，ファイルの送受信やコマンドなどを実行させるものはどれか。
+choice:
+  - label: ア
+    text: RAT
+  - label: イ
+    text: VPN
+  - label: ウ
+    text: デバイスドライバ
+  - label: エ
+    text: ランサムウェア
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

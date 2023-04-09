@@ -1,0 +1,18 @@
+label: 93
+question: >-
+  売上高に応じた総費用を求めるために，図1のセル B5 に計算式を入力して，セル B6～B15 に複写する。セル B5
+  に入力する計算式として，適切なものはどれか。
+choice:
+  - label: ア
+    text: A5＊B1＋B2
+  - label: イ
+    text: A5＊B1
+  - label: ウ
+    text: A5＊B$1＋B$2
+  - label: エ
+    text: A5＊B$1
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

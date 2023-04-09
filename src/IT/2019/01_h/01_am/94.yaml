@@ -1,0 +1,16 @@
+label: 94
+question: ランサムウェアの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: PC内のファイルを暗号化して使用不能にし，復号するためのキーと引換えに金品を要求するソフトウェア
+  - label: イ
+    text: キーボードの入力を不正に記録するソフトウェア
+  - label: ウ
+    text: システムログを改ざんすることによって，自らを発見されにくくするソフトウェア
+  - label: エ
+    text: 自ら感染を広げる機能をもち，ネットワークを経由して蔓延していくソフトウェア
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

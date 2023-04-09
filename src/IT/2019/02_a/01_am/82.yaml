@@ -1,0 +1,16 @@
+label: 82
+question: 次の体系をもつ電話番号において，80億個の番号を創出したい。番号の最低限必要な桁数は幾つか。ここで，桁数には"020"を含むこととする。
+choice:
+  - label: ア
+    text: '11'
+  - label: イ
+    text: '12'
+  - label: ウ
+    text: '13'
+  - label: エ
+    text: '14'
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

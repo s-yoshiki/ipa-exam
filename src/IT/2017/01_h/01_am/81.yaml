@@ -1,0 +1,17 @@
+label: 81
+question: >-
+  Webサーバの認証において，同じ利用者IDに対してパスワードの誤りがあらかじめ定められた回数連続して発生した場合に，その利用者IDを自動的に一定期間利用停止にするセキュリティ対策を行った。この対策によって，最も防御の効果が期待できる攻撃はどれか。
+choice:
+  - label: ア
+    text: ゼロデイ攻撃
+  - label: イ
+    text: パスワードリスト攻撃
+  - label: ウ
+    text: バッファオーバフロー攻撃
+  - label: エ
+    text: ブルートフォース攻撃
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

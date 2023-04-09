@@ -1,0 +1,17 @@
+label: 96
+question: >-
+  先月の売上高は10,000千円あり，1,650千円の利益があった。利益を向上させるために，今月から原材料を変更し，変動費率を0.05下げる予定である。しかし人件費が150千円増えて，固定費が増加した。今月の売上高が先月と同じ10,000千円のとき，利益は先月に比べて幾ら増減するか。
+choice:
+  - label: ア
+    text: 200千円減少する。
+  - label: イ
+    text: 変わらない。
+  - label: ウ
+    text: 200千円増加する。
+  - label: エ
+    text: 350千円増加する。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

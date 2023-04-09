@@ -1,0 +1,16 @@
+label: 94
+question: 職場のPCを使用していたところ，ウイルス対策ソフトでウイルスを検出した旨のメッセージが表示された。このPCで直ちに行うべきこととして，適切なものはどれか。
+choice:
+  - label: ア
+    text: PCの再起動
+  - label: イ
+    text: 電子メールによる職場内への通知
+  - label: ウ
+    text: ネットワークからの切断
+  - label: エ
+    text: ファイルのバックアップ
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

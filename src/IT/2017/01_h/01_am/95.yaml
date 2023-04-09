@@ -1,0 +1,17 @@
+label: 95
+question: >-
+  あるWebサイトからIDとパスワードが漏えいし，そのWebサイトの利用者が別のWebサイトで，パスワードリスト攻撃の被害に遭ってしまった。このとき，Webサイトで使用していたIDとパスワードに関する問題点と思われる記述はどれか。
+choice:
+  - label: ア
+    text: IDとパスワードを暗号化されていない通信を使ってやり取りしていた。
+  - label: イ
+    text: 同じIDと同じパスワードを設定していた。
+  - label: ウ
+    text: 種類が少ない文字を組み合わせたパスワードを設定していた。
+  - label: エ
+    text: 短いパスワードを設定していた。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

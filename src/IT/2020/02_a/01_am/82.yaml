@@ -1,0 +1,17 @@
+label: 82
+question: >-
+  情報セキュリティの物理的対策として，取り扱う情報の重要性に応じて，オフィスなどの空間を物理的に区切り，オープンエリア，セキュリティエリア，受渡しエリアなどに分離することを何と呼ぶか。
+choice:
+  - label: ア
+    text: サニタイジング
+  - label: イ
+    text: ソーシャルエンジニアリング
+  - label: ウ
+    text: ゾーニング
+  - label: エ
+    text: ハッキング
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

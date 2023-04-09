@@ -1,0 +1,17 @@
+label: 85
+question: >-
+  無線LANのセキュリティにおいて，アクセスポイントがPCなどの端末からの接続要求を受け取ったときに，接続を要求してきた端末固有の情報を基に接続制限を行う仕組みはどれか。
+choice:
+  - label: ア
+    text: ESSID
+  - label: イ
+    text: MACアドレスフィルタリング
+  - label: ウ
+    text: VPN
+  - label: エ
+    text: WPA2
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

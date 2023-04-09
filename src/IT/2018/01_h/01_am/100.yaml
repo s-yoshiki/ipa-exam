@@ -1,0 +1,17 @@
+label: 100
+question: >-
+  仮想的に二つのESSIDをもつ無線LANアクセスポイントを使用して，PC，タブレット，ゲーム機などの機器をインターネットに接続している。それぞれのESSIDを次の設定で使用する場合，WEPの暗号化方式の脆弱性によって，外部から無線LANに不正アクセスされたときに発生しやすい被害はどれか。
+choice:
+  - label: ア
+    text: ESSID1に設定した暗号化キーが漏えいする。
+  - label: イ
+    text: PCからインターネットへの通信内容が漏えいする。
+  - label: ウ
+    text: インターネット接続回線を不正利用される。
+  - label: エ
+    text: タブレットに不正アクセスされる。
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

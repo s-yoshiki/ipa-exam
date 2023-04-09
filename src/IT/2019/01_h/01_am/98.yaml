@@ -1,0 +1,19 @@
+label: 98
+question: >-
+  表計算ソフトを用いて，二つの科目X，Yの成績を評価して合否を判定する。それぞれの点数はワークシートのセル A2，B2
+  に入力する。合計点が120点以上であり，かつ，2科目とも50点以上であればセル C2 に"合格"，それ以外は"不合格"と表示する。セル C2
+  に入れる適切な計算式はどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

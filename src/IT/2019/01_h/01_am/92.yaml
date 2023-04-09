@@ -1,0 +1,16 @@
+label: 92
+question: 関係データベースを構築する際にデータの正規化を行う目的として，適切なものはどれか。
+choice:
+  - label: ア
+    text: データに冗長性をもたせて，データ誤りを検出する。
+  - label: イ
+    text: データの矛盾や重複を排除して，データの維持管理を容易にする。
+  - label: ウ
+    text: データの文字コードを統一して，データの信頼性と格納効率を向上させる。
+  - label: エ
+    text: データを可逆圧縮して，アクセス効率を向上させる。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

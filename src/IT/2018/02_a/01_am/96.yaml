@@ -1,0 +1,16 @@
+label: 96
+question: 無線LANで利用されている周波数帯の2.4GHz帯，5GHz帯に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 2.4GHz帯と5GHz帯は，同じ室内では同時に使用できない。
+  - label: イ
+    text: 2.4GHz帯は，5GHz帯と比べると障害物に強く電波が届きやすい。
+  - label: ウ
+    text: 2.4GHz帯はWPA2の暗号化通信に対応しているが，5GHz帯は対応していない。
+  - label: エ
+    text: 2.4GHz帯は家電製品の電波干渉を受けないが，5GHz帯は電波干渉を受ける。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

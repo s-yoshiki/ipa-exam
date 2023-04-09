@@ -1,0 +1,16 @@
+label: 88
+question: コンピュータの内部時計を，基準になる時刻情報をもつサーバとネットワークを介して同期させるときに用いられるプロトコルはどれか。
+choice:
+  - label: ア
+    text: FTP
+  - label: イ
+    text: NTP
+  - label: ウ
+    text: POP
+  - label: エ
+    text: SMTP
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

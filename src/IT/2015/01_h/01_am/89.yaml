@@ -1,0 +1,16 @@
+label: 89
+question: 図1に示すソフトウェアの開発は，遅延が発生しないと仮定すると最短何日で完了するか。
+choice:
+  - label: ア
+    text: '35'
+  - label: イ
+    text: '40'
+  - label: ウ
+    text: '45'
+  - label: エ
+    text: '65'
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

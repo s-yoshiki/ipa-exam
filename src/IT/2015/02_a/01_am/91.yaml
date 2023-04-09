@@ -1,0 +1,16 @@
+label: 91
+question: 図1に基づいて，Aさんが分析した結果として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 味玉ラーメンは，チャーシューメンよりも売上比率，粗利率ともに高い。
+  - label: イ
+    text: 売上数量が最も少なく，売上比率，粗利率もともに最も低いのは，みそラーメンである。
+  - label: ウ
+    text: しょう油ラーメンは，売上比率が最も高いが，粗利率が最も低い。
+  - label: エ
+    text: チャーシューメンは売上高が少ないが，粗利率が高いので，粗利が最も多い。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

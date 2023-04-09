@@ -1,0 +1,16 @@
+label: 89
+question: 次のうち，無線LANで使用される暗号化規格はどれか。
+choice:
+  - label: ア
+    text: cookie
+  - label: イ
+    text: ESSID
+  - label: ウ
+    text: MIME
+  - label: エ
+    text: WPA2
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

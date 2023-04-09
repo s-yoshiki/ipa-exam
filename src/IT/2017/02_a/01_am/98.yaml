@@ -1,0 +1,16 @@
+label: 98
+question: 次のベン図の網掛けした部分の検索条件はどれか。
+choice:
+  - label: ア
+    text: (not A) and (B and C)
+  - label: イ
+    text: (not A) and (B or C)
+  - label: ウ
+    text: (not A) or (B and C)
+  - label: エ
+    text: (not A) or (B or C)
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

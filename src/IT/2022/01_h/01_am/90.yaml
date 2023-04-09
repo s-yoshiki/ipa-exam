@@ -1,0 +1,17 @@
+label: 90
+question: >-
+  ディレクトリ又はファイルがノードに対応する木構造で表現できるファイルシステムがある。ルートディレクトリを根として図のように表現したとき，中間ノードである節及び末端ノードである葉に対応するものの組合せとして，最も適切なものはどれか。ここで，空のディレクトリを許すものとする。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

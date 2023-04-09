@@ -1,0 +1,16 @@
+label: 94
+question: サーバに2台のHDDを接続しているとき，HDDの故障がどちらか片方だけであれば運用が続けられるようにしたい。使用する構成として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ストライピング
+  - label: イ
+    text: データマイニング
+  - label: ウ
+    text: テザリング
+  - label: エ
+    text: ミラーリング
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

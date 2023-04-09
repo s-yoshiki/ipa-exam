@@ -1,0 +1,16 @@
+label: 92
+question: PCなどの仕様の表記として，SXGAやQVGAなどが用いられるものはどれか。
+choice:
+  - label: ア
+    text: CPUのクロック周波数
+  - label: イ
+    text: HDDのディスクの直径
+  - label: ウ
+    text: ディスプレイの解像度
+  - label: エ
+    text: メモリの容量
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

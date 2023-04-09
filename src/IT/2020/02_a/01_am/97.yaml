@@ -1,0 +1,17 @@
+label: 97
+question: >-
+  公開鍵暗号方式では，暗号化のための鍵と復号のための鍵が必要となる。4人が相互に通信内容を暗号化して送りたい場合は，全部で8個の鍵が必要である。このうち，非公開にする鍵は何個か。
+choice:
+  - label: ア
+    text: '1'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '4'
+  - label: エ
+    text: '6'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

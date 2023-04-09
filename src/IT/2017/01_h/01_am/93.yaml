@@ -1,0 +1,16 @@
+label: 93
+question: OSS(Open Source Software)を利用した自社の社内システムの開発に関する行為として，<u>適切でないもの</u>はどれか。
+choice:
+  - label: ア
+    text: 自社でOSSを導入した際のノウハウを生かし，他社のOSS導入作業のサポートを有償で提供した。
+  - label: イ
+    text: 自社で改造したOSSを，元のOSSのライセンス条件に同業他社での利用禁止を追加してOSSとして公開した。
+  - label: ウ
+    text: 自社で収集したOSSをDVDに複写して他社向けに販売した。
+  - label: エ
+    text: 利用したOSSでは期待する性能が得られなかったので，OSSを独自に改造して性能を改善した。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

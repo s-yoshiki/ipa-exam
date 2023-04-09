@@ -1,0 +1,16 @@
+label: 98
+question: A社では紙の顧客名簿を電子化して，電子データで顧客管理を行うことにした。顧客名簿の電子データからの情報漏えいを防ぐ方法として，適切なものはどれか。
+choice:
+  - label: ア
+    text: データにディジタル署名を付与する。
+  - label: イ
+    text: データのバックアップを頻繁に取得する。
+  - label: ウ
+    text: データをRAIDのディスクに保存する。
+  - label: エ
+    text: データを暗号化して保存する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

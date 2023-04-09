@@ -1,0 +1,16 @@
+label: 92
+question: 外部と通信するメールサーバをDMZに設置する理由として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 機密ファイルが添付された電子メールが，外部に送信されるのを防ぐため
+  - label: イ
+    text: 社員が外部の取引先へ送信する際に電子メールの暗号化を行うため
+  - label: ウ
+    text: メーリングリストのメンバのメールアドレスが外部に漏れないようにするため
+  - label: エ
+    text: メールサーバを踏み台にして，外部から社内ネットワークに侵入させないため
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

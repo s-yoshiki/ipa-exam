@@ -1,0 +1,16 @@
+label: 95
+question: バイオメトリクス認証の例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 画面に表示された九つの点のうちの幾つかを一筆書きで結ぶことによる認証
+  - label: イ
+    text: 個人ごとに異なるユーザIDとパスワードによる認証
+  - label: ウ
+    text: 署名の字体，署名時の書き順や筆圧などを読取り機で識別させることによる認証
+  - label: エ
+    text: 複数のイラストの中から自分の記憶と関連付けておいた組合せを選ぶことによる認証
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

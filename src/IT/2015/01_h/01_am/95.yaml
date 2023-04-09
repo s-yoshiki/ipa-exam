@@ -1,0 +1,16 @@
+label: 95
+question: 売上高が3,000千円以上で赤字にならないようにしたい。変動費率を0.60と仮定した場合，固定費の上限は何千円か。
+choice:
+  - label: ア
+    text: 1,500
+  - label: イ
+    text: 1,300
+  - label: ウ
+    text: 1,200
+  - label: エ
+    text: 1,000
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

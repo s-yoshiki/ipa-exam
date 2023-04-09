@@ -1,0 +1,17 @@
+label: 87
+question: >-
+  売上伝票のデータを関係データベースの表で管理することを考える。売上伝票の表を設計するときに，表を構成するフィールドの関連性を分析し，データの重複及び不整合が発生しないように，複数の表に分ける作業はどれか。
+choice:
+  - label: ア
+    text: 結合
+  - label: イ
+    text: 射影
+  - label: ウ
+    text: 正規化
+  - label: エ
+    text: 排他制御
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

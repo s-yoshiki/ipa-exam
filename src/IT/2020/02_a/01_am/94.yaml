@@ -1,0 +1,26 @@
+label: 94
+question: >-
+  IoTデバイス群とそれらを管理するIoTサーバで構成されるIoTシステムがある。このシステムの情報セキュリティにおける①～③のインシデントと，それによって損なわれる，機密性，完全性及び可用性との組合せとして，適切なものはどれか。  
+    
+  〔インシデント〕
+
+
+  1.  IoTデバイスが，電池切れによって動作しなくなった。
+
+  2.  IoTデバイスとIoTサーバ間の通信を暗号化していなかったので，情報が漏えいした。
+
+  3.  システムの不具合によって，誤ったデータが記録された。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

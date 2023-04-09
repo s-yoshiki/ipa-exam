@@ -1,0 +1,16 @@
+label: 95
+question: 情報セキュリティの物理的及び環境的セキュリティ管理策において，サーバへの電源供給が停止するリスクを低減するために使用される装置はどれか。
+choice:
+  - label: ア
+    text: DMZ
+  - label: イ
+    text: IDS
+  - label: ウ
+    text: PKI
+  - label: エ
+    text: UPS
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

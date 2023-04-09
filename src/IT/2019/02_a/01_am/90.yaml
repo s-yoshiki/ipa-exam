@@ -1,0 +1,16 @@
+label: 90
+question: 交通機関，店頭，公共施設などの場所で，ネットワークに接続したディスプレイなどの電子的な表示機器を使って情報を発信するシステムはどれか。
+choice:
+  - label: ア
+    text: cookie
+  - label: イ
+    text: RSS
+  - label: ウ
+    text: ディジタルサイネージ
+  - label: エ
+    text: ディジタルデバイド
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

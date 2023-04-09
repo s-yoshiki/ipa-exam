@@ -1,0 +1,16 @@
+label: 91
+question: クロスサイトスクリプティングなどの攻撃でCookieが漏えいすることによって受ける被害の例はどれか。
+choice:
+  - label: ア
+    text: PCがウイルスに感染する。
+  - label: イ
+    text: PC内のファイルを外部に送信される。
+  - label: ウ
+    text: Webサービスのアカウントを乗っ取られる。
+  - label: エ
+    text: 無線LANを介してネットワークに侵入される。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

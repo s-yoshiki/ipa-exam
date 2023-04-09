@@ -1,0 +1,16 @@
+label: 92
+question: IoT機器からのデータ収集などを行う際の通信に用いられる，数十kmまでの範囲で無線通信が可能な広域性と省電力性を備えるものはどれか。
+choice:
+  - label: ア
+    text: BLE
+  - label: イ
+    text: LPWA
+  - label: ウ
+    text: MDM
+  - label: エ
+    text: MVNO
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

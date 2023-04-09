@@ -1,0 +1,16 @@
+label: 83
+question: 建物や物体などの立体物に，コンピュータグラフィックスを用いた映像などを投影し，様々な視覚効果を出す技術を何と呼ぶか。
+choice:
+  - label: ア
+    text: ディジタルサイネージ
+  - label: イ
+    text: バーチャルリアリティ
+  - label: ウ
+    text: プロジェクションマッピング
+  - label: エ
+    text: ポリゴン
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

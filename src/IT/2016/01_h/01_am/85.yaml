@@ -1,0 +1,16 @@
+label: 85
+question: 利用者がPCの電源を入れてから，そのPCが使える状態になるまでを四つの段階に分けたとき，最初に実行される段階はどれか。
+choice:
+  - label: ア
+    text: BIOSの読込み
+  - label: イ
+    text: OSの読込み
+  - label: ウ
+    text: ウイルス対策ソフトなどの常駐アプリケーションソフトの読込み
+  - label: エ
+    text: デバイスドライバの読込み
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

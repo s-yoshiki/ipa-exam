@@ -1,0 +1,16 @@
+label: 98
+question: コンピュータやネットワークに関するセキュリティ事故の対応を行うことを目的とした組織を何と呼ぶか。
+choice:
+  - label: ア
+    text: CSIRT
+  - label: イ
+    text: ISMS
+  - label: ウ
+    text: ISP
+  - label: エ
+    text: MVNO
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

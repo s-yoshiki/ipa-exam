@@ -1,0 +1,16 @@
+label: 82
+question: USBに関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: PCと周辺機器の間のデータ転送速度は，幾つかのモードからPC利用者自らが設定できる。
+  - label: イ
+    text: USBで接続する周辺機器への電力供給は，全てUSBケーブルを介して行う。
+  - label: ウ
+    text: 周辺機器側のコネクタ形状には幾つかの種類がある。
+  - label: エ
+    text: パラレルインタフェースであり，複数の信号線でデータを送る。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

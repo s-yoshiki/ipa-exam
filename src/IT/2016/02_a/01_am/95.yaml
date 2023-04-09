@@ -1,0 +1,16 @@
+label: 95
+question: 関係データベースにおける主キーに関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 主キーに設定したフィールドの値に1行だけならNULLを設定することができる。
+  - label: イ
+    text: 主キーに設定したフィールドの値を更新することはできない。
+  - label: ウ
+    text: 主キーに設定したフィールドは他の表の外部キーとして参照することができない。
+  - label: エ
+    text: 主キーは複数フィールドを組み合わせて設定することができる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

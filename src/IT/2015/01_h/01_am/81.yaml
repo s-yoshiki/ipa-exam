@@ -1,0 +1,23 @@
+label: 81
+question: |-
+  組織の活動に関する記述a～dのうち，ISMSの特徴として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  一過性の活動でなく改善と活動を継続する。
+  2.  現場が主導するボトムアップ活動である。
+  3.  導入及び活動は経営層を頂点とした組織的な取組みである。
+  4.  目標と期限を定めて活動し，目標達成によって終了する。
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: b，d
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

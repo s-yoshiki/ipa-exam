@@ -1,0 +1,16 @@
+label: 84
+question: メモリモジュールを装着するための，PC基板上の差込み口はどれか。
+choice:
+  - label: ア
+    text: PCカードスロット
+  - label: イ
+    text: フラッシュメモリ
+  - label: ウ
+    text: メモリインタリーブ
+  - label: エ
+    text: メモリスロット
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

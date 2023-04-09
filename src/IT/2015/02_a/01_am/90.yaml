@@ -1,0 +1,16 @@
+label: 90
+question: メニュー別の粗利を求めるために，図1のセル F2 に計算式を入力して，セル F3～F5 に複写する。セル F2 に入力する計算式として，適切なものはどれか。
+choice:
+  - label: ア
+    text: B2＊D2
+  - label: イ
+    text: (B2－C2)＊D2
+  - label: ウ
+    text: (B2－C2)／D2
+  - label: エ
+    text: (B$2－C$2)＊D$2
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

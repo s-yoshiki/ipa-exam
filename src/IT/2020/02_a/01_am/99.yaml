@@ -1,0 +1,17 @@
+label: 99
+question: >-
+  IoTデバイスとIoTサーバで構成され，IoTデバイスが計測した外気温をIoTサーバへ送り，IoTサーバからの指示でIoTデバイスに搭載されたモータが窓を開閉するシステムがある。このシステムにおけるアクチュエータの役割として，適切なものはどれか。
+choice:
+  - label: ア
+    text: IoTデバイスから送られてくる外気温のデータを受信する。
+  - label: イ
+    text: IoTデバイスに対して窓の開閉指示を送信する。
+  - label: ウ
+    text: 外気温を電気信号に変換する。
+  - label: エ
+    text: 窓を開閉する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

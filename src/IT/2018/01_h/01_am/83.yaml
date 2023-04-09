@@ -1,0 +1,16 @@
+label: 83
+question: デバイスドライバの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: PCに接続されている周辺機器を制御，操作するためのソフトウェア
+  - label: イ
+    text: PCの電源投入直後に起動され，OSが動作する前に，ハードディスクやキーボードなどに対する基本的な入出力ができるようにするソフトウェア
+  - label: ウ
+    text: 動画を含むページを表示するために，Webブラウザに組み込むソフトウェア
+  - label: エ
+    text: 複数のファイルを一つのファイルにまとめたり，まとめたファイルを元に戻したりするソフトウェア
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

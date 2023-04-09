@@ -1,0 +1,16 @@
+label: 96
+question: OSS(Open Source Software)に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 製品によっては，企業の社員が業務として開発に参加している。
+  - label: イ
+    text: ソースコードだけが公開されており，実行形式での配布は禁じられている。
+  - label: ウ
+    text: どの製品も，ISOで定められたオープンソースライセンスによって同じ条件で提供されている。
+  - label: エ
+    text: ビジネス用途での利用は禁じられている。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

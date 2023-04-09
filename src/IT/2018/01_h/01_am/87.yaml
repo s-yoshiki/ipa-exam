@@ -1,0 +1,16 @@
+label: 87
+question: 情報セキュリティ上の脅威であるゼロデイ攻撃の手口を説明したものはどれか。
+choice:
+  - label: ア
+    text: 攻撃開始から24時間以内に，攻撃対象のシステムを停止させる。
+  - label: イ
+    text: 潜伏期間がないウイルスによって，感染させた直後に発症させる。
+  - label: ウ
+    text: ソフトウェアの脆弱性への対策が公開される前に，脆弱性を悪用する。
+  - label: エ
+    text: 話術や盗み聞きなどによって，他人から機密情報を直ちに入手する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,19 @@
+label: 97
+question: |-
+  次の命令を実行したときに表示されるレコード数は，どのような条件に合致する人数を表しているか。  
+    
+  　件数表示(\[性能＝1\] and \[デザイン＝0\])
+choice:
+  - label: ア
+    text: 性能とデザインの両方を重視するモニタの人数
+  - label: イ
+    text: 性能は重視するが，デザインは重視しないモニタの人数
+  - label: ウ
+    text: 性能又はデザインのいずれか一方を重視するモニタの人数
+  - label: エ
+    text: 性能もデザインも重視しないモニタの人数
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

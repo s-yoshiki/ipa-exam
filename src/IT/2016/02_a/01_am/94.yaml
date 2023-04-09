@@ -1,0 +1,16 @@
+label: 94
+question: 並列処理の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 一連の処理を同時に実行できる処理単位に分け，複数のCPUで実行すること
+  - label: イ
+    text: 関連する複数の処理を一つの処理単位にまとめて実行すること
+  - label: ウ
+    text: ビジネスロジックやデータベース処理はサーバ側で行い，ユーザインタフェース処理はクライアント側で行うこと
+  - label: エ
+    text: 一つのCPUの処理時間を短い単位に分割し，複数のアプリケーションソフトに順番に割り当てて実行すること
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

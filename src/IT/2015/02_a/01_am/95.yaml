@@ -1,0 +1,17 @@
+label: 95
+question: >-
+  図1の工程1と工程2はPさんが担当することになった。工程1が予定日数どおりに完了した後，工程2の開始前に会社を休むことにした。工程2が予定日数どおりに完了すると仮定して，プロジェクトの進行に影響が出ないようにするためには，Pさんは工程2の開始前に最大何日間休むことができるか。ここで，休日の日数は考えないものとする。
+choice:
+  - label: ア
+    text: '1'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '3'
+  - label: エ
+    text: '4'
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

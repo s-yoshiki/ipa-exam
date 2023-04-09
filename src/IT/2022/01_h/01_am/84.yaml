@@ -1,0 +1,16 @@
+label: 84
+question: IoT機器の記録装置としても用いられ，記録媒体が半導体でできており物理的な駆動機構をもたないので，HDDと比較して低消費電力で耐衝撃性も高いものはどれか。
+choice:
+  - label: ア
+    text: DRM
+  - label: イ
+    text: DVD
+  - label: ウ
+    text: HDMI
+  - label: エ
+    text: SSD
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

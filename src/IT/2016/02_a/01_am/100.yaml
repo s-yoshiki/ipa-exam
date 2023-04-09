@@ -1,0 +1,26 @@
+label: 100
+question: >-
+  限られた人にしか閲覧を許可していない紙の名簿を電子化して，名簿ファイルとして管理することにした。次のa～dのうち，個人情報の漏えい対策として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  名簿ファイルに読込みパスワードを設定する。
+
+  2.  名簿ファイルを暗号化して保存する。
+
+  3.  名簿ファイルを保存するサーバを二重化構成にする。
+
+  4.  名簿を電子化した後，紙の名簿をシュレッダーで廃棄する。
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: a，b，d
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

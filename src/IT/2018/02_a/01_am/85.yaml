@@ -1,0 +1,17 @@
+label: 85
+question: >-
+  関係データベースで管理している"担当社員"表，"地区"表及び"顧客"表を結合して，A表を得た。結合に用いた"顧客"表はどれか。ここで，下線のうち実線は主キーを，破線は外部キーを表す。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

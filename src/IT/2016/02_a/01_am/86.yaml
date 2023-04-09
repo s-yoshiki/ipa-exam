@@ -1,0 +1,16 @@
+label: 86
+question: 全文検索型検索エンジンの検索データベースを作成する際に用いられ，Webページを自動的に巡回・収集するソフトウェアはどれか。
+choice:
+  - label: ア
+    text: CGI
+  - label: イ
+    text: クローラ
+  - label: ウ
+    text: クロスサイトスクリプティング
+  - label: エ
+    text: バックドア
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

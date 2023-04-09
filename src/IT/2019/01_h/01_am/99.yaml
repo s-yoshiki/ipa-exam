@@ -1,0 +1,17 @@
+label: 99
+question: >-
+  外部からの不正アクセスによるコンピュータに関する犯罪の疑いが生じた。そのとき，関係する機器やデータ，ログなどの収集及び分析を行い，法的な証拠性を明らかにするための手段や技術の総称はどれか。
+choice:
+  - label: ア
+    text: ディジタルサイネージ
+  - label: イ
+    text: ディジタル署名
+  - label: ウ
+    text: ディジタルディバイド
+  - label: エ
+    text: ディジタルフォレンジックス
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

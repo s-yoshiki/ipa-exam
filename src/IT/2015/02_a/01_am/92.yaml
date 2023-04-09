@@ -1,0 +1,17 @@
+label: 92
+question: >-
+  Aさんは，粗利向上策としてチャーシューメンの単価を50円値引きして，チャーシューメンの売上数量を増大させることを考えた。値引き前のチャーシューメンの粗利を超えることのできる最も少ない売上数量はどれか。
+choice:
+  - label: ア
+    text: '82'
+  - label: イ
+    text: '84'
+  - label: ウ
+    text: '87'
+  - label: エ
+    text: '90'
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

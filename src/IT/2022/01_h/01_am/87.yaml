@@ -1,0 +1,23 @@
+label: 87
+question: >-
+  メールサーバから電子メールを受信するためのプロトコルの一つであり，次の特徴をもつものはどれか。
+
+
+  1. 
+  メール情報をPC内のメールボックスに取り込んで管理する必要がなく，メールサーバ上に複数のフォルダで構成されたメールボックスを作成してメール情報を管理できる。
+
+  2.  PCやスマートフォンなど使用する端末が違っても，同一のメールボックスのメール情報を参照，管理できる。
+choice:
+  - label: ア
+    text: IMAP
+  - label: イ
+    text: NTP
+  - label: ウ
+    text: SMTP
+  - label: エ
+    text: WPA
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 98
+question: >-
+  〔Aさんが調べた結果〕に基づくと，Aさんが処分する機器の回収に伴う料金は総額で何円か。ここで，液晶ディスプレイ一体型PCだけにPCリサイクルマークが付いている。
+choice:
+  - label: ア
+    text: 4,320
+  - label: イ
+    text: 6,480
+  - label: ウ
+    text: 7,560
+  - label: エ
+    text: 10,800
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

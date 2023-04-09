@@ -1,0 +1,16 @@
+label: 83
+question: PCのブラウザでURLが"https://"で始まるサイトを閲覧したときの通信の暗号化に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: PCからWebサーバへの通信だけが暗号化される。
+  - label: イ
+    text: WebサーバからPCへの通信だけが暗号化される。
+  - label: ウ
+    text: WebサーバとPC間の双方向の通信が暗号化される。
+  - label: エ
+    text: どちらの方向の通信が暗号化されるのかは，Webサーバの設定による。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

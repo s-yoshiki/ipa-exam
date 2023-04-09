@@ -1,0 +1,16 @@
+label: 95
+question: 攻撃対象とは別のWebサイトから盗み出すなどによって，不正に取得した大量の認証情報を流用し，標的とするWebサイトに不正に侵入を試みるものはどれか。
+choice:
+  - label: ア
+    text: DoS攻撃
+  - label: イ
+    text: SQLインジェクション
+  - label: ウ
+    text: パスワードリスト攻撃
+  - label: エ
+    text: フィッシング
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

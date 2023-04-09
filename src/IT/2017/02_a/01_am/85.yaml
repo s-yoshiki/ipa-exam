@@ -1,0 +1,16 @@
+label: 85
+question: VPNの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: アクセスポイントを経由せず，端末同士が相互に通信を行う無線ネットワーク
+  - label: イ
+    text: オフィス内やビル内など，比較的狭いエリアに構築されるネットワーク
+  - label: ウ
+    text: 公衆ネットワークなどを利用して構築された，専用ネットワークのように使える仮想的なネットワーク
+  - label: エ
+    text: 社内ネットワークなどに接続する前に，PCのセキュリティ状態を検査するために接続するネットワーク
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

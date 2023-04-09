@@ -1,0 +1,16 @@
+label: 91
+question: E-R図で表現するものはどれか。
+choice:
+  - label: ア
+    text: HDD内のデータの物理的な配置
+  - label: イ
+    text: エンティティ同士の関係
+  - label: ウ
+    text: 処理の流れ
+  - label: エ
+    text: 入力データ及び出力データ
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

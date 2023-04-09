@@ -1,0 +1,17 @@
+label: 90
+question: >-
+  入力画面で数値を入力すべきところに誤って英字を入力したらエラーメッセージが表示され，再入力を求められた。このような工夫をしておく設計思想を表す用語として，適切なものはどれか。
+choice:
+  - label: ア
+    text: フールプルーフ
+  - label: イ
+    text: フェールソフト
+  - label: ウ
+    text: フォールトトレランス
+  - label: エ
+    text: ロールバック
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

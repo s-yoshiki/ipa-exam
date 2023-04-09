@@ -1,0 +1,16 @@
+label: 93
+question: 無線LANにおいて，PCとアクセスポイント間の電波傍受による盗聴の対策として，適切なものはどれか。
+choice:
+  - label: ア
+    text: MACアドレスフィルタリングを設定する。
+  - label: イ
+    text: アクセスポイントからのESSID通知を停止する。
+  - label: ウ
+    text: アクセスポイントのESSIDを推定しにくい値に設定する。
+  - label: エ
+    text: セキュリティの設定で，WPA2を選択する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

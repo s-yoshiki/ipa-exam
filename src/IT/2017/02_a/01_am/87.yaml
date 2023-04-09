@@ -1,0 +1,16 @@
+label: 87
+question: 通常使用される主系と，その主系の故障に備えて待機しつつ他の処理を実行している従系の二つから構成されるコンピュータシステムはどれか。
+choice:
+  - label: ア
+    text: クライアントサーバシステム
+  - label: イ
+    text: デュアルシステム
+  - label: ウ
+    text: デュプレックスシステム
+  - label: エ
+    text: ピアツーピアシステム
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

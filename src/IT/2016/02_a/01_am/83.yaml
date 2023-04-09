@@ -1,0 +1,17 @@
+label: 83
+question: >-
+  情報システムに対する攻撃のうち，あるIDに対して所定の回数を超えてパスワードの入力を間違えたとき，当該IDの使用を停止させることが有効な防衛手段となるものはどれか。
+choice:
+  - label: ア
+    text: DoS攻撃
+  - label: イ
+    text: SQLインジェクション
+  - label: ウ
+    text: 総当たり攻撃
+  - label: エ
+    text: フィッシング
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 83
+question: 電子メールの受信プロトコルであり，電子メールをメールサーバに残したままで，メールサーバ上にフォルダを作成し管理できるものはどれか。
+choice:
+  - label: ア
+    text: IMAP4
+  - label: イ
+    text: MIME
+  - label: ウ
+    text: POP3
+  - label: エ
+    text: SMTP
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

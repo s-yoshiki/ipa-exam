@@ -1,0 +1,16 @@
+label: 91
+question: WANの説明として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: インターネットを利用した仮想的な私的ネットワークのこと
+  - label: イ
+    text: 国内の各地を結ぶネットワークではなく，国と国を結ぶネットワークのこと
+  - label: ウ
+    text: 通信事業者のネットワークサービスなどを利用して，本社と支店のような地理的に離れた地点間を結ぶネットワークのこと
+  - label: エ
+    text: 無線LANで使われるIEEE802.11規格対応製品の普及を目指す業界団体によって，相互接続性が確認できた機器だけに与えられるブランド名のこと
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

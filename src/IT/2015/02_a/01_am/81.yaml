@@ -1,0 +1,16 @@
+label: 81
+question: 不正アクセスを行う手段の一つであるIPスプーフィングの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 金融機関や有名企業などを装い，電子メールなどを使って利用者を偽のサイトへ誘導し，個人情報などを取得すること
+  - label: イ
+    text: 侵入を受けたサーバに設けられた，不正侵入を行うための通信経路のこと
+  - label: ウ
+    text: 偽の送信元IPアドレスをもったパケットを送ること
+  - label: エ
+    text: 本人に気付かれないように，利用者の操作や個人情報などを収集すること
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

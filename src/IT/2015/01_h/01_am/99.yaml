@@ -1,0 +1,19 @@
+label: 99
+question: |-
+  表1の結果から，次の命令を実行したときに表示されるレコード数は幾つか。  
+    
+  　件数表示(\[性能＝1\] or \[価格＝1\])
+choice:
+  - label: ア
+    text: '60'
+  - label: イ
+    text: '70'
+  - label: ウ
+    text: '85'
+  - label: エ
+    text: '115'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

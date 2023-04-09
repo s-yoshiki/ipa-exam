@@ -1,0 +1,16 @@
+label: 81
+question: IoTシステム向けに使われる無線ネットワークであり，一般的な電池で数年以上の運用が可能な省電力性と，最大で数十kmの通信が可能な広域性を有するものはどれか。
+choice:
+  - label: ア
+    text: LPWA
+  - label: イ
+    text: MDM
+  - label: ウ
+    text: SDN
+  - label: エ
+    text: WPA2
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

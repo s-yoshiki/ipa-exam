@@ -1,0 +1,16 @@
+label: 92
+question: IoTエリアネットワークの通信などに利用されるBLEは，Bluetooth4.0で追加された仕様である。BLEに関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: Wi-Fiのアクセスポイントとも通信ができるようになった。
+  - label: イ
+    text: 一般的なボタン電池で，半年から数年間の連続動作が可能なほどに低消費電力である。
+  - label: ウ
+    text: 従来の規格であるBluetooth3.0以前と互換性がある。
+  - label: エ
+    text: デバイスとの通信には，赤外線も使用できる。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 98
+question: 攻撃者が他人のPCにランサムウェアを感染させる狙いはどれか。
+choice:
+  - label: ア
+    text: PC内の個人情報をネットワーク経由で入手する。
+  - label: イ
+    text: PC内のファイルを使用不能にし，解除と引換えに金銭を得る。
+  - label: ウ
+    text: PCのキーボードで入力された文字列を，ネットワーク経由で入手する。
+  - label: エ
+    text: PCへの動作指示をネットワーク経由で送り，PCを不正に操作する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

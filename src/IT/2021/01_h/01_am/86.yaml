@@ -1,0 +1,17 @@
+label: 86
+question: >-
+  店内に設置した多数のネットワークカメラから得たデータを，インターネットを介してIoTサーバに送信し，顧客の行動を分析するシステムを構築する。このとき，IoTゲートウェイを店舗内に配置し，映像解析処理を実行して映像から人物の座標データだけを抽出することによって，データ量を減らしてから送信するシステム形態をとった。このようなシステム形態を何と呼ぶか。
+choice:
+  - label: ア
+    text: MDM
+  - label: イ
+    text: SDN
+  - label: ウ
+    text: エッジコンピューティング
+  - label: エ
+    text: デュプレックスシステム
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

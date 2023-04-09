@@ -1,0 +1,16 @@
+label: 87
+question: E-R図に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 構造化プログラミングのためのアルゴリズムを表記する。
+  - label: イ
+    text: 作業の所要期間の見積りやスケジューリングを行い，工程を管理する。
+  - label: ウ
+    text: 処理手順などのアルゴリズムを図で表記する。
+  - label: エ
+    text: データベースの設計に当たって，データ間の関係を表記する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

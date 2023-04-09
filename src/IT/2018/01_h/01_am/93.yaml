@@ -1,0 +1,16 @@
+label: 93
+question: ISMSにおける情報セキュリティ方針に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 企業の現状とは切り離して，目標とする理想形を記述するのがよい。
+  - label: イ
+    text: 周知は情報セキュリティ担当者だけに限定するのがよい。
+  - label: ウ
+    text: トップマネジメントが確立しなければならない。
+  - label: エ
+    text: 適用範囲が企業全体であっても，部門単位で制定するのがよい。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

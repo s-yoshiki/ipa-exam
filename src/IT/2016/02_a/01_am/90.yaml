@@ -1,0 +1,16 @@
+label: 90
+question: 次のうち，通信可能な最大距離が最も短いものはどれか。
+choice:
+  - label: ア
+    text: Bluetooth
+  - label: イ
+    text: IrDA
+  - label: ウ
+    text: NFC
+  - label: エ
+    text: Wi-Fi
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

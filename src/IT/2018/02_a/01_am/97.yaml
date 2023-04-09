@@ -1,0 +1,16 @@
+label: 97
+question: サブネットマスクの用法に関する説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: IPアドレスのネットワークアドレス部とホストアドレス部の境界を示すのに用いる。
+  - label: イ
+    text: LANで利用するプライベートIPアドレスとインターネット上で利用するグローバルIPアドレスとを相互に変換するのに用いる。
+  - label: ウ
+    text: 通信相手のIPアドレスからイーサネット上のMACアドレスを取得するのに用いる。
+  - label: エ
+    text: ネットワーク内のコンピュータに対してIPアドレスなどのネットワーク情報を自動的に割り当てるのに用いる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,18 @@
+label: 82
+question: >-
+  JPCERTコーディネーションセンターと情報処理推進機構(IPA)が共同運営するJVN(Japan Vulnerability
+  Notes)で，"JVN#12345678"などの形式の識別子を付けて管理している情報はどれか。
+choice:
+  - label: ア
+    text: OSSのライセンスに関する情報
+  - label: イ
+    text: ウイルス対策ソフトの定義ファイルの最新バージョン情報
+  - label: ウ
+    text: 工業製品や測定方法などの規格
+  - label: エ
+    text: ソフトウェアなどの脆弱性関連情報とその対策
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

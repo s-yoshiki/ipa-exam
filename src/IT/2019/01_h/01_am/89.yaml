@@ -1,0 +1,16 @@
+label: 89
+question: スマートフォンを利用するときに，ソーシャルエンジニアリングに分類されるショルダーハックの防止策として，適切なものはどれか。
+choice:
+  - label: ア
+    text: OSを常に最新の状態で利用する。
+  - label: イ
+    text: 位置情報機能をオフにする。
+  - label: ウ
+    text: スクリーンにのぞき見防止フィルムを貼る。
+  - label: エ
+    text: 落下，盗難防止用にストラップを付ける。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

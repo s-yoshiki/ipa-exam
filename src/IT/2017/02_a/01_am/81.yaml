@@ -1,0 +1,16 @@
+label: 81
+question: コンピュータに対する命令を，プログラム言語を用いて記述したものを何と呼ぶか。
+choice:
+  - label: ア
+    text: PINコード
+  - label: イ
+    text: ソースコード
+  - label: ウ
+    text: バイナリコード
+  - label: エ
+    text: 文字コード
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

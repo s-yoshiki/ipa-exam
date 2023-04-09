@@ -1,0 +1,17 @@
+label: 98
+question: >-
+  それぞれが独立に点灯／消灯の操作ができる5個のランプが並んでいる。2個以上のランプが点灯しているパターンは何通りあるか。ここで，全てが点灯しているパターンは1通り，いずれか1個が点灯しているパターンは5通りと数えるものとする。
+choice:
+  - label: ア
+    text: '4'
+  - label: イ
+    text: '10'
+  - label: ウ
+    text: '26'
+  - label: エ
+    text: '32'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

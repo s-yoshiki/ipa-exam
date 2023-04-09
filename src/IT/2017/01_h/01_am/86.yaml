@@ -1,0 +1,16 @@
+label: 86
+question: AさんはBさんの公開鍵をもっている。Bさんの公開鍵を使ってAさんができることはどれか。
+choice:
+  - label: ア
+    text: Aさんのディジタル署名を作成でき，Bさんへの通信に付与する。
+  - label: イ
+    text: Bさんが確実に受け取ったという通知を自動返信させることができる電子メールを送信する。
+  - label: ウ
+    text: Bさんだけが復号できる暗号文を作成する。
+  - label: エ
+    text: Bさんへの通信の内容が改ざんされた場合に，Aさんが検知できる。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

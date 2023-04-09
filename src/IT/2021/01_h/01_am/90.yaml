@@ -1,0 +1,16 @@
+label: 90
+question: CPUのクロックに関する説明のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: USB接続された周辺機器とCPUの間のデータ転送速度は，クロックの周波数によって決まる。
+  - label: イ
+    text: クロックの間隔が短いほど命令実行に時間が掛かる。
+  - label: ウ
+    text: クロックは，次に実行すべき命令の格納位置を記録する。
+  - label: エ
+    text: クロックは，命令実行のタイミングを調整する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

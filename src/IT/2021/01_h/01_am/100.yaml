@@ -1,0 +1,16 @@
+label: 100
+question: システムの経済性の評価において，TCOの概念が重要視されるようになった理由として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: システムの総コストにおいて，運用費に比べて初期費用の割合が増大した。
+  - label: イ
+    text: システムの総コストにおいて，初期費用に比べて運用費の割合が増大した。
+  - label: ウ
+    text: システムの総コストにおいて，初期費用に占めるソフトウェア費用の割合が増大した。
+  - label: エ
+    text: システムの総コストにおいて，初期費用に占めるハードウェア費用の割合が増大した。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

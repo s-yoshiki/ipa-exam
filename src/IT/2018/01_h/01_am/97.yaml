@@ -1,0 +1,16 @@
+label: 97
+question: ディジタルフォレンジックスの目的として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 自社システムを攻撃して不正侵入を試みるテストを実施して，脆弱性を発見する。
+  - label: イ
+    text: 情報漏えいなどの犯罪に対する法的証拠となり得るデータを収集して保全する。
+  - label: ウ
+    text: ディジタルデータに対して定期的にウイルスチェックを行い，安全性を確認する。
+  - label: エ
+    text: パスワード認証方式からバイオメトリクス認証方式に切り替えて，不正侵入のリスクを低減する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

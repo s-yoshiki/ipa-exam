@@ -1,0 +1,16 @@
+label: 97
+question: 拡張子"avi"が付くファイルが扱う対象として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 音声
+  - label: イ
+    text: 静止画
+  - label: ウ
+    text: 動画
+  - label: エ
+    text: 文書
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

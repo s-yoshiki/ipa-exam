@@ -1,0 +1,23 @@
+label: 84
+question: |-
+  社員に対する情報セキュリティ教育の実施に関する記述 a～d のうち，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  情報セキュリティ違反をした者に対する再教育に当たっては，同じ過ちを繰り返さないための予防処置も含める。
+  2.  新入社員に対する研修プログラムに組み込む。
+  3.  対象は情報システム部門に所属する社員に限定する。
+  4.  定期的な実施に加えて，情報セキュリティに関わる事件や事故が発生した後にも実施する。
+choice:
+  - label: ア
+    text: a，b，d
+  - label: イ
+    text: a，c，d
+  - label: ウ
+    text: a，d
+  - label: エ
+    text: b，c
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

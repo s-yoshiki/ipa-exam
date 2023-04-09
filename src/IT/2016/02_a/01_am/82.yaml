@@ -1,0 +1,18 @@
+label: 82
+question: >-
+  セル B2～C8 に学生の成績が科目ごとに入力されている。セル D2 に計算式 "IF(B2≧50，'合格'，IF(C2≧50，'合格'，'不合格'))"
+  を入力し，それをセル D3～D8 に複写した。セル D2～D8 において"合格"と表示されたセルの数は幾つか。
+choice:
+  - label: ア
+    text: '2'
+  - label: イ
+    text: '3'
+  - label: ウ
+    text: '4'
+  - label: エ
+    text: '5'
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 89
+question: 無線通信におけるLTEの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: アクセスポイントを介さずに，端末同士で直接通信する無線LANの通信方法
+  - label: イ
+    text: 数メートルの範囲内で，PCや周辺機器などを接続する小規模なネットワーク
+  - label: ウ
+    text: 第3世代携帯電話よりも高速なデータ通信が可能な，携帯電話の無線通信規格
+  - label: エ
+    text: 電波の届きにくい家庭やオフィスに設置する，携帯電話の小型基地局システム
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

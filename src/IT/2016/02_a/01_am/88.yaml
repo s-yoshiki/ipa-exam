@@ -1,0 +1,16 @@
+label: 88
+question: 関係データベースにおいて，正規化を行う目的はどれか。
+choice:
+  - label: ア
+    text: 関連するデータをポインタで結び，アクセス効率を高める。
+  - label: イ
+    text: データにエラーを訂正する符号を付加して，信頼性を高める。
+  - label: ウ
+    text: データを暗号化して，セキュリティを確保する。
+  - label: エ
+    text: データを重複してもたないことなどによって，保守性を高める。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

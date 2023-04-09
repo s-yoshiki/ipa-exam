@@ -1,0 +1,27 @@
+label: 81
+question: >-
+  ソフトウェア①～④のうち，スマートフォンやタブレットなどの携帯端末に使用されるOSS(Open Source
+  Software)のOSだけを全て挙げたものはどれか。
+
+
+  1.  Android
+
+  2.  iOS
+
+  3.  Thunderbird
+
+  4.  Windows Phone
+choice:
+  - label: ア
+    text: ①
+  - label: イ
+    text: ①，②，③
+  - label: ウ
+    text: ②，④
+  - label: エ
+    text: ③，④
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

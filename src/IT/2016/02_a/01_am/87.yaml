@@ -1,0 +1,16 @@
+label: 87
+question: 情報セキュリティにおける機密性・完全性・可用性に関する記述のうち，完全性が保たれなかった例はどれか。
+choice:
+  - label: ア
+    text: 暗号化して送信した電子メールが第三者に盗聴された。
+  - label: イ
+    text: オペレータが誤ってデータ入力し，顧客名簿に矛盾が生じた。
+  - label: ウ
+    text: ショッピングサイトがシステム障害で一時的に利用できなかった。
+  - label: エ
+    text: データベースで管理していた顧客の個人情報が漏えいした。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

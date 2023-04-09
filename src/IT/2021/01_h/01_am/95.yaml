@@ -1,0 +1,17 @@
+label: 95
+question: >-
+  関係データベースで管理された"商品"表，"売上"表から売上日が5月中で，かつ，商品ごとの合計額が20,000円以上になっている商品だけを全て挙げたものはどれか。
+choice:
+  - label: ア
+    text: 商品A，商品B，商品C
+  - label: イ
+    text: 商品A，商品B，商品C，商品D
+  - label: ウ
+    text: 商品B，商品C
+  - label: エ
+    text: 商品C
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

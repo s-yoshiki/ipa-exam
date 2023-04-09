@@ -1,0 +1,22 @@
+label: 96
+question: |-
+  販売管理システムに関する記述のうち，TCOに含まれる費用だけを全て挙げたものはどれか。
+
+  1.  販売管理システムで扱う商品の仕入高
+  2.  販売管理システムで扱う商品の配送費
+  3.  販売管理システムのソフトウェア保守費
+  4.  販売管理システムのハードウェア保守費
+choice:
+  - label: ア
+    text: ①，②
+  - label: イ
+    text: ①，④
+  - label: ウ
+    text: ②，③
+  - label: エ
+    text: ③，④
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

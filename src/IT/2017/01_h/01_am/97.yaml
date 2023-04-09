@@ -1,0 +1,16 @@
+label: 97
+question: 携帯電話会社が発行する，契約情報を記録したICカードであり，携帯電話機などに差し込んで使用するものを何というか。
+choice:
+  - label: ア
+    text: B-CASカード
+  - label: イ
+    text: PCカード
+  - label: ウ
+    text: SDカード
+  - label: エ
+    text: SIMカード
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

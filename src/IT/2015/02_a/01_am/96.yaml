@@ -1,0 +1,17 @@
+label: 96
+question: >-
+  図1のEの時点で，この組立て作業の納期を短縮する必要が発生し，他の作業を担当していたQさんが2日間，このプロジェクトの工程を手伝ってくれることになった。プロジェクトを早期に終了させるためには，どの工程をどれだけ手伝ってもらうのがよいか。
+choice:
+  - label: ア
+    text: 工程7を2日間
+  - label: イ
+    text: 工程10を2日間
+  - label: ウ
+    text: 工程7と工程8をそれぞれ1日ずつ
+  - label: エ
+    text: 工程7と工程9をそれぞれ1日ずつ
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

@@ -1,0 +1,27 @@
+label: 85
+question: >-
+  ワイルドカードを使って "\*A\*.te??"
+  の表現で文字列を検索するとき，①～④の文字列のうち，検索条件に一致するものだけを全て挙げたものはどれか。ここで，ワイルドカードの"?"は任意の1文字を表し，"\*"は0個以上の任意の文字から成る文字列を表す。
+
+
+  1.  A.text
+
+  2.  AA.tex
+
+  3.  B.Atex
+
+  4.  BA.Btext
+choice:
+  - label: ア
+    text: ①
+  - label: イ
+    text: ①，②
+  - label: ウ
+    text: ②，③，④
+  - label: エ
+    text: ③，④
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

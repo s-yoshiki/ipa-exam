@@ -1,0 +1,17 @@
+label: 92
+question: >-
+  AさんはBさんから，〔Zプロジェクトの状況〕の(5)以外にも，影響の大きなリスクが存在するかどうか，検討するように指示を受けた。〔Zプロジェクトの状況〕の(1)～(4)のうちで，影響の最も大きなリスクが存在する項目はどれか。
+choice:
+  - label: ア
+    text: (1)
+  - label: イ
+    text: (2)
+  - label: ウ
+    text: (3)
+  - label: エ
+    text: (4)
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

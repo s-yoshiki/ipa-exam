@@ -1,0 +1,22 @@
+label: 90
+question: |-
+  認証に必要な情報の変更又は更新を定期的に行う<u>必要がない</u>ものだけを全て挙げたものはどれか。  
+    
+
+  1.  虹彩認証
+  2.  電子証明書による認証
+  3.  パスワード認証
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: b
+  - label: ウ
+    text: c
+  - label: エ
+    text: a，b
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

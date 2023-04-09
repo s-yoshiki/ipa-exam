@@ -1,0 +1,18 @@
+label: 89
+question: >-
+  メニュー別の売上高を求めるために，図1のセル E2 に計算式を入力して，セル E3～E5 に複写する。セル E2
+  に入力する計算式として，適切なものはどれか。
+choice:
+  - label: ア
+    text: B2＊D2
+  - label: イ
+    text: B$2＊D$2
+  - label: ウ
+    text: B2／D2
+  - label: エ
+    text: B2／D$2
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

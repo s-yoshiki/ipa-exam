@@ -1,0 +1,17 @@
+label: 92
+question: >-
+  AさんがXさん宛ての電子メールを送るときに，参考までにYさんとZさんにも送ることにした。ただし，Zさんに送ったことは，XさんとYさんには知られたくない。このときに指定する宛先として，適切な組合せはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 94
+question: 図1のセル B17 に損益分岐点を求める計算式を入力する。セル B17 に入力する計算式として，適切なものはどれか。
+choice:
+  - label: ア
+    text: B2＊B1
+  - label: イ
+    text: B2＊(1－B1)
+  - label: ウ
+    text: B2／B1
+  - label: エ
+    text: B2／(1－B1)
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

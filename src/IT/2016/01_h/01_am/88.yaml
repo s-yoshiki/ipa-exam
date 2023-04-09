@@ -1,0 +1,16 @@
+label: 88
+question: 感光ドラム上に印刷イメージを作り，粉末インク(トナ一)を付着させて紙に転写，定着させる方式のプリンタはどれか。
+choice:
+  - label: ア
+    text: インクジェットプリンタ
+  - label: イ
+    text: インパクトプリンタ
+  - label: ウ
+    text: 熱転写プリンタ
+  - label: エ
+    text: レーザプリンタ
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

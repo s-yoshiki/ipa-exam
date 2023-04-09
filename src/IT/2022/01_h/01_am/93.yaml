@@ -1,0 +1,16 @@
+label: 93
+question: A3判の紙の長辺を半分に折ると，A4判の大きさになり，短辺：長辺の比率は変わらない。A3判の長辺はA4判の長辺のおよそ何倍か。
+choice:
+  - label: ア
+    text: '1.41'
+  - label: イ
+    text: '1.5'
+  - label: ウ
+    text: '1.73'
+  - label: エ
+    text: '2'
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

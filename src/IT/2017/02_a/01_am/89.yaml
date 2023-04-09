@@ -1,0 +1,16 @@
+label: 89
+question: ソフトウェアの不正利用防止などを目的として，プロダクトIDや利用者のハードウェア情報を使って，ソフトウェアのライセンス認証を行うことを表す用語はどれか。
+choice:
+  - label: ア
+    text: アクティベーション
+  - label: イ
+    text: クラウドコンピューティング
+  - label: ウ
+    text: ストリーミング
+  - label: エ
+    text: フラグメンテーション
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

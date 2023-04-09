@@ -1,0 +1,16 @@
+label: 89
+question: セキュリティを保つべきサーバルームの運用例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 管理を容易にするために，入退室に使用するIDカードは個人ごとではなく部署ごとに発行する。
+  - label: イ
+    text: 全従業員や来訪者に所在が分かるように，入口に室名表示をする。
+  - label: ウ
+    text: 入退室の情報が漏えいすることを防止するために，入退室の記録は取らない。
+  - label: エ
+    text: 不正行為を防止するために，監督者がいないときはサーバ室で作業させない。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

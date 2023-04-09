@@ -1,0 +1,16 @@
+label: 88
+question: 関係データベースにおける外部キーに関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 外部キーがもつ特性を，一意性制約という。
+  - label: イ
+    text: 外部キーを設定したフィールドには，重複する値を設定することはできない。
+  - label: ウ
+    text: 一つの表に複数の外部キーを設定することができる。
+  - label: エ
+    text: 複数のフィールドを，まとめて一つの外部キーとして設定することはできない。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 95
+question: 表1と表2に，ある操作を行って表3が得られた。行った操作だけを全て挙げたものはどれか。
+choice:
+  - label: ア
+    text: 結合
+  - label: イ
+    text: 結合，射影
+  - label: ウ
+    text: 結合，選択
+  - label: エ
+    text: 選択，射影
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

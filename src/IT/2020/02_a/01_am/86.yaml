@@ -1,0 +1,16 @@
+label: 86
+question: 二要素認証の説明として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 所有物，記憶及び生体情報の3種類のうちの2種類を使用して認証する方式
+  - label: イ
+    text: 人間の生体器官や筆跡などを使った認証で，認証情報の2か所以上の特徴点を使用して認証する方式
+  - label: ウ
+    text: 文字，数字及び記号のうち2種類以上を組み合わせたパスワードを用いて利用者を認証する方式
+  - label: エ
+    text: 利用者を一度認証することで二つ以上のシステムやサービスなどを利用できるようにする方式
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 84
+question: ネットワークの構成のうち，WANに該当するものはどれか。
+choice:
+  - label: ア
+    text: 自社が管理する通信回線を使用して，同一敷地内の建物間を結ぶネットワーク
+  - label: イ
+    text: 自社ビル内のフロア間を結ぶネットワーク
+  - label: ウ
+    text: 通信事業者の通信回線を使用して，本社と他県の支社を結ぶネットワーク
+  - label: エ
+    text: フロア内の各PCを結ぶネットワーク
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

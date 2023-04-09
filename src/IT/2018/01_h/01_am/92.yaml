@@ -1,0 +1,21 @@
+label: 92
+question: |-
+  a～cのうち，PCがウイルスに感染しないようにするための対策として，適切なものだけを全て挙げたものはどれか。
+
+  1.  ソフトウェアに対するセキュリティパッチの適用
+  2.  ハードディスクのストライピング
+  3.  利用者に対するセキュリティ教育
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: a，c
+  - label: エ
+    text: b，c
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

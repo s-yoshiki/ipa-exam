@@ -1,0 +1,16 @@
+label: 86
+question: 入退室許可表のレコードを一意に決めるための主キーとして，適切なものはどれか。ここで，下線は主キーを表す。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

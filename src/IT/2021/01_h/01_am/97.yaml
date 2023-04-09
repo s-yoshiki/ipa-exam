@@ -1,0 +1,17 @@
+label: 97
+question: >-
+  複数のコンピュータが同じ内容のデータを保持し，各コンピュータがデータの正当性を検証して担保することによって，矛盾なくデータを改ざんすることが困難となる，暗号資産の基盤技術として利用されている分散型台帳を実現したものはどれか。
+choice:
+  - label: ア
+    text: クラウドコンピューティング
+  - label: イ
+    text: ディープラーニング
+  - label: ウ
+    text: ブロックチェーン
+  - label: エ
+    text: リレーショナルデータベース
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

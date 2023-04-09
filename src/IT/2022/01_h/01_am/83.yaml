@@ -1,0 +1,16 @@
+label: 83
+question: データを行と列から成る表形式で表すデータベースのモデルはどれか。
+choice:
+  - label: ア
+    text: オブジェクトモデル
+  - label: イ
+    text: 階層モデル
+  - label: ウ
+    text: 関係モデル
+  - label: エ
+    text: ネットワークモデル
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

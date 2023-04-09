@@ -1,0 +1,20 @@
+label: 93
+question: |-
+  アローダイアグラムを作成する手順のaに入れる記述として，適切なものはどれか。  
+    
+  〔手順〕  
+  組立て作業を構成する各工程に対して，a順番を決め，アローダイアグラムを作成する。
+choice:
+  - label: ア
+    text: それぞれの経費によって
+  - label: イ
+    text: それぞれの作業の前後関係を調べて
+  - label: ウ
+    text: それぞれのリスクによって
+  - label: エ
+    text: 担当するメンバのスキルによって
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

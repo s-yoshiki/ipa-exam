@@ -1,0 +1,17 @@
+label: 97
+question: >-
+  〔Aさんが調べた結果〕の(1)と(2)の内容に絞り込まれた情報を得るために，インターネットの検索エンジンに入力すると効率よく検索できる検索文字列として，適切なものはどれか。ここで，文字列と文字列の間にスペースを記述すると，AND検索される。
+choice:
+  - label: ア
+    text: PC 回収 料金
+  - label: イ
+    text: PC 機種 料金
+  - label: ウ
+    text: X社 PC 回収 料金
+  - label: エ
+    text: X社 PC 機種 料金
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 82
+question: 情報セキュリティにおける機密性，完全性及び可用性のうち，特に完全性の向上を目的とした取組として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: サーバをデュプレックスシステムで構成して運用する。
+  - label: イ
+    text: システムの稼働率の向上策を検討する。
+  - label: ウ
+    text: システムの利用開始時にユーザ認証を求める。
+  - label: エ
+    text: 情報の改ざんを防止する対策を施す。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

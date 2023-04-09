@@ -1,0 +1,16 @@
+label: 91
+question: 2進数1011と2進数101を乗算した結果の2進数はどれか。
+choice:
+  - label: ア
+    text: '1111'
+  - label: イ
+    text: '10000'
+  - label: ウ
+    text: '101111'
+  - label: エ
+    text: '110111'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

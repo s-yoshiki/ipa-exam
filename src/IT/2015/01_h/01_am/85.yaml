@@ -1,0 +1,19 @@
+label: 85
+question: >-
+  ICカードリーダでICカード番号を読み込んだときに，入室の可否を判断するためには，データベース中の幾つかの表を調べる必要がある。調べる表とその順番として，適切なものはどれか。ここで，→は表を参照する順番を示している。  
+
+  　なお，社員は1人ずつICカードを使って入退室することになっている。
+choice:
+  - label: ア
+    text: ICカード登録表 → 入退室許可表
+  - label: イ
+    text: ICカード登録表 → 入退室記録表 → 入退室許可表
+  - label: ウ
+    text: 入退室記録表 → ICカード登録表 → 入退室許可表
+  - label: エ
+    text: 入退室記録表 → 入退室許可表
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

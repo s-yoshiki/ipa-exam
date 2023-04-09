@@ -1,0 +1,16 @@
+label: 83
+question: PKIにおいて，電子証明書が正当性を証明しているものはどれか。
+choice:
+  - label: ア
+    text: 暗号化アルゴリズム
+  - label: イ
+    text: 共通鍵
+  - label: ウ
+    text: 公開鍵
+  - label: エ
+    text: 秘密鍵
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

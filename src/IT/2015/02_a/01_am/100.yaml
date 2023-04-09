@@ -1,0 +1,17 @@
+label: 100
+question: >-
+  Aさんが処分するPCにおいて，専用ソフトの説明書によって，そのソフトウェアの処理速度が次のとおりであることが分かった。Aさんが処分するPCに内蔵されている全てのHDDの処理に掛かる時間は合わせて何分か。ここで，専用ソフトの処理以外に掛かる時間は無視する。
+choice:
+  - label: ア
+    text: '120'
+  - label: イ
+    text: '140'
+  - label: ウ
+    text: '220'
+  - label: エ
+    text: '240'
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 100
+question: 電子商取引において，注文した事実やその内容について否認されることを防止するために，取引の相手に実施を依頼することとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 相手が取引に使用するPCには，OSのログインパスワードを設定してもらう。
+  - label: イ
+    text: 相手のイントラネット内のウイルス対策を行ってもらう。
+  - label: ウ
+    text: 注文データにディジタル署名を付与してもらう。
+  - label: エ
+    text: 注文データを暗号化してから送ってもらう。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

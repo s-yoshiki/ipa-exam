@@ -1,0 +1,17 @@
+label: 97
+question: PCのCPUに関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 1GHzCPUの"1GHz"は，そのCPUが処理のタイミングを合わせるための信号を1秒間に10億回発生させて動作することを示す。
+  - label: イ
+    text: 32ビットCPUや64ビットCPUの"32"や"64"は，CPUの処理速度を示す。
+  - label: ウ
+    text: 一次キャッシュや二次キャッシュの"一次"や"二次"は，CPUがもつキャッシュメモリ容量の大きさの順位を示す。
+  - label: エ
+    text: >-
+      デュアルコアCPUやクアッドコアCPUの"デュアル"や"クアッド"は，CPUの消費電力を1/2，1/4の省エネモードに切り替えることができることを示す。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

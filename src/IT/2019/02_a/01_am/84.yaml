@@ -1,0 +1,16 @@
+label: 84
+question: 内外に宣言する最上位の情報セキュリティポリシに記載することとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 経営陣が情報セキュリティに取り組む姿勢
+  - label: イ
+    text: 情報資産を守るための具体的で詳細な手順
+  - label: ウ
+    text: セキュリティ対策に掛ける費用
+  - label: エ
+    text: 守る対象とする具体的な個々の情報資産
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

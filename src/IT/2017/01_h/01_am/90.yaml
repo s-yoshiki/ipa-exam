@@ -1,0 +1,26 @@
+label: 90
+question: >-
+  関係データベースで管理している"商品"表に対して次の三つの操作a～cを行ったとき，得られる値が大きい順に操作を左から並べたものはどれか。ここで，"%"は0文字以上の任意の文字列を表すものとする。  
+    
+  〔操作〕
+
+
+  1.  大盛が '有' でかつ商品名が '%うどん%' で選択される商品の数を求める。
+
+  2.  価格が400以上かつ550以下で選択される商品の数を求める。
+
+  3.  商品名が 'うどん%' で選択される商品の数を求める。
+choice:
+  - label: ア
+    text: a，b，c
+  - label: イ
+    text: b，c，a
+  - label: ウ
+    text: c，a，b
+  - label: エ
+    text: c，b，a
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

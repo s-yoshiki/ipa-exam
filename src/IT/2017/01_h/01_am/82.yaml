@@ -1,0 +1,17 @@
+label: 82
+question: >-
+  企業内において，不審な相手から届いた電子メールの添付ファイルを誤って開いてしまったところ，使用していたPCがウイルス感染を強く疑う挙動を示した。このPCの使用者がまず最初に取るべき行動として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ウイルス定義ファイルを最新にし，ウイルスの検査と駆除を行う。
+  - label: イ
+    text: その電子メールを削除し，PCを再起動する。
+  - label: ウ
+    text: ネットワークからPCを切り離してシステム管理者に連絡する。
+  - label: エ
+    text: ハードディスクを初期化の上，OSを再インストールする。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

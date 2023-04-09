@@ -1,0 +1,16 @@
+label: 85
+question: 電子メールの内容が改ざんされていないことの確認に利用するものはどれか。
+choice:
+  - label: ア
+    text: IMAP
+  - label: イ
+    text: SMTP
+  - label: ウ
+    text: 情報セキュリティポリシ
+  - label: エ
+    text: ディジタル署名
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

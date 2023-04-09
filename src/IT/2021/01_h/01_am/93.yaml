@@ -1,0 +1,16 @@
+label: 93
+question: ブログのサービスで使用されるRSSリーダが表示する内容として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ブログから収集した記事の情報
+  - label: イ
+    text: ブログにアクセスした利用者の数
+  - label: ウ
+    text: ブログに投稿した記事の管理画面
+  - label: エ
+    text: ブログ用のデザインテンプレート
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 81
+question: CPUの性能に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 32ビットCPUと64ビットCPUでは，64ビットCPUの方が一度に処理するデータ長を大きくできる。
+  - label: イ
+    text: CPU内のキャッシュメモリの容量は，少ないほどCPUの処理速度が向上する。
+  - label: ウ
+    text: 同じ構造のCPUにおいて，クロック周波数を下げると処理速度が向上する。
+  - label: エ
+    text: デュアルコアCPUとクアッドコアCPUでは，デュアルコアCPUの方が同時に実行する処理の数を多くできる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

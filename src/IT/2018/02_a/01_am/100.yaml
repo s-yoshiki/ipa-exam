@@ -1,0 +1,16 @@
+label: 100
+question: レコードの関連付けに関する説明のうち，関係データベースとして適切なものはどれか。
+choice:
+  - label: ア
+    text: 複数の表のレコードは，各表の先頭行から数えた同じ行位置で関連付けられる。
+  - label: イ
+    text: 複数の表のレコードは，対応するフィールドの値を介して関連付けられる。
+  - label: ウ
+    text: レコードとレコードは，親子関係を表すポインタで関連付けられる。
+  - label: エ
+    text: レコードとレコードは，ハッシュ関数で関連付けられる。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 85
+question: 無線LANで使用するESSIDの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: アクセスポイントのMACアドレス
+  - label: イ
+    text: 使用する電波のチャネル番号
+  - label: ウ
+    text: デフォルトゲートウェイとなるアクセスポイントのIPアドレス
+  - label: エ
+    text: 無線のネットワークを識別する文字列
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

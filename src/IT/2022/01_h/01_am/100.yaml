@@ -1,0 +1,17 @@
+label: 100
+question: >-
+  社内に設置された無線LANネットワークに接続している業務用のPCで，インターネット上のあるWebサイトを閲覧した直後，Webブラウザが突然終了したり，見知らぬファイルが作成されたりするなど，マルウェアに感染した可能性が考えられる事象が発生した。このPCの利用者が最初に取るべき行動として適切なものはどれか。
+choice:
+  - label: ア
+    text: Webブラウザを再インストールする。
+  - label: イ
+    text: マルウェア対策ソフトのマルウェア定義ファイルを最新にする。
+  - label: ウ
+    text: 無線LANとの通信を切断し，PCをネットワークから隔離する。
+  - label: エ
+    text: 無線通信の暗号化方式を変更する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

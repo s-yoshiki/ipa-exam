@@ -1,0 +1,16 @@
+label: 93
+question: 公開鍵暗号方式を利用した処理と，その処理に使用する公開鍵の組合せa～cのうち，適切なものだけを全て挙げたものはどれか。
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: b
+  - label: エ
+    text: b，c
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

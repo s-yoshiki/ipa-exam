@@ -1,0 +1,16 @@
+label: 83
+question: 多くのファイルの保存や保管のために，複数のファイルを一つにまとめることを何と呼ぶか。
+choice:
+  - label: ア
+    text: アーカイブ
+  - label: イ
+    text: 関係データベース
+  - label: ウ
+    text: ストライピング
+  - label: エ
+    text: スワッピング
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

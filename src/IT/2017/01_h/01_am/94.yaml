@@ -1,0 +1,16 @@
+label: 94
+question: 利用者が，トークンと呼ばれる装置などで生成した毎回異なる情報を用いて，認証を受ける認証方式を何というか。
+choice:
+  - label: ア
+    text: ディジタル署名
+  - label: イ
+    text: パスワードクラック
+  - label: ウ
+    text: パスワードポリシ
+  - label: エ
+    text: ワンタイムパスワード
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

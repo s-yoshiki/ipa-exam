@@ -1,0 +1,16 @@
+label: 88
+question: 外出先でPCをインターネットに直接接続するとき，インターネットからの不正アクセスを防ぐために使用するものとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: ICカード認証
+  - label: イ
+    text: パーソナルファイアウォール
+  - label: ウ
+    text: ハードディスクパスワード
+  - label: エ
+    text: ファイル暗号化ソフト
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

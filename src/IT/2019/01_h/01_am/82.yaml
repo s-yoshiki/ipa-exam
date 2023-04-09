@@ -1,0 +1,17 @@
+label: 82
+question: >-
+  PC1のメールクライアントからPC2のメールクライアントの利用者宛ての電子メールを送信するとき，①～③で使われているプロトコルの組合せとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,23 @@
+label: 89
+question: |-
+  情報処理に関する用語a～dのうち，関係データベースの関係演算だけを全て挙げたものはどれか。  
+    
+
+  1.  結合
+  2.  射影
+  3.  順次
+  4.  選択
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: a，b，d
+  - label: エ
+    text: a，d
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

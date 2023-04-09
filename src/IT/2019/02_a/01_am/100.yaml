@@ -1,0 +1,17 @@
+label: 100
+question: >-
+  脆弱性のあるIoT機器が幾つかの企業に多数設置されていた。その機器の1台にマルウェアが感染し，他の多数のIoT機器にマルウェア感染が拡大した。ある日のある時刻に，マルウェアに感染した多数のIoT機器が特定のWebサイトへ一斉に大量のアクセスを行い，Webサイトのサービスを停止に追い込んだ。このWebサイトが受けた攻撃はどれか。
+choice:
+  - label: ア
+    text: DDoS攻撃
+  - label: イ
+    text: クロスサイトスクリプティング
+  - label: ウ
+    text: 辞書攻撃
+  - label: エ
+    text: ソーシャルエンジニアリング
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

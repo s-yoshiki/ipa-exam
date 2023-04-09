@@ -1,0 +1,18 @@
+label: 85
+question: >-
+  図1の評価集計表のセル B208 には，該当する度数を表示する式が入力されている。セル B208 に入力されている式はどれか。ここで，セル B208
+  の式は，セル B208～G212 に複写する。
+choice:
+  - label: ア
+    text: 条件付個数($B3：$B202，＝A$208)
+  - label: イ
+    text: 条件付個数($B3：$G3，＝$A3)
+  - label: ウ
+    text: 条件付個数(B$3：B$202，＝$A208)
+  - label: エ
+    text: 条件付個数(B$3：G$3，＝A$3)
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

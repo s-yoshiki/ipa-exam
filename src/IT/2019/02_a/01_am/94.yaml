@@ -1,0 +1,16 @@
+label: 94
+question: NTPの利用によって実現できることとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: OSの自動バージョンアップ
+  - label: イ
+    text: PCのBIOSの設定
+  - label: ウ
+    text: PCやサーバなどの時刻合わせ
+  - label: エ
+    text: ネットワークに接続されたPCの遠隔起動
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 90
+question: ハードウェアなどに対して外部から不正に行われる内部データの改ざんや解読，取出しなどがされにくくなっている性質を表すものはどれか。
+choice:
+  - label: ア
+    text: 可用性
+  - label: イ
+    text: 信頼性
+  - label: ウ
+    text: 責任追跡性
+  - label: エ
+    text: 耐タンパ性
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

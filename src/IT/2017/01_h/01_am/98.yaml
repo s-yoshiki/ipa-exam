@@ -1,0 +1,16 @@
+label: 98
+question: 社外秘の情報が記録されている媒体などを情報漏えいが起こらないように廃棄する方法として，適切なものはどれか。
+choice:
+  - label: ア
+    text: CDやDVDは，破砕してから廃棄する。
+  - label: イ
+    text: PCの場合は，CPUを破壊してから廃棄する。
+  - label: ウ
+    text: USBメモリの場合は，ファイルとフォルダを削除してから廃棄する。
+  - label: エ
+    text: 紙の資料は，メモ用紙などに利用せず，密封して一般のゴミと一緒に廃棄する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

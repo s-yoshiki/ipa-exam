@@ -1,0 +1,16 @@
+label: 95
+question: 関係データベースの操作を行うための言語はどれか。
+choice:
+  - label: ア
+    text: FAQ
+  - label: イ
+    text: SQL
+  - label: ウ
+    text: SSL
+  - label: エ
+    text: UML
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

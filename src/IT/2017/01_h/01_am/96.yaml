@@ -1,0 +1,16 @@
+label: 96
+question: ネットワークにおける輻輳(ふくそう)に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 回線の接続が一瞬途切れ，通信データのパケットが消失すること
+  - label: イ
+    text: 経路情報が書き換えられ，通信データが誤った宛先に届くこと
+  - label: ウ
+    text: 通信が急増し，ネットワークの許容量を超え，つながりにくくなること
+  - label: エ
+    text: 一つのパケットを不特定多数のノードに対して同時に送信すること
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

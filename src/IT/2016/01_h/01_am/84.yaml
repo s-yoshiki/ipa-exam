@@ -1,0 +1,16 @@
+label: 84
+question: データベースを設計するときに，データの関連を整理して表現することを目的として使われるものはどれか。
+choice:
+  - label: ア
+    text: E-R図
+  - label: イ
+    text: アローダイアグラム
+  - label: ウ
+    text: ガントチャート
+  - label: エ
+    text: フローチャート
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

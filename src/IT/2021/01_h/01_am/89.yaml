@@ -1,0 +1,19 @@
+label: 89
+question: >-
+  情報の表現方法に関する次の記述中のa～cに入れる字句の組合せはどれか。  
+    
+  情報を，連続する可変な物理量(長さ，角度，電圧など)で表したものをaデータといい，離散的な数値で表したものをbデータという。音楽や楽曲などの配布に利用されるCDは，情報をcデータとして格納する光ディスク媒体の一つである。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

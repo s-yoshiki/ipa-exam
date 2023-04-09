@@ -1,0 +1,16 @@
+label: 81
+question: 複数の利用者がデータベースの同じレコードを更新するときに，データの整合性を保つために行う制御として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 正規化
+  - label: イ
+    text: タイマ監視
+  - label: ウ
+    text: ロールフォワード
+  - label: エ
+    text: ロック／アンロック
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

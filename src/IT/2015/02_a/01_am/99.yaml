@@ -1,0 +1,16 @@
+label: 99
+question: Aさんが用いる専用ソフトがもつ機能として，適切なものはどれか。
+choice:
+  - label: ア
+    text: HDD内の全ての領域に無意味な情報を書き込む機能
+  - label: イ
+    text: HDD内の全ての領域を検索して，オフィスツールで作成したファイルにパスワードを設定する機能
+  - label: ウ
+    text: HDD内の全ての領域を検索して，削除されていないファイルを暗号化する機能
+  - label: エ
+    text: HDD内の全ての領域を短時間で論理フォーマットする機能
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

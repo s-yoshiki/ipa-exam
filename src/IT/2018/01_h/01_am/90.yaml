@@ -1,0 +1,16 @@
+label: 90
+question: 情報セキュリティマネジメントがPDCAサイクルに基づくとき，Cに相当するものはどれか。
+choice:
+  - label: ア
+    text: 情報セキュリティの目的，プロセス，手順の確立を行う。
+  - label: イ
+    text: 評価に基づいた是正及び予防措置によって改善を行う。
+  - label: ウ
+    text: プロセス及び手順の導入，運用を行う。
+  - label: エ
+    text: プロセスの効果を測定し，結果の評価を行う。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

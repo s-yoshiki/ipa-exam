@@ -1,0 +1,16 @@
+label: 91
+question: ネットワークにおけるDNSの役割として，適切なものはどれか。
+choice:
+  - label: ア
+    text: クライアントからのIPアドレス割当て要求に対し，プールされたIPアドレスの中から未使用のIPアドレスを割り当てる。
+  - label: イ
+    text: クライアントからのファイル転送要求を受け付け，クライアントへファイルを転送したり，クライアントからのファイルを受け取って保管したりする。
+  - label: ウ
+    text: ドメイン名とIPアドレスの対応付けを行う。
+  - label: エ
+    text: メール受信者からの読出し要求に対して，メールサーバが受信したメールを転送する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

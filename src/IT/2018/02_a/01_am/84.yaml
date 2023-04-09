@@ -1,0 +1,16 @@
+label: 84
+question: 社内のPCでマルウェアが発見された。そのマルウェアが他のPCにも存在するかどうかを調査する方法として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: そのマルウェアと同じアクセス権が設定されているファイルを探す。
+  - label: イ
+    text: そのマルウェアと同じ拡張子をもつファイルを探す。
+  - label: ウ
+    text: そのマルウェアと同じ所有者のファイルを探す。
+  - label: エ
+    text: そのマルウェアと同じハッシュ値のファイルを探す。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 81
+question: Webサイトを構築する際にスタイルシートを用いる理由として，適切なものはどれか。
+choice:
+  - label: ア
+    text: WebサーバとWebブラウザ間で安全にデータをやり取りできるようになる。
+  - label: イ
+    text: Webサイトの更新情報を利用者に知らせることができるようになる。
+  - label: ウ
+    text: Webサイトの利用者を識別できるようになる。
+  - label: エ
+    text: 複数のWebページの見た目を統一することが容易にできるようになる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 84
+question: DVD-RやSDカードなどに採用され，ディジタルコンテンツを記録メディアに一度だけ複製することを許容する著作権保護技術はどれか。
+choice:
+  - label: ア
+    text: AR
+  - label: イ
+    text: CPRM
+  - label: ウ
+    text: HDMI
+  - label: エ
+    text: MIDI
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

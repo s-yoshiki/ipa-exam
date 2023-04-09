@@ -1,0 +1,16 @@
+label: 97
+question: 公開鍵暗号方式と比べた場合の，共通鍵暗号方式の特徴として適切なものはどれか。
+choice:
+  - label: ア
+    text: 暗号化と復号とでは異なる鍵を使用する。
+  - label: イ
+    text: 暗号化や復号を高速に行うことができる。
+  - label: ウ
+    text: 鍵をより安全に配布することができる。
+  - label: エ
+    text: 通信相手が多数であっても鍵の管理が容易である。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

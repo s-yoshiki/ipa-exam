@@ -1,0 +1,16 @@
+label: 86
+question: イラストなどに使われている，最大表示色が256色である静止画圧縮のファイル形式はどれか。
+choice:
+  - label: ア
+    text: GIF
+  - label: イ
+    text: JPEG
+  - label: ウ
+    text: MIDI
+  - label: エ
+    text: MPEG
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

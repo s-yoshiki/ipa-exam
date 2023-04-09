@@ -1,0 +1,17 @@
+label: 85
+question: >-
+  ファイルサーバに保存されている文書ファイルの内容をPCで直接編集した後，上書き保存しようとしたら"権限がないので保存できません"というメッセージが表示された。この文書ファイルとそれが保存されているフォルダに設定されていた権限の組合せとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

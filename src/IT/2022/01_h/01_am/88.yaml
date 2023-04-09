@@ -1,0 +1,19 @@
+label: 88
+question: >-
+  IoTデバイスで収集した情報をIoTサーバに送信するときに利用されるデータ形式に関する次の記述中のa，bに入れる字句の適切な組合せはどれか。  
+    
+  a形式は，コンマなどの区切り文字で，データの区切りを示すデータ形式であり，b形式は，マークアップ言語であり，データの論理構造を，タグを用いて記述できるデータ形式である。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

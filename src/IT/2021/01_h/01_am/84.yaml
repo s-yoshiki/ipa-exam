@@ -1,0 +1,16 @@
+label: 84
+question: PCにメールソフトを新規にインストールした。その際に設定が必要となるプロトコルに該当するものはどれか。
+choice:
+  - label: ア
+    text: DNS
+  - label: イ
+    text: FTP
+  - label: ウ
+    text: MIME
+  - label: エ
+    text: POP3
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

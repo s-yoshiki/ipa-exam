@@ -1,0 +1,17 @@
+label: 87
+question: >-
+  無線LANのアクセス制御機能を使用して，ネットワークに接続できる端末を特定のPC，プリンタ，ゲーム機などに限定したい。このとき，端末の識別に使用する情報として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ESSID
+  - label: イ
+    text: IPアドレスとポート番号
+  - label: ウ
+    text: MACアドレス
+  - label: エ
+    text: 電波の周波数
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

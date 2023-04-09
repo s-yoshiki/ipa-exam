@@ -1,0 +1,23 @@
+label: 91
+question: |-
+  次の作業a～dのうち，リスクマネジメントにおける，リスクアセスメントに含まれるものだけを全て挙げたものはどれか。  
+    
+
+  1.  脅威や脆弱性などを使ってリスクレベルを決定する。
+  2.  リスクとなる要因を特定する。
+  3.  リスクに対してどのように対応するかを決定する。
+  4.  リスクについて対応する優先順位を決定する。
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，b，d
+  - label: ウ
+    text: a，c，d
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

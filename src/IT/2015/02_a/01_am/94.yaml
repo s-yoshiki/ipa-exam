@@ -1,0 +1,16 @@
+label: 94
+question: 図1の各工程を予定日数どおりに終了する場合，この組立て作業は何日で完了するか。
+choice:
+  - label: ア
+    text: '10'
+  - label: イ
+    text: '12'
+  - label: ウ
+    text: '14'
+  - label: エ
+    text: '16'
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

@@ -1,0 +1,22 @@
+label: 99
+question: |-
+  ISMSにおける情報セキュリティリスクアセスメントでは，リスクの特定，分析及び評価を行う。リスクの評価で行うものだけを全て挙げたものはどれか。  
+    
+
+  1.  あらかじめ定めた基準によって，分析したリスクの優先順位付けを行う。
+  2.  保護すべき情報資産の取扱いにおいて存在するリスクを洗い出す。
+  3.  リスクが顕在化したときに，対応を実施するかどうかを判断するための基準を定める。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: b
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

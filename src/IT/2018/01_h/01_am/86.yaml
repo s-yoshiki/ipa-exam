@@ -1,0 +1,16 @@
+label: 86
+question: DBMSにおけるインデックスに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 検索を高速に行う目的で，必要に応じて設定し，利用する情報
+  - label: イ
+    text: 互いに関連したり依存したりする複数の処理を一つにまとめた，一体不可分の処理単位
+  - label: ウ
+    text: 二つの表の間の参照整合性制約
+  - label: エ
+    text: レコードを一意に識別するためのフィールド
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''
