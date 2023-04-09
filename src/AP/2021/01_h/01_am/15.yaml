@@ -1,0 +1,13 @@
+label: 15
+question: 密結合マルチプロセッサの性能が，1台当たりのプロセッサ性能とプロセッサ数の積に等しくならない要因として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 主記憶へのアクセスの競合
+  - label: イ
+    text: 通信回線を介したプロセッサ間通信
+  - label: ウ
+    text: プロセッサのディスパッチ処理
+  - label: エ
+    text: 割込み処理
+answer: ア
+category: T

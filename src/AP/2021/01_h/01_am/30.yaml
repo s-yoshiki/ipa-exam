@@ -1,0 +1,13 @@
+label: 30
+question: コストベースのオプティマイザがSQLの実行計画を作成する際に必要なものはどれか。
+choice:
+  - label: ア
+    text: ディメンジョンテーブル
+  - label: イ
+    text: 統計情報
+  - label: ウ
+    text: 待ちグラフ
+  - label: エ
+    text: ログファイル
+answer: イ
+category: T

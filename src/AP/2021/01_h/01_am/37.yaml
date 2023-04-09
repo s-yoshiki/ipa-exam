@@ -1,0 +1,13 @@
+label: 37
+question: Webサイトにおいて，クリックジャッキング攻撃の対策に該当するものはどれか。
+choice:
+  - label: ア
+    text: HTTPレスポンスヘッダにX-Content-Type-Optionsを設定する。
+  - label: イ
+    text: HTTPレスポンスヘッダにX-Frame-Optionsを設定する。
+  - label: ウ
+    text: 入力にHTMLタグが含まれていたら，HTMLタグとして解釈されないほかの文字列に置き換える。
+  - label: エ
+    text: 入力文字数が制限を超えているときは受け付けない。
+answer: イ
+category: T

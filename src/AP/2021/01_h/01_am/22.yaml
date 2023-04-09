@@ -1,0 +1,13 @@
+label: 22
+question: SoCの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: システムLSIに内蔵されたソフトウェア
+  - label: イ
+    text: 複数のMCUを搭載したボード
+  - label: ウ
+    text: 複数のチップで構成していたコンピュータシステムを，一つのチップで実現したLSI
+  - label: エ
+    text: 複数のチップを単一のパッケージに封入してシステム化したデバイス
+answer: ウ
+category: T

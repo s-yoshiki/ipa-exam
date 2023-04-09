@@ -1,0 +1,13 @@
+label: 9
+question: 表に示す命令ミックスによるコンピュータの処理性能は，何MIPSか。
+choice:
+  - label: ア
+    text: '11'
+  - label: イ
+    text: '25'
+  - label: ウ
+    text: '40'
+  - label: エ
+    text: '90'
+answer: ウ
+category: T

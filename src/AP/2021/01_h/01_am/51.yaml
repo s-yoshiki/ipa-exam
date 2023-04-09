@@ -1,0 +1,15 @@
+label: 51
+question: >-
+  JIS Q
+  21500:2018(プロジェクトマネジメントの手引)によれば，プロジェクトマネジメントのプロセスのうち，計画のプロセス群に属するプロセスはどれか。
+choice:
+  - label: ア
+    text: スコープの定義
+  - label: イ
+    text: 品質保証の遂行
+  - label: ウ
+    text: プロジェクト憲章の作成
+  - label: エ
+    text: プロジェクトチームの編成
+answer: ア
+category: M

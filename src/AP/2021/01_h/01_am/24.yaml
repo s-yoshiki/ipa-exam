@@ -1,0 +1,13 @@
+label: 24
+question: コンデンサの機能として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 交流電流は通すが直流電流は通さない。
+  - label: イ
+    text: 交流電流を直流電流に変換する。
+  - label: ウ
+    text: 直流電流は通すが交流電流は通さない。
+  - label: エ
+    text: 直流電流を交流電流に変換する。
+answer: ア
+category: T

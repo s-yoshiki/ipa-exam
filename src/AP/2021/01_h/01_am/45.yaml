@@ -1,0 +1,13 @@
+label: 45
+question: TLSのクライアント認証における次の処理a～cについて，適切な順序はどれか。
+choice:
+  - label: ア
+    text: a → b → c
+  - label: イ
+    text: a → c → b
+  - label: ウ
+    text: b → a → c
+  - label: エ
+    text: c → a → b
+answer: ウ
+category: T

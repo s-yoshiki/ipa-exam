@@ -1,0 +1,15 @@
+label: 3
+question: >-
+  サンプリング周波数40kHz，量子化ビット数16ビットでA/D変換したモノラル音声の1秒間のデータ量は，何kバイトとなるか。ここで，
+  1kバイトは1,000バイトとする。
+choice:
+  - label: ア
+    text: '20'
+  - label: イ
+    text: '40'
+  - label: ウ
+    text: '80'
+  - label: エ
+    text: '640'
+answer: ウ
+category: T

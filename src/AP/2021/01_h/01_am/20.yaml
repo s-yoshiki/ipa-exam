@@ -1,0 +1,13 @@
+label: 20
+question: Hadoopの説明はどれか。
+choice:
+  - label: ア
+    text: JavaEE仕様に準拠したアプリケーションサーバ
+  - label: イ
+    text: LinuxやWindowsなどの様々なプラットフォーム上で動作するWebサーバ
+  - label: ウ
+    text: 機能の豊富さが特徴のRDBMS
+  - label: エ
+    text: 大規模なデータセットを分散処理するためのソフトウェアライブラリ
+answer: エ
+category: T

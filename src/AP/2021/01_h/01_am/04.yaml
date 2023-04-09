@@ -1,0 +1,13 @@
+label: 4
+question: 体温を測定するのに適切なセンサはどれか。
+choice:
+  - label: ア
+    text: サーミスタ
+  - label: イ
+    text: 超音波センサ
+  - label: ウ
+    text: フォトトランジスタ
+  - label: エ
+    text: ポテンショメータ
+answer: ア
+category: T
