@@ -10,5 +10,8 @@ choice:
   - label: エ
     text: >-
       フォールトトレランスとは，故障が生じてもシステムに重大な影響が出ないように，あらかじめ定められた安全状態にシステムを固定し，全体として安全が維持されるような設計手法である。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

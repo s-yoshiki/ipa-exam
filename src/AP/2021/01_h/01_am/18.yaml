@@ -9,5 +9,8 @@ choice:
     text: プログラムの実行中に主記憶内でモジュールの格納位置を移動させることを，動的リンキングという。
   - label: エ
     text: プログラムの実行中に必要になった時点でモジュールをロードすることを，動的再配置という。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

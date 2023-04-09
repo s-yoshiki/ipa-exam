@@ -9,5 +9,8 @@ choice:
     text: 政治団体が，自らの政策の普及や啓発を行うために送信する電子メールは，規制の対象である。
   - label: エ
     text: 取引上の条件を案内する事務連絡や料金請求のお知らせなど取引関係に係る通知を含む電子メールは，広告又は宣伝が含まれていなくても規制の対象である。
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

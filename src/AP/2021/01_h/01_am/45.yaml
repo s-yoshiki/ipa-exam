@@ -9,5 +9,8 @@ choice:
     text: b → a → c
   - label: エ
     text: c → a → b
+calculation: false
+figure: true
 answer: ウ
 category: T
+figureText: ''

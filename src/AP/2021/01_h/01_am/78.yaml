@@ -9,5 +9,8 @@ choice:
     text: 他社のヒット商品と商品名や形状は異なるが同等の機能をもつ商品を販売する。
   - label: エ
     text: 広く知られた他人の商品の表示に，自社の商品の表示を類似させ，他人の商品と誤認させて商品を販売する。
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

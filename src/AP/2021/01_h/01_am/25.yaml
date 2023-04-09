@@ -9,5 +9,8 @@ choice:
     text: X=1，Y=0
   - label: エ
     text: X=1，Y=1
+calculation: false
+figure: true
 answer: ウ
 category: T
+figureText: ''

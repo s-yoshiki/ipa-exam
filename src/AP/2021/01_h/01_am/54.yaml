@@ -10,5 +10,8 @@ choice:
     text: 好機のオーナーシップを第三者に移転して，好機が発生した場合にそれがベネフィットの一部を共有できるようにする。
   - label: エ
     text: 好機の発生確率や影響度，又はその両者を増大させる。
+calculation: false
+figure: false
 answer: エ
 category: M
+figureText: ''

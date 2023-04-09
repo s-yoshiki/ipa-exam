@@ -9,5 +9,8 @@ choice:
     text: 短期借入金の返済による支出
   - label: エ
     text: 有形固定資産の売却による収入
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

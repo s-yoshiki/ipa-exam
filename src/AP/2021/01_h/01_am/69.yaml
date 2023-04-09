@@ -10,5 +10,8 @@ choice:
     text: アーリーマジョリティとレイトマジョリティの間
   - label: エ
     text: レイトマジョリティとラガードの間
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

@@ -14,5 +14,8 @@ choice:
   - label: エ
     text: >-
       ネットワーク制御機能とデータ転送機能を論理的に分離し，コントローラと呼ばれるソフトウェアで，データ転送機能をもつネットワーク機器の集中制御を可能とするアーキテクチャ
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

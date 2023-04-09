@@ -9,5 +9,8 @@ choice:
     text: クレジットカードの決済ではICチップではなく磁気ストライプの利用を利用者に促す。
   - label: エ
     text: 利用者の取引履歴からクレジットカードの不正利用を検知するオーソリモニタリングを実施する。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

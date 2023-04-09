@@ -9,5 +9,8 @@ choice:
     text: 開発するシステムから得られる収益を委託側が受託側にあらかじめ決められた配分率で分配する。
   - label: エ
     text: 受託側は継続的に固定額の収益が得られる。
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

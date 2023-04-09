@@ -14,5 +14,8 @@ choice:
   - label: エ
     text: >-
       障害時に周波数チャネル番号から対象のアクセスポイントを特定するために，設置エリアの端から1，2，3と順番に使用する周波数チャネル番号を割り当てるのがよい。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

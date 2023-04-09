@@ -10,5 +10,8 @@ choice:
     text: '3'
   - label: エ
     text: '4'
+calculation: false
+figure: true
 answer: ア
 category: M
+figureText: ''

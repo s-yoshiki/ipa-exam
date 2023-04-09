@@ -9,5 +9,8 @@ choice:
     text: 接続仕様や仕組みが外部企業などに公開されている他社のアプリケーションソフトウェアを呼び出して，適宜利用し，データ連携を行う。
   - label: エ
     text: 標準的な構成のハードウェアに仮想化を適用し，必要とするCPU処理能力，ストレージ容量，ネットワーク機能などをソフトウェアで構成し，運用管理を行う。
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

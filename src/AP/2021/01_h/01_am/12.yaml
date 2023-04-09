@@ -9,5 +9,8 @@ choice:
     text: ライトバック方式では，データをキャッシュメモリと主記憶の両方に同時に書き込むので，速度が遅い。
   - label: エ
     text: ライトバック方式では，読出し時にキャッシュミスが発生してキャッシュメモリの内容が追い出されるときに，主記憶に書き戻す必要が生じることはない。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

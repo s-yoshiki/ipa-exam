@@ -9,5 +9,8 @@ choice:
     text: 絶対値の非常に大きな数値と小さな数値の加算や減算を行ったとき，小さい数値が計算結果に反映されないことによって発生する誤差
   - label: エ
     text: 無限級数で表される数値の計算処理を有限項で打ち切ったことによって発生する誤差
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 目標とする企業の戦略を観察し，迅速に模倣することで，開発や広告のコストを抑制し，市場での存続を図る。
   - label: エ
     text: 利潤，名声の維持・向上と最適市場シェアの確保を目標として，市場内の全ての顧客をターゲットにした全方位戦略をとる。
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

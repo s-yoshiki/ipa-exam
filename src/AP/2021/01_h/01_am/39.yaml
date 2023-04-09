@@ -11,5 +11,8 @@ choice:
   - label: エ
     text: >-
       利用者が認証情報を忘れ，かつ，Webブラウザに保存しているパスワード情報も使用できないリスクを想定して，緊急と判断した場合には，認証情報を入力せずに，利用者は普段どおりにシステムを利用できるようにし，可用性を高める。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

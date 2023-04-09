@@ -11,5 +11,8 @@ choice:
     text: PLC(Power Line Communication)
   - label: エ
     text: PPP(Point-to-Point Protocol)
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

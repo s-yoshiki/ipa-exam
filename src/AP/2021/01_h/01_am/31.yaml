@@ -9,5 +9,8 @@ choice:
     text: データウェアハウスやデータマートからデータを取り出し，多次元分析を行う。
   - label: エ
     text: 必要に応じて加工するために，データを発生したままの形で格納する。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

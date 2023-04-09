@@ -10,5 +10,8 @@ choice:
     text: データアーキテクチャ
   - label: エ
     text: バスアーキテクチャ
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

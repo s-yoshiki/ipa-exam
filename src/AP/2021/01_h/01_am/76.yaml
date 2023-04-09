@@ -9,5 +9,8 @@ choice:
     text: 事実，意見，発想を小さなカードに書き込み，カード相互の親和性によってグループ化して，解決すべき問題を明確にする。
   - label: エ
     text: 目的を達成するための手段を導き出し，更にその手段を実施するための幾つかの手段を考えることを繰り返し，細分化していく。
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

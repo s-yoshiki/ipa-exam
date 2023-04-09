@@ -9,5 +9,8 @@ choice:
     text: プロダクトを完成させるための具体的な作り方を決定する。
   - label: エ
     text: リリース判断可能なプロダクトのインクリメントを完成する。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 待ちグラフ
   - label: エ
     text: ログファイル
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

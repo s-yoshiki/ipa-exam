@@ -9,5 +9,8 @@ choice:
     text: ハッシュ値が一致する二つの相異なるメッセージを見つけることが計算量的に困難であるという性質
   - label: エ
     text: ハッシュの処理メカニズムに対して，外部からの不正な観測や改変を防御できるという性質
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

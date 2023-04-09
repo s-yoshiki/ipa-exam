@@ -9,5 +9,8 @@ choice:
     text: フォトトランジスタ
   - label: エ
     text: ポテンショメータ
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

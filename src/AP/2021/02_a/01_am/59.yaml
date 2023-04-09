@@ -1,5 +1,5 @@
 label: 59
-question: データの生成から入力、処理、出力、活用までのプロセス、及び組み込まれているコントロールを、システム監査人が書面上で又は実際に追跡する技法はどれか。
+question: データの生成から入力，処理，出力，活用までのプロセス，及び組み込まれているコントロールを，システム監査人が書面上で又は実際に追跡する技法はどれか。
 choice:
   - label: ア
     text: インタビュー法
@@ -11,6 +11,6 @@ choice:
     text: ペネトレーションテスト法
 calculation: false
 figure: false
-answer: ア
+answer: イ
 category: M
 figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 調達者から供給者に対して，契約内容で取り決めた内容に関して，変更を要請すること
   - label: エ
     text: 調達者から供給者に対して，双方の役割分担などを確認し，契約の締結を要請すること
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

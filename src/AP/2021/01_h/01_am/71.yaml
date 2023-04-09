@@ -10,5 +10,8 @@ choice:
   - label: エ
     text: >-
       工業製品の故障発生の傾向を表すものであり，初期故障期間では故障率は高くなるが，その後の偶発故障期間での故障率は低くなり，製品寿命に近づく摩耗故障期間では故障率は高くなる。
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

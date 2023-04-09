@@ -9,5 +9,8 @@ choice:
     text: 改善提案に対する監査対象部門の改善状況をモニタリングする。
   - label: エ
     text: 改善提案の内容を監査対象部門に示した上で改善実施計画を策定する。
+calculation: false
+figure: false
 answer: ウ
 category: M
+figureText: ''

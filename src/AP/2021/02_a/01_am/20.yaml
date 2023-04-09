@@ -1,5 +1,5 @@
 label: 20
-question: RFID のパッシブ方式のRFタグの説明として、適切なものはどれか。
+question: RFIDのパッシブ方式RFタグの説明として，適切なものはどれか。
 choice:
   - label: ア
     text: アンテナで受け取った電力を用いて通信する。
@@ -11,6 +11,6 @@ choice:
     text: 赤外線でデータ通信する。
 calculation: false
 figure: false
-answer: エ
+answer: ア
 category: T
 figureText: ''

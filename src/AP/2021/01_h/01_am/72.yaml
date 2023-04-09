@@ -10,5 +10,8 @@ choice:
     text: Web2.0
   - label: エ
     text: ダイバーシティ社会
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

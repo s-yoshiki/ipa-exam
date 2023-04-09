@@ -9,5 +9,8 @@ choice:
     text: 電子署名の認証業務を行うことができるのは，政府が運営する認証局に限られる。
   - label: エ
     text: 電子署名は共通鍵暗号技術によるものに限られる。
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 直流電流は通すが交流電流は通さない。
   - label: エ
     text: 直流電流を交流電流に変換する。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

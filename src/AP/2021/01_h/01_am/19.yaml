@@ -10,5 +10,8 @@ choice:
     text: ページフォールト＝ページアウト≧ページイン
   - label: エ
     text: ページフォールト＝ページイン≧ページアウト
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

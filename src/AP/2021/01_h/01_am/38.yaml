@@ -9,5 +9,8 @@ choice:
     text: 攻撃前に，攻撃に使用するPCのメモリを増設することによって，効率的に攻撃できるようにする。
   - label: エ
     text: システムログに偽の痕跡を加えることによって，攻撃後に追跡を逃れる。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

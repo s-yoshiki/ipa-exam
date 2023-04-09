@@ -10,5 +10,8 @@ choice:
     text: a＆～m
   - label: エ
     text: a｜～m
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

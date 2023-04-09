@@ -4,13 +4,13 @@ choice:
   - label: ア
     text: 主記憶からページアウトされたページを格納する。
   - label: イ
-    text: '主記憶が更新された際に、更新前の内容を保存する。 '
+    text: 主記憶が更新された際に，更新前の内容を保存する。
   - label: ウ
-    text: '主記憶と連続した仮想アドレスを割り当てて, 主記憶を拡張する。 '
+    text: 主記憶と連続した仮想アドレスを割り当てて，主記憶を拡張する。
   - label: エ
-    text: 主記憶のバックアップとして, 主記憶の内容を格納する。
+    text: 主記憶のバックアップとして，主記憶の内容を格納する。
 calculation: false
 figure: false
-answer: エ
+answer: ア
 category: T
 figureText: ''

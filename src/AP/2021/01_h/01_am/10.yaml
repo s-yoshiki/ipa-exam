@@ -9,5 +9,8 @@ choice:
     text: 浮動小数点演算ユニットをコプロセッサとして用い，浮動小数点演算ができる。
   - label: エ
     text: 分岐予測を行い，パイプラインの利用効率を高めた処理を実行できる。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

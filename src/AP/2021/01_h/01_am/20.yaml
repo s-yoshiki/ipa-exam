@@ -9,5 +9,8 @@ choice:
     text: 機能の豊富さが特徴のRDBMS
   - label: エ
     text: 大規模なデータセットを分散処理するためのソフトウェアライブラリ
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

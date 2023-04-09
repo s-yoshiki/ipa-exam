@@ -9,5 +9,8 @@ choice:
     text: 環境アセスメント
   - label: エ
     text: グリーン購入
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

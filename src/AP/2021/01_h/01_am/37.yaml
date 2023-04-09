@@ -9,5 +9,8 @@ choice:
     text: 入力にHTMLタグが含まれていたら，HTMLタグとして解釈されないほかの文字列に置き換える。
   - label: エ
     text: 入力文字数が制限を超えているときは受け付けない。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

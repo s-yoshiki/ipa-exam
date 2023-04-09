@@ -1,18 +1,17 @@
 label: 11
-question: |-
-  表に示す仕様の磁気ディスク装置において、1,000バイトのデータの読み取りに要する平均時間は何ミリ秒か。
-  ここで、コントローラの処理時間は平均シーク時間に含まれるものとする。
+question: >-
+  表に示す仕様の磁気ディスク装置において，1,000バイトのデータの読取りに要する平均時間は何ミリ秒か。ここで，コントローラの処理時間は平均シーク時間に含まれるものとする。
 choice:
   - label: ア
-    text: 7.5
+    text: '15.1'
   - label: イ
-    text: 15.1
+    text: '16.0'
   - label: ウ
-    text: 16
+    text: '20.1'
   - label: エ
-    text: 21
-calculation: true
-figure: false
-answer: イ
+    text: '21.0'
+calculation: false
+figure: true
+answer: ア
 category: T
 figureText: ''

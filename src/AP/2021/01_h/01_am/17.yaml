@@ -9,5 +9,8 @@ choice:
     text: 終了状態
   - label: エ
     text: 待ち状態
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

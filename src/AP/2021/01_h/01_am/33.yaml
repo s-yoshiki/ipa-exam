@@ -9,5 +9,8 @@ choice:
     text: 使用するアクセス制御方式はCSMA/CD方式である。
   - label: エ
     text: 使用する周波数帯は5GHz帯である。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

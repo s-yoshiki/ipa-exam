@@ -10,5 +10,8 @@ choice:
     text: マルウェア検出のためのスキャンを実施した上で，組織として認可していないソフトウェアを使用している。
   - label: エ
     text: マルウェアに付け込まれる可能性のある脆弱性について情報収集を行い，必要に応じて修正コードを適用し，脆弱性の低減を図っている。
+calculation: false
+figure: false
 answer: ウ
 category: M
+figureText: ''

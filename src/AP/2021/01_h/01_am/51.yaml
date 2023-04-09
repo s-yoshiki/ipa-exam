@@ -11,5 +11,8 @@ choice:
     text: プロジェクト憲章の作成
   - label: エ
     text: プロジェクトチームの編成
+calculation: false
+figure: false
 answer: ア
 category: M
+figureText: ''

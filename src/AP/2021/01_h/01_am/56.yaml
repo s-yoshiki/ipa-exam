@@ -13,5 +13,8 @@ choice:
   - label: エ
     text: >-
       どのようなサービスが提供できたのか，実力を示すものであって，"検討中か開発中"のサービスは含まれず，"稼働中か展開可能"のサービスと"廃止済み"のサービスが含まれる。
+calculation: false
+figure: false
 answer: ア
 category: M
+figureText: ''
