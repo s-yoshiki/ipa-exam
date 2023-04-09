@@ -9,5 +9,8 @@ choice:
     text: 通信を暗号化し，VPNを実装するための仕様
   - label: エ
     text: 認証や認可に関する情報を交換するための仕様
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

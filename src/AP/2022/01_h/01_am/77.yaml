@@ -10,5 +10,8 @@ choice:
     text: A社に帰属する。
   - label: エ
     text: B社に帰属する。
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 命令再試行機能
   - label: エ
     text: 予防保全
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 特権的アクセスのログは，あまり重要ではないので，分析対象から除外する。
   - label: エ
     text: 保管したログは，情報セキュリティインシデントが発生した場合にだけ分析し，分析結果に応じて必要な対策を講じる。
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

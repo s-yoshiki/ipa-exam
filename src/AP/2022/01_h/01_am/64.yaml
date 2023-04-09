@@ -9,5 +9,8 @@ choice:
     text: PBP(Pay Back Period)
   - label: エ
     text: ROI(Return On Investment)
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

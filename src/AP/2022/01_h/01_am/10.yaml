@@ -9,5 +9,8 @@ choice:
     text: 主記憶の特定の1ブロックに専用のキャッシュメモリが割り当てられる。
   - label: エ
     text: 任意のキャッシュメモリのブロックを主記憶のどの部分にも割り当てられる。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

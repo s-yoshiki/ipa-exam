@@ -9,5 +9,8 @@ choice:
     text: 監査調書は，通常，電子媒体で保管されるが，機密保持を徹底するためバックアップは作成すべきではない。
   - label: エ
     text: 監査調書は監査の過程で入手した客観的な事実の記録なので，監査担当者の所見は記述しない。
+calculation: false
+figure: false
 answer: イ
 category: M
+figureText: ''

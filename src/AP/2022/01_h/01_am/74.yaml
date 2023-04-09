@@ -9,5 +9,8 @@ choice:
     text: 中立公平な立場から，会議の参加者に発言を促したり，議論の流れを整理したりする。
   - label: エ
     text: 日程調整・資料準備・議事録作成など，会議運営の事務的作業に特化した支援を行う。
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

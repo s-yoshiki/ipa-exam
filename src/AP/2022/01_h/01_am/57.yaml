@@ -9,5 +9,8 @@ choice:
     text: システム開発のテスト工程では，主にパフォーマンスチューニングを担当する。
   - label: エ
     text: システム障害が発生した場合には，データの復旧や整合性のチェックなどを行う。
+calculation: false
+figure: false
 answer: イ
 category: M
+figureText: ''

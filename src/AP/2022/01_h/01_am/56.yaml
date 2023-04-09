@@ -11,5 +11,8 @@ choice:
     text: 平均サービス・インシデント間隔
   - label: エ
     text: 平均サービス回復時間
+calculation: false
+figure: false
 answer: エ
 category: M
+figureText: ''

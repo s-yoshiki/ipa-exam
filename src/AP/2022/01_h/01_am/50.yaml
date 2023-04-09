@@ -9,5 +9,8 @@ choice:
     text: ターゲットCPUを搭載した評価ボードなどの実行環境
   - label: エ
     text: タスクスケジューリングの仕組みなどを提供するソフトウェア
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

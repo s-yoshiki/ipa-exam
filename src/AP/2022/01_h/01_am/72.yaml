@@ -9,5 +9,8 @@ choice:
     text: 中間在庫を極力減らすために，生産ラインにおいて，後工程が必要とする部品を自工程で生産できるように，必要な部品だけを前工程から調達する。
   - label: エ
     text: より品質の高い部品を調達するために，部品の納入指定業者を複数定め，競争入札で部品を調達する。
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

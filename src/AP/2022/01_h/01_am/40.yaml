@@ -12,5 +12,8 @@ choice:
   - label: エ
     text: >-
       ファーストパーティcookieを承諾する設定によって，当該Webブラウザがデジタル証明書の失効情報を入手でき，閲覧中のWebサイトのデジタル証明書の有効性を確認できるようになる。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

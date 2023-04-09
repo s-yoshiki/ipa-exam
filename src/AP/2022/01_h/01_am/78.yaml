@@ -9,5 +9,8 @@ choice:
     text: 不正アクセスの目的で，他人の利用者IDとパスワードを不正に入手する。
   - label: エ
     text: 不正アクセスの目的で，不正に入手した他人の利用者IDとパスワードをPCに保管する。
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 全ての業務について，優先順位なしに同一水準のBCPを策定している。
   - label: エ
     text: 平時にはBCPを従業員に非公開としている。
+calculation: false
+figure: false
 answer: ア
 category: M
+figureText: ''

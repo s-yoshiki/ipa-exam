@@ -9,5 +9,8 @@ choice:
     text: '28'
   - label: エ
     text: '30'
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

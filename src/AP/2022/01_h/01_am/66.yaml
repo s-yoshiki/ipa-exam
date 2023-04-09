@@ -9,5 +9,8 @@ choice:
     text: 状態遷移図
   - label: エ
     text: ユースケース図
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

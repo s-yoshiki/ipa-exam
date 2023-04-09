@@ -9,5 +9,8 @@ choice:
     text: '2.00'
   - label: エ
     text: '3.00'
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

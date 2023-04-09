@@ -10,5 +10,8 @@ choice:
     text: 事業戦略を，市場浸透，市場拡大，製品開発，多角化という四つのタイプに分類し，事業の方向性を検討する際に用いる手法である。
   - label: エ
     text: 製品ライフサイクルを，導入期，成長期，成熟期，衰退期という四つの段階に分類し，企業にとって最適な戦略を立案する手法である。
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

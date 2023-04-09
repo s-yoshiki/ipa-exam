@@ -9,5 +9,8 @@ choice:
     text: バックログ
   - label: エ
     text: ベロシティ
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

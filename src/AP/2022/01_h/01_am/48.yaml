@@ -10,5 +10,8 @@ choice:
     text: 適応保守
   - label: エ
     text: 予防保守
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

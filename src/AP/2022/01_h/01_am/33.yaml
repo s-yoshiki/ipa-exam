@@ -9,5 +9,8 @@ choice:
     text: POP3
   - label: エ
     text: TELNET
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

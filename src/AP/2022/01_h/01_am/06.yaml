@@ -9,5 +9,8 @@ choice:
     text: 必要な部分を補助記憶装置から読み込みながら動作する。主記憶領域の大きさに制限があるときに，有効な手法である。
   - label: エ
     text: 複数のタスクからの呼出しに対して，並行して実行されても，それぞれのタスクに正しい結果を返す。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

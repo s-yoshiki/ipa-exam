@@ -9,5 +9,8 @@ choice:
     text: エネルギー源からのパワーを，回転，直進などの動きに変換する。
   - label: エ
     text: マイクロフォン，センサなどが出力する微小な電気信号を増幅する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

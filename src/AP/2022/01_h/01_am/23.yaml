@@ -9,5 +9,8 @@ choice:
     text: チップ内部を物理的に解析しようとすると，内部回路が破壊されるようにする。
   - label: エ
     text: 内部メモリの物理アドレスを整然と配置する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

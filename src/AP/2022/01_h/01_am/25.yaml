@@ -11,5 +11,8 @@ choice:
   - label: エ
     text: >-
       描画の対象となる物体の各面をピクセルに分割し，ピクセルごとに視点までの距離を計算し，その最小値を作業領域に保持することによって，視点までの距離が最小となる面を求める。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

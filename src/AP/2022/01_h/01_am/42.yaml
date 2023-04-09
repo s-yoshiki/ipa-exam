@@ -10,5 +10,8 @@ choice:
     text: 平文のパスワードとハッシュ値をチェーンによって管理するテーブルを準備しておき，それを用いて，不正に入手したハッシュ値からパスワードを解読する。
   - label: エ
     text: 利用者の誕生日や電話番号などの個人情報を言葉巧みに聞き出して，パスワードを類推する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

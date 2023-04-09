@@ -9,5 +9,8 @@ choice:
     text: PHP
   - label: エ
     text: Python
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

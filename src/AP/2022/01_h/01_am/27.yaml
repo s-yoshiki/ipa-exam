@@ -9,5 +9,8 @@ choice:
     text: エンティティ内やエンティティ間の整合性を保つための一意性制約や参照制約の設定
   - label: エ
     text: データの冗長性を排除し，更新の一貫性と効率性を保持するための正規化
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

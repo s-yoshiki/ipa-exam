@@ -9,5 +9,8 @@ choice:
     text: 浮動小数点数の演算を高速に実行する演算ユニット
   - label: エ
     text: 論理回路を基板上に実装した後で再プログラムできる集積回路
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

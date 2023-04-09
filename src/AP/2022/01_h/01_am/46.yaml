@@ -9,5 +9,8 @@ choice:
     text: スタンプ結合
   - label: エ
     text: データ結合
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

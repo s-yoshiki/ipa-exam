@@ -9,5 +9,8 @@ choice:
     text: 企業の財務情報
   - label: エ
     text: 自治体の住民情報
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

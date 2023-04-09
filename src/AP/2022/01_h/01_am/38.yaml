@@ -9,5 +9,8 @@ choice:
     text: トークンという装置が自動的に表示する，認証のたびに異なる数字列をパスワードとしてサーバに送信して，サーバで検証する。
   - label: エ
     text: 利用者が入力したパスワードと，サーバから受け取ったランダムなデータとをクライアントで演算し，その結果をサーバに送信して，サーバで検証する。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

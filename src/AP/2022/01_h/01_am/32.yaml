@@ -9,5 +9,8 @@ choice:
     text: PPPoE
   - label: エ
     text: PPTP
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

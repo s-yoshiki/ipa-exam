@@ -10,5 +10,8 @@ choice:
     text: '8'
   - label: エ
     text: '9'
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

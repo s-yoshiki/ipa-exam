@@ -10,5 +10,8 @@ choice:
     text: リストの要素を格納する領域の他に，次の要素を指し示すための領域が別途必要となる。
   - label: エ
     text: リストへの挿入位置が分かる場合には，リストにある実際の要素数にかかわらず，要素の挿入を一定時間で行うことができる。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

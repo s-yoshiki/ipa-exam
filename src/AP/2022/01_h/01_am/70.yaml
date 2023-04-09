@@ -9,5 +9,8 @@ choice:
     text: 自社製品の販売に注力し，売上げを拡大する。
   - label: エ
     text: 複数の企業から生産だけを専門に請け負い，多くの製品を低コストで生産する。
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

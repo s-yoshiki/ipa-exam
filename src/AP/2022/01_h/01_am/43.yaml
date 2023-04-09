@@ -9,5 +9,8 @@ choice:
     text: 対応すべきリスクに付与する優先順位
   - label: エ
     text: リスクの重大性を評価するために目安とする条件
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

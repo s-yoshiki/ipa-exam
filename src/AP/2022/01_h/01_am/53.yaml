@@ -1,5 +1,7 @@
 label: 53
-question: ソフトウェア開発プロジェクトにおいて，表の全ての作業を完了させるために必要な期間は最短で何日間か。
+question: >-
+  ソフトウェア開発プロジェクトにおいて，表の全ての作業を完了させるために必要な期間は最短で何日間か。<div
+  class="img_margin"></div>
 choice:
   - label: ア
     text: '80'
@@ -9,5 +11,8 @@ choice:
     text: '100'
   - label: エ
     text: '120'
+calculation: false
+figure: true
 answer: ウ
 category: M
+figureText: ''

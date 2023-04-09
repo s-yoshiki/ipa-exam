@@ -9,5 +9,8 @@ choice:
     text: 現行のシステムから新システムに72時間以内で移行できること
   - label: エ
     text: 地震などの大規模災害時であっても，144時間以内にシステムを復旧できること
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

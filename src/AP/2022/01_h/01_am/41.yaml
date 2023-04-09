@@ -10,5 +10,8 @@ choice:
     text: 利用者IDなどの情報をWebサーバに送信するのは，リバースプロキシサーバではなく，利用者のPCである。
   - label: エ
     text: 利用者IDなどの情報をWebサーバに送信するのは，利用者のPCではなく，リバースプロキシサーバである。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

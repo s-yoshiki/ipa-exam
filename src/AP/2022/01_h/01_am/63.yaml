@@ -9,5 +9,8 @@ choice:
     text: 製品の基準生産計画，部品表及び在庫情報を基に，資材の所要量と必要な時期を求め，これを基準に資材の手配，納入の管理を支援する生産管理手法のこと
   - label: エ
     text: プロジェクトを，戦略との適合性や費用対効果，リスクといった観点から評価を行い，情報化投資のバランスを管理し，最適化を図ること
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''
