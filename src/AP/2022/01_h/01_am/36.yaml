@@ -1,16 +1,13 @@
-label: '36'
-question: 複数のシステムやサービスの間で利用される SAML (Security Assertion Markup Language)はどれか。
+label: 36
+question: 複数のシステムやサービスの間で利用されるSAML(Security Assertion Markup Language)はどれか。
 choice:
   - label: ア
     text: システムの負荷や動作状況に関する情報を送信するための仕様
   - label: イ
     text: 脆弱性に関する情報や脅威情報を交換するための仕様
   - label: ウ
-    text: 通信を暗号化し、VPNを実装するための仕様
+    text: 通信を暗号化し，VPNを実装するための仕様
   - label: エ
     text: 認証や認可に関する情報を交換するための仕様
-calculation: false
-figure: false
 answer: エ
 category: T
-figureText: ''

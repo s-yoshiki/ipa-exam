@@ -1,18 +1,14 @@
-label: '2'
+label: 2
 question: >-
-  全体集合S 内に異なる部分集合AとBがあるとき, And に等しいものはどれか。ここで, AUB はAとBの和集合, AnBはAとBの積集合,
-  ĀはSにおけるAの補集合,A-BはAからBを除いた差集合を表す。
+  全体集合S内に異なる部分集合AとBがあるとき，A∩Bに等しいものはどれか。ここで，A∪BはAとBの和集合，A∩BはAとBの積集合，AはSにおけるAの補集合，A－BはAからBを除いた差集合を表す。
 choice:
   - label: ア
-    text: A-B
+    text: A－B
   - label: イ
-    text: (S-A)u(S-B)
+    text: (A∪B)－(A∩B)
   - label: ウ
-    text: (ĀUB)-(A∩B)
+    text: (S－A)∪(S－B)
   - label: エ
-    text: S- (A∩B)
-calculation: false
-figure: false
+    text: S－(A∩B)
 answer: ア
 category: T
-figureText: ''

@@ -1,5 +1,5 @@
-label: '34'
-question: IPv4 で 192.168.30.32/28 のネットワークに接続可能なホストの最大数はどれか。
+label: 34
+question: IPv4で 192.168.30.32/28 のネットワークに接続可能なホストの最大数はどれか。
 choice:
   - label: ア
     text: '14'
@@ -7,9 +7,7 @@ choice:
     text: '16'
   - label: ウ
     text: '28'
-  - label: H
-calculation: false
-figure: false
+  - label: エ
+    text: '30'
 answer: ア
 category: T
-figureText: ''

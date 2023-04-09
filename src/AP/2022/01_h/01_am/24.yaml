@@ -1,16 +1,13 @@
-label: '24'
-question: ユーザインタフェースのユーザビリティを評価する際、利用者が参加する手法と専門家だけで実施する手法の適切な組み合わせはどれか。
+label: 24
+question: ユーザインタフェースのユーザビリティを評価するときの，利用者が参加する手法と専門家だけで実施する手法の適切な組みはどれか。
 choice:
   - label: ア
-    text: アンケートと回顧法
+    text: ''
   - label: イ
-    text: 回顧法と思考発話法
+    text: ''
   - label: ウ
-    text: 思考発話法とヒューリスティック評価法
+    text: ''
   - label: エ
-    text: 認知的ウォークスルー法とヒューリスティック評価法
-calculation: false
-figure: false
+    text: ''
 answer: ウ
 category: T
-figureText: ''

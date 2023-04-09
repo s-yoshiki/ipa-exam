@@ -1,16 +1,13 @@
-label: '9'
-question: キャッシュメモリのアクセス時間が主記憶のアクセス時間の1/30で,ヒット率が95%のとき、実効メモリアクセス時間は、主記憶のアクセス時間の約何倍になるか。
+label: 9
+question: キャッシュメモリのアクセス時間が主記憶のアクセス時間の1／30で，ヒット率が95％のとき，実効メモリアクセス時間は，主記憶のアクセス時間の約何倍になるか。
 choice:
   - label: ア
-    text: 0.03
+    text: '0.03'
   - label: イ
-    text: 0.08
+    text: '0.08'
   - label: ウ
-    text: 0.37
+    text: '0.37'
   - label: エ
-    text: 0.95
-calculation: false
-figure: false
+    text: '0.95'
 answer: イ
 category: T
-figureText: ''

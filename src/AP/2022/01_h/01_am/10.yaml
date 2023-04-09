@@ -1,5 +1,5 @@
-label: '10'
-question: キャッシュメモリのフルアソシエイティブ方式に関する記述として、適切なものはどれか？
+label: 10
+question: キャッシュメモリのフルアソシエイティブ方式に関する記述として，適切なものはどれか。
 choice:
   - label: ア
     text: キャッシュメモリの各ブロックに主記憶のセットが固定されている。
@@ -9,8 +9,5 @@ choice:
     text: 主記憶の特定の1ブロックに専用のキャッシュメモリが割り当てられる。
   - label: エ
     text: 任意のキャッシュメモリのブロックを主記憶のどの部分にも割り当てられる。
-calculation: false
-figure: false
 answer: エ
 category: T
-figureText: ''

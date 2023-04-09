@@ -1,5 +1,5 @@
-label: '33'
-question: UDP を使用しているものはどれか。
+label: 33
+question: UDPを使用しているものはどれか。
 choice:
   - label: ア
     text: FTP
@@ -9,8 +9,5 @@ choice:
     text: POP3
   - label: エ
     text: TELNET
-calculation: false
-figure: false
 answer: イ
 category: T
-figureText: ''

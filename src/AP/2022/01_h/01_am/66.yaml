@@ -1,16 +1,13 @@
-label: '66'
-question: UML の図のうち, 業務要件定義において, 業務フローを記述する際に使用する, 処理の分岐や並行処理, 処理の同期などを表現できる図はどれか。
+label: 66
+question: UMLの図のうち，業務要件定義において，業務フローを記述する際に使用する，処理の分岐や並行処理，処理の同期などを表現できる図はどれか。
 choice:
   - label: ア
     text: アクティビティ図
   - label: イ
     text: クラス図
   - label: ウ
-    text: 状態マシン図
+    text: 状態遷移図
   - label: エ
     text: ユースケース図
-calculation: false
-figure: false
 answer: ア
-category: T
-figureText: ''
+category: S

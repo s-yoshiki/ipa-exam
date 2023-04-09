@@ -1,5 +1,5 @@
-label: '7'
-question: プログラム言語のうち、ブロックの範囲を指定する方法として特定の記号や予約語を用いず、等しい文字数の字下げを用いるという特徴をもつものはどれか。
+label: 7
+question: プログラム言語のうち，ブロックの範囲を指定する方法として特定の記号や予約語を用いず，等しい文字数の字下げを用いるという特徴をもつものはどれか。
 choice:
   - label: ア
     text: C
@@ -9,8 +9,5 @@ choice:
     text: PHP
   - label: エ
     text: Python
-calculation: false
-figure: false
 answer: エ
 category: T
-figureText: ''

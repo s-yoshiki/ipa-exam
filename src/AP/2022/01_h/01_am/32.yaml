@@ -1,5 +1,5 @@
-label: '32'
-question: シリアル回線で使用するものと同じデータリンクのコネクション確立やデータ転送を、LAN上で実現するプロトコルはどれか。
+label: 32
+question: シリアル回線で使用するものと同じデータリンクのコネクション確立やデータ転送を，LAN上で実現するプロトコルはどれか。
 choice:
   - label: ア
     text: MPLS
@@ -9,8 +9,5 @@ choice:
     text: PPPoE
   - label: エ
     text: PPTP
-calculation: false
-figure: false
 answer: ウ
 category: T
-figureText: ''

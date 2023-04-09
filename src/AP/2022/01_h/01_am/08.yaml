@@ -1,5 +1,5 @@
-label: '8'
-question: プロセッサの高速化技法の一つとして、同時に実行可能な複数の動作を、コンパイルの段階でまとめて一つの複合命令とし、高速化を図る方式はどれか。
+label: 8
+question: プロセッサの高速化技法の一つとして，同時に実行可能な複数の動作を，コンパイルの段階でまとめて一つの複合命令とし，高速化を図る方式はどれか。
 choice:
   - label: ア
     text: CISC
@@ -9,8 +9,5 @@ choice:
     text: RISC
   - label: エ
     text: VLIW
-calculation: false
-figure: false
 answer: エ
 category: T
-figureText: ''

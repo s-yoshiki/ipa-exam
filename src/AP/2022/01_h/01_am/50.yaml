@@ -1,16 +1,13 @@
-label: '50'
-question: ソフトウェア開発に使われる IDE の説明として、適切なものはどれか。
+label: 50
+question: ソフトウェア開発に使われるIDEの説明として，適切なものはどれか。
 choice:
   - label: ア
-    text: エディタ、コンパイラ、リンカ、デバッガなどが一体となったツール
+    text: エディタ，コンパイラ，リンカ，デバッガなどが一体となったツール
   - label: イ
     text: 専用のハードウェアインタフェースでCPUの情報を取得する装置
   - label: ウ
     text: ターゲットCPUを搭載した評価ボードなどの実行環境
   - label: エ
     text: タスクスケジューリングの仕組みなどを提供するソフトウェア
-calculation: false
-figure: false
 answer: ア
 category: T
-figureText: ''

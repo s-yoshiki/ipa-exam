@@ -1,16 +1,13 @@
-label: '54'
-question: プロジェクトのコンティンジェンシ計画において決定することとして、適切なものはどれか。
+label: 54
+question: プロジェクトのコンティンジェンシ計画において決定することとして，適切なものはどれか。
 choice:
   - label: ア
-    text: あらかじめ定義された、ある条件のときにだけ実行する対応策
+    text: あらかじめ定義された，ある条件のときにだけ実行する対応策
   - label: イ
     text: 活動リストの活動ごとに必要な資源
   - label: ウ
     text: プロジェクトに適用する品質の要求事項及び規格
   - label: エ
     text: プロジェクトのステークホルダの情報及びコミュニケーションのニーズ
-calculation: false
-figure: false
 answer: ア
 category: M
-figureText: ''

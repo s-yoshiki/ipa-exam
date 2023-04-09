@@ -1,4 +1,4 @@
-label: '71'
+label: 71
 question: XBRLで主要な取扱いの対象とされている情報はどれか。
 choice:
   - label: ア
@@ -8,9 +8,6 @@ choice:
   - label: ウ
     text: 企業の財務情報
   - label: エ
-    text: null
-calculation: false
-figure: false
+    text: 自治体の住民情報
 answer: ウ
-category: T
-figureText: ''
+category: S

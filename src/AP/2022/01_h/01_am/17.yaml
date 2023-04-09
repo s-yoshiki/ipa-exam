@@ -1,17 +1,14 @@
-label: '17'
+label: 17
 question: >-
-  一つのI2Cバスに接続された二つのセンサがある。それぞれのセンサ値を読み込む二つのタスクで排他的に制御したい。利用するリアルタイムOSの機能として、適切なものはどれか。
+  一つのI2Cバスに接続された二つのセンサがある。それぞれのセンサ値を読み込む二つのタスクで排他的に制御したい。利用するリアルタイムOSの機能として，適切なものはどれか。
 choice:
   - label: ア
-    text: アキュー
+    text: キュー
   - label: イ
     text: セマフォ
   - label: ウ
     text: マルチスレッド
   - label: エ
     text: ラウンドロビン
-calculation: false
-figure: false
 answer: イ
 category: T
-figureText: ''
