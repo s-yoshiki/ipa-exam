@@ -1,0 +1,13 @@
+label: 42
+question: VPNで使用されるセキュアなプロトコルであるIPsec，L2TP，TLSの，OSI基本参照モデルにおける相対的な位置関係はどれか。
+choice:
+  - label: ア
+    text: A
+  - label: イ
+    text: B
+  - label: ウ
+    text: C
+  - label: エ
+    text: D
+answer: ウ
+category: T

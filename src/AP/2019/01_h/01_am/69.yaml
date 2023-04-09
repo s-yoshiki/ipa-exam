@@ -1,0 +1,13 @@
+label: 69
+question: 知識創造プロセス(SECIモデル)における"表出化"はどれか。
+choice:
+  - label: ア
+    text: 暗黙知から新たに暗黙知を得ること
+  - label: イ
+    text: 暗黙知から新たに形式知を得ること
+  - label: ウ
+    text: 形式知から新たに暗黙知を得ること
+  - label: エ
+    text: 形式知から新たに形式知を得ること
+answer: イ
+category: S

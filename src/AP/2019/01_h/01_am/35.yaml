@@ -1,0 +1,13 @@
+label: 35
+question: Webサーバを使ったシステムにおいて，インターネット経由でアクセスしてくるクライアントから受け取ったリクエストをWebサーバに中継する仕組みはどれか。
+choice:
+  - label: ア
+    text: DMZ
+  - label: イ
+    text: フォワードプロキシ
+  - label: ウ
+    text: プロキシARP
+  - label: エ
+    text: リバースプロキシ
+answer: エ
+category: T

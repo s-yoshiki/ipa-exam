@@ -1,0 +1,13 @@
+label: 32
+question: インターネット接続において，複数のISPの回線を使用した冗長化構成を表す用語はどれか。
+choice:
+  - label: ア
+    text: IP-VPN
+  - label: イ
+    text: インターネットVPN
+  - label: ウ
+    text: 広域イーサネット
+  - label: エ
+    text: マルチホーミング
+answer: エ
+category: T

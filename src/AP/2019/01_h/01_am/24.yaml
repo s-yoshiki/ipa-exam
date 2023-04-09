@@ -1,0 +1,13 @@
+label: 24
+question: コードの値からデータの対象物が連想できるものはどれか。
+choice:
+  - label: ア
+    text: シーケンスコード
+  - label: イ
+    text: デシマルコード
+  - label: ウ
+    text: ニモニックコード
+  - label: エ
+    text: ブロックコード
+answer: ウ
+category: T

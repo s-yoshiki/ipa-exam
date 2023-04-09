@@ -1,0 +1,13 @@
+label: 44
+question: パケットフィルタリング型ファイアウォールが，通信パケットの通過を許可するかどうかを判断するときに用いるものはどれか。
+choice:
+  - label: ア
+    text: Webアプリケーションに渡されるPOSTデータ
+  - label: イ
+    text: 送信元と宛先のIPアドレスとポート番号
+  - label: ウ
+    text: 送信元のMACアドレス
+  - label: エ
+    text: 利用者のPCから送信されたURL
+answer: イ
+category: T

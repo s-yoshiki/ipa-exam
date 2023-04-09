@@ -1,0 +1,14 @@
+label: 16
+question: >-
+  五つのジョブA～Eに対して，ジョブの多重度が1で，処理時間順方式のスケジューリングを適用した場合，ジョブBのターンアラウンドタイムは何秒か。ここで，OSのオーバヘッドは考慮しないものとする。
+choice:
+  - label: ア
+    text: '8'
+  - label: イ
+    text: '9'
+  - label: ウ
+    text: '10'
+  - label: エ
+    text: '11'
+answer: エ
+category: T

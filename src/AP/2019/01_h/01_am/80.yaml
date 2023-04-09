@@ -1,0 +1,13 @@
+label: 80
+question: 技術者倫理の観点から，職務遂行において技術者が優先すべきこととして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 会社の利益
+  - label: イ
+    text: 技術者個人の名誉
+  - label: ウ
+    text: 公衆の安全
+  - label: エ
+    text: コストの低減
+answer: ウ
+category: S

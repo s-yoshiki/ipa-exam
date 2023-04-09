@@ -1,0 +1,13 @@
+label: 20
+question: DRAMのメモリセルにおいて，情報を記憶するために利用されているものはどれか。
+choice:
+  - label: ア
+    text: コイル
+  - label: イ
+    text: コンデンサ
+  - label: ウ
+    text: 抵抗
+  - label: エ
+    text: フリップフロップ
+answer: イ
+category: T

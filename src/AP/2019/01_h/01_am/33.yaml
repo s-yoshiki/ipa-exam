@@ -1,0 +1,15 @@
+label: 33
+question: >-
+  図のようなIPネットワークのLAN環境で，ホストAからホストBにパケットを送信する。LAN1において，パケット内のイーサネットフレームの宛先とIPデータグラムの宛先の組合せとして，適切なものはどれか。ここで，図中の
+  MACn/IPm はホスト又はルータがもつインタフェースのMACアドレスとIPアドレスを示す。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+answer: ウ
+category: T

@@ -1,0 +1,13 @@
+label: 27
+question: RDBMSにおいて，特定の利用者だけに表を更新する権限を与える方法として，適切なものはどれか。
+choice:
+  - label: ア
+    text: CONNECT文で接続を許可する。
+  - label: イ
+    text: CREATE ASSERTION文で表明して制限する。
+  - label: ウ
+    text: CREATE TABLE文の参照制約で制限する。
+  - label: エ
+    text: GRANT文で許可する。
+answer: エ
+category: T

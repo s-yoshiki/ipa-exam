@@ -1,0 +1,13 @@
+label: 45
+question: WAFの説明はどれか。
+choice:
+  - label: ア
+    text: Webアプリケーションへの攻撃を検知し，阻止する。
+  - label: イ
+    text: Webブラウザの通信内容を改ざんする攻撃をPC内で監視し，検出する。
+  - label: ウ
+    text: サーバのOSへの不正なログインを監視する。
+  - label: エ
+    text: ファイルへのマルウェア感染を監視し，検出する。
+answer: ア
+category: T

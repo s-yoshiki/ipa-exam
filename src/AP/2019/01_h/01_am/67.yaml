@@ -1,0 +1,13 @@
+label: 67
+question: コアコンピタンスに該当するものはどれか。
+choice:
+  - label: ア
+    text: 主な事業ドメインの高い成長率
+  - label: イ
+    text: 競合他社よりも効率性が高い生産システム
+  - label: ウ
+    text: 参入を予定している事業分野の競合状況
+  - label: エ
+    text: 収益性が高い事業分野での市場シェア
+answer: イ
+category: S

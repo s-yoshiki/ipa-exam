@@ -1,0 +1,13 @@
+label: 26
+question: データベースを記録媒体にどのように格納するかを記述したものはどれか。
+choice:
+  - label: ア
+    text: 概念スキーマ
+  - label: イ
+    text: 外部スキーマ
+  - label: ウ
+    text: サブスキーマ
+  - label: エ
+    text: 内部スキーマ
+answer: エ
+category: T

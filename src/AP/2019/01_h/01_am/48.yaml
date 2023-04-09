@@ -1,0 +1,14 @@
+label: 48
+question: >-
+  オペレーティングシステムの更新によって，既存のアプリケーションソフトウェアが正常に動作しなくなることが判明したので，正常に動作するように修正した。この保守を何と呼ぶか。
+choice:
+  - label: ア
+    text: 完全化保守
+  - label: イ
+    text: 是正保守
+  - label: ウ
+    text: 適応保守
+  - label: エ
+    text: 予防保守
+answer: ウ
+category: T

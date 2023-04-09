@@ -1,0 +1,14 @@
+label: 62
+question: >-
+  A社は，ソリューションプロバイダから，顧客に対するワントゥワンマーケティングを実現する統合的なソリューションの提案を受けた。この提案が該当するソリューションとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: CRMソリューション
+  - label: イ
+    text: HRMソリューション
+  - label: ウ
+    text: SCMソリューション
+  - label: エ
+    text: 財務管理ソリューション
+answer: ア
+category: S
