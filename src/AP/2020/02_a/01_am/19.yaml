@@ -9,5 +9,8 @@ choice:
     text: OSSを稼働用のコンピュータにインストールし，動作確認を行う。
   - label: エ
     text: OSSを含むソフトウェアを利用したシステムの提案を行う。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

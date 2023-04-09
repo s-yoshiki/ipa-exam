@@ -10,5 +10,8 @@ choice:
     text: '13'
   - label: エ
     text: '14'
+calculation: false
+figure: true
 answer: イ
 category: M
+figureText: ''

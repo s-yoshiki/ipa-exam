@@ -9,5 +9,8 @@ choice:
     text: D≒Blog210
   - label: エ
     text: D≒Blog102
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

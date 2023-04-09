@@ -11,5 +11,8 @@ choice:
     text: 直径1の円に内接する正n角形の周の長さと円の直径の比が，nを大きくするとπ:1に近づくことを用いて求める。
   - label: エ
     text: 直径1の円に内接する正n角形の面積と円に内接する正方形の面積の比が，nを大きくするとπ:2に近づくことを用いて求める。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

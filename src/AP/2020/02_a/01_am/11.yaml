@@ -12,5 +12,8 @@ choice:
   - label: エ
     text: >-
       ディスプレイに右目用，左目用の映像を同時に描画し，フィルタを用いてそれぞれの映像の光の振幅方向を回転して，透過する振幅方向が左右で異なる偏光眼鏡で見ることによって，立体視を可能とする。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

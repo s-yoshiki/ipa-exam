@@ -9,5 +9,8 @@ choice:
     text: UPS
   - label: エ
     text: USB
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

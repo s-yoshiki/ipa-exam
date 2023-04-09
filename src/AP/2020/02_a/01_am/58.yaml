@@ -9,5 +9,8 @@ choice:
     text: 監査対象の状況に関する監査証拠を入手するために，システム監査人が，関連する資料及び文書類を入手し，内容を点検する。
   - label: エ
     text: データの生成から入力，処理，出力，活用までのプロセス，及び組み込まれているコントロールを，システム監査人が，書面上で，又は実際に追跡する。
+calculation: false
+figure: false
 answer: エ
 category: M
+figureText: ''

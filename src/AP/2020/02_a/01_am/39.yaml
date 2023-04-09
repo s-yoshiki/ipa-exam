@@ -9,5 +9,8 @@ choice:
     text: ネットワークを流れるパケットから，侵入のパターンに合致するものを検出して，管理者への通知や，検出した内容の記録を行う。
   - label: エ
     text: マルウェア対策ソフトのセキュリティ上の脆弱性を悪用して，システム権限で不正な処理を実行させる。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

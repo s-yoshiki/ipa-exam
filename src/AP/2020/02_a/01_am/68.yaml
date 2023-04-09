@@ -10,5 +10,8 @@ choice:
     text: 時系列回帰分析法
   - label: エ
     text: デルファイ法
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

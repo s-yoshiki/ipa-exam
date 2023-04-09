@@ -9,5 +9,8 @@ choice:
     text: ステークホルダ分類
   - label: エ
     text: プロジェクトからの除外事項
+calculation: false
+figure: false
 answer: エ
 category: M
+figureText: ''

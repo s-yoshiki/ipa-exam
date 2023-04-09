@@ -12,5 +12,8 @@ choice:
   - label: エ
     text: >-
       特定電気通信による情報の流通によって権利を侵害された者が，個人情報保護委員会に苦情を申し立て，被害が認定された際に特定電気通信役務提供者に命令される措置である。
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

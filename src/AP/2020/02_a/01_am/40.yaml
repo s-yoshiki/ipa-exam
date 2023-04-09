@@ -10,5 +10,8 @@ choice:
     text: 文書ファイルがマルウェアに感染していないことを認証局に問い合わせて確認できる。
   - label: エ
     text: 文書ファイルとディジタル署名のどちらかが改ざんされた場合，どちらが改ざんされたかを判別できる。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

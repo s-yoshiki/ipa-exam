@@ -9,5 +9,8 @@ choice:
     text: 事業者が，営業活動情報を管理するシステムを導入する際に，営業担当者のマスタ情報として使用する目的でシステムを導入するベンダから提出を求められた場合
   - label: エ
     text: 事業者が，個人情報保護委員会による特定個人情報の取扱いに関する立入検査を実施された際，同委員会から資料の提出を求められた場合
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

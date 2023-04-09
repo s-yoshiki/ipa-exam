@@ -9,5 +9,8 @@ choice:
     text: メモリセル構成が単純なので，ビット当たりの単価が安くなる。
   - label: エ
     text: メモリセルにフリップフロップを用いてデータを保存する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

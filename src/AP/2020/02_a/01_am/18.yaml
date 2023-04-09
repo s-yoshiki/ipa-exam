@@ -9,5 +9,8 @@ choice:
     text: プログラムがアクセスするページだけをその都度主記憶にロードするので，主記憶への不必要なページのロードを避けることができる。
   - label: エ
     text: プログラムがアクセスするページだけをその都度主記憶にロードするので，将来必要となるページの予想が不要である。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: SSH
   - label: エ
     text: TLS
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

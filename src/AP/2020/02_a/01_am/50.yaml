@@ -10,5 +10,8 @@ choice:
     text: 特許Aを家庭内で個人的に利用するだけの場合
   - label: エ
     text: 日本国内で製造し，米国に輸出する製品に特許Aを利用する場合
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

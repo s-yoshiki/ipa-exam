@@ -1,7 +1,7 @@
 label: 29
 question: >-
-  "東京在庫"表と"大阪在庫"表に対して，SQL文を実行して得られる結果はどれか。ここで，実線の下線は主キーを表す。〔SQL文〕SELECT
-  商品コード，在庫数 FROM 東京在庫　　UNION ALLSELECT 商品コード，在庫数 FROM 大阪在庫
+  "東京在庫"表と"大阪在庫"表に対して，SQL文を実行して得られる結果はどれか。ここで，実線の下線は主キーを表す。〔SQL文〕<br>SELECT
+  商品コード，在庫数 FROM 東京在庫<br>　　UNION ALL<br>SELECT 商品コード，在庫数 FROM 大阪在庫
 choice:
   - label: ア
     text: ''
@@ -11,5 +11,8 @@ choice:
     text: ''
   - label: エ
     text: ''
+calculation: false
+figure: true
 answer: エ
 category: T
+figureText: ''

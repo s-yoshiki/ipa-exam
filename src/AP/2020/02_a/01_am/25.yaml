@@ -10,5 +10,8 @@ choice:
     text: 35Mビット／秒
   - label: エ
     text: 350Mビット／秒
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

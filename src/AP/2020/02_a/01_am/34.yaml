@@ -10,5 +10,8 @@ choice:
     text: NAPT
   - label: エ
     text: NTP
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

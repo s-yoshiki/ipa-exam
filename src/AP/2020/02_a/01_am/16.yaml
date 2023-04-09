@@ -10,5 +10,8 @@ choice:
     text: ヒープ
   - label: エ
     text: フラグメンテーション
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

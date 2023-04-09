@@ -10,5 +10,8 @@ choice:
     text: '30'
   - label: エ
     text: '40'
+calculation: false
+figure: true
 answer: エ
 category: T
+figureText: ''

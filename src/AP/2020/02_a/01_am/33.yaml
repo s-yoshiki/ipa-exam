@@ -9,5 +9,8 @@ choice:
     text: OSI基本参照モデルの物理層において，ネットワークを延長する。
   - label: エ
     text: 互いが直接，通信ができないトランスポート層以上の二つの異なるプロトコルの翻訳作業を行い，通信ができるようにする。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

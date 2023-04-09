@@ -9,5 +9,8 @@ choice:
     text: チェックサム
   - label: エ
     text: ハミング符号
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

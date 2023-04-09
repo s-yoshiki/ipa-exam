@@ -9,5 +9,8 @@ choice:
     text: NPV
   - label: エ
     text: ROI
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

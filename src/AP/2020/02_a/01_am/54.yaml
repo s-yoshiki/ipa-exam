@@ -9,5 +9,8 @@ choice:
     text: 受容
   - label: エ
     text: 転嫁
+calculation: false
+figure: false
 answer: ウ
 category: M
+figureText: ''

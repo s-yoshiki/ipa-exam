@@ -9,5 +9,8 @@ choice:
     text: CRLは，鍵の漏えい，失効申請の状況をリアルタイムに反映するプロトコルである。
   - label: エ
     text: 有効期限切れで失効したディジタル証明書は，所有者が新たなディジタル証明書を取得するまでの間，CRLに登録される。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

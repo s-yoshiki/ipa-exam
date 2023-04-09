@@ -10,5 +10,8 @@ choice:
     text: クラウド事業者との間で調整不可となる諸事項については，自社による代替策を用意した上で，クラウド事業者との間でコントロール水準をSLAなどで合意する。
   - label: エ
     text: 複数あるクラウド事業者のサービス内容を比較検討し，自社が求める要件及びコントロール水準が充足できるかどうかを判定する。
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 人間の能力及びスキルの限界を考慮して，利用者とシステムとの間の相互作用を識別する。
   - label: エ
     text: 利害関係者の要件が正確に表現されていることを，利害関係者とともに確立する。
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

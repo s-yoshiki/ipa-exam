@@ -9,5 +9,8 @@ choice:
     text: トランザクションの処理が全て実行されるか，全く実行されないかのいずれかで終了すること
   - label: エ
     text: 複数のトランザクションを同時に実行した場合と，順番に実行した場合の処理結果が一致すること
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 系統図法
   - label: エ
     text: 連関図法
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

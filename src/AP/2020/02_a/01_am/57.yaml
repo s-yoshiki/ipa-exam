@@ -9,5 +9,8 @@ choice:
     text: オンライン時間帯に性能を測定することはサービスレベルの低下につながるので，測定はオフライン時間帯に行う。
   - label: エ
     text: 容量・能力及びパフォーマンスに関するインシデントを記録する。
+calculation: false
+figure: false
 answer: イ
 category: M
+figureText: ''

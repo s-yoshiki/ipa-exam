@@ -9,5 +9,8 @@ choice:
     text: 遅れを取り戻すために，監査対象部門の改善活動に参加する。
   - label: エ
     text: 遅れを取り戻すための監査対象部門への要員の追加を，人事部長に要求する。
+calculation: false
+figure: false
 answer: イ
 category: M
+figureText: ''

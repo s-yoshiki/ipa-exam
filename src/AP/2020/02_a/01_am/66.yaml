@@ -9,5 +9,8 @@ choice:
     text: 開発したシステムによって将来，ユーザ企業が獲得する売上や利益をSI事業者にも分配することを条件に，開発初期のSI事業者への委託金額を抑える。
   - label: エ
     text: システム開発に必要な工数と人員の単価を掛け合わせた費用をSI事業者が見積もり，システム構築費用としてシステム完成時にユーザ企業に請求する。
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

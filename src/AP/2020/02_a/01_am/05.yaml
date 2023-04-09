@@ -9,5 +9,8 @@ choice:
     text: ポインタから次の要素を求めるためにハッシュ関数を用いる。
   - label: エ
     text: ポインタによって指定されている要素の後ろに，新たな要素を追加する計算量は，要素の個数や位置によらず一定である。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 伝送制御手順
   - label: エ
     text: メッセージの形式
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

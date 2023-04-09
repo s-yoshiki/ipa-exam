@@ -9,5 +9,8 @@ choice:
     text: ファイアウォール，侵入検知，マルウェア対策など，複数のセキュリティ機能を統合したネットワーク監視装置
   - label: エ
     text: ログデータを一元的に管理し，セキュリティイベントの監視者への通知及び相関分析を行うシステム
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

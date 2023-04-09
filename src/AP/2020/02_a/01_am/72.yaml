@@ -9,5 +9,8 @@ choice:
     text: データの活用を通じて，消費者や顧客企業とのつながりや関係性を深めるためのシステム
   - label: エ
     text: 日々の仕訳伝票を入力した上で，データの改ざん，消失を防ぎながら取引データベースを維持・管理することによって，財務報告を行うためのシステム
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

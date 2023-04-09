@@ -9,5 +9,8 @@ choice:
     text: ABC×＋
   - label: エ
     text: CBA＋×
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

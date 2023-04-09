@@ -9,5 +9,8 @@ choice:
     text: バリューチェーン分析
   - label: エ
     text: ファイブフォース分析
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

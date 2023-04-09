@@ -9,5 +9,8 @@ choice:
     text: カード加盟店に正規に設置されている，カードの磁気ストライプの情報を読み取る機器から，カード情報を窃取する。
   - label: エ
     text: 利用者のPCを利用できなくし，再び利用できるようにするのと引換えに金銭を要求する。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

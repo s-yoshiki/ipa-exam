@@ -9,5 +9,8 @@ choice:
     text: 商品本体の価格を安く設定し，関連消耗品の販売で利益を得る。
   - label: エ
     text: 新商品に高い価格を設定して早い段階で利益を回収する。
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

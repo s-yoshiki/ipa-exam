@@ -9,5 +9,8 @@ choice:
     text: 特許料が無償でライセンスされている技術
   - label: エ
     text: 複数の企業が自社の特許権をもち寄り，特許権を一括して管理する仕組み
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

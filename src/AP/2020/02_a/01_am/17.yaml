@@ -10,5 +10,8 @@ choice:
     text: Cだけ
   - label: エ
     text: Dだけ
+calculation: false
+figure: true
 answer: イ
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: サーバのうちいずれかを監視専用に変更することによって，システム全体のセキュリティを強化する。
   - label: エ
     text: サーバの故障時に正常なサーバだけで瞬時にシステムを再構成し，サーバ数を減らしてでも運転を継続する。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

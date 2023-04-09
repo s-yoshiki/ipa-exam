@@ -9,5 +9,8 @@ choice:
     text: Python
   - label: エ
     text: Ruby
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

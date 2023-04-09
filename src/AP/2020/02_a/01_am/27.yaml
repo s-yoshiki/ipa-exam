@@ -9,5 +9,8 @@ choice:
     text: 部品番号とメーカ番号の組みを"納入"表の候補キーの一部にできる。
   - label: エ
     text: '"メーカ"表は，外部キーとして部品番号をもつことになる。'
+calculation: false
+figure: true
 answer: ウ
 category: T
+figureText: ''
