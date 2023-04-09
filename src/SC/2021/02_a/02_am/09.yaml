@@ -1,0 +1,16 @@
+label: 9
+question: JIS Q 27002:2014には記載されていないが，JIS Q 27017:2016において記載されている管理策はどれか。
+choice:
+  - label: ア
+    text: クラウドサービス固有の情報セキュリティ管理策
+  - label: イ
+    text: 事業継続マネジメントシステムにおける管理策
+  - label: ウ
+    text: 情報セキュリティガバナンスにおける管理策
+  - label: エ
+    text: 制御システム固有のサイバーセキュリティ管理策
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

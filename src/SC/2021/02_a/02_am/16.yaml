@@ -1,0 +1,16 @@
+label: 16
+question: IEEE802.1Xで使われるEAP-TLSが行う認証はどれか。
+choice:
+  - label: ア
+    text: CHAPを用いたチャレンジレスポンスによる利用者認証
+  - label: イ
+    text: あらかじめ登録した共通鍵によるサーバ認証と，時刻同期のワンタイムパスワードによる利用者認証
+  - label: ウ
+    text: ディジタル証明書による認証サーバとクライアントの相互認証
+  - label: エ
+    text: 利用者IDとパスワードによる利用者認証
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

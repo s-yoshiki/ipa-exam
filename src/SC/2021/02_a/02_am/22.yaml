@@ -1,0 +1,16 @@
+label: 22
+question: テスト担当者が，ソフトウェアを動作させてその動きを学習しながら，自身の経験に基づいて以降のテストを動的に計画して進めるテストの方法はどれか。
+choice:
+  - label: ア
+    text: 実験計画法
+  - label: イ
+    text: 状態遷移テスト
+  - label: ウ
+    text: 探索的テスト
+  - label: エ
+    text: モデルベースドテスト
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

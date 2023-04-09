@@ -1,0 +1,16 @@
+label: 7
+question: FIPS PUB 140-3の記述内容はどれか。
+choice:
+  - label: ア
+    text: 暗号モジュールのセキュリティ要求事項
+  - label: イ
+    text: 情報セキュリティマネジメントシステムの要求事項
+  - label: ウ
+    text: ディジタル証明書や証明書失効リストの技術仕様
+  - label: エ
+    text: 無線LANセキュリティの技術仕様
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 16
+question: UMLのアクティビティ図の特徴はどれか。
+choice:
+  - label: ア
+    text: 多くの並行処理を含むシステムの，オブジェクトの振る舞いが記述できる。
+  - label: イ
+    text: オブジェクト群がどのようにコラボレーションを行うか記述できる。
+  - label: ウ
+    text: クラスの仕様と，クラスの間の静的な関係が記述できる。
+  - label: エ
+    text: システムのコンポーネント間の物理的な関係が記述できる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

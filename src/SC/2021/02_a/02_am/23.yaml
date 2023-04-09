@@ -1,0 +1,16 @@
+label: 23
+question: ブルーレイディスクで使われているコンテンツ保護技術はどれか。
+choice:
+  - label: ア
+    text: AACS
+  - label: イ
+    text: CPRM
+  - label: ウ
+    text: CSS
+  - label: エ
+    text: WMRM
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

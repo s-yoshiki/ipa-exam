@@ -1,0 +1,16 @@
+label: 1
+question: リフレクタ攻撃に悪用されることの多いサービスの例はどれか。
+choice:
+  - label: ア
+    text: DKIM，DNSSEC，SPF
+  - label: イ
+    text: DNS，Memcached，NTP
+  - label: ウ
+    text: FTP，L2TP，Telnet
+  - label: エ
+    text: IPsec，SSL，TLS
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

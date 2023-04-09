@@ -1,0 +1,17 @@
+label: 8
+question: >-
+  W3Cで仕様が定義され，矩形や円，直線，文字列などの図形オブジェクトをXML形式で記述し，Webページでの図形描画にも使うことができる画像フォーマットはどれか。
+choice:
+  - label: ア
+    text: OpenGL
+  - label: イ
+    text: PNG
+  - label: ウ
+    text: SVG
+  - label: エ
+    text: TIFF
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

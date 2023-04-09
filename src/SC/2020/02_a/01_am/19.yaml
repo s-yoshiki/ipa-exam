@@ -1,0 +1,16 @@
+label: 19
+question: PMBOKガイド第6版によれば，脅威と好機の，どちらに対しても採用されるリスク対応戦略として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 回避
+  - label: イ
+    text: 共有
+  - label: ウ
+    text: 受容
+  - label: エ
+    text: 転嫁
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

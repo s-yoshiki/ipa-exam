@@ -1,0 +1,36 @@
+label: 1
+question: >-
+  Webサーバのログを分析したところ，Webサーバへの攻撃と思われるHTTPリクエストヘッダが記録されていた。次のHTTPリクエストヘッダから推測できる，攻撃者が悪用しようとしていた脆弱性はどれか。ここで，HTTPリクエストヘッダ中の"%20"は空白を意味する。  
+    
+  〔HTTPリクエストヘッダの一部〕  
+
+
+  GET /cgi-bin/submit.cgi?user=;cat%20/etc/passwd HTTP/1.1  
+
+  Accept: \*/\*  
+
+  Accept-Language: ja  
+
+  UA-CPU: x86  
+
+  Accept-Encoding: gzip，deflate  
+
+  User-Agent: (省略)  
+
+  Host: test.example.com  
+
+  Connection: Keep-Alive
+choice:
+  - label: ア
+    text: HTTPヘッダインジェクション(HTTP Response Splitting)
+  - label: イ
+    text: OSコマンドインジェクション
+  - label: ウ
+    text: SQLインジェクション
+  - label: エ
+    text: クロスサイトスクリプティング
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

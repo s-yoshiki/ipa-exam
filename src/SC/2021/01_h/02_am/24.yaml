@@ -1,0 +1,17 @@
+label: 24
+question: >-
+  ディスク障害時に，フルバックアップを取得してあるテープからディスクにデータを復元した後，フルバックアップ取得時以降の更新後コピーをログから反映させてデータベースを回復する方法はどれか。
+choice:
+  - label: ア
+    text: チェックポイントリスタート
+  - label: イ
+    text: リブート
+  - label: ウ
+    text: ロールバック
+  - label: エ
+    text: ロールフォワード
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

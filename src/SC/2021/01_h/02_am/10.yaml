@@ -1,0 +1,18 @@
+label: 10
+question: >-
+  DNSにおいてDNS CAA(Certification Authority
+  Authorization)レコードを使うことによるセキュリティ上の効果はどれか。
+choice:
+  - label: ア
+    text: WebサイトにアクセスしたときのWebブラウザに鍵マークが表示されていれば当該サイトが安全であることを，利用者が確認できる。
+  - label: イ
+    text: Webサイトにアクセスする際のURLを短縮することによって，利用者のURLの誤入力を防ぐ。
+  - label: ウ
+    text: 電子メールを受信するサーバでスパムメールと誤検知されないようにする。
+  - label: エ
+    text: 不正なサーバ証明書の発行を防ぐ。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

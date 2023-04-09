@@ -1,0 +1,16 @@
+label: 19
+question: リモートアクセス環境において，認証情報やアカウンティング情報をやり取りするプロトコルはどれか。
+choice:
+  - label: ア
+    text: CHAP
+  - label: イ
+    text: PAP
+  - label: ウ
+    text: PPTP
+  - label: エ
+    text: RADIUS
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

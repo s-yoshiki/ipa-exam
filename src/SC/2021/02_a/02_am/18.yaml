@@ -1,0 +1,16 @@
+label: 18
+question: レイヤ3ネットワーク内に論理的なレイヤ2ネットワークをカプセル化によって構築するプロトコルはどれか。
+choice:
+  - label: ア
+    text: IEEE802.1ad(QinQ)
+  - label: イ
+    text: IPsec
+  - label: ウ
+    text: PPPoE
+  - label: エ
+    text: VXLAN
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

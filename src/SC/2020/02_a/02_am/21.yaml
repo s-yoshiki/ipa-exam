@@ -1,0 +1,16 @@
+label: 21
+question: DBMSがトランザクションのコミット処理を完了するタイミングはどれか。
+choice:
+  - label: ア
+    text: アプリケーションの更新命令完了時点
+  - label: イ
+    text: チェックポイント処理完了時点
+  - label: ウ
+    text: ログバッファへのコミット情報書込み完了時点
+  - label: エ
+    text: ログファイルへのコミット情報書込み完了時点
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

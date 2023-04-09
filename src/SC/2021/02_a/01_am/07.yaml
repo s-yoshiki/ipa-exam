@@ -1,0 +1,16 @@
+label: 7
+question: 1桁の2進数A，Bを加算し，Xに桁上がり，Yに桁上げなしの和(和の1桁目)が得られる論理回路はどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

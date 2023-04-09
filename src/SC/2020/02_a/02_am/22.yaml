@@ -1,0 +1,16 @@
+label: 22
+question: ソフトウェアの要件定義における利用者の分析で活用される，ソフトウェアの利用者を役割ごとに典型的な姿として描いた仮想の人物を何と呼ぶか。
+choice:
+  - label: ア
+    text: エピック
+  - label: イ
+    text: ステークホルダ
+  - label: ウ
+    text: プロダクトオーナ
+  - label: エ
+    text: ペルソナ
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 13
+question: テンペスト攻撃を説明したものはどれか。
+choice:
+  - label: ア
+    text: 故意に暗号化演算を誤動作させ，正しい処理結果との差異を解析する。
+  - label: イ
+    text: 処理時間の差異を計測して解析する。
+  - label: ウ
+    text: 処理中に機器から放射される電磁波を観測して解析する。
+  - label: エ
+    text: チップ内の信号線などに探針を直接当て，処理中のデータを観測して解析する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

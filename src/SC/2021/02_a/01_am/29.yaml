@@ -1,0 +1,17 @@
+label: 29
+question: >-
+  いずれも時価100円の株式A～Dのうち，一つの株式に投資したい。経済の成長を高，中，低の三つに区分したときのそれぞれの株式の予想値上がり幅は，表のとおりである。マクシミン原理に従うとき，どの株式に投資することになるか。
+choice:
+  - label: ア
+    text: A
+  - label: イ
+    text: B
+  - label: ウ
+    text: C
+  - label: エ
+    text: D
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 1
+question: >-
+  AIによる画像認識において，認識させる画像の中に人間には知覚できないノイズや微小な変化を含めることによってAIアルゴリズムの特性を悪用し，判定結果を誤らせる攻撃はどれか。
+choice:
+  - label: ア
+    text: Adaptively Chosen Message攻撃
+  - label: イ
+    text: Adversarial Examples攻撃
+  - label: ウ
+    text: Distributed Reflection Denial of Service攻撃
+  - label: エ
+    text: Model Inversion攻撃
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

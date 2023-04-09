@@ -1,0 +1,16 @@
+label: 20
+question: IPv4ネットワークにおけるIPアドレス 127.0.0.1 に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: DHCPが使用できないときに自動生成されるIPアドレスとして使用される。
+  - label: イ
+    text: 全ホストに対するブロードキャストアドレスとして使用される。
+  - label: ウ
+    text: 単一のコンピュータ上で動作するプログラム同士が通信する際に使用される。
+  - label: エ
+    text: デフォルトゲートウェイのアドレスとして使用される。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 12
+question: >-
+  外部から侵入されたサーバ及びそのサーバに接続されていた記憶媒体を調査対象としてディジタルフォレンジックスを行うことになった。まず，稼働状態にある調査対象サーバや記憶媒体などから表に示すa～dのデータを証拠として保全する。保全の順序のうち，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: a → c → d → b
+  - label: イ
+    text: b → c → a → d
+  - label: ウ
+    text: c → a → d → b
+  - label: エ
+    text: d → c → a → b
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

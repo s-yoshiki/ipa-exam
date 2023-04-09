@@ -1,0 +1,16 @@
+label: 3
+question: PQC(Post-Quantum Cryptography)はどれか。
+choice:
+  - label: ア
+    text: 量子アニーリングマシンを用いて，回路サイズ，消費電力，処理速度を飛躍的に向上させた実装性能をもつ暗号方式
+  - label: イ
+    text: 量子コンピュータを用いた攻撃に対しても，安全性を保つことができる暗号方式
+  - label: ウ
+    text: 量子コンピュータを用いて効率的に素因数分解を行うアルゴリズムによって，暗号を解読する技術
+  - label: エ
+    text: 量子通信路を用いた鍵配送システムを利用し，大容量のデータを高速に送受信する技術
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

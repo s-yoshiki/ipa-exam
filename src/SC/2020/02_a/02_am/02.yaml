@@ -1,0 +1,16 @@
+label: 2
+question: SAML(Security Assertion Markup Language)の説明として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: Webサービスに関する情報を公開し，Webサービスが提供する機能などを検索可能にするための仕様
+  - label: イ
+    text: 権限がない利用者による読取り，改ざんから電子メールを保護して送信するための仕様
+  - label: ウ
+    text: ディジタル署名に使われる鍵情報を効率よく管理するためのWebサービスの仕様
+  - label: エ
+    text: 認証情報に加え，属性情報とアクセス制御情報を異なるドメインに伝達するためのWebサービスの仕様
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

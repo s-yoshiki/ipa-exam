@@ -1,0 +1,16 @@
+label: 19
+question: スイッチングハブ同士を接続する際に，複数のポートを束ねて一つの論理ポートとして扱う技術はどれか。
+choice:
+  - label: ア
+    text: MIME
+  - label: イ
+    text: MIMO
+  - label: ウ
+    text: マルチパート
+  - label: エ
+    text: リンクアグリゲーション
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

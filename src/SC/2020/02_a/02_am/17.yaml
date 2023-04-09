@@ -1,0 +1,16 @@
+label: 17
+question: インターネットサービスプロバイダ(ISP)が，スパムメール対策として導入するIP25Bに該当するものはどれか。
+choice:
+  - label: ア
+    text: 自社ISPのネットワークの動的IPアドレスから他社ISPの管理するメールサーバへのSMTP通信を制限する。
+  - label: イ
+    text: 自社ISPのメールサーバで受信した電子メールのうち，スパムメールのシグネチャに一致する電子メールを隔離する。
+  - label: ウ
+    text: 他社ISPのネットワークの動的IPアドレスから自社ISPのメールサーバへのSMTP通信を制限する。
+  - label: エ
+    text: 他社ISPのメール不正中継の脆弱性をもつメールサーバから自社ISPのメールサーバに送信された電子メールを隔離する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

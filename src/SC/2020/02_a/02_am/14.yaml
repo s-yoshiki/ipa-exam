@@ -1,0 +1,29 @@
+label: 14
+question: >-
+  セキュリティ対策として，次の条件の下でデータベース(DB)サーバをDMZから内部ネットワークに移動するようなネットワーク構成の変更を計画している。このとき，ステートフルパケットインスペクション型のファイアウォール(FW)において，必要となるフィルタリングルールの変更のうちの一つはどれか。  
+    
+  〔条件〕
+
+
+  *   Webアプリケーション(WebAP)サーバを，インターネットに公開する。
+
+  *   WebAPサーバ上のプログラムだけがDBサーバ上のDBに接続でき，ODBC(Open Database
+  Connectivity)を使用して特定のポート間で通信する。
+
+  *   SSHを使用して各サーバに接続できるのは，運用管理PCだけである。
+
+  *   フィルタリングルールは，必要な通信だけを許可する設定にする。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

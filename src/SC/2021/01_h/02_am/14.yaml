@@ -1,0 +1,16 @@
+label: 14
+question: インターネットサービスプロバイダ(ISP)が，OP25Bを導入する目的の一つはどれか。
+choice:
+  - label: ア
+    text: ISP管理外のネットワークに対するISP管理下のネットワークからのICMPパケットによるDDoS攻撃を遮断する。
+  - label: イ
+    text: ISP管理外のネットワークに向けてISP管理下のネットワークから送信されるスパムメールを制限する。
+  - label: ウ
+    text: ISP管理下のネットワークに対するISP管理外のネットワークからのICMPパケットによるDDoS攻撃を遮断する。
+  - label: エ
+    text: ISP管理下のネットワークに向けてISP管理外のネットワークから送信されるスパムメールを制限する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

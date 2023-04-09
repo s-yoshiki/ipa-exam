@@ -1,0 +1,18 @@
+label: 5
+question: >-
+  稼働率がxである装置を四つ組み合わせて，図のようなシステムを作ったときの稼働率をƒ(x)とする。区間 0≦x≦1
+  におけるy＝ƒ(x)の傾向を表すグラフはどれか。ここで，破線はy＝xのグラフである。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 12
+question: 安全なWebアプリケーションの作り方について，攻撃と対策の適切な組合せはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

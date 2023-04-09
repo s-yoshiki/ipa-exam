@@ -1,0 +1,17 @@
+label: 15
+question: >-
+  Webシステムにおいて，セッションの乗っ取りの機会を減らすために，利用者のログアウト時にWebサーバ又はWebブラウザにおいて行うべき処理はどれか。ここで，利用者は自分専用のPCにおいて，Webブラウザを利用しているものとする。
+choice:
+  - label: ア
+    text: WebサーバにおいてセッションIDを内蔵ストレージに格納する。
+  - label: イ
+    text: WebサーバにおいてセッションIDを無効にする。
+  - label: ウ
+    text: WebブラウザにおいてキャッシュしているWebページをクリアする。
+  - label: エ
+    text: WebブラウザにおいてセッションIDを内蔵ストレージに格納する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

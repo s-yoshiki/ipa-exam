@@ -1,0 +1,27 @@
+label: 1
+question: >-
+  非線形方程式 ƒ(x)＝0 の近似解法であり，次の手順によって解を求めるものはどれか。ここで，y＝ƒ(x)
+  には接線が存在するものとし，(3)でx<sub>0</sub>と新たなx<sub>0</sub>の差の絶対値がある値以下になった時点で繰返しを終了する。  
+    
+  〔手順〕
+
+
+  *   解の近くの適当なx軸の値を定め，x<sub>0</sub>とする。
+
+  *   曲線 y＝ƒ(x) の，点(x<sub>0</sub>，ƒ(x<sub>0</sub>))における接線を求める。
+
+  *   求めた接線と，x軸の交点を新たなx<sub>0</sub>とし，手順(2)に戻る。
+choice:
+  - label: ア
+    text: オイラー法
+  - label: イ
+    text: ガウスの消去法
+  - label: ウ
+    text: シンプソン法
+  - label: エ
+    text: ニュートン法
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

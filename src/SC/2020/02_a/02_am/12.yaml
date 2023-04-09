@@ -1,0 +1,21 @@
+label: 12
+question: >-
+  WebサーバがHTTP over
+  TLS(HTTPS)通信の応答でcookieにSecure属性を設定するときのWebサーバ及びWebブラウザの処理はどれか。
+choice:
+  - label: ア
+    text: >-
+      Webサーバでは，cookie発行時に"Secure="に続いて時間を設定し，Webブラウザは，指定された時間を参照し，指定された時間を過ぎている場合にそのcookieを削除する。
+  - label: イ
+    text: >-
+      Webサーバでは，cookie発行時に"Secure="に続いてホスト名を設定し，Webブラウザは，指定されたホスト名を参照し，指定されたホストにそのcookieを送信する。
+  - label: ウ
+    text: Webサーバでは，cookie発行時に"Secure"を設定し，Webブラウザは，それを参照し，HTTPS通信時だけそのcookieを送信する。
+  - label: エ
+    text: >-
+      Webサーバでは，cookie発行時に"Secure"を設定し，Webブラウザは，それを参照し，Webブラウザの終了時にcookieの他の属性によらず，そのcookieを削除する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

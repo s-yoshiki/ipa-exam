@@ -1,0 +1,16 @@
+label: 2
+question: PKIを構成するOCSPを利用する目的はどれか。
+choice:
+  - label: ア
+    text: 誤って破棄してしまった秘密鍵の再発行処理の進捗状況を問い合わせる。
+  - label: イ
+    text: ディジタル証明書から生成した鍵情報の交換がOCSPクライアントとOCSPレスポンダの間で失敗した際，認証状態を確認する。
+  - label: ウ
+    text: ディジタル証明書の失効情報を問い合わせる。
+  - label: エ
+    text: 有効期限が切れたディジタル証明書の更新処理の進捗状況を確認する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

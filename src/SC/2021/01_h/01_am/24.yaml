@@ -1,0 +1,16 @@
+label: 24
+question: 情報システムの調達の際に作成されるRFIの説明はどれか。
+choice:
+  - label: ア
+    text: 調達者から供給者候補に対して，システム化の目的や業務内容などを示し，情報の提供を依頼すること
+  - label: イ
+    text: 調達者から供給者候補に対して，対象システムや調達条件などを示し，提案書の提出を依頼すること
+  - label: ウ
+    text: 調達者から供給者に対して，契約内容で取り決めた内容に関して，変更を要請すること
+  - label: エ
+    text: 調達者から供給者に対して，双方の役割分担などを確認し，契約の締結を要請すること
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

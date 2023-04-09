@@ -1,0 +1,18 @@
+label: 16
+question: >-
+  内部ネットワーク上のPCからインターネット上のWebサイトを参照するときは，DMZ上のVDI(Virtual Desktop
+  Infrastructure)サーバ上の仮想マシンにPCからログインし，仮想マシン上のWebブラウザを必ず利用するシステムを導入する。インターネット上のWebサイトから内部ネットワークにあるPCへのマルウェアの侵入，及びPCからインターネット上のWebサイトへのPC内のファイルの流出を防止するのに効果がある条件はどれか。
+choice:
+  - label: ア
+    text: PCとVDIサーバ間は，VDIの画面転送プロトコル及びファイル転送を利用する。
+  - label: イ
+    text: PCとVDIサーバ間は，VDIの画面転送プロトコルだけを利用する。
+  - label: ウ
+    text: VDIサーバが，プロキシサーバとしてHTTP通信を中継する。
+  - label: エ
+    text: VDIサーバが，プロキシサーバとしてVDIの画面転送プロトコルだけを中継する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

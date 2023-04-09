@@ -1,0 +1,16 @@
+label: 15
+question: OSI基本参照モデルのネットワーク層で動作し，"認証ヘッダ(AH)"と"暗号ペイロード(ESP)"の二つのプロトコルを含むものはどれか。
+choice:
+  - label: ア
+    text: IPsec
+  - label: イ
+    text: S/MIME
+  - label: ウ
+    text: SSH
+  - label: エ
+    text: XML暗号
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

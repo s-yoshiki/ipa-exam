@@ -1,0 +1,16 @@
+label: 17
+question: RFC 8110に基づいたものであり，公衆無線LANなどでパスフレーズなどでの認証なしに，端末とアクセスポイントとの間の無線通信を暗号化するものはどれか。
+choice:
+  - label: ア
+    text: Enhanced Open
+  - label: イ
+    text: FIDO2
+  - label: ウ
+    text: WebAuthn
+  - label: エ
+    text: WPA3
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

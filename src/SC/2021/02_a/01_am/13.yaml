@@ -1,0 +1,18 @@
+label: 13
+question: >-
+  JIS Q
+  27000:2019(情報セキュリティマネジメントシステム－用語)において定義されている情報セキュリティの特性に関する記述のうち，否認防止の特性に関する記述はどれか。
+choice:
+  - label: ア
+    text: ある利用者があるシステムを利用したという事実が証明可能である。
+  - label: イ
+    text: 認可された利用者が要求したときにアクセスが可能である。
+  - label: ウ
+    text: 認可された利用者に対してだけ，情報を使用させる又は開示する。
+  - label: エ
+    text: 利用者の行動と意図した結果とが一貫性をもつ。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

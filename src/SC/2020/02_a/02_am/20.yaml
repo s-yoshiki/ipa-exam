@@ -1,0 +1,17 @@
+label: 20
+question: >-
+  複数台のレイヤ2スイッチで構成されるネットワークが複数の経路をもつ場合に，イーサネットフレームのループの発生を防ぐためのTCP/IPネットワークインタフェース層のプロトコルはどれか。
+choice:
+  - label: ア
+    text: IGMP
+  - label: イ
+    text: RIP
+  - label: ウ
+    text: SIP
+  - label: エ
+    text: スパニングツリープロトコル
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

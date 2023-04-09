@@ -1,0 +1,16 @@
+label: 7
+question: NISTが制定した，AESにおける鍵長の条件はどれか。
+choice:
+  - label: ア
+    text: 128ビット，192ビット，256ビットから選択する。
+  - label: イ
+    text: 256ビット未満で任意に指定する。
+  - label: ウ
+    text: 暗号化処理単位のブロック長よりも32ビット長くする。
+  - label: エ
+    text: 暗号化処理単位のブロック長よりも32ビット短くする。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

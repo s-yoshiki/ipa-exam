@@ -1,0 +1,16 @@
+label: 20
+question: クラスBのIPアドレスで，サブネットマスクが16進数の FFFFFF80 である場合，利用可能なホスト数は最大幾つか。
+choice:
+  - label: ア
+    text: '126'
+  - label: イ
+    text: '127'
+  - label: ウ
+    text: '254'
+  - label: エ
+    text: '255'
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 23
+question: エクストリームプログラミング(XP:eXtreme Programming)における"テスト駆動開発"の特徴はどれか。
+choice:
+  - label: ア
+    text: 最初のテストで，なるべく多くのバグを摘出する。
+  - label: イ
+    text: テストケースの改善を繰り返す。
+  - label: ウ
+    text: テストでのカバレージを高めることを目的とする。
+  - label: エ
+    text: プログラムを書く前にテストコードを記述する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

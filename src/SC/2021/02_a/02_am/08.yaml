@@ -1,0 +1,16 @@
+label: 8
+question: X.509におけるCRL(Certificate Revocation List)に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: PKIの利用者のWebブラウザは，認証局の公開鍵がWebブラウザに組み込まれていれば，CRLを参照しなくてもよい。
+  - label: イ
+    text: RFC 5280では，認証局は，発行したディジタル証明書のうち失効したものについては，シリアル番号を失効後1年間CRLに記載するよう義務付けている。
+  - label: ウ
+    text: 認証局は，発行した全てのディジタル証明書の有効期限をCRLに記載する。
+  - label: エ
+    text: 認証局は，有効期限内のディジタル証明書のシリアル番号をCRLに登録することがある。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

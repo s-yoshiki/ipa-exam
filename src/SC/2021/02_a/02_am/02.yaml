@@ -1,0 +1,16 @@
+label: 2
+question: Pass the Hash攻撃はどれか。
+choice:
+  - label: ア
+    text: パスワードのハッシュ値から導出された平文パスワードを使ってログインする。
+  - label: イ
+    text: パスワードのハッシュ値だけでログインできる仕組みを悪用してログインする。
+  - label: ウ
+    text: パスワードを固定し，利用者IDの文字列のハッシュ化を繰り返しながら様々な利用者IDを試してログインする。
+  - label: エ
+    text: ハッシュ化されずに保存されている平文パスワードを使ってログインする。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

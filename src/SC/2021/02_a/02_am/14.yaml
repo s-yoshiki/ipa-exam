@@ -1,0 +1,16 @@
+label: 14
+question: ルートキットの特徴はどれか。
+choice:
+  - label: ア
+    text: OSなどに不正に組み込んだツールの存在を隠す。
+  - label: イ
+    text: OSの中核であるカーネル部分の脆弱性を分析する。
+  - label: ウ
+    text: コンピュータがマルウェアに感染していないことをチェックする。
+  - label: エ
+    text: コンピュータやルータのアクセス可能な通信ポートを外部から調査する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

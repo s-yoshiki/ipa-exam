@@ -1,0 +1,16 @@
+label: 29
+question: バランススコアカードの四つの視点とは，財務，学習と成長，内部ビジネスプロセスと，もう一つはどれか。
+choice:
+  - label: ア
+    text: ガバナンス
+  - label: イ
+    text: 顧客
+  - label: ウ
+    text: 自社の強み
+  - label: エ
+    text: 遵法
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

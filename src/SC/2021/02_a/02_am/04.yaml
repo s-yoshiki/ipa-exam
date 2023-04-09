@@ -1,0 +1,19 @@
+label: 4
+question: シングルサインオンの実装方式の一つであるSAML認証の特徴はどれか。
+choice:
+  - label: ア
+    text: >-
+      IdP(Identity Provider)がSP(Service
+      Provider)の認証要求によって利用者認証を行い，認証成功後に発行されるアサーションをSPが検証し，問題がなければクライアントがSPにアクセスする。
+  - label: イ
+    text: >-
+      Webサーバに導入されたエージェントが認証サーバと連携して利用者認証を行い，クライアントは認証成功後に利用者に発行されるcookieを使用してSPにアクセスする。
+  - label: ウ
+    text: 認証サーバはKerberosプロトコルを使って利用者認証を行い，クライアントは認証成功後に発行されるチケットを使用してSPにアクセスする。
+  - label: エ
+    text: リバースプロキシで利用者認証が行われ，クライアントは認証成功後にリバースプロキシ経由でSPにアクセスする。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

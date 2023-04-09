@@ -1,0 +1,16 @@
+label: 17
+question: TLS1.3の暗号スイートに関する説明のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: TLS1.2で規定されている共通鍵暗号AES-CBCを必須の暗号アルゴリズムとして継続利用できるようにしている。
+  - label: イ
+    text: Wi-Fiアライアンスにおいて規格化されている。
+  - label: ウ
+    text: サーバとクライアントのそれぞれがお互いに別の暗号アルゴリズムを選択できる。
+  - label: エ
+    text: 認証暗号アルゴリズムとハッシュアルゴリズムの組みで構成されている。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

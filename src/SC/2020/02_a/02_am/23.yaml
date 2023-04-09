@@ -1,0 +1,16 @@
+label: 23
+question: アジャイル開発のプラクティスの一つである"ふりかえり(レトロスペクティブ)"を行う適切なタイミングはどれか。
+choice:
+  - label: ア
+    text: '"タスクボード"に貼ったタスクカードが移動されたとき'
+  - label: イ
+    text: 各"イテレーション"の最後
+  - label: ウ
+    text: 毎日行う"朝会"
+  - label: エ
+    text: 毎日メンバの気持ちを見える化する"ニコニコカレンダー"に全チームメンバが記入し終えたとき
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''
