@@ -1,0 +1,13 @@
+label: 74
+question: CIOが経営から求められる役割はどれか。
+choice:
+  - label: ア
+    text: 企業経営のための財務戦略の立案と遂行
+  - label: イ
+    text: 企業の研究開発方針の立案と実施
+  - label: ウ
+    text: 企業の法令遵守の体制の構築と運用
+  - label: エ
+    text: ビジネス価値を最大化させるITサービス活用の促進
+answer: エ
+category: S

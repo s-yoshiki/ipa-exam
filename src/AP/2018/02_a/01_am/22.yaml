@@ -1,0 +1,13 @@
+label: 22
+question: マイクロプロセッサの耐タンパ性を向上させる手法として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ESD(Electrostatic Discharge)に対する耐性を強化する。
+  - label: イ
+    text: チップ検査終了後に検査用パッドを残しておく。
+  - label: ウ
+    text: チップ内部を物理的に解析しようとすると，内部回路が破壊されるようにする。
+  - label: エ
+    text: 内部メモリの物理アドレスを整然と配置する。
+answer: ウ
+category: T

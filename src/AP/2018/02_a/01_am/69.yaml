@@ -1,0 +1,13 @@
+label: 69
+question: 観測データを類似性によって集団や群に分類し，その特徴となる要因を分析する手法はどれか。
+choice:
+  - label: ア
+    text: クラスタ分析法
+  - label: イ
+    text: 指数平滑法
+  - label: ウ
+    text: デルファイ法
+  - label: エ
+    text: モンテカルロ法
+answer: ア
+category: S

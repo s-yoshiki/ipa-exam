@@ -1,0 +1,14 @@
+label: 66
+question: >-
+  ベンダX社に対して，表に示すように要件定義フェーズから運用テストフェーズまでを委託したい。X社との契約に当たって，"情報システム・モデル取引・契約書＜第一版＞"に照らし，各フェーズの契約形態を整理した。a～dの契約形態のうち，準委任型が適切であるとされるものはどれか。
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，d
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: b，d
+answer: イ
+category: S

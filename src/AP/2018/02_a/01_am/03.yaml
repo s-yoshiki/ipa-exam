@@ -1,0 +1,14 @@
+label: 3
+question: >-
+  受験者1,000人の4教科のテスト結果は表のとおりであり，いずれの教科の得点分布も正規分布に従っていたとする。90点以上の得点者が最も多かったと推定できる教科はどれか。
+choice:
+  - label: ア
+    text: A
+  - label: イ
+    text: B
+  - label: ウ
+    text: C
+  - label: エ
+    text: D
+answer: イ
+category: T

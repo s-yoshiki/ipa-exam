@@ -1,0 +1,13 @@
+label: 41
+question: クロスサイトスクリプティング対策に該当するものはどれか。
+choice:
+  - label: ア
+    text: WebサーバでSNMPエージェントを常時稼働させることによって，攻撃を検知する。
+  - label: イ
+    text: WebサーバのOSにセキュリティパッチを適用する。
+  - label: ウ
+    text: Webページに入力されたデータの出力データが，HTMLタグとして解釈されないように処理する。
+  - label: エ
+    text: 許容量を超えた大きさのデータをWebページに入力することを禁止する。
+answer: ウ
+category: T

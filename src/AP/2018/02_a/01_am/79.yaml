@@ -1,0 +1,13 @@
+label: 79
+question: 広告や宣伝目的の電子メールを一方的に送信することを規制する法律はどれか。
+choice:
+  - label: ア
+    text: 電子消費者契約法
+  - label: イ
+    text: 特定電子メール法
+  - label: ウ
+    text: 不正競争防止法
+  - label: エ
+    text: プロパイダ責任制限法
+answer: イ
+category: S

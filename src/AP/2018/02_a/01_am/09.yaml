@@ -1,0 +1,13 @@
+label: 9
+question: メモリの誤り制御方式で，2ビットの誤り検出機能と，1ビットの誤り訂正機能をもたせるのに用いられるものはどれか。
+choice:
+  - label: ア
+    text: 奇数パリティ
+  - label: イ
+    text: 水平パリティ
+  - label: ウ
+    text: チェックサム
+  - label: エ
+    text: ハミング符号
+answer: エ
+category: T

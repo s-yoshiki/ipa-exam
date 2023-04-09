@@ -1,0 +1,14 @@
+label: 44
+question: >-
+  取引履歴などのデータとハッシュ値の組みを順次つなげて記録した分散型台帳を，ネットワーク上の多数のコンピュータで同期して保有し，管理することによって，一部の台帳で取引データが改ざんされても，取引データの完全性と可用性が確保されることを特徴とする技術はどれか。
+choice:
+  - label: ア
+    text: MAC(Message Authentication Code)
+  - label: イ
+    text: XML署名
+  - label: ウ
+    text: ニューラルネットワーク
+  - label: エ
+    text: ブロックチェーン
+answer: エ
+category: T

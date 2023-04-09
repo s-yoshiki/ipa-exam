@@ -1,0 +1,13 @@
+label: 54
+question: ソフトウェアの機能量に着目して開発規模を見積もるファンクションポイント法で，調整前FPを求めるために必要となる情報はどれか。
+choice:
+  - label: ア
+    text: 開発者数
+  - label: イ
+    text: 画面数
+  - label: ウ
+    text: プログラムステップ数
+  - label: エ
+    text: 利用者数
+answer: イ
+category: M

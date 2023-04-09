@@ -1,0 +1,13 @@
+label: 15
+question: システムの信頼性指標に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: MTBFとMTTRは，稼働率が0.5のときに等しくなる。
+  - label: イ
+    text: MTBFは，システムが故障してから復旧するまでの平均時間を示す。
+  - label: ウ
+    text: MTTRは，MTBFに稼働率を掛けると求めることができる。
+  - label: エ
+    text: MTTRは，システムに発生する故障と故障の間隔の平均時間を示す。
+answer: ア
+category: T

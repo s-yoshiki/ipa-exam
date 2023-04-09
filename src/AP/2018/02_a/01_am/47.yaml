@@ -1,0 +1,14 @@
+label: 47
+question: >-
+  ソフトウェアアーキテクチャパターンのうち，仕様の追加や変更による影響が及ぶ範囲を限定できるようにするために，機能を業務ロジック，画面出力，それらの制御という，三つのコンポーネントに分けるものはどれか。
+choice:
+  - label: ア
+    text: Broker
+  - label: イ
+    text: Layers
+  - label: ウ
+    text: MVC
+  - label: エ
+    text: Pipes and Filters
+answer: ウ
+category: T

@@ -1,0 +1,13 @@
+label: 7
+question: 2次元配列 A[i，j] (i，j はいずれも0～99の値をとる)の i＞j である要素 A[i，j] は全部で幾つか。
+choice:
+  - label: ア
+    text: 4,851
+  - label: イ
+    text: 4,950
+  - label: ウ
+    text: 4,999
+  - label: エ
+    text: 5,050
+answer: イ
+category: T

@@ -1,0 +1,14 @@
+label: 4
+question: >-
+  次に示す記述は，BNFで表現されたあるプログラム言語の構文の一部である。<パラメタ指定>として，適切なものはどれか。<パラメタ指定>::＝<パラメタ>｜(<パラメタ指定>，<パラメタ>)<パラメタ>::＝<英字>｜<パラメタ><英字><英字>::＝a｜b｜c｜d｜e｜f｜g｜h｜i
+choice:
+  - label: ア
+    text: ((abc，def)，ghi)
+  - label: イ
+    text: ((abc，def))
+  - label: ウ
+    text: (abc，(def))
+  - label: エ
+    text: (abc)
+answer: ア
+category: T

@@ -1,0 +1,13 @@
+label: 37
+question: 楕円曲線暗号に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: AESに代わる共通鍵暗号方式としてNISTが標準化している。
+  - label: イ
+    text: 共通鍵暗号方式であり，ディジタル署名にも利用されている。
+  - label: ウ
+    text: 公開鍵暗号方式であり，TLSにも利用されている。
+  - label: エ
+    text: 素因数分解問題の困難性を利用している。
+answer: ウ
+category: T
