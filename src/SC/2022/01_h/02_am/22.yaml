@@ -1,0 +1,17 @@
+label: 22
+question: >-
+  システムに規定外の無効なデータが入力されたとき，誤入力であることを伝えるメッセージを表示して正しい入力を促すことによって，システムを異常終了させない設計は何というか。
+choice:
+  - label: ア
+    text: フールプルーフ
+  - label: イ
+    text: フェールセーフ
+  - label: ウ
+    text: フェールソフト
+  - label: エ
+    text: フォールトトレランス
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

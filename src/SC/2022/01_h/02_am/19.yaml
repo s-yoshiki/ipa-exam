@@ -1,0 +1,16 @@
+label: 19
+question: インターネットに接続されたPCの時刻合わせに使用されるプロトコルはどれか。
+choice:
+  - label: ア
+    text: NNTP
+  - label: イ
+    text: RTCP
+  - label: ウ
+    text: SNTP
+  - label: エ
+    text: TFTP
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

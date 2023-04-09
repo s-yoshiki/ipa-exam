@@ -1,0 +1,16 @@
+label: 27
+question: 半導体産業において，ファブレス企業と比較したファウンドリ企業のビジネスモデルの特徴として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 工場での生産をアウトソーシングして，生産設備への投資を抑える。
+  - label: イ
+    text: 自社製品の設計，マーケティングに注力し，新市場を開拓する。
+  - label: ウ
+    text: 自社製品の販売に注力し，売上げを拡大する。
+  - label: エ
+    text: 複数の企業から生産だけを専門に請け負い，多くの製品を低コストで生産する。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

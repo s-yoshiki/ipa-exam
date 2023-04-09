@@ -1,0 +1,16 @@
+label: 3
+question: 暗号化装置における暗号化処理時の消費電力を測定するなどして，当該装置内部の秘密情報を推定する攻撃はどれか。
+choice:
+  - label: ア
+    text: キーロガー
+  - label: イ
+    text: サイドチャネル攻撃
+  - label: ウ
+    text: スミッシング
+  - label: エ
+    text: 中間者攻撃
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

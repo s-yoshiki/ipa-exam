@@ -1,0 +1,16 @@
+label: 18
+question: IEEE 802.11a/b/g/nで採用されているアクセス制御方式はどれか。
+choice:
+  - label: ア
+    text: CSMA/CA
+  - label: イ
+    text: CSMA/CD
+  - label: ウ
+    text: LAPB
+  - label: エ
+    text: トークンパッシング方式
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

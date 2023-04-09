@@ -1,0 +1,17 @@
+label: 17
+question: >-
+  問題は発生していないが，プログラムの仕様書と現状のソースコードとの不整合を解消するために，リバースエンジニアリングの手法を使って仕様書を作成し直す。これはソフトウェア保守のどの分類に該当するか。
+choice:
+  - label: ア
+    text: 完全化保守
+  - label: イ
+    text: 是正保守
+  - label: ウ
+    text: 適応保守
+  - label: エ
+    text: 予防保守
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

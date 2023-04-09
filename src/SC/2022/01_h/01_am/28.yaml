@@ -1,0 +1,16 @@
+label: 28
+question: XBRLで主要な取扱いの対象とされている情報はどれか。
+choice:
+  - label: ア
+    text: 医療機関のカルテ情報
+  - label: イ
+    text: 企業の顧客情報
+  - label: ウ
+    text: 企業の財務情報
+  - label: エ
+    text: 自治体の住民情報
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

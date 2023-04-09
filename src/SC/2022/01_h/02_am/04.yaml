@@ -1,0 +1,16 @@
+label: 4
+question: パスワードに使用できる文字の種類の数をM，パスワードの文字数をnとするとき，設定できるパスワードの理論的な総数を求める数式はどれか。
+choice:
+  - label: ア
+    text: Mn
+  - label: イ
+    text: M！(M－n)！
+  - label: ウ
+    text: M！n！(M－n)！
+  - label: エ
+    text: (M＋n－1)！n！(M－n)！
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

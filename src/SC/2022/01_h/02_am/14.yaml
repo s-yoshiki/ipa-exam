@@ -1,0 +1,19 @@
+label: 14
+question: HTTP Strict Transport Security(HSTS)の動作はどれか。
+choice:
+  - label: ア
+    text: >-
+      HTTP over TLS(HTTPS)によって接続しているとき，EV
+      SSL証明書であることを利用者が容易に識別できるように，Webブラウザのアドレス表示部分を緑色に表示する。
+  - label: イ
+    text: Webサーバからコンテンツをダウンロードするとき，どの文字列が秘密情報かを判定できないように圧縮する。
+  - label: ウ
+    text: >-
+      WebサーバとWebブラウザとの間のTLSのハンドシェイクにおいて，一度確立したセッションとは別の新たなセッションを確立するとき，既に確立したセッションを使って改めてハンドシェイクを行う。
+  - label: エ
+    text: Webサイトにアクセスすると，Webブラウザは，以降の指定された期間，当該サイトには全てHTTPSによって接続する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

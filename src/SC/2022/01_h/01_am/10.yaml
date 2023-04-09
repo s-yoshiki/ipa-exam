@@ -1,0 +1,16 @@
+label: 10
+question: UDPを使用しているものはどれか。
+choice:
+  - label: ア
+    text: FTP
+  - label: イ
+    text: NTP
+  - label: ウ
+    text: POP3
+  - label: エ
+    text: TELNET
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

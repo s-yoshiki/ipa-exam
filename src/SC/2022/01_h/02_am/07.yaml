@@ -1,0 +1,17 @@
+label: 7
+question: >-
+  安全・安心なIT社会を実現するために創設された制度であり，IPA"中小企業の情報セキュリティ対策ガイドライン"に沿った情報セキュリティ対策に取り組むことを中小企業が自己宣言するものはどれか。
+choice:
+  - label: ア
+    text: ISMS適合性評価制度
+  - label: イ
+    text: ITセキュリティ評価及び認証制度
+  - label: ウ
+    text: MyJVN
+  - label: エ
+    text: SECURITY ACTION
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''
