@@ -1,0 +1,16 @@
+label: 75
+question: 定量発注方式の特徴はどれか。
+choice:
+  - label: ア
+    text: 在庫量の把握は発注時期だけでよい。
+  - label: イ
+    text: 需要変動が大きい重点管理品目などに適用する。
+  - label: ウ
+    text: 発注時に需要予測が必要である。
+  - label: エ
+    text: 発注量には経済的発注量を用いると効果的である。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 37
+question: >-
+  A社のWebサーバは，サーバ証明書を使ってTLS通信を行っている。PCからA社のWebサーバへのTLSを用いたアクセスにおいて，当該PCがサーバ証明書を入手した後に，認証局の公開鍵を利用して行う動作はどれか。
+choice:
+  - label: ア
+    text: 暗号化通信に利用する共通鍵を生成し，認証局の公開鍵を使って暗号化する。
+  - label: イ
+    text: 暗号化通信に利用する共通鍵を，認証局の公開鍵を使って復号する。
+  - label: ウ
+    text: サーバ証明書の正当性を，認証局の公開鍵を使って検証する。
+  - label: エ
+    text: 利用者が入力して送付する秘匿データを，認証局の公開鍵を使って暗号化する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

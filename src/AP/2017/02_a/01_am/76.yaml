@@ -1,0 +1,17 @@
+label: 76
+question: >-
+  プログラムのステップ数が多くなるほどステップ当たりのエラー数も多くなる傾向があるように見受けられたので，データを採って調べた。これを分析するのに最も適した図はどれか。
+choice:
+  - label: ア
+    text: 系統図
+  - label: イ
+    text: 散布図
+  - label: ウ
+    text: 特性要因図
+  - label: エ
+    text: パレート図
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

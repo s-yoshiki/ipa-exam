@@ -1,0 +1,16 @@
+label: 79
+question: コンピュータウイルスを作成する行為を処罰の対象とする法律はどれか。
+choice:
+  - label: ア
+    text: 刑法
+  - label: イ
+    text: 不正アクセス禁止法
+  - label: ウ
+    text: 不正競争防止法
+  - label: エ
+    text: プロパイダ責任制限法
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

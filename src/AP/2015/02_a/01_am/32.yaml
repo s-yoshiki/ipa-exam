@@ -1,0 +1,18 @@
+label: 32
+question: >-
+  ルータがルーティングテーブルに①～④のエントリをもつとき，10.1.1.250
+  宛てのパケットをルーティングする場合に選択するエントリはどれか。ここで，ルータは最長一致検索及び可変長サブネットマスクをサポートしているものとする。
+choice:
+  - label: ア
+    text: ①
+  - label: イ
+    text: ②
+  - label: ウ
+    text: ③
+  - label: エ
+    text: ④
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

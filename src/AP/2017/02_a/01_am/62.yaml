@@ -1,0 +1,16 @@
+label: 62
+question: システム管理基準(平成16年)によれば、組織全体の情報システムのあるべき姿を明確にする計画はどれか。
+choice:
+  - label: ア
+    text: 開発計画
+  - label: イ
+    text: 事業継続計画
+  - label: ウ
+    text: 全体最適化計画
+  - label: エ
+    text: 年間運用計画
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

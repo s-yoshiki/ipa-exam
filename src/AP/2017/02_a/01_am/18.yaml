@@ -1,0 +1,16 @@
+label: 18
+question: CPUスケジューリングにおけるラウンドロビンスケジューリング方式に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 自動制御システムなど，リアルタイムシステムのスケジューリングに適している。
+  - label: イ
+    text: タイマ機能のないシステムにおいても，簡単に実現することができる。
+  - label: ウ
+    text: タイムシェアリングシステムのスケジューリングに適している。
+  - label: エ
+    text: タスクに優先順位をつけることによって，容易に実現することができる。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

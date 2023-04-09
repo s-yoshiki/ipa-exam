@@ -1,0 +1,16 @@
+label: 68
+question: コモディティ化の説明はどれか。
+choice:
+  - label: ア
+    text: 革新的な発明に基づいて，従来は市場に存在しなかった製品を開発し，市場に投入すること
+  - label: イ
+    text: 技術革新によって，後発製品が先発製品の市場を衰退させること
+  - label: ウ
+    text: 技術の成熟などによって，他社製品との差別化が価格以外の点で困難になること
+  - label: エ
+    text: 市場での価格競争を避けるために，他社製品とは異なる機能をもった製品を開発し，販売すること
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

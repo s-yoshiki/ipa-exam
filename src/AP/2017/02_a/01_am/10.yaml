@@ -1,0 +1,16 @@
+label: 10
+question: IoTでの活用が検討されているLPWA(LowPower，WideArea)の特徴として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 2線だけで接続されるシリアル有線通信であり，同じ基板上の回路及びLSIの間の通信に適している。
+  - label: イ
+    text: 60GHz帯を使う近距離無線通信であり，4K，8Kの映像などの大容量のデータを高速伝送することに適している。
+  - label: ウ
+    text: 電力線を通信に使う通信技術であり，スマートメータの自動検針などに適している。
+  - label: エ
+    text: バッテリ消費量が少なく，一つの基地局で広範囲をカバーできる無線通信技術であり，複数のセンサが同時につながるネットワークに適している。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

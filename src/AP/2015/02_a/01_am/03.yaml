@@ -1,0 +1,17 @@
+label: 3
+question: >-
+  3台の機械A，B，Cが良品を製造する確率は，それぞれ60%，70%，80%である。機械A，B，Cが製品を一つずつ製造したとき，いずれか二つの製品が良品で残り一つが不良品になる確率は何%か。
+choice:
+  - label: ア
+    text: '22.4'
+  - label: イ
+    text: '36.8'
+  - label: ウ
+    text: '45.2'
+  - label: エ
+    text: '78.8'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

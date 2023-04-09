@@ -1,0 +1,16 @@
+label: 10
+question: CPUにおける投機実行の説明はどれか。
+choice:
+  - label: ア
+    text: 依存関係にない複数の命令を，プログラム中での出現順序に関係なく実行する。
+  - label: イ
+    text: パイプラインの空き時間を利用して二つのスレッドを実行し，あたかも二つのプロセッサであるかのように見せる。
+  - label: ウ
+    text: 二つ以上のCPUコアによって複数のスレッドを同時実行する。
+  - label: エ
+    text: 分岐命令の分岐先が決まる前に，あらかじめ予測した分岐先の命令の実行を開始する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

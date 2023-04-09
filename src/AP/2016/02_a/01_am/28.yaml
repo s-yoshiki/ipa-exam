@@ -1,0 +1,16 @@
+label: 28
+question: 関係データベースにおける実表と導出表に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 実表に対する射影，結合などによって導出表が得られる。
+  - label: イ
+    text: 導出表は，データを参照する場合だけに用いる。
+  - label: ウ
+    text: 導出表は，複数の実表から得られる表である。
+  - label: エ
+    text: 導出表は，元の実表の列だけからなる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 50
+question: エクストリームプログラミング(XP)のプラクティスとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: 1週間の労働時間は，チームで相談して自由に決める。
+  - label: イ
+    text: ソースコードの再利用は，作成者だけが行う。
+  - label: ウ
+    text: 単体テストを終えたプログラムは，すぐに結合して，結合テストを行う。
+  - label: エ
+    text: プログラミングは1人で行う。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

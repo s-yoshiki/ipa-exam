@@ -1,0 +1,16 @@
+label: 73
+question: ディジタルサイネージの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 情報技術を利用する機会又は能力によって，地域間又は個人間に生じる経済的又は社会的な格差
+  - label: イ
+    text: 情報の正当性を保証するために使用される電子的な署名
+  - label: ウ
+    text: ディスプレイに映像，文字などの情報を表示する電子看板
+  - label: エ
+    text: 不正利用を防止するためにデータに識別情報を埋め込む技術
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

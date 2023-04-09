@@ -1,0 +1,16 @@
+label: 9
+question: プロセッサの省電力技術の一つであるパワーゲーティングの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 仕事量に応じて，プロセッサへ供給する電源電圧やクロック周波数を変える。
+  - label: イ
+    text: 動作していない回路ブロックへのクロックを停止する。
+  - label: ウ
+    text: 動作していない回路への電源を遮断する。
+  - label: エ
+    text: マルチコアプロセッサにおいて，使用していないコアの消費電力枠を，動作しているコアに割り当てる。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

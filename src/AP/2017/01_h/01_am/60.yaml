@@ -1,0 +1,16 @@
+label: 60
+question: 識別コード及びパスワードによるアクセスコントロール機能を情報システムに組み込むことによって，コントロール可能なリスクはどれか。
+choice:
+  - label: ア
+    text: 通信上のデータの盗聴
+  - label: イ
+    text: データの入力エラー
+  - label: ウ
+    text: ハードウェアの物理的な破壊
+  - label: エ
+    text: ファイル，データ内容の改ざん
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

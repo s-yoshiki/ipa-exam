@@ -1,0 +1,16 @@
+label: 27
+question: 埋込みSQLにおいて，問合せによって得られた導出表を1行ずつ親プログラムに引き渡す操作がある。この操作と関係の深い字句はどれか。
+choice:
+  - label: ア
+    text: 'CURSOR '
+  - label: イ
+    text: ORDER BY
+  - label: ウ
+    text: UNION
+  - label: エ
+    text: UNIQUE
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

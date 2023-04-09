@@ -1,0 +1,18 @@
+label: 1
+question: >-
+  0以上255以下の整数nに対して，と定義する。next(n)と等しい式はどれか。ここで，x AND y 及び x OR y
+  は，それぞれxとyを2進数表現にして，桁ごとの論理積及び論理和をとったものとする。
+choice:
+  - label: ア
+    text: (n＋1) AND 255
+  - label: イ
+    text: (n＋1) AND 256
+  - label: ウ
+    text: (n＋1) OR 255
+  - label: エ
+    text: (n＋1) OR 256
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

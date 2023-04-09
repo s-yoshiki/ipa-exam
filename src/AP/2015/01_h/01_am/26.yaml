@@ -1,0 +1,16 @@
+label: 26
+question: '"電話番号"列にNULLを含む"取引先"表に対して，SQL文を実行した結果の行数は幾つか。'
+choice:
+  - label: ア
+    text: '1'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '3'
+  - label: エ
+    text: '4'
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

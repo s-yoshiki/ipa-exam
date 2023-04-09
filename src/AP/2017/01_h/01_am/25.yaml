@@ -1,0 +1,17 @@
+label: 25
+question: >-
+  表示装置には色彩や濃淡などの表示能力に限界がある。一つ一つの画素では表現可能な色数が少ない環境でも，幾つかの画素を使って見掛け上表示できる色数を増やし，滑らかで豊かな階調を表現する手法はどれか。
+choice:
+  - label: ア
+    text: インデックスカラー
+  - label: イ
+    text: オーバレイ
+  - label: ウ
+    text: カーニング
+  - label: エ
+    text: ディザリング
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 6
+question: >-
+  ノード1～5をもつグラフを隣接行列で表したもののうち，木となるものはどれか。ここで，隣接行列のi行j列目の成分は，ノードiとノードjを結ぶエッジがある場合は1，ない場合は0とする。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

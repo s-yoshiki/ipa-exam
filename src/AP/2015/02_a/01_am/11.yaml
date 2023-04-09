@@ -1,0 +1,16 @@
+label: 11
+question: 有機ELディスプレイの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 電圧をかけて発光素子を発光させて表示する。
+  - label: イ
+    text: 電子ビームが発光体に衝突して生じる発光で表示する。
+  - label: ウ
+    text: 透過する光の量を制御することで表示する。
+  - label: エ
+    text: 放電によって発生した紫外線で，蛍光体を発光させて表示する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

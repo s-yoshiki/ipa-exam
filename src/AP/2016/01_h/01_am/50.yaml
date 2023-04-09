@@ -1,0 +1,16 @@
+label: 50
+question: エクストリームプログラミング(XP:eXtreme Programming)における"テスト駆動開発"の説明はどれか。
+choice:
+  - label: ア
+    text: 最初のテストでバグを抽出すること
+  - label: イ
+    text: テストケースを順次改善すること
+  - label: ウ
+    text: テストでのカバレージを優先すること
+  - label: エ
+    text: プログラムを書く前にテストケースを作成すること
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 43
+question: 暗号化や認証機能をもち，遠隔にあるコンピュータに安全にログインするためのプロトコルはどれか。
+choice:
+  - label: ア
+    text: L2TP
+  - label: イ
+    text: RADIUS
+  - label: ウ
+    text: SSH
+  - label: エ
+    text: TLS
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

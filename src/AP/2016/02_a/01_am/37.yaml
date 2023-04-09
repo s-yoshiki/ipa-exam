@@ -1,0 +1,17 @@
+label: 37
+question: >-
+  ISP"A"管理下のネットワークから別のISP"B"管理下の宛先へSMTPで電子メールを送信する。電子メール送信者がSMTP-AUTHを利用していない場合，スパムメール対策OP25Bによって遮断される電子メールはどれか。
+choice:
+  - label: ア
+    text: ISP"A"管理下の固定IPアドレスから送信しようとしたが，受信者の承諾を得ていない広告の電子メール
+  - label: イ
+    text: ISP"A"管理下の固定IPアドレスから送信しようとしたが，送信元IPアドレスがDNSで逆引きできなかった電子メール
+  - label: ウ
+    text: ISP"A"管理下の動的IPアドレスからISP"A"のメールサーバを経由して送信された電子メール
+  - label: エ
+    text: ISP"A"管理下の動的IPアドレスからISP"A"のメールサーバを経由せずに直接送信された電子メール
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

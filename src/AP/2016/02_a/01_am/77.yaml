@@ -1,0 +1,16 @@
+label: 77
+question: 表の条件でA～Eの商品を販売したときの機会損失は何千円か。
+choice:
+  - label: ア
+    text: '800'
+  - label: イ
+    text: 1,500
+  - label: ウ
+    text: 1,600
+  - label: エ
+    text: 2,400
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

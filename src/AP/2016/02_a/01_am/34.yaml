@@ -1,0 +1,17 @@
+label: 34
+question: >-
+  TCP，UDPのポート番号を識別し，プライベートIPアドレスとグローバルIPアドレスとの対応関係を管理することによって，プライベートIPアドレスを使用するLAN上の複数の端末が，一つのグローバルIPアドレスを共有してインターネットにアクセスする仕組みはどれか。
+choice:
+  - label: ア
+    text: IPスプーフィング
+  - label: イ
+    text: IPマルチキャスト
+  - label: ウ
+    text: NAPT
+  - label: エ
+    text: NTP
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

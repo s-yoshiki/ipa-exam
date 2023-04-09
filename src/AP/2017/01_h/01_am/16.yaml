@@ -1,0 +1,17 @@
+label: 16
+question: >-
+  4ブロック分のキャッシュメモリC0～C3が表に示す状態である。ここで，新たに別のブロックの内容をキャッシュメモリにロードする必要が生じたとき，C2のブロックを置換の対象とするアルゴリズムはどれか。
+choice:
+  - label: ア
+    text: FIFO
+  - label: イ
+    text: LFU
+  - label: ウ
+    text: LIFO
+  - label: エ
+    text: LRU
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

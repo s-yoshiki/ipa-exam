@@ -1,0 +1,16 @@
+label: 44
+question: SPF(Sender Policy Framework)を利用する目的はどれか。
+choice:
+  - label: ア
+    text: HTTP通信の経路上での中間者攻撃を検知する。
+  - label: イ
+    text: LANへのPCの不正接続を検知する。
+  - label: ウ
+    text: 内部ネットワークへの不正侵入を検知する。
+  - label: エ
+    text: メール送信のなりすましを検知する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

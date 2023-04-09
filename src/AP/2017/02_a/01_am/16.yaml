@@ -1,0 +1,16 @@
+label: 16
+question: リアルタイムOSにおいて，実行中のタスクがプリエンプションによって遷移する状態はどれか。
+choice:
+  - label: ア
+    text: 休止状態
+  - label: イ
+    text: 実行可能状態
+  - label: ウ
+    text: 終了状態
+  - label: エ
+    text: 待ち状態
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

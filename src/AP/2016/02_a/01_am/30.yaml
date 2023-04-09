@@ -1,0 +1,17 @@
+label: 30
+question: >-
+  DBMSをシステム障害発生後に再立上げするとき，ロールフォワードすべきトランザクションとロールバックすべきトランザクションの組合せとして，適切なものはどれか。ここで，トランザクションの中で実行される処理内容は次のとおりとする。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

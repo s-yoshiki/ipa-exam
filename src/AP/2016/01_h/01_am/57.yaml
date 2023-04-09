@@ -1,0 +1,16 @@
+label: 57
+question: ITサービスマネジメントのプロセスの一つである構成管理を導入することによって得られるメリットはどれか。
+choice:
+  - label: ア
+    text: ITリソースに対する，現在の需要の把握と将来の需要の予測ができる。
+  - label: イ
+    text: 緊急事態においても最低限のITサービス基盤を提供することによって，事業の継続が可能になる。
+  - label: ウ
+    text: 構成品目の情報を正確に把握することによって，他のプロセスの確実な実施を支援できる。
+  - label: エ
+    text: 適正な費用で常に一定した品質でのITサービスが提供されるようになる。
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

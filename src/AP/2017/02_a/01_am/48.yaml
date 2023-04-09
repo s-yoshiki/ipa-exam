@@ -1,0 +1,16 @@
+label: 48
+question: アジャイル開発のプラクティスのうち，回帰テストを行うことを前提とするものはどれか。
+choice:
+  - label: ア
+    text: 日次ミーティング
+  - label: イ
+    text: ふりかえり
+  - label: ウ
+    text: ペアプログラミング
+  - label: エ
+    text: リファクタリング
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 33
+question: 電子メールの内容の機密性を高めるために用いられるプロトコルはどれか。
+choice:
+  - label: ア
+    text: IMAP4
+  - label: イ
+    text: POP3
+  - label: ウ
+    text: SMTP
+  - label: エ
+    text: S/MIME
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

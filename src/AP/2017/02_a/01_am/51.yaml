@@ -1,0 +1,16 @@
+label: 51
+question: ソフトウェア開発プロジェクトで行う構成管理の対象項目はどれか。
+choice:
+  - label: ア
+    text: 開発作業の進捗状況
+  - label: イ
+    text: 成果物に対するレビューの実施結果
+  - label: ウ
+    text: プログラムのバージョン
+  - label: エ
+    text: プロジェクト組織の編成
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

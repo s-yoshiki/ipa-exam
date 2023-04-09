@@ -1,0 +1,17 @@
+label: 51
+question: >-
+  期間10日のプロジェクトを5日目の終了時にアーンドバリュー分析したところ，表のとおりであった。現在のコスト効率が今後も続く場合，完成時総コスト見積り(EAC)は何万円か。
+choice:
+  - label: ア
+    text: '110'
+  - label: イ
+    text: '120'
+  - label: ウ
+    text: '135'
+  - label: エ
+    text: '150'
+calculation: false
+figure: true
+answer: エ
+category: M
+figureText: ''

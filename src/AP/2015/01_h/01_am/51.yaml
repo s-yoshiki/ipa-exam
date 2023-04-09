@@ -1,0 +1,16 @@
+label: 51
+question: PERT図で表されるプロジェクトにおいて，プロジェクト全体の所要日数を1日短縮できる施策はどれか。
+choice:
+  - label: ア
+    text: 作業BとFを1日ずつ短縮する。
+  - label: イ
+    text: 作業Bを1日短縮する。
+  - label: ウ
+    text: 作業Iを1日短縮する。
+  - label: エ
+    text: 作業Jを1日短縮する。
+calculation: false
+figure: true
+answer: エ
+category: M
+figureText: ''

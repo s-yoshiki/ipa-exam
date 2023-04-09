@@ -1,0 +1,18 @@
+label: 38
+question: SIEM(Security Information and Event Management)の特徴はどれか。
+choice:
+  - label: ア
+    text: DMZを通過する全ての通信データを監視し，不正な通信を遮断する。
+  - label: イ
+    text: サーバやネットワーク機器のMIB(Management Information Base)情報を分析し，中間者攻撃を遮断する。
+  - label: ウ
+    text: >-
+      ネットワーク機器のIPFIX(IP Flow Information
+      Export)情報を監視し，攻撃者が他者のPCを不正に利用したときの通信を検知する。
+  - label: エ
+    text: 複数のサーバやネットワーク機器のログを収集分析し，不審なアクセスを検知する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

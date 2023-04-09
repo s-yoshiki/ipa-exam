@@ -1,0 +1,16 @@
+label: 71
+question: ドローン，マルチコプタなどの無人航空機に搭載されるセンサのうち，機体を常に水平に保つ姿勢制御のために使われるセンサはどれか。
+choice:
+  - label: ア
+    text: 気圧センサ
+  - label: イ
+    text: ジャイロセンサ
+  - label: ウ
+    text: 地磁気センサ
+  - label: エ
+    text: 超音波センサ
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

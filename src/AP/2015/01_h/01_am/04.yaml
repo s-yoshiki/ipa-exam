@@ -1,0 +1,16 @@
+label: 4
+question: 携帯端末に搭載されているジャイロセンサが検出できるものはどれか。
+choice:
+  - label: ア
+    text: 端末に加わる加速度
+  - label: イ
+    text: 端末の角速度
+  - label: ウ
+    text: 地球上における高度
+  - label: エ
+    text: 地球の磁北
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 42
+question: >-
+  NISTの定義によるクラウドサービスモデルのうち，クラウド利用企業の責任者がセキュリティ対策に関して表中の項番1と2の責務を負うが，項番3～5の責務を負わないものはどれか。
+choice:
+  - label: ア
+    text: HaaS
+  - label: イ
+    text: IaaS
+  - label: ウ
+    text: PaaS
+  - label: エ
+    text: SaaS
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

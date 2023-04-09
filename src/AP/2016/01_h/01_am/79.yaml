@@ -1,0 +1,16 @@
+label: 79
+question: 個人情報保護法で保護される個人情報の条件はどれか。
+choice:
+  - label: ア
+    text: 企業が管理している顧客に関する情報に限られる。
+  - label: イ
+    text: 個人が秘密にしているプライバシに関する情報に限られる。
+  - label: ウ
+    text: 生存している個人に関する情報に限られる。
+  - label: エ
+    text: 日本国籍を有する個人に関する情報に限られる。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

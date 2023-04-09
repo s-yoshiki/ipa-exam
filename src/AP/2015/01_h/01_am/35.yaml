@@ -1,0 +1,16 @@
+label: 35
+question: IPネットワークのプロトコルのうち，OSI基本参照モデルのネットワーク層に属するものはどれか。
+choice:
+  - label: ア
+    text: HTTP
+  - label: イ
+    text: ICMP
+  - label: ウ
+    text: SMTP
+  - label: エ
+    text: UDP
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

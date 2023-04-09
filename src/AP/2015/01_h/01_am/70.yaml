@@ -1,0 +1,16 @@
+label: 70
+question: プロセスイノベーションに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 競争を経て広く採用され，結果として事実上の標準となる。
+  - label: イ
+    text: 製品の品質を向上する革新的な製造工程を開発する。
+  - label: ウ
+    text: 独創的かつ高い技術を基に革新的な新製品を開発する。
+  - label: エ
+    text: 半導体の製造プロセスをもっている企業に製造を委託する。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 76
+question: 定期発注方式の特徴はどれか。
+choice:
+  - label: ア
+    text: ABC分析におけるC品目に適用すると効果的である。
+  - label: イ
+    text: 発注時に需要予測が必要である。
+  - label: ウ
+    text: 発注のタイミングは発注対象を消費する速度に依存する。
+  - label: エ
+    text: 発注量には経済的発注量を用いると効果的である。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

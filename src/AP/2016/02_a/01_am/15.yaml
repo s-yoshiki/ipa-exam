@@ -1,0 +1,17 @@
+label: 15
+question: >-
+  オンライントランザクション処理システムにおいて，1分当たりの平均トランザクション数が1,200件であり，1件のトランザクション処理で100万命令を実行する場合，CPU性能が100MIPSのコンピュータを使用したときのCPUの平均利用率は何%か。
+choice:
+  - label: ア
+    text: '5'
+  - label: イ
+    text: '10'
+  - label: ウ
+    text: '15'
+  - label: エ
+    text: '20'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

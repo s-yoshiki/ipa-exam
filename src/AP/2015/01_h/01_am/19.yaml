@@ -1,0 +1,16 @@
+label: 19
+question: あるコンピュータ上で，異なる命令形式のコンピュータで実行できる目的プログラムを生成する言語処理プログラムはどれか。
+choice:
+  - label: ア
+    text: エミュレータ
+  - label: イ
+    text: クロスコンパイラ
+  - label: ウ
+    text: 最適化コンパイラ
+  - label: エ
+    text: プログラムジェネレータ
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

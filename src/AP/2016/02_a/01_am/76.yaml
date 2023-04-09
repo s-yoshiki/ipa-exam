@@ -1,0 +1,17 @@
+label: 76
+question: >-
+  今年度のA社の販売実績と費用(固定費，変動費)を表に示す。来年度，固定費が5%上昇し，販売単価が5%低下すると予測されるとき，今年度と同じ営業利益を確保するためには，最低何台を販売する必要があるか。
+choice:
+  - label: ア
+    text: 2,575
+  - label: イ
+    text: 2,750
+  - label: ウ
+    text: 2,778
+  - label: エ
+    text: 2,862
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

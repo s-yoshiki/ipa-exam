@@ -1,0 +1,16 @@
+label: 2
+question: 10進数123を，英字A～Zを用いた26進数で表したものはどれか。ここで，A＝0，B＝1，…，Z＝25とする。
+choice:
+  - label: ア
+    text: BCD
+  - label: イ
+    text: DCB
+  - label: ウ
+    text: ET
+  - label: エ
+    text: TE
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

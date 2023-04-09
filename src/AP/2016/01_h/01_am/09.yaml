@@ -1,0 +1,16 @@
+label: 9
+question: 並列処理方式であるSIMDの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 単一命令ストリームで単一データストリームを処理する方式
+  - label: イ
+    text: 単一命令ストリームで複数のデータストリームを処理する方式
+  - label: ウ
+    text: 複数の命令ストリームで単一データストリームを処理する方式
+  - label: エ
+    text: 複数の命令ストリームで複数のデータストリームを処理する方式
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

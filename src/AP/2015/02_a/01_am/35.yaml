@@ -1,0 +1,16 @@
+label: 35
+question: http://host.example.co.jp:8080/file で示されるURLの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ':8080 はプロキシサーバ経由で接続することを示している。'
+  - label: イ
+    text: file はHTMLで作成されたWebページであることを示している。
+  - label: ウ
+    text: host.example.co.jp は参照先のサーバが日本国内にあることを示している。
+  - label: エ
+    text: 'http: はプロトコルとしてHTTPを使用して参照することを示している。'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

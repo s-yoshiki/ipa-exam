@@ -1,0 +1,16 @@
+label: 52
+question: あるプロジェクトの作業が図に従って計画されているとき，最短日数で終了するためには，作業Hはプロジェクトの開始から遅くとも何日後に開始しなければならないか。
+choice:
+  - label: ア
+    text: '12'
+  - label: イ
+    text: '14'
+  - label: ウ
+    text: '18'
+  - label: エ
+    text: '21'
+calculation: false
+figure: true
+answer: エ
+category: M
+figureText: ''

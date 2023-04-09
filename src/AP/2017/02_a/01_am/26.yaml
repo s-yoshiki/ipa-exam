@@ -1,0 +1,16 @@
+label: 26
+question: ストアドプロシージャの利点はどれか。
+choice:
+  - label: ア
+    text: アプリケーションプログラムからネットワークを介してDBMSにアクセスする場合，両者間の通信量を減少させる。
+  - label: イ
+    text: アプリケーションプログラムからの一連の要求を一括して処理することによって，DBMS内の実行計画の数を減少させる。
+  - label: ウ
+    text: アプリケーションプログラムからの一連の要求を一括して処理することによって，DBMS内の必要バッファ数を減少させる。
+  - label: エ
+    text: データが格納されているディスク装置へのI/O回数を減少させる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

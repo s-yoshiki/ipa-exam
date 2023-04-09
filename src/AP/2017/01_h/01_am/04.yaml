@@ -1,0 +1,19 @@
+label: 4
+question: >-
+  あるプログラム言語において，識別子(identifier)は，先頭が英字で始まり，それ以降に任意個の英数字が続く文字列である。これをBNFで定義したとき，a
+  に入るものはどれか。<br><br>　　&lt;digit&gt;::＝0｜1｜2｜3｜4｜5｜6｜7｜8｜9<br>　　&lt;letter&gt;::＝A｜B｜C｜…｜X｜Y｜Z｜a｜b｜c｜…｜x｜y｜z<br>　　&lt;identifier&gt;::＝
+  <span class="bb">a</span><br>　　
+choice:
+  - label: ア
+    text: <letter>｜<digit>｜<identifier><letter>｜<identifier><digit>
+  - label: イ
+    text: <letter>｜<digit>｜<letter><identifier>｜<identifier><digit>
+  - label: ウ
+    text: <letter>｜<identifier><digit>
+  - label: エ
+    text: <letter>｜<identifier><digit>｜<identifier><letter>
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

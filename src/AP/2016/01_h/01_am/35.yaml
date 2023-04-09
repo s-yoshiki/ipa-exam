@@ -1,0 +1,16 @@
+label: 35
+question: クラスCのIPアドレスを分割して，10個の同じ大きさのサブネットを使用したい。ホスト数が最も多くなるように分割した場合のサブネットマスクはどれか。
+choice:
+  - label: ア
+    text: 255.255.255.192
+  - label: イ
+    text: 255.255.255.224
+  - label: ウ
+    text: 255.255.255.240
+  - label: エ
+    text: 255.255.255.248
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

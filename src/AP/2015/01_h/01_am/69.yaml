@@ -1,0 +1,16 @@
+label: 69
+question: 施策案a～dのうち，利益が最も高くなるマーケティングミックスはどれか。ここで，広告費と販売促進費は固定費とし，1個当たりの変動費は1,000円とする。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: b
+  - label: ウ
+    text: c
+  - label: エ
+    text: d
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

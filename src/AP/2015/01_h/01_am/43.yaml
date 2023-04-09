@@ -1,0 +1,16 @@
+label: 43
+question: サーバにバックドアを作り，サーバ内で侵入の痕跡を隠蔽するなどの機能がパッケージ化された不正なプログラムやツールはどれか。
+choice:
+  - label: ア
+    text: RFID
+  - label: イ
+    text: rootkit
+  - label: ウ
+    text: TKIP
+  - label: エ
+    text: web beacon
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

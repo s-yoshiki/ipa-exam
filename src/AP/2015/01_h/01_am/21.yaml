@@ -1,0 +1,16 @@
+label: 21
+question: 16進数 ABCD1234 をリトルエンディアンで4バイトのメモリに配置したものはどれか。ここで， 0～＋3はバイトアドレスのオフセット値である。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 48
+question: 流れ図において，分岐網羅を満たし，かつ，条件網羅を満たすテストデータの組はどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 35
+question: ほかのコンピュータ上にあるデータやサービスを呼び出すためのプロトコルで，メッセージ記述がXMLのヘッダとボディで構成されているものはどれか。
+choice:
+  - label: ア
+    text: CORBA
+  - label: イ
+    text: DCOM
+  - label: ウ
+    text: SIP
+  - label: エ
+    text: SOAP
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

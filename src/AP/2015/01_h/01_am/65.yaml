@@ -1,0 +1,17 @@
+label: 65
+question: >-
+  定性的な評価項目を定量化するために評価点を与える方法がある。表に示す4段階評価を用いた場合，重み及び判定内容から評価されるシステム全体の目標達成度は何%となるか。
+choice:
+  - label: ア
+    text: '27'
+  - label: イ
+    text: '36'
+  - label: ウ
+    text: '43'
+  - label: エ
+    text: '52'
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

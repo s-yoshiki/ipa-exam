@@ -1,0 +1,16 @@
+label: 17
+question: サーバアプリケーションの開発のための，オブジェクト指向技術に基づいたコンポーネントソフトウェアの仕様はどれか。
+choice:
+  - label: ア
+    text: EAI（Enterprise Application Integration）
+  - label: イ
+    text: EJB（Enterprise JavaBeans）
+  - label: ウ
+    text: ERP（Enterprise Resource Planning）
+  - label: エ
+    text: UML（Unified Modeling Language）
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

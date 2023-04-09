@@ -1,0 +1,16 @@
+label: 44
+question: スパムメール対策として，サブミッションポート(ポート番号587)を導入する目的はどれか。
+choice:
+  - label: ア
+    text: DNSサーバに登録されている公開鍵を用いて署名を検証する。
+  - label: イ
+    text: DNSサーバにSPFレコードを問い合わせる。
+  - label: ウ
+    text: POP before SMTPを使用して，メール送信者を認証する。
+  - label: エ
+    text: SMTP-AUTHを使用して，メール送信者を認証する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

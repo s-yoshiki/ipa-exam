@@ -1,0 +1,18 @@
+label: 6
+question: >-
+  次に示すユークリッド互除法(方法1，方法2)で，正の整数 a，b の最大公約数は，それぞれmとnのどちらの変数に求まるか。ここで，m mod n
+  はmをnで割った余りを表す。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

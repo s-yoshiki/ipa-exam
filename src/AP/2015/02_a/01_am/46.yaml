@@ -1,0 +1,16 @@
+label: 46
+question: DFDにおけるデータストアの性質として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 最終的には，開発されたシステムの物理ファイルとなる。
+  - label: イ
+    text: データストア自体が，データを作成したり変更したりすることがある。
+  - label: ウ
+    text: データストアに入ったデータが出て行くときは，データフロー以外のものを通ることがある。
+  - label: エ
+    text: ほかのデータストアと直接にデータフローで結ばれることはなく，処理が介在する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

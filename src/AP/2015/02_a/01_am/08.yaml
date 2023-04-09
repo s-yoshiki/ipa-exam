@@ -1,0 +1,16 @@
+label: 8
+question: CPUのパイプライン処理を有効に機能させるプログラミング方法はどれか。ここで，CPUは命令の読込みとデータのアクセスを分離したアーキテクチヤとする。
+choice:
+  - label: ア
+    text: CASE文を多くする。
+  - label: イ
+    text: 関数の個数をできるだけ多くする。
+  - label: ウ
+    text: 分岐命令を少なくする。
+  - label: エ
+    text: メモリアクセス命令を少なくする。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

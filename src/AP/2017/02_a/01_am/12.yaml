@@ -1,0 +1,16 @@
+label: 12
+question: 1台のコンピュータで複数の仮想マシン環境を実現するための制御機能はどれか。
+choice:
+  - label: ア
+    text: シストリックアレイ
+  - label: イ
+    text: デスクトップグリッド
+  - label: ウ
+    text: ハイパバイザ
+  - label: エ
+    text: モノリシックカーネル
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

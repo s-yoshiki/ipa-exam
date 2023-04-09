@@ -1,0 +1,16 @@
+label: 20
+question: エネルギーハーベスティングの適用例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: AC電源で充電したバッテリで駆動される携帯電話機
+  - label: イ
+    text: インバータ制御を用いるエアーコンディショナの室外機
+  - label: ウ
+    text: スイッチを押す力を電力に変換して作動するRFリモコン
+  - label: エ
+    text: 無停電電源装置を備えたデータサーバ
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

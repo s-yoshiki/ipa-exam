@@ -1,0 +1,16 @@
+label: 23
+question: 半導体製造プロセスが微細化することによって問題となってきたリーク電流の低減手段として，適切なものはどれか。
+choice:
+  - label: ア
+    text: クロックの周波数制御
+  - label: イ
+    text: 使用しないブロックへのクロック供給停止
+  - label: ウ
+    text: 使用しないブロックへの電源供給停止
+  - label: エ
+    text: 電源，電圧の調整
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

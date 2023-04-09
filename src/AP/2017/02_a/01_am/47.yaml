@@ -1,0 +1,16 @@
+label: 47
+question: テストで使用されるドライバ又はスタブの説明のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: スタブは，テスト対象のモジュールからの戻り値を表示・印刷する。
+  - label: イ
+    text: スタブは，テスト対象モジュールを呼び出すモジュールである。
+  - label: ウ
+    text: ドライバは，テスト対象モジュールから呼び出されるモジュールである。
+  - label: エ
+    text: ドライバは，引数を渡してテスト対象モジュールを呼び出す。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

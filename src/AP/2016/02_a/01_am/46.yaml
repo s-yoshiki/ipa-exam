@@ -1,0 +1,16 @@
+label: 46
+question: UMLのユースケース図の説明はどれか。
+choice:
+  - label: ア
+    text: 外部からのトリガに応じて，オブジェクトの状態がどのように遷移するかを表現する。
+  - label: イ
+    text: クラスと関連から構成され，システムの静的な構造を表現する。
+  - label: ウ
+    text: システムとアクタの相互作用を表現する。
+  - label: エ
+    text: データの流れに注目してシステムの機能を表現する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

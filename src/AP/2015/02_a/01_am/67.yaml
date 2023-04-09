@@ -1,0 +1,16 @@
+label: 67
+question: 多角化戦略のうち，M&amp;Aによる垂直統合に該当するものはどれか。
+choice:
+  - label: ア
+    text: 銀行による保険会社の買収・合併
+  - label: イ
+    text: 自動車メーカによる軽自動車メーカの買収・合併
+  - label: ウ
+    text: 製鉄メーカによる鉄鋼石採掘会社の買収・合併
+  - label: エ
+    text: 電機メーカによる不動産会社の買収・合併
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

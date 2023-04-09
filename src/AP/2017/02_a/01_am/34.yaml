@@ -1,0 +1,16 @@
+label: 34
+question: IPv4においてIPアドレスからMACアドレスを取得するために用いるプロトコルはどれか。
+choice:
+  - label: ア
+    text: ARP
+  - label: イ
+    text: DHCP
+  - label: ウ
+    text: ICMP
+  - label: エ
+    text: RARP
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

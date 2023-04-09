@@ -1,0 +1,16 @@
+label: 62
+question: 情報システム全体の最適化目標は経営戦略に基づいて設定される必要があり，その整合性を検証する必要がある。"財務状態の予測"と整合性を確保すべきものはどれか。
+choice:
+  - label: ア
+    text: 情報化投資計画
+  - label: イ
+    text: 情報システム化計画
+  - label: ウ
+    text: 情報システム全体のSWOT分析
+  - label: エ
+    text: 情報システム部門のバランススコアカード
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

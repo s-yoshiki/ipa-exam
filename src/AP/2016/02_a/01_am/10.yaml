@@ -1,0 +1,16 @@
+label: 10
+question: メモリインタリーブの目的として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 同一のバンクに連続してアクセスしたとき，アクセス時間を短くする。
+  - label: イ
+    text: 同一のバンクの連続したアドレスにアクセスしたとき，キャッシュミス発生時のアクセス時間を短くする。
+  - label: ウ
+    text: 一つのバンクが故障しても，システムが停止しないようにする。
+  - label: エ
+    text: 複数のバンクに割り振った連続したアドレスにアクセスしたとき，アクセス時間を短くする。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

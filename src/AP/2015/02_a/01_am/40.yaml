@@ -1,0 +1,16 @@
+label: 40
+question: 公開鍵暗号方式の暗号アルゴリズムはどれか。
+choice:
+  - label: ア
+    text: AES
+  - label: イ
+    text: KCipher-2
+  - label: ウ
+    text: RSA
+  - label: エ
+    text: SHA-256
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

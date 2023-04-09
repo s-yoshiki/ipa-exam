@@ -1,0 +1,17 @@
+label: 68
+question: >-
+  現在の動向から未来を予測したり，システム分析に使用したりする手法であり，専門的知識や経験を有する複数の人にアンケート調査を行い，その結果を互いに参照した上で調査を繰り返して，集団としての意見を収束させる手法はどれか。
+choice:
+  - label: ア
+    text: 因果関係分析法
+  - label: イ
+    text: クロスセクション法
+  - label: ウ
+    text: 時系列回帰分析法
+  - label: エ
+    text: デルファイ法
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

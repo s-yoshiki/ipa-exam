@@ -1,0 +1,16 @@
+label: 36
+question: インターネットへの接続において，ファイアウォールでNAPT機能を利用することによるセキュリティ上の効果はどれか。
+choice:
+  - label: ア
+    text: DMZ上にある公開Webサーバの脆弱性を突く攻撃からWebサーバを防御できる。
+  - label: イ
+    text: インターネットから内部ネットワークへの侵入を検知し，通信経路の途中で遮断できる。
+  - label: ウ
+    text: インターネット上の特定のWebアプリケーションを利用するHTTP通信を検知し，遮断できる。
+  - label: エ
+    text: インターネットにアクセスする組織内の利用者PCについて，外部からの不正アクセスを困難にすることができる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 37
+question: 暗号方式のうち，共通鍵暗号方式はどれか。
+choice:
+  - label: ア
+    text: AES
+  - label: イ
+    text: ElGamal暗号
+  - label: ウ
+    text: RSA
+  - label: エ
+    text: 楕円曲線暗号
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

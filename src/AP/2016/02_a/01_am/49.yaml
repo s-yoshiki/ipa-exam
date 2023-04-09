@@ -1,0 +1,16 @@
+label: 49
+question: ソフトウェアを保守するときなどに利用される技術であるリバースエンジニアリングに該当するものはどれか。
+choice:
+  - label: ア
+    text: ソースプログラムを解析してプログラム仕様書を作る。
+  - label: イ
+    text: ソースプログラムを探索して修正箇所や影響度を調べる。
+  - label: ウ
+    text: ソースプログラムを見直して構造化されたプログラムに変換する。
+  - label: エ
+    text: ソースプログラムを分かりやすい表現に書き換える。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

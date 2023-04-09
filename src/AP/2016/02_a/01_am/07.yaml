@@ -1,0 +1,16 @@
+label: 7
+question: WebSocketによって実現できるのはどれか。
+choice:
+  - label: ア
+    text: JavaScriptで記述されたプログラムをバックグラウンドで動作させること
+  - label: イ
+    text: Webページで映像や音声を再生すること
+  - label: ウ
+    text: Webページにビットマップ形式のデータを描画すること
+  - label: エ
+    text: クライアントのWebブラウザとサーバ間で双方向の通信をすること
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

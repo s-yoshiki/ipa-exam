@@ -1,0 +1,18 @@
+label: 36
+question: >-
+  IPアドレスが 172.16.255.164，サブネットマスクが 255.255.255.192
+  であるホストと同じサブネットワークに属するホストのIPアドレスはどれか。
+choice:
+  - label: ア
+    text: 172.16.255.128
+  - label: イ
+    text: 172.16.255.129
+  - label: ウ
+    text: 172.16.255.191
+  - label: エ
+    text: 172.16.255.192
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

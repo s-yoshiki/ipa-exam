@@ -1,0 +1,16 @@
+label: 47
+question: 次の図の作成で用いられている表記法はどれか。
+choice:
+  - label: ア
+    text: DFD
+  - label: イ
+    text: 状態遷移図
+  - label: ウ
+    text: 流れ図
+  - label: エ
+    text: ペトリネット
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

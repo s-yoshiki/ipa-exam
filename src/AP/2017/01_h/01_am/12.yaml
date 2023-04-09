@@ -1,0 +1,17 @@
+label: 12
+question: WebシステムにおけるCDN(Contents Delivery Network)に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: >-
+      Webサーバ，アプリケーションサーバ，データベースサーバの三つの構成要素に分けることによってコンテンツの検索を容易にすると同時に，システムの拡張性も高める。
+  - label: イ
+    text: コミュニティ型のWebサイト及びネットワークサービスによって，人と人とのつながりを促進するコンテンツを共有する。
+  - label: ウ
+    text: 動画再生や音楽再生に必要なプログラム部品をインターネット経由で入手し，Webブラウザに組み込む。
+  - label: エ
+    text: 動画や音声などの大容量のデータを利用する際に，インターネット回線の負荷を軽減するようにサーバを分散配置する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

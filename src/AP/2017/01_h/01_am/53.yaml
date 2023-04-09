@@ -1,0 +1,16 @@
+label: 53
+question: PMBOKガイド第5版によれば，定量的リスク分析で実施することはどれか。
+choice:
+  - label: ア
+    text: 特定したリスクがプロジェクト目標全体に与える影響を数量的に分析する。
+  - label: イ
+    text: 特定したリスクの発生確率や影響度を評価してリスクに優先順位を付ける。
+  - label: ウ
+    text: 特定したリスクへの対応計画を策定する。
+  - label: エ
+    text: プロジェクトに影響を与える可能性があるリスクを洗い出す。
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

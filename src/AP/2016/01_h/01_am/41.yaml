@@ -1,0 +1,17 @@
+label: 41
+question: >-
+  Webアプリケーションのセッションが攻撃者に乗っ取られ，攻撃者が乗っ取ったセッションを利用してアクセスした場合でも，個人情報の漏えいなどの被害が拡大しないようにするために，Webアプリケーションが重要な情報をWebブラウザに送信する直前に行う対策として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: Webブラウザとの間の通信を暗号化する。
+  - label: イ
+    text: 発行済セッションIDをCookieに格納する。
+  - label: ウ
+    text: 発行済セッションIDをURLに設定する。
+  - label: エ
+    text: パスワードによる利用者認証を行う。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

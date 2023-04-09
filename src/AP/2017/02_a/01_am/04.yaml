@@ -1,0 +1,16 @@
+label: 4
+question: UTF-8の説明に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 1文字を1バイトから4バイト(又は6バイト)までの可変長で表現しており，ASCIIと上位互換性がある。
+  - label: イ
+    text: 2バイトで表現する領域に収まらない文字は，上位サロゲートと下位サロゲートを組み合わせて4バイトで表現する。
+  - label: ウ
+    text: ASCII文字だけを使用することが前提の電子メールで利用するために，7ビットで表現する。
+  - label: エ
+    text: 各符号位置が4バイトの固定長で表現される符号化形式である。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

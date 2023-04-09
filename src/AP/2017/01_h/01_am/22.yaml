@@ -1,0 +1,17 @@
+label: 22
+question: >-
+  16ビットのダウンカウントのカウンタを用い，そのカウンタの値が0になると割込みを発生させるハードウェアタイマがある。カウンタに初期値として10進数の150をセットしてタイマをスタートすると，最初の割込みが発生するまでの時間は何マイクロ秒か。ここで，タイマクロックは16MHzを32分周したものとする。
+choice:
+  - label: ア
+    text: '0.3'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '150'
+  - label: エ
+    text: '300'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

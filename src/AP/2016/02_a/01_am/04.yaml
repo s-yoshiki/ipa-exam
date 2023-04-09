@@ -1,0 +1,17 @@
+label: 4
+question: >-
+  次の表は，入力記号の集合が{0，1}，状態集合が{a，b，c，d}である有限オートマトンの状態遷移表である。長さ3以上の任意のビット列を左(上位ビット)から順に読み込んで最後が110で終わっているものを受理するには，どの状態を受理状態とすればよいか。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: b
+  - label: ウ
+    text: c
+  - label: エ
+    text: d
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

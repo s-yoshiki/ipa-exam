@@ -1,0 +1,16 @@
+label: 73
+question: EDIを実施するための情報表現規約で規定されるべきものはどれか。
+choice:
+  - label: ア
+    text: 企業間の取引の契約内容
+  - label: イ
+    text: システムの運用時間
+  - label: ウ
+    text: 伝送制御手順
+  - label: エ
+    text: メッセージの形式
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

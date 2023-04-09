@@ -1,0 +1,16 @@
+label: 49
+question: エクストリームプログラミング(XP)におけるリファクタリングの説明はどれか。
+choice:
+  - label: ア
+    text: 外部から見た動作を変えずにプログラムをより良く作り直すこと
+  - label: イ
+    text: コーチがチームメンバの意識を高めること
+  - label: ウ
+    text: プログラミングとテストを繰り返し行うこと
+  - label: エ
+    text: プログラムを作成するよりも先にテストケースを考えること
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

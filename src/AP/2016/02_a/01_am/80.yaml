@@ -1,0 +1,16 @@
+label: 80
+question: 技術者倫理の遵守を妨げる要因の一つとして，集団思考というものがある。集団思考の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 自分とは違った視点から事態を見ることができず，客観性に欠けること
+  - label: イ
+    text: 組織内の権威に無批判的に服従すること
+  - label: ウ
+    text: 正しいことが何かは知っているが，それを実行する勇気や決断力に欠けること
+  - label: エ
+    text: 強い連帯性をもつチームが批判的思考を欠くことによって，不合理な合意へと達すること
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 48
+question: >-
+  二つの独立したテストグループA，Bが，あるシステムについて一定期間並行してテストを行い，それぞれN<sub>A</sub>個及びN<sub>B</sub>個のエラーを検出した。このうち，共通のエラーはN<sub>AB</sub>個であった。このシステムの総エラー数Nを予測する式はどれか。ここで，N<sub>A</sub>＞0，N<sub>B</sub>＞0，N<sub>AB</sub>＞0とし，グループA，Bのエラーを検出する能力及び効率は等しいものとする。
+choice:
+  - label: ア
+    text: N＝NA＋NB－NAB
+  - label: イ
+    text: N＝NAB×NA×NB
+  - label: ウ
+    text: N＝(NA＋NB)／NAB
+  - label: エ
+    text: N＝NA×NB／NAB
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

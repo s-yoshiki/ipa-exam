@@ -1,0 +1,16 @@
+label: 49
+question: CMMIを説明したものはどれか。
+choice:
+  - label: ア
+    text: ソフトウェア開発組織及びプロジェクトのプロセスの成熟度を評価するためのモデルである。
+  - label: イ
+    text: ソフトウェア開発のプロセスモデルの一種である。
+  - label: ウ
+    text: ソフトウェアを中心としたシステム開発及び取引のための共通フレームのことである。
+  - label: エ
+    text: プロジェクトの成熟度に応じてソフトウェア開発の手順を定義したモデルである。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

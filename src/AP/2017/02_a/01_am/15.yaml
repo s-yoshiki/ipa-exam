@@ -1,0 +1,18 @@
+label: 15
+question: >-
+  ジョブの多重度が1で，到着順にジョブが実行されるシステムにおいて，表に示す状態のジョブA～Cを処理するとき，ジョブCが到着してから実行が終了するまでのターンアラウンドタイムは何秒か。ここで，
+  OSのオーバヘッドは考慮しないものとする。
+choice:
+  - label: ア
+    text: '11'
+  - label: イ
+    text: '12'
+  - label: ウ
+    text: '13'
+  - label: エ
+    text: '14'
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

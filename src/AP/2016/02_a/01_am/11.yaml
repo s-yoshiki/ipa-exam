@@ -1,0 +1,16 @@
+label: 11
+question: プロセッサの実行効率を上げる，VLIWの説明はどれか。
+choice:
+  - label: ア
+    text: 依存関係のない複数の命令を，プログラム中での出現順序とは異なる順序で一つずつ実行する。
+  - label: イ
+    text: 各命令フェッチ，デコード，実行，演算結果の出力などの各段階を並列に処理する。
+  - label: ウ
+    text: 同時に実行可能な複数の動作をまとめて一つの命令として，同時に実行する。
+  - label: エ
+    text: 複数のパイプラインを用いて複数の命令を同時に実行させる。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

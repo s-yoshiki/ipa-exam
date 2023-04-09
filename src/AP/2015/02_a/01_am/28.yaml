@@ -1,0 +1,17 @@
+label: 28
+question: >-
+  関係R(A，B，C，D，E，F)において，次の関数従属が成立するとき，候補キーとなるのはどれか。<br><br>〔関数従属〕<br>A→B，A→F，B→C，C→D，{B，C}→E，{C，F}→A
+choice:
+  - label: ア
+    text: B
+  - label: イ
+    text: '{B，C}'
+  - label: ウ
+    text: '{B，F}'
+  - label: エ
+    text: '{B，D，E}'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

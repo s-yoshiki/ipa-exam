@@ -1,0 +1,16 @@
+label: 70
+question: セル生産方式の特徴はどれか。
+choice:
+  - label: ア
+    text: 作業指示と現場管理を見えるようにするために，かんばんを使用する。
+  - label: イ
+    text: 生産ライン上の作業場所を通過するに従い製品の加工が進む。
+  - label: ウ
+    text: 必要とする部品，仕様，数量が後工程から前工程へと順次伝わる。
+  - label: エ
+    text: 部品の組立てから完成検査まで，ほとんどの工程を1人又は数人で作業する。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

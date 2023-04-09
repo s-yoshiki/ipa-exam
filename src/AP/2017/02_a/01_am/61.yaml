@@ -1,0 +1,16 @@
+label: 61
+question: エンタープライズアーキテクチャにおいて，業務と情報システムの理想を表すモデルはどれか。
+choice:
+  - label: ア
+    text: EA参照モデル
+  - label: イ
+    text: To-Beモデル
+  - label: ウ
+    text: ザックマンモデル
+  - label: エ
+    text: データモデル
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

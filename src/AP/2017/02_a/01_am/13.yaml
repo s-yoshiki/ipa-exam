@@ -1,0 +1,16 @@
+label: 13
+question: MTBFを長くするよりも，MTTRを短くするのに役立つものはどれか。
+choice:
+  - label: ア
+    text: エラーログ取得機能
+  - label: イ
+    text: 記憶装置のビット誤り訂正機能
+  - label: ウ
+    text: 命令再試行機能
+  - label: エ
+    text: 予防保守
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

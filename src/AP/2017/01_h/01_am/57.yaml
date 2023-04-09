@@ -1,0 +1,16 @@
+label: 57
+question: ITサービスマネジメントにおける問題管理プロセスの活動はどれか。
+choice:
+  - label: ア
+    text: 根本原因の特定
+  - label: イ
+    text: サービス要求の優先度付け
+  - label: ウ
+    text: 変更要求の記録
+  - label: エ
+    text: リリースの試験
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

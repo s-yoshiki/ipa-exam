@@ -1,0 +1,16 @@
+label: 34
+question: 伝送速度64kビット／秒の回線を使ってデータを連続送信したとき，平均して100秒に1回の1ビット誤りが発生した。この回線のビット誤り率は幾らか。
+choice:
+  - label: ア
+    text: 1.95×10-8
+  - label: イ
+    text: 1.56×10-7
+  - label: ウ
+    text: '1.95×10-5 '
+  - label: エ
+    text: 1.56×10-4
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

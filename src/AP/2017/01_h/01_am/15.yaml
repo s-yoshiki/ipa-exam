@@ -1,0 +1,17 @@
+label: 15
+question: >-
+  図に示す二つの装置から構成される並列システムの稼働率は幾らか。ここで，どちらか一つの装置が稼働していればシステムとして稼働しているとみなし，装置A，Bとも，MTBFは450時間，MTTRは50時間とする。
+choice:
+  - label: ア
+    text: '0.81'
+  - label: イ
+    text: '0.90'
+  - label: ウ
+    text: '0.96'
+  - label: エ
+    text: '0.99'
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,18 @@
+label: 20
+question: >-
+  メインプログラムを実行した後，メインプログラムの変数X，Yの値はいくつになるか。ここで，仮引数Xは値呼出し(call by
+  value)，仮引数Yは参照呼出し(call by reference)であるとする。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

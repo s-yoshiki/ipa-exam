@@ -1,0 +1,17 @@
+label: 27
+question: >-
+  B<sup>+</sup>木インデックスが定義されている候補キーを利用して，1件のデータを検索するとき，データ総件数Xに対するB<sup>+</sup>木インデックスを格納するノードへのアクセス回数のオーダを表す式はどれか。
+choice:
+  - label: ア
+    text: √x
+  - label: イ
+    text: logX
+  - label: ウ
+    text: X
+  - label: エ
+    text: X!
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

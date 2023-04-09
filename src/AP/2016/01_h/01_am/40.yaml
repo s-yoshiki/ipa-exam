@@ -1,0 +1,16 @@
+label: 40
+question: WAFの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: DMZに設置されているWebサーバへ外部から実際に侵入を試みる。
+  - label: イ
+    text: WebサーバのCPU負荷を軽減するために，TLSによる暗号化と復号の処理をWebサーバではなく専用のハードウェア上で行う。
+  - label: ウ
+    text: システム管理者が質問に答える形式で，自組織の情報セキュリティ対策のレベルを診断する。
+  - label: エ
+    text: 特徴的なパターンが含まれるかなどWebアプリケーションへの通信内容を検査して，不正な操作を遮断する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

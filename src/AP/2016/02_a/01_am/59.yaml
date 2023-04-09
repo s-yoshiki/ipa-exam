@@ -1,0 +1,16 @@
+label: 59
+question: システム監査報告書に記載された改善勧告への取組みに対する監査人のフォローアップとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: 改善勧告に対する改善の実施を被監査部門の長に指示する。
+  - label: イ
+    text: 改善勧告に対する被監査部門の改善実施状況を確認する。
+  - label: ウ
+    text: 改善勧告に対する被監査部門の改善実施プロジェクトの管理を行う。
+  - label: エ
+    text: 改善勧告の内容を被監査部門に示した上で改善実施計画を策定する。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

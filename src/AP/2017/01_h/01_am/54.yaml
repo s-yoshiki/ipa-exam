@@ -1,0 +1,16 @@
+label: 54
+question: PMBOKガイド第5版における，マイナスのリスクに対する戦略として用いられる"リスク転嫁"の説明はどれか。
+choice:
+  - label: ア
+    text: リスクの影響が及ばないようにするための対応策を実行する。
+  - label: イ
+    text: リスクの影響や責任の一部または全部を第三者に移す。
+  - label: ウ
+    text: リスクの発生確率や影響度を許容可能なレベルに抑えるための対応策を実行する。
+  - label: エ
+    text: リスクへの具体的な対応策は事前に設定せず，リスクが発生した時点で対処する。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

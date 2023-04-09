@@ -1,0 +1,16 @@
+label: 32
+question: ネットワーク機器の接続状態を調べるためのコマンドpingが用いるプロトコルはどれか。
+choice:
+  - label: ア
+    text: DHCP
+  - label: イ
+    text: ICMP
+  - label: ウ
+    text: SMTP
+  - label: エ
+    text: SNMP
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

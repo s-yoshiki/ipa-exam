@@ -1,0 +1,17 @@
+label: 58
+question: >-
+  業務データのバックアップが自動取得されている場合，日次バックアップデータが継続的に取得されているかどうかをシステム監査人が検証する手続として，適切なものはどれか。
+choice:
+  - label: ア
+    text: バックアップジョブの再実施
+  - label: イ
+    text: バックアップジョブの設定内容及びジョブの実行結果ログの閲覧
+  - label: ウ
+    text: バックアップデータからのリカバリテストの実施
+  - label: エ
+    text: バックアップ媒体やバックアップ装置の観察
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

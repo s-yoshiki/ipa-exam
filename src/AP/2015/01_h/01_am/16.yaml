@@ -1,0 +1,16 @@
+label: 16
+question: 仮想記憶方式では，割り当てられる実記憶の容量が小さいとページアウト，ページインが頻発し，スループットが急速に低下することがある。このような現象を何というか。
+choice:
+  - label: ア
+    text: スラッシング
+  - label: イ
+    text: スワッピング
+  - label: ウ
+    text: フラグメンテーション
+  - label: エ
+    text: メモリリーク
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

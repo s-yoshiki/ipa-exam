@@ -1,0 +1,16 @@
+label: 51
+question: WBS作成プロセスが含まれるマネジメントプロセスはどれか。
+choice:
+  - label: ア
+    text: プロジェクトコストマネジメント
+  - label: イ
+    text: プロジェクトスコープマネジメント
+  - label: ウ
+    text: プロジェクト品質マネジメント
+  - label: エ
+    text: プロジェクトリスクマネジメント
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

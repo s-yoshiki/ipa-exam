@@ -1,0 +1,16 @@
+label: 32
+question: TCP/IPネットワークにおけるARPの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: IPアドレスからMACアドレスを得るプロトコルである。
+  - label: イ
+    text: IPネットワークにおける誤り制御のためのプロトコルである。
+  - label: ウ
+    text: ゲートウェイ間のホップ数によって経路を制御するプロトコルである。
+  - label: エ
+    text: 端末に対して動的にIPアドレスを割り当てるためのプロトコルである。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

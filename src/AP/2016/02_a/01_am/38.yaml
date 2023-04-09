@@ -1,0 +1,16 @@
+label: 38
+question: チャレンジレスポンス認証方式の特徴はどれか。
+choice:
+  - label: ア
+    text: TLSによって，クライアント側で固定パスワードを暗号化して送信する。
+  - label: イ
+    text: 端末のシリアル番号を，クライアント側で秘密鍵を使って暗号化して送信する。
+  - label: ウ
+    text: トークンという装置が表示する毎回異なったデータを，パスワードとして送信する。
+  - label: エ
+    text: 利用者が入力したパスワードと，サーバから送られてきたランダムなデータとをクライアント側で演算し，その結果を送信する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

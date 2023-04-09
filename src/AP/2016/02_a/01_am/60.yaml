@@ -1,0 +1,16 @@
+label: 60
+question: 金融庁の"財務報告に係る内部統制の評価及び監査に関する実施基準"における"ITへの対応"に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: IT環境とは，企業内部に限られた範囲でのITの利用状況である。
+  - label: イ
+    text: ITの統制は，ITに係る全般統制及びITに係る業務処理統制から成る。
+  - label: ウ
+    text: ITの利用によって統制活動を自動化している場合，当該統制活動は有効であると評価される。
+  - label: エ
+    text: ITを利用せず手作業だけで内部統制を運用している場合，直ちに内部統制の不備となる。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 48
+question: プロセス制御などの事象駆動(イベントドリブン)による処理の仕様を表現する方法として，適切なものはどれか。
+choice:
+  - label: ア
+    text: DFD
+  - label: イ
+    text: E-R図
+  - label: ウ
+    text: クラス図
+  - label: エ
+    text: 状態遷移図
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 25
+question: 動画や音声などのマルチメディアコンテンツのレイアウトや再生のタイミングをXMLフォーマットで記述するためのW3C勧告はどれか。
+choice:
+  - label: ア
+    text: Ajax
+  - label: イ
+    text: CSS
+  - label: ウ
+    text: SMIL
+  - label: エ
+    text: SVG
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

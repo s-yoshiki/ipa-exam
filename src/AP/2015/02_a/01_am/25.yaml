@@ -1,0 +1,16 @@
+label: 25
+question: ディジタルハイビジョン対応のビデオカメラやワンセグの映像圧縮符号化方式として採用されているものはどれか。
+choice:
+  - label: ア
+    text: AC-3
+  - label: イ
+    text: G.729
+  - label: ウ
+    text: H.264/AVC
+  - label: エ
+    text: MPEG-1
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

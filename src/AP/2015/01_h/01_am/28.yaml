@@ -1,0 +1,16 @@
+label: 28
+question: '"学生"表が次のSQL文で定義されているとき，検査制約の違反となるSQL文はどれか。'
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

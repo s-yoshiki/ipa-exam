@@ -1,0 +1,17 @@
+label: 66
+question: >-
+  表は，ビジネスプロセスをUMLで記述する際に使用される図法とその用途を示している。表中のbに相当する図法はどれか。ここで，ア～エは，a～dのいずれかに該当する。
+choice:
+  - label: ア
+    text: クラス図
+  - label: イ
+    text: コラボレーション図
+  - label: ウ
+    text: ステートチャート図
+  - label: エ
+    text: ユースケース図
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

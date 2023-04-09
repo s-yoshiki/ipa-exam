@@ -1,0 +1,17 @@
+label: 65
+question: >-
+  組込みシステム開発において，製品に搭載するLSIを新規に開発したい。LSI設計を自社で行い，LSI製造を外部に委託する場合の委託先として，適切なものはどれか。
+choice:
+  - label: ア
+    text: IPプロバイダ
+  - label: イ
+    text: デザインハウス
+  - label: ウ
+    text: ファウンドリ
+  - label: エ
+    text: ファブレスメーカ
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

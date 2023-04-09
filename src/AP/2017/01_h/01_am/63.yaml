@@ -1,0 +1,16 @@
+label: 63
+question: IT投資に対する評価指標の設定に際し，バランススコアカードの手法を用いてKPIを設定する場合に，内部ビジネスプロセスの視点に立ったKPIの例はどれか。
+choice:
+  - label: ア
+    text: 売上高営業利益率を前年比5%アップとする。
+  - label: イ
+    text: 顧客クレーム件数を1か月当たり20件以内とする。
+  - label: ウ
+    text: 新システムの利用者研修会の受講率を100%とする。
+  - label: エ
+    text: 注文受付から製品出荷までの日数を3日短縮とする。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

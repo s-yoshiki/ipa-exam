@@ -1,0 +1,16 @@
+label: 6
+question: 流れ図に示す処理の動作の記述として，適切なものはどれか。ここで，二重線は並列処理の同期を表す。
+choice:
+  - label: ア
+    text: ABC又はACBを実行してデッドロックになる。
+  - label: イ
+    text: AB又はACを実行してデッドロックになる。
+  - label: ウ
+    text: Aの後にBC又はCB，BC又はCB，…と繰り返して実行する。
+  - label: エ
+    text: Aの後にBの無限ループ又はCの無限ループになる。
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

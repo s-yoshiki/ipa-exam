@@ -1,0 +1,16 @@
+label: 21
+question: DRAMの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 1バイト単位でデータの消去及び書込みが可能な不揮発性のメモリであり，電源遮断時もデータ保持が必要な用途に用いられる。
+  - label: イ
+    text: 不揮発性のメモリでNAND型又はNOR型があり，SSDに用いられる。
+  - label: ウ
+    text: メモリセルはフリップフロップで構成され，キャッシュメモリに用いられる。
+  - label: エ
+    text: リフレッシュ動作が必要なメモリであり，PCの主記憶として用いられる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

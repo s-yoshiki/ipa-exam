@@ -1,0 +1,17 @@
+label: 8
+question: >-
+  全ての命令が5ステージで完了するように設計された，パイプライン制御のコンピュータがある。20命令を実行するのには何サイクル必要となるか。ここで，全ての命令は途中で停止することなく実行でき，パイプラインの各ステージは1サイクルで動作を完了するものとする。
+choice:
+  - label: ア
+    text: '20'
+  - label: イ
+    text: '21'
+  - label: ウ
+    text: '24'
+  - label: エ
+    text: '25'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

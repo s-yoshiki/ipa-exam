@@ -1,0 +1,16 @@
+label: 10
+question: キャッシュメモリのライトスルーの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: CPUが書込み動作をする時，キャッシュメモリだけにデータを書き込む。
+  - label: イ
+    text: キャッシュメモリと主記憶の両方に同時にデータを書き込む。
+  - label: ウ
+    text: 主記憶のデータの変更は，キャッシュメモリから当該データが追い出される時に行う。
+  - label: エ
+    text: 主記憶へのアクセス頻度が少ないので，バスの占有率が低い。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 9
+question: 間接アドレス指定方式のアドレス部で指定するものはどれか。
+choice:
+  - label: ア
+    text: 処理対象データが格納されている記憶場所のアドレス
+  - label: イ
+    text: 処理対象データが格納されている記憶場所のアドレスが格納されている記憶場所のアドレス
+  - label: ウ
+    text: 処理対象データが格納されている記憶場所のアドレスとアドレス計算の基準点との差分
+  - label: エ
+    text: 処理対象データ自体
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

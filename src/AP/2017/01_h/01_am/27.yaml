@@ -1,0 +1,16 @@
+label: 27
+question: '"受注明細"表は，どのレベルまでの正規形の条件を満足しているか。ここで，実線の下線は主キーを表す。'
+choice:
+  - label: ア
+    text: 第1正規形
+  - label: イ
+    text: 第2正規形
+  - label: ウ
+    text: 第3正規形
+  - label: エ
+    text: 第4正規形
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

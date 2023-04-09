@@ -1,0 +1,16 @@
+label: 52
+question: 組織が遂行する業務を定常業務とプロジェクトとに類別したとき，定常業務の特性はどれか。
+choice:
+  - label: ア
+    text: ある業務のために編成された期間限定のチームで遂行する。
+  - label: イ
+    text: 成果物を反復的に生産して提供する活動を継続的に遂行する。
+  - label: ウ
+    text: 独自のプロダクトやサービスを創造する。
+  - label: エ
+    text: 目的を達成するために開始し，目的を達成したときに終了する。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

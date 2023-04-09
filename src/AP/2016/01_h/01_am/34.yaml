@@ -1,0 +1,16 @@
+label: 34
+question: ルータを冗長化するために用いられるプロトコルはどれか。
+choice:
+  - label: ア
+    text: PPP
+  - label: イ
+    text: RARP
+  - label: ウ
+    text: SNMP
+  - label: エ
+    text: VRRP
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 18
+question: ホワイトボックステストにおいて，プログラムの実行された部分の割合を測定するのに使うものはどれか。
+choice:
+  - label: ア
+    text: アサーションチェッカ
+  - label: イ
+    text: シミュレータ
+  - label: ウ
+    text: 静的コード解析ツール
+  - label: エ
+    text: テストカバレージ分析ツール
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

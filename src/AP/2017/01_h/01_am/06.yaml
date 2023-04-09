@@ -1,0 +1,16 @@
+label: 6
+question: 次の流れ図の処理で，終了時のxに格納されているものはどれか。ここで，与えられたa，bは正の整数であり，mod(x，y)はxをyで割った余りを返す。
+choice:
+  - label: ア
+    text: aとbの最小公倍数
+  - label: イ
+    text: aとbの最大公約数
+  - label: ウ
+    text: aとbの小さい方に最も近い素数
+  - label: エ
+    text: aをbで割った商
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

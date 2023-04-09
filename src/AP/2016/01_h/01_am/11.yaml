@@ -1,0 +1,16 @@
+label: 11
+question: 液晶ディスプレイ(LCD)の特徴として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 電圧を加えると発光する有機化合物を用いる。
+  - label: イ
+    text: 電子銃から発射された電子ビームが蛍光体に当たって発光する。
+  - label: ウ
+    text: 光の透過を画素ごとに制御し，カラーフィルタを用いて色を表現する。
+  - label: エ
+    text: 放電によって発生する紫外線と蛍光体を利用する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 52
+question: プロジェクト管理においてパフォーマンス測定に使用するEVMの管理対象の組みはどれか。
+choice:
+  - label: ア
+    text: コスト，スケジュール
+  - label: イ
+    text: コスト，リスク
+  - label: ウ
+    text: スケジュール，品質
+  - label: エ
+    text: 品質，リスク
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

@@ -1,0 +1,17 @@
+label: 28
+question: >-
+  関係R(ID，A，B，C)のA，Cへの射影の結果とSQL文で求めた結果が同じになるように，aに入れるべき字句はどれか。ここで，関係Rを表Tで実現し，表Tに各行を格納したものを次に示す。
+choice:
+  - label: ア
+    text: ALL
+  - label: イ
+    text: DISTINCT
+  - label: ウ
+    text: ORDER BY
+  - label: エ
+    text: REFERENCES
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

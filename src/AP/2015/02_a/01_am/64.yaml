@@ -1,0 +1,16 @@
+label: 64
+question: 要件定義において，利用者や外部システムと，業務の機能を分離して表現することで，利用者を含めた業務全体の範囲を明らかにするために使用される図はどれか。
+choice:
+  - label: ア
+    text: アクティビティ図
+  - label: イ
+    text: オブジェクト図
+  - label: ウ
+    text: クラス図
+  - label: エ
+    text: ユースケース図
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

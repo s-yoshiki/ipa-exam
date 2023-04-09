@@ -1,0 +1,17 @@
+label: 30
+question: >-
+  チェックポイントを取得するDBMSにおいて，図のような時間経過でシステム障害が発生した。前進復帰(ロールフォワード)によって障害回復できるすべてのトランザクションはどれか。
+choice:
+  - label: ア
+    text: T1
+  - label: イ
+    text: T2 と T3
+  - label: ウ
+    text: T4 と T5
+  - label: エ
+    text: T5
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

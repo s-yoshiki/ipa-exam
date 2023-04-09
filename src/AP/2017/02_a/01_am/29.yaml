@@ -1,0 +1,17 @@
+label: 29
+question: >-
+  トランザクションA～Gの待ちグラフにおいて，永久待ちの状態になっているトランザクション全てを列挙したものはどれか。ここで，待ちグラフのX→Yは，トランザクションXはトランザクションYがロックしている資源のアンロックを待っていることを表す。
+choice:
+  - label: ア
+    text: A，B，C，D
+  - label: イ
+    text: B，C，D
+  - label: ウ
+    text: B，C，D，F
+  - label: エ
+    text: C，D，E，F，G
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

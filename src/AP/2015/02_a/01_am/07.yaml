@@ -1,0 +1,16 @@
+label: 7
+question: JavaBeansを利用してソフトウェア開発を行うメリットとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: HTML文書が動的に生成できる。
+  - label: イ
+    text: コンポーネントが容易に再利用できる。
+  - label: ウ
+    text: 分散トランザクション処理ができる。
+  - label: エ
+    text: メッセージングによって非同期に通信できる。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

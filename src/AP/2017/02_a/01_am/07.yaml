@@ -1,0 +1,16 @@
+label: 7
+question: fact(n)は，非負の整数nに対してnの階乗を返す。fact(n)の再帰的な定義はどれか。
+choice:
+  - label: ア
+    text: if n＝0 then 0 else return n×fact(n－1)
+  - label: イ
+    text: if n＝0 then 0 else return n×fact(n＋1)
+  - label: ウ
+    text: if n＝0 then 1 else return n×fact(n－1)
+  - label: エ
+    text: if n＝0 then 1 else return n×fact(n＋1)
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

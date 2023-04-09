@@ -1,0 +1,16 @@
+label: 33
+question: WANを介して二つのノードをダイヤルアップ接続するときに使用されるプロトコルで，リンク制御やエラー処理機能をもつものはどれか。
+choice:
+  - label: ア
+    text: FTP
+  - label: イ
+    text: PPP
+  - label: ウ
+    text: SLIP
+  - label: エ
+    text: UDP
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

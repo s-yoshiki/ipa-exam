@@ -1,0 +1,16 @@
+label: 43
+question: 受信した電子メールの送信元ドメインが詐称されていないことを検証する仕組みであるSPF(Sender Policy Framework)の特徴はどれか。
+choice:
+  - label: ア
+    text: 受信側のメールサーバが，受信メールの送信元IPアドレスから送信元ドメインを検索してDNSBLに照会する。
+  - label: イ
+    text: 受信側のメールサーバが，受信メールの送信元IPアドレスと，送信元ドメインのDNSに登録されているメールサーバのIPアドレスとを照合する。
+  - label: ウ
+    text: 受信側のメールサーバが，受信メールの送信元ドメインから送信元メールサーバのIPアドレスを検索してDNSBLに照会する。
+  - label: エ
+    text: メール受信者のPCが，送信元ドメインから算出したハッシュ値と受信メールに添付されているハッシュ値とを照合する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

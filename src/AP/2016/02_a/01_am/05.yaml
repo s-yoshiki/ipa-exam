@@ -1,0 +1,16 @@
+label: 5
+question: あるB木は，各節点に4個のキーを格納し，5本の枝を出す。このB木の根(深さのレベル0)から深さのレベル2までの節点に格納できるキーの個数は，最大で幾つか。
+choice:
+  - label: ア
+    text: '24'
+  - label: イ
+    text: '31'
+  - label: ウ
+    text: '120'
+  - label: エ
+    text: '124'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

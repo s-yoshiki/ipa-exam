@@ -1,0 +1,16 @@
+label: 76
+question: 表から，卸売業A社と小売業B社の財務指標を比較したとき，卸売業A社について適切な記述はどれか。
+choice:
+  - label: ア
+    text: 売上高，総資産の額がともに低く，総資産回転率も低い。
+  - label: イ
+    text: 売上高営業利益率が高く，総資産営業利益率も高い。
+  - label: ウ
+    text: 営業利益，総資産の額がともに低く，総資産営業利益率も低い。
+  - label: エ
+    text: 総資産回転率が高く，総資産営業利益率も高い。
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

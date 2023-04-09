@@ -1,0 +1,16 @@
+label: 33
+question: IPアドレス208.77.188.166は，どのアドレスに該当するか。
+choice:
+  - label: ア
+    text: グローバルアドレス
+  - label: イ
+    text: プライベートアドレス
+  - label: ウ
+    text: ブロードキャストアドレス
+  - label: エ
+    text: マルチキャストアドレス
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 69
+question: ISO，IEC，ITUなどの国際標準に適合した製品を製造及び販売する利点として，適切なものはどれか。
+choice:
+  - label: ア
+    text: WTO政府調達協定の加盟国では，政府調達は国際標準の仕様に従って行われる。
+  - label: イ
+    text: 国際標準に適合しない競合製品に比べて，技術的に優位であることが保証される。
+  - label: ウ
+    text: 国際標準に適合するために必要な特許は，全て無償でライセンスを受けられる。
+  - label: エ
+    text: 輸出先国の国内標準及び国内法規の規制を受けることなく製品を輸出できる。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

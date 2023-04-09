@@ -1,0 +1,16 @@
+label: 8
+question: パイプライン制御を適切に表しているものはどれか。ここで，図中の記号Dは解読，Eは実行，Fは命令フェッチとする。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 24
+question: SoC(System on a Chip)の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: CPU，チップセット，ビデオチップ，メモリなどコンピュータを構成するデバイスを実装した電子回路基板
+  - label: イ
+    text: CPU，メモリ，周辺装置などの間で発生するデータの受渡しを管理する一連の回路群を搭載した半導体チップ
+  - label: ウ
+    text: 各機能を個別に最適化されたプロセスで製造し，パッケージ上でそれぞれのチップを適切に配線した半導体チップ
+  - label: エ
+    text: 必要とされる全ての機能(システム)を集積した1個の半導体チップ
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

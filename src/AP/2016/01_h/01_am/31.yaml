@@ -1,0 +1,16 @@
+label: 31
+question: 顧客，商品，注文，販売店という四つのテーブルをスタースキーマでモデル化した場合，ファクトテーブルとなるものはどれか。
+choice:
+  - label: ア
+    text: 顧客(顧客コード，氏名，電話番号，住所)
+  - label: イ
+    text: 商品(商品コード，商品名称，単価)
+  - label: ウ
+    text: 注文(販売店コード，顧客コード，商品コード，注文年月日，数量)
+  - label: エ
+    text: 販売店(販売店コード，販売店名称，代表者氏名)
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

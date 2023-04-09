@@ -1,0 +1,16 @@
+label: 19
+question: ノンプリエンプティブだけのスケジューリング方式はどれか。
+choice:
+  - label: ア
+    text: 残余処理時間順
+  - label: イ
+    text: 到着順
+  - label: ウ
+    text: 優先度順
+  - label: エ
+    text: ラウンドロビン
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

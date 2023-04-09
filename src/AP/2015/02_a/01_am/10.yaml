@@ -1,0 +1,16 @@
+label: 10
+question: MMU(Memory Management Unit)の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: CPUからのページフォールトを受けて，物理ページのスワップを行う。
+  - label: イ
+    text: CPUが指定した仮想アドレスを物理アドレスに対応させる。
+  - label: ウ
+    text: OSの一部分であり，キャッシュ制御機能及びバス調整機能を有する。
+  - label: エ
+    text: 主記憶のデータの一部を保持し，CPUと主記憶の速度差を吸収する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

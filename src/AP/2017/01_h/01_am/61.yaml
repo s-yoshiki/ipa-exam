@@ -1,0 +1,16 @@
+label: 61
+question: 情報戦略の投資効果を評価するとき，利益額を分子に，投資額を分母にして算出するものはどれか。
+choice:
+  - label: ア
+    text: EVA
+  - label: イ
+    text: IRR
+  - label: ウ
+    text: NPV
+  - label: エ
+    text: ROI
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 1
+question: 相関係数に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: すべての標本点が正の傾きを持つ直線上にあるときは，相関係数が＋1になる。
+  - label: イ
+    text: 変量間の関係が線形の時は，相関係数が0になる。
+  - label: ウ
+    text: 変量間の関係が非線形の時は，相関係数が負になる。
+  - label: エ
+    text: 無相関の時は，相関係数が－1になる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''
