@@ -1,0 +1,16 @@
+label: 7
+question: 入力XとYの値が同じときにだけ，出力Zに1を出力する回路はどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

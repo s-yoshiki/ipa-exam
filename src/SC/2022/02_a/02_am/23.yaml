@@ -1,0 +1,16 @@
+label: 23
+question: SDメモリカードに使用される著作権保護技術はどれか。
+choice:
+  - label: ア
+    text: CPPM(Content Protection for Pre-Recorded Media)
+  - label: イ
+    text: CPRM(Content Protection for Recordable Media)
+  - label: ウ
+    text: DTCP(Digital Transmission Content Protection)
+  - label: エ
+    text: HDCP(High-bandwidth Digital Content Protection)
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

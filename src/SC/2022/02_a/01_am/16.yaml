@@ -1,0 +1,17 @@
+label: 16
+question: >-
+  仕様書やソースコードといった成果物について，作成者を含めた複数人で，記述されたシステムやソフトウェアの振る舞いを机上でシミュレートして，問題点を発見する手法はどれか。
+choice:
+  - label: ア
+    text: ウォークスルー
+  - label: イ
+    text: サンドイッチテスト
+  - label: ウ
+    text: トップダウンテスト
+  - label: エ
+    text: 並行シミュレーション
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 9
+question: >-
+  IT製品及びシステムが，必要なセキュリティレベルを満たしているかどうかについて，調達者が判断する際に役立つ評価結果を提供し，独立したセキュリティ評価結果間の比較を可能にするための規格はどれか。
+choice:
+  - label: ア
+    text: ISO/IEC 15408
+  - label: イ
+    text: ISO/IEC 27002
+  - label: ウ
+    text: ISO/IEC 27017
+  - label: エ
+    text: ISO/IEC 30147
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

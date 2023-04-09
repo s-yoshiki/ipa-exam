@@ -1,0 +1,16 @@
+label: 4
+question: DoS攻撃の一つであるSmurf攻撃はどれか。
+choice:
+  - label: ア
+    text: TCP接続要求であるSYNパケットを攻撃対象に大量に送り付ける。
+  - label: イ
+    text: 偽装したICMPの要求パケットを送って，大量の応答パケットが攻撃対象に送られるようにする。
+  - label: ウ
+    text: サイズの大きいUDPパケットを攻撃対象に大量に送り付ける。
+  - label: エ
+    text: サイズの大きい電子メールや大量の電子メールを攻撃対象に送り付ける。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

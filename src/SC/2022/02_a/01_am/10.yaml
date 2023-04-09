@@ -1,0 +1,16 @@
+label: 10
+question: ACID特性の四つの性質に<u>含まれないもの</u>はどれか。
+choice:
+  - label: ア
+    text: 一貫性
+  - label: イ
+    text: 可用性
+  - label: ウ
+    text: 原子性
+  - label: エ
+    text: 耐久性
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

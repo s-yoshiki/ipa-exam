@@ -1,0 +1,16 @@
+label: 29
+question: 引き出された多くの事実やアイディアを，類似するものでグルーピングしていく収束技法はどれか。
+choice:
+  - label: ア
+    text: NM法
+  - label: イ
+    text: ゴードン法
+  - label: ウ
+    text: 親和図法
+  - label: エ
+    text: ブレーンストーミング
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

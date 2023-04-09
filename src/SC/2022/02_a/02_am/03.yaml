@@ -1,0 +1,16 @@
+label: 3
+question: 標準化団体OASISが，Webサイトなどを運営するオンラインビジネスパートナー間で認証，属性及び認可の情報を安全に交換するために策定したものはどれか。
+choice:
+  - label: ア
+    text: SAML
+  - label: イ
+    text: SOAP
+  - label: ウ
+    text: XKMS
+  - label: エ
+    text: XML Signature
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

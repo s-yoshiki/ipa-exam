@@ -1,0 +1,16 @@
+label: 14
+question: SMTP-AUTHの特徴はどれか。
+choice:
+  - label: ア
+    text: ISP管理下の動的IPアドレスから管理外ネットワークのメールサーバへのSMTP接続を禁止する。
+  - label: イ
+    text: 電子メール送信元のメールサーバが送信元ドメインのDNSに登録されていることを確認してから，電子メールを受信する。
+  - label: ウ
+    text: メールクライアントからメールサーバへの電子メール送信時に，利用者IDとパスワードによる利用者認証を行う。
+  - label: エ
+    text: メールクライアントからメールサーバへの電子メール送信は，POP接続で利用者認証済みの場合にだけ許可する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

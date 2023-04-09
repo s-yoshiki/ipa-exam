@@ -1,0 +1,16 @@
+label: 16
+question: 電子メール又はその通信を暗号化する三つのプロトコルについて，公開鍵を用意する単位の組合せのうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

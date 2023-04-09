@@ -1,0 +1,16 @@
+label: 13
+question: JIS Q 31000:2019(リスクマネジメント－指針)におけるリスクアセスメントを構成するプロセスの組合せはどれか。
+choice:
+  - label: ア
+    text: リスク特定，リスク評価，リスク受容
+  - label: イ
+    text: リスク特定，リスク分析，リスク評価
+  - label: ウ
+    text: リスク分析，リスク対応，リスク受容
+  - label: エ
+    text: リスク分析，リスク評価，リスク対応
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

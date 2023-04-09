@@ -1,0 +1,16 @@
+label: 8
+question: 前方秘匿性(Forward Secrecy)の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 鍵交換に使った秘密鍵が漏えいしたとしても，それより前の暗号文は解読されない。
+  - label: イ
+    text: 時系列データをチェーンの形で結び，かつ，ネットワーク上の複数のノードで共有するので，データを改ざんできない。
+  - label: ウ
+    text: 対となる二つの鍵の片方の鍵で暗号化したデータは，もう片方の鍵でだけ復号できる。
+  - label: エ
+    text: データに非可逆処理をして生成される固定長のハッシュ値からは，元のデータを推測できない。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

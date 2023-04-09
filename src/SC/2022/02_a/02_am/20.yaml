@@ -1,0 +1,16 @@
+label: 20
+question: IPネットワークにおいて，クライアントの設定を変えることなくデフォルトゲートウェイの障害を回避するために用いられるプロトコルはどれか。
+choice:
+  - label: ア
+    text: RARP
+  - label: イ
+    text: RSTP
+  - label: ウ
+    text: RTSP
+  - label: エ
+    text: VRRP
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

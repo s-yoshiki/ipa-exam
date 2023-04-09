@@ -1,0 +1,16 @@
+label: 15
+question: 家庭内で，PCを無線LANとブロードバンドルータを介してインターネットに接続するとき，期待できるセキュリティ上の効果の記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: IPマスカレード機能による，インターネットからの不正侵入に対する防止効果
+  - label: イ
+    text: PPPoE機能による，経路上の盗聴に対する防止効果
+  - label: ウ
+    text: WPA機能による，不正なWebサイトへの接続に対する防止効果
+  - label: エ
+    text: WPS機能による，インターネットからのマルウェア感染に対する防止効果
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

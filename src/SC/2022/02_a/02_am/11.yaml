@@ -1,0 +1,16 @@
+label: 11
+question: クリックジャッキング攻撃に有効な対策はどれか。
+choice:
+  - label: ア
+    text: cookieに，HttpOnly属性を設定する。
+  - label: イ
+    text: cookieに，Secure属性を設定する。
+  - label: ウ
+    text: HTTPレスポンスヘッダーに，Strict-Transport-Securityを設定する。
+  - label: エ
+    text: HTTPレスポンスヘッダーに，X-Frame-Optionsを設定する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

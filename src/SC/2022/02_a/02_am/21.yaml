@@ -1,0 +1,20 @@
+label: 21
+question: |-
+  表Rと表Sに対して，次のSQL文を実行した結果はどれか。〔SQL文〕  
+
+  SELECT R.X AS A, R.Y AS B, S.X AS C, S.Z AS D  
+  　　FROM R LEFT OUTER JOIN S ON R.X = S.X
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

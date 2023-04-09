@@ -1,0 +1,16 @@
+label: 18
+question: IPv6の特徴として，適切なものはどれか。
+choice:
+  - label: ア
+    text: IPv6アドレスからMACアドレスを調べる際にARPを使う。
+  - label: イ
+    text: アドレス空間はIPv4の2128倍である。
+  - label: ウ
+    text: 経路の途中でフラグメンテーションを行うことが可能である。
+  - label: エ
+    text: ヘッダーは固定長であり，拡張ヘッダー長は8オクテットの整数倍である。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

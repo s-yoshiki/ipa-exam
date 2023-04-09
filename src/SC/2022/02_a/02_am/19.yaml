@@ -1,0 +1,16 @@
+label: 19
+question: クラスDのIPアドレスを使用するのはどの場合か。
+choice:
+  - label: ア
+    text: 端末数が250台程度までの比較的小規模なネットワークのホストアドレスを割り振る。
+  - label: イ
+    text: 端末数が65,000台程度の中規模なネットワークのホストアドレスを割り振る。
+  - label: ウ
+    text: プライベートアドレスを割り振る。
+  - label: エ
+    text: マルチキャストアドレスを割り振る。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

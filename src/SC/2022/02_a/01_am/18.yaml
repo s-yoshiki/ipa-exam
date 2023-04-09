@@ -1,0 +1,17 @@
+label: 18
+question: >-
+  図は，実施する三つのアクティビティについて，プレシデンスダイアグラム法を用いて，依存関係及び必要な作業日数を示したものである。全ての作業を完了するのに必要な日数は最少で何日か。
+choice:
+  - label: ア
+    text: '11'
+  - label: イ
+    text: '12'
+  - label: ウ
+    text: '13'
+  - label: エ
+    text: '14'
+calculation: false
+figure: true
+answer: イ
+category: M
+figureText: ''
