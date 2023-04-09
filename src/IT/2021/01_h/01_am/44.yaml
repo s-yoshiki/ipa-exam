@@ -1,0 +1,17 @@
+label: 44
+question: >-
+  ITサービスマネジメントにおいて，サービスデスクが受け付けた難度の高いインシデントを解決するために，サービスデスクの担当者が専門技術をもつ二次サポートに解決を委ねることはどれか。
+choice:
+  - label: ア
+    text: FAQ
+  - label: イ
+    text: SLA
+  - label: ウ
+    text: エスカレーション
+  - label: エ
+    text: ワークアラウンド
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

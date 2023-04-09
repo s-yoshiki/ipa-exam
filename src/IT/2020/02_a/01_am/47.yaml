@@ -1,0 +1,16 @@
+label: 47
+question: システム障害が発生した際，インシデント管理を担当するサービスデスクの役割として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 既知の障害事象とその回避策の利用者への紹介
+  - label: イ
+    text: システム障害対応後の利用者への教育
+  - label: ウ
+    text: 障害が発生している業務の代行処理
+  - label: エ
+    text: 障害の根本原因調査
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

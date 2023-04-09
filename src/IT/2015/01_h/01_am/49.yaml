@@ -1,0 +1,17 @@
+label: 49
+question: >-
+  あるネットワークに属するPCが，別のネットワークに属するサーバにデータを送信するとき，経路情報が必要である。PCが送信相手のサーバに対する特定の経路情報をもっていないときの送信先として，ある機器のIPアドレスを設定しておく。この機器の役割を何と呼ぶか。
+choice:
+  - label: ア
+    text: デフォルトゲートウェイ
+  - label: イ
+    text: ネットワークインタフェースカード
+  - label: ウ
+    text: ハブ
+  - label: エ
+    text: ファイアウォール
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 18
+question: 勤務先の法令違反行為の通報に関して，公益通報者保護法で規定されているものはどれか。
+choice:
+  - label: ア
+    text: 勤務先の監督官庁からの感謝状
+  - label: イ
+    text: 勤務先の同業他社への転職のあっせん
+  - label: ウ
+    text: 通報したことを理由とした解雇の無効
+  - label: エ
+    text: 通報の内容に応じた報奨金
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

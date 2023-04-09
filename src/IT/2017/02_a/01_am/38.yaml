@@ -1,0 +1,16 @@
+label: 38
+question: プロジェクトに参加するメンバの適切な配置を検討するために明確にする必要があるものはどれか。
+choice:
+  - label: ア
+    text: コスト見積りの方法
+  - label: イ
+    text: 作業進捗の報告方法
+  - label: ウ
+    text: 成果物の受入基準
+  - label: エ
+    text: 割り当てる役割と責任
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

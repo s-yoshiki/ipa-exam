@@ -1,0 +1,17 @@
+label: 9
+question: >-
+  販売価格1,000円の商品の利益計画において，10,000個売った場合は1,000千円，12,000個販売した場合は1,800千円の利益が見込めるとき，この商品の1個当たりの変動費は何円か。
+choice:
+  - label: ア
+    text: '400'
+  - label: イ
+    text: '600'
+  - label: ウ
+    text: '850'
+  - label: エ
+    text: '900'
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

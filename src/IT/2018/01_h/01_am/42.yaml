@@ -1,0 +1,16 @@
+label: 42
+question: システム監査の実施後に，評価結果を受けて被監査部門がまとめるものとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: 改善計画書
+  - label: イ
+    text: 監査証拠
+  - label: ウ
+    text: サービスレベル合意書
+  - label: エ
+    text: システム監査報告書
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

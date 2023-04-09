@@ -1,0 +1,16 @@
+label: 2
+question: BPRに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務の手順を改めて見直し，抜本的に再設計する考え方
+  - label: イ
+    text: サービスの事業者が利用者に対して，サービスの品質を具体的な数値として保証する契約
+  - label: ウ
+    text: 参加している人が自由に書込みができるコンピュータシステム上の掲示板
+  - label: エ
+    text: 情報システムを導入する際に，ユーザがベンダに提供する導入システムの概要や調達条件を記述した文書
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

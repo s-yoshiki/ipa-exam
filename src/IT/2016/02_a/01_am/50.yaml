@@ -1,0 +1,17 @@
+label: 50
+question: >-
+  品質の目標に対し，不良が多く発生しているシステム開発プロジェクトがある。重点的に解消すべき課題を明らかにするために，原因別に不良の発生件数を調べ，図で表すことにした。このときに用いるのが適切な図はどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: M
+figureText: ''

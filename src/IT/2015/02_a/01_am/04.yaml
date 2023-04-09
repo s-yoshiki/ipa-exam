@@ -1,0 +1,16 @@
+label: 4
+question: システム化構想の立案の際に，前提となる情報として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 経営戦略
+  - label: イ
+    text: システム要件
+  - label: ウ
+    text: 提案依頼書への回答結果
+  - label: エ
+    text: プロジェクト推進体制
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

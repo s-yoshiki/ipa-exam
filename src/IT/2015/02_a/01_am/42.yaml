@@ -1,0 +1,16 @@
+label: 42
+question: ソフトウェア保守に該当するものはどれか。
+choice:
+  - label: ア
+    text: 新しいウイルス定義ファイルの発行による最新版への更新
+  - label: イ
+    text: システム開発中の総合テストで発見したバグの除去
+  - label: ウ
+    text: 汎用コンピュータで稼働していたオンラインシステムからクライアントサーバシステムへの再構築
+  - label: エ
+    text: プレゼンテーションで使用するPCへのデモプログラムのインストール
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

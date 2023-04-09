@@ -1,0 +1,22 @@
+label: 4
+question: |-
+  フレックスタイム制の運用に関する説明a～cのうち，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  コアタイムの時間帯は，勤務する必要がある。
+  2.  実際の労働時間によらず，残業時間は事前に定めた時間となる。
+  3.  上司による労働時間の管理が必要である。
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: a，c
+  - label: エ
+    text: b
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

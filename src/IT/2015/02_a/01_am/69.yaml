@@ -1,0 +1,17 @@
+label: 69
+question: >-
+  PDCAモデルに基づいてISMSを運用している組織において，始業時の手順に従って業務用PCに適用されていないセキュリティパッチの有無を確認し，必要なパッチを適用している。この活動はPDCAサイクルのうちどれに該当するか。
+choice:
+  - label: ア
+    text: P
+  - label: イ
+    text: D
+  - label: ウ
+    text: C
+  - label: エ
+    text: A
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

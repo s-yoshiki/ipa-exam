@@ -1,0 +1,16 @@
+label: 73
+question: 共通鍵暗号方式の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 暗号化以外に，ディジタル署名にも利用される。
+  - label: イ
+    text: 公開鍵暗号方式に比べて，復号速度は一般的に遅い。
+  - label: ウ
+    text: 代表的な方式として，RSA方式がある。
+  - label: エ
+    text: 通信相手ごとに異なる共通鍵が必要である。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

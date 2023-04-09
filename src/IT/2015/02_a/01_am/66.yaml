@@ -1,0 +1,17 @@
+label: 66
+question: >-
+  図のように，ADSLモデムを介してPCからインターネット上のWebサーバを利用するため，機器の接続作業を行っている。PC1に接続されたLANケーブルをハブの空きポートに接続したところ，そのポートのリンクランプが点灯した。このことだけで判断できることとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: PC1 からLAN内の PC2 やADSLモデムにアクセスできる状態である。
+  - label: イ
+    text: PC1 からインターネット上のWebサーバまでの，暗号化通信が確立されている。
+  - label: ウ
+    text: PC1 からインターネットへの接続が完了しており，インターネット上のサービスを利用できる状態である。
+  - label: エ
+    text: PC1 からハブまでの物理的な配線が完了している。
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

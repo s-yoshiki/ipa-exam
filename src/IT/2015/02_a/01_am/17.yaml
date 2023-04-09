@@ -1,0 +1,16 @@
+label: 17
+question: 電子商取引に関するモデルのうち，B to Cモデルの例はどれか。
+choice:
+  - label: ア
+    text: インターネットを利用して，企業間の受発注を行う電子調達システム
+  - label: イ
+    text: インターネットを利用して，個人が株式を売買するオンライントレードシステム
+  - label: ウ
+    text: 各種の社内手続や連絡，情報，福利厚生サービスなどを提供するシステム
+  - label: エ
+    text: 消費者同士が，Webサイト上でオークションを行うシステム
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

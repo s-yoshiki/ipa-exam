@@ -1,0 +1,16 @@
+label: 1
+question: 個人情報保護法で定める個人情報取扱事業者に該当するものはどれか。
+choice:
+  - label: ア
+    text: 1万人を超える預金者の情報を管理している銀行
+  - label: イ
+    text: 住民基本台帳を管理している地方公共団体
+  - label: ウ
+    text: 受験者の個人情報を管理している国立大学法人
+  - label: エ
+    text: 納税者の情報を管理している国税庁
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

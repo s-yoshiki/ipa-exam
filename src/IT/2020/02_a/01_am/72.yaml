@@ -1,0 +1,17 @@
+label: 72
+question: >-
+  2台のPCから一つのファイルを並行して更新した。ファイル中のデータnに対する処理が①～④の順に行われたとき，データnは最後にどの値になるか。ここで，データnの初期値は10であった。
+choice:
+  - label: ア
+    text: '5'
+  - label: イ
+    text: '10'
+  - label: ウ
+    text: '12'
+  - label: エ
+    text: '17'
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

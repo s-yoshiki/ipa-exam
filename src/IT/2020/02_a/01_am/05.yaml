@@ -1,0 +1,16 @@
+label: 5
+question: 製造業における標準化の事例として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 作業負荷の均衡を図り，かつ，前工程から引き取る部品の種類と量を平準化した。
+  - label: イ
+    text: 生産活動を合理化するために，製造に必要な部品や手順を統一した。
+  - label: ウ
+    text: 生産管理プログラムの実行速度を向上させるために，最適なアルゴリズムを選択した。
+  - label: エ
+    text: 製品の種類の削減や作業内容の見直しを通じて，生産計画，生産工程，作業方法を簡素化した。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

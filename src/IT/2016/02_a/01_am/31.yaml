@@ -1,0 +1,16 @@
+label: 31
+question: ネットワークに接続されアクセスが制限されているコンピュータに対して，システムのセキュリティ上の弱点を突いて侵入する行為を規制している法律はどれか。
+choice:
+  - label: ア
+    text: 通信傍受法
+  - label: イ
+    text: 不正アクセス禁止法
+  - label: ウ
+    text: プロバイダ責任制限法
+  - label: エ
+    text: マイナンバー法
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

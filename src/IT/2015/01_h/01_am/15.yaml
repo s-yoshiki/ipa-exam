@@ -1,0 +1,17 @@
+label: 15
+question: >-
+  ディジタルコンテンツのコピープロテクトは，ディジタルコンテンツに関する著作者の権利を保護するための技術である。コピープロテクトを無効化する機能をもつプログラムの販売を禁止しているものはどれか。
+choice:
+  - label: ア
+    text: コンピュータ不正アクセス対策基準
+  - label: イ
+    text: 著作権法
+  - label: ウ
+    text: 電気通信事業法
+  - label: エ
+    text: 不正アクセス行為の禁止等に関する法律
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

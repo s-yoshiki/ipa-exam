@@ -1,0 +1,16 @@
+label: 58
+question: テザリングの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 自己複製し，ネットワークなどを経由して感染を拡大するウイルスの一種
+  - label: イ
+    text: スマートフォンなどの通信端末をモバイルルータのように利用して，PCなどをインターネットに接続する機能
+  - label: ウ
+    text: 電子データに対し，ハッシュ関数と公開鍵暗号を用いることで，改ざんを検知する方式
+  - label: エ
+    text: ホームページの入力フィールドにSQLコマンドを意図的に入力することで，データベース内部の情報を不正に操作する攻撃
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 24
+question: 部下の育成・指導事例のうち，OJTに当たるものはどれか。
+choice:
+  - label: ア
+    text: 部下に進路と目標を設定させ，その達成計画を立てさせた。
+  - label: イ
+    text: 部下の進路を念頭において，人事部主催の管理者養成コースを受講させた。
+  - label: ウ
+    text: 部下の設計能力の向上のために，新規開発のプロジェクトに参加させた。
+  - label: エ
+    text: 部下の専門分野と進路に合った外部主催の講習会を選定し，受講させた。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

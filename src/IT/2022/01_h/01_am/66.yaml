@@ -1,0 +1,16 @@
+label: 66
+question: IoT機器やスマートフォンなどに内蔵されているバッテリの容量の表記において，"100mAh"の意味として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 100mAの電流を1時間放電できる。
+  - label: イ
+    text: 100分間の充電で，電流を1時間放電できる。
+  - label: ウ
+    text: 1Aの電流を100分間放電できる。
+  - label: エ
+    text: 1時間の充電で，電流を100分間放電できる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 68
+question: 1年前に作成した情報セキュリティポリシについて，適切に運用されていることを確認するための監査を行った。この活動はPDCAサイクルのどれに該当するか。
+choice:
+  - label: ア
+    text: P
+  - label: イ
+    text: D
+  - label: ウ
+    text: C
+  - label: エ
+    text: A
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

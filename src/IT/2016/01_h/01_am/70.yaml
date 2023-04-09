@@ -1,0 +1,16 @@
+label: 70
+question: サブネットマスクの役割として，適切なものはどれか。
+choice:
+  - label: ア
+    text: IPアドレスからEthernet上のMACアドレスを割り出す。
+  - label: イ
+    text: IPアドレスに含まれるネットワークアドレスと，そのネットワークに属する個々のコンピユータのホストアドレスを区分する。
+  - label: ウ
+    text: インターネットと内部ネットワークを中継するときのグローバルIPアドレスとプライベートIPアドレスを対応付ける。
+  - label: エ
+    text: 通信相手先のドメイン名とIPアドレスを対応付ける。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 45
+question: ブラックボックステストに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: プログラムの全ての分岐についてテストする。
+  - label: イ
+    text: プログラムの全ての命令についてテストする。
+  - label: ウ
+    text: プログラムの内部構造に基づいてテストする。
+  - label: エ
+    text: プログラムの入力と出力に着目してテストする。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

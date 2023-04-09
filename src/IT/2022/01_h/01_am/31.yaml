@@ -1,0 +1,17 @@
+label: 31
+question: >-
+  コールセンタの顧客サービスレベルを改善するために，顧客から寄せられたコールセンタ対応に関する苦情を分類集計する。苦情の多い順に，件数を棒グラフ，累積百分率を折れ線グラフで表し，対応の優先度を判断するのに適した図はどれか。
+choice:
+  - label: ア
+    text: PERT図
+  - label: イ
+    text: 管理図
+  - label: ウ
+    text: 特性要因図
+  - label: エ
+    text: パレート図
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

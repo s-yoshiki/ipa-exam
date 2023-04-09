@@ -1,0 +1,17 @@
+label: 55
+question: >-
+  ある食品メーカでは，食品業界で示された安全基準にのっとって業務を行っている。安全基準の改定があったので，社内の基準も対応して改定した。これは内部統制の四つの目的のうち，どれに該当するか。
+choice:
+  - label: ア
+    text: 業務の有効性と効率性
+  - label: イ
+    text: 財務報告の信頼性
+  - label: ウ
+    text: 事業活動に関わる法令等の遵守
+  - label: エ
+    text: 資産の保全
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

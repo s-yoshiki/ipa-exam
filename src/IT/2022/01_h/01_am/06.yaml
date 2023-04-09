@@ -1,0 +1,22 @@
+label: 6
+question: |-
+  自社開発した技術の特許化に関する記述a～cのうち，直接的に得られることが期待できる効果として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  当該技術に関連した他社とのアライアンスの際に，有利な条件を設定できる。
+  2.  当該技術の開発費用の一部をライセンスによって回収できる。
+  3.  当該技術を用いた商品や事業に対して，他社の参入を阻止できる。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: a，b，c
+  - label: エ
+    text: b，c
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

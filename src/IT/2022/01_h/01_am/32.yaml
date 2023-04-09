@@ -1,0 +1,17 @@
+label: 32
+question: >-
+  コンカレントエンジニアリングを適用した後の業務の流れを表した図として，最も適したものはどれか。ここで，図の中の矢印は業務の流れを示し，その上に各作業名を記述する。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

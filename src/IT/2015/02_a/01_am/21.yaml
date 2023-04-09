@@ -1,0 +1,16 @@
+label: 21
+question: 利益の追求だけでなく，社会に対する貢献や地球環境の保護などの社会課題を認識して取り組むという企業活動の基本となる考え方はどれか。
+choice:
+  - label: ア
+    text: BCP
+  - label: イ
+    text: CSR
+  - label: ウ
+    text: M&A
+  - label: エ
+    text: MBO
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

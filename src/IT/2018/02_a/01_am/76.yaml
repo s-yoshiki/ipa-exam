@@ -1,0 +1,16 @@
+label: 76
+question: 複数のデータが格納されているスタックからのデータの取出し方として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 格納された順序に関係なく指定された任意の場所のデータを取り出す。
+  - label: イ
+    text: 最後に格納されたデータを最初に取り出す。
+  - label: ウ
+    text: 最初に格納されたデータを最初に取り出す。
+  - label: エ
+    text: データがキーをもっており，キーの優先度のデータを取り出す。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

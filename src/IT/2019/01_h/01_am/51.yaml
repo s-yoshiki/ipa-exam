@@ -1,0 +1,16 @@
+label: 51
+question: システムの利用者と開発者の間で，システムの設計書の記載内容が利用者の要求を満たしていることを確認するために実施するものはどれか。
+choice:
+  - label: ア
+    text: 共同レビュー
+  - label: イ
+    text: 結合テスト
+  - label: ウ
+    text: シミュレーション
+  - label: エ
+    text: 進捗会議
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

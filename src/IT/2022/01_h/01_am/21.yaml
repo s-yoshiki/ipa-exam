@@ -1,0 +1,26 @@
+label: 21
+question: >-
+  政府が定める"人間中心のAI社会原則"では，三つの価値を理念として尊重し，その実現を追求する社会を構築していくべきとしている。実現を追求していくべき社会の姿だけを全て挙げたものはどれか。  
+    
+
+  1.  持続性ある社会
+
+  2.  多様な背景を持つ人々が多様な幸せを追求できる社会
+
+  3.  人間があらゆる労働から解放される社会
+
+  4.  人間の尊厳が尊重される社会
+choice:
+  - label: ア
+    text: a，b，c
+  - label: イ
+    text: a，b，d
+  - label: ウ
+    text: a，c，d
+  - label: エ
+    text: b，c，d
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

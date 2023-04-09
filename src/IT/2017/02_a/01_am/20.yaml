@@ -1,0 +1,16 @@
+label: 20
+question: 売上高営業利益率が最も高い会社はどれか。
+choice:
+  - label: ア
+    text: A社
+  - label: イ
+    text: B社
+  - label: ウ
+    text: C社
+  - label: エ
+    text: D社
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

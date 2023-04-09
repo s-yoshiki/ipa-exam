@@ -1,0 +1,17 @@
+label: 48
+question: >-
+  表に示す構成のデータを，流れ図の手順で処理する場合について考える。流れ図中のx，y，zをそれぞれデータ区分A，B，Cと適切に対応させれば，比較("xか?"，"yか?"，"zか?")の回数の合計は，最低何回で済むか。
+choice:
+  - label: ア
+    text: '170'
+  - label: イ
+    text: '190'
+  - label: ウ
+    text: '230'
+  - label: エ
+    text: '250'
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 45
+question: プロジェクト管理の手法を適用するケースとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: コンピュータシステムの定常的なオペレーションに適用する。
+  - label: イ
+    text: システム開発業務を外部委託する場合に，料金設定の基準として適用する。
+  - label: ウ
+    text: システム開発部の職制を構成する場合に，フレームワークとして適用する。
+  - label: エ
+    text: チームを編成して，システムを構築するときに適用する。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

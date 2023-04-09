@@ -1,0 +1,17 @@
+label: 31
+question: >-
+  製造業のA社は，製品開発のリードタイムを短縮するために，工程間で設計情報を共有し，前工程が完了しないうちに，着手可能なものから後工程の作業を始めることにした。この考え方は何に基づくものか。
+choice:
+  - label: ア
+    text: FMS
+  - label: イ
+    text: MRP
+  - label: ウ
+    text: コンカレントエンジニアリング
+  - label: エ
+    text: ジャストインタイム
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

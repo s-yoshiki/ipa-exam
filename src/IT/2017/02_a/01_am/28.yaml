@@ -1,0 +1,19 @@
+label: 28
+question: |-
+  著作権の説明と保護の対象に関して，次の記述中のa，bに入れる字句の適切な組合せはどれか。  
+    
+  著作権は，aに関する著作者の権利であり，bは保護の対象ではない。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

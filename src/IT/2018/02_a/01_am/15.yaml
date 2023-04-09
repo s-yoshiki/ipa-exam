@@ -1,0 +1,17 @@
+label: 15
+question: >-
+  RFPに基づいて提出された提案書を評価するための表を作成した。最も評価点が高い会社はどれか。ここで，◎は4点，○は3点，△は2点，×は1点の評価点を表す。また，評価点は，金額，内容，実績の各値に重み付けしたものを合算して算出するものとする。
+choice:
+  - label: ア
+    text: A社
+  - label: イ
+    text: B社
+  - label: ウ
+    text: C社
+  - label: エ
+    text: D社
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

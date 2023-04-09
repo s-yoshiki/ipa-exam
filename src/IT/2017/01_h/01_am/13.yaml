@@ -1,0 +1,23 @@
+label: 13
+question: |-
+  派遣先の行為に関する記述a～dのうち，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  派遣契約の種類を問わず，特定の個人を指名して派遣を要請した。
+  2.  派遣労働者が派遣元を退職した後に自社で雇用した。
+  3.  派遣労働者を仕事に従事させる際に，自社の従業員の中から派遣先責任者を決めた。
+  4.  派遣労働者を自社とは別の会社に派遣した。
+choice:
+  - label: ア
+    text: a，c
+  - label: イ
+    text: a，d
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: b，d
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

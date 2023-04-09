@@ -1,0 +1,16 @@
+label: 6
+question: 一連のプロセスにおけるボトルネックの解消などによって，プロセス全体の最適化を図ることを目的とする考え方はどれか。
+choice:
+  - label: ア
+    text: CRM
+  - label: イ
+    text: HRM
+  - label: ウ
+    text: SFA
+  - label: エ
+    text: TOC
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

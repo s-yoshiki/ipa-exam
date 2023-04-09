@@ -1,0 +1,26 @@
+label: 12
+question: >-
+  国民生活の安心や安全を損なうような，企業の法令違反行為の事実を，労働者が公益通報者保護法で定められた通報先に通報した場合，その労働者は解雇などの不利益を受けないよう同法によって保護される。a～dのうち，公益通報者保護法が保護の対象としている"労働者"に該当するものだけを全て挙げたものはどれか。  
+    
+
+  1.  アルバイト
+
+  2.  正社員
+
+  3.  パートタイマ
+
+  4.  派遣労働者
+choice:
+  - label: ア
+    text: a，b，c，d
+  - label: イ
+    text: a，b，d
+  - label: ウ
+    text: b，c，d
+  - label: エ
+    text: b，d
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

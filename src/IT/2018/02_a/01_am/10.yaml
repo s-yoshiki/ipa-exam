@@ -1,0 +1,16 @@
+label: 10
+question: コーポレートガバナンスに基づく統制を評価する対象として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 執行役員の業務成績
+  - label: イ
+    text: 全社員の勤務時間
+  - label: ウ
+    text: 当該企業の法人株主である企業における財務の健全性
+  - label: エ
+    text: 取締役会の実効性
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

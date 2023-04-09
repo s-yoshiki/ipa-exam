@@ -1,0 +1,16 @@
+label: 38
+question: ソフトウェア開発プロジェクトにおけるプログラムの品質の指標として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 計画時の予算
+  - label: イ
+    text: 投資対効果
+  - label: ウ
+    text: 納期
+  - label: エ
+    text: バグ摘出数
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

@@ -1,0 +1,17 @@
+label: 2
+question: >-
+  あるメーカの当期損益の見込みは表のとおりであったが，その後広告宣伝費が5億円，保有株式の受取配当金が3億円増加した。このとき，最終的な営業利益と経常利益はそれぞれ何億円になるか。ここで，広告宣伝費，保有株式の受取配当金以外は全て見込みどおりであったものとする。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

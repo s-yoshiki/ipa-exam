@@ -1,0 +1,16 @@
+label: 27
+question: 個人情報保護法で定められた，特に取扱いに配慮が必要となる"要配慮個人情報"に該当するものはどれか。
+choice:
+  - label: ア
+    text: 学歴
+  - label: イ
+    text: 国籍
+  - label: ウ
+    text: 資産額
+  - label: エ
+    text: 信条
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

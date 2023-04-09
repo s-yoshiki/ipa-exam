@@ -1,0 +1,17 @@
+label: 76
+question: >-
+  ある商品の月別の販売数を基に売上に関する計算を行う。セルB1に商品の単価が，セルB3～B7に各月の商品の販売数が入力されている。セルC3に計算式"B$1＊合計(B$3：B3)／個数(B$3：B3)"を入力して，セルC4～C7に複写したとき，セルC5に表示される値は幾らか。
+choice:
+  - label: ア
+    text: '6'
+  - label: イ
+    text: 6,000
+  - label: ウ
+    text: 9,000
+  - label: エ
+    text: 18,000
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

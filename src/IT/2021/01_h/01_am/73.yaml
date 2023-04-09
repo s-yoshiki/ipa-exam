@@ -1,0 +1,16 @@
+label: 73
+question: IoTデバイスに関わるリスク対策のうち，IoTデバイスが盗まれた場合の耐タンパ性を高めることができるものはどれか。
+choice:
+  - label: ア
+    text: IoTデバイスとIoTサーバ間の通信を暗号化する。
+  - label: イ
+    text: IoTデバイス内のデータを，暗号鍵を内蔵するセキュリティチップを使って暗号化する。
+  - label: ウ
+    text: IoTデバイスに最新のセキュリティパッチを速やかに適用する。
+  - label: エ
+    text: IoTデバイスへのログインパスワードを初期値から変更する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

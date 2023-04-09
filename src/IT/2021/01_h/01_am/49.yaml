@@ -1,0 +1,19 @@
+label: 49
+question: |-
+  ITガバナンスに関する次の記述中のaに入れる，最も適切な字句はどれか。  
+    
+  aは，現在及び将来のITの利用についての評価とIT利用が事業の目的に合致することを確実にする役割がある。
+choice:
+  - label: ア
+    text: 株主
+  - label: イ
+    text: 監査人
+  - label: ウ
+    text: 経営者
+  - label: エ
+    text: 情報システム責任者
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

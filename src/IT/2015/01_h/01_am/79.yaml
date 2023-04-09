@@ -1,0 +1,16 @@
+label: 79
+question: スーパコンピュータ上で稼働させるシステムの代表的な例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 企業間の連携に必要なSCMシステム
+  - label: イ
+    text: 大規模な科学技術計算を必要とする地球規模の気象変化予測システム
+  - label: ウ
+    text: 高い信頼性が要求されるバンキングシステム
+  - label: エ
+    text: 高いリアルタイム性が要求される自動車のエンジン制御システム
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

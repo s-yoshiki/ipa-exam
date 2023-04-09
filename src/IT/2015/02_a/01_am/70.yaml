@@ -1,0 +1,16 @@
+label: 70
+question: 暗号方式には共通鍵暗号方式と公開鍵暗号方式がある。共通鍵暗号方式の特徴として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 暗号化通信する相手が1人のとき，使用する鍵の数は公開鍵暗号方式よりも多い。
+  - label: イ
+    text: 暗号化通信に使用する鍵を，暗号化せずに相手へ送信しても安全である。
+  - label: ウ
+    text: 暗号化や復号に要する処理時間は，公開鍵暗号方式よりも短い。
+  - label: エ
+    text: 鍵ペアを生成し，一方の鍵で暗号化した暗号文は他方の鍵だけで復号できる。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

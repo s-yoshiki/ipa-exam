@@ -1,0 +1,17 @@
+label: 8
+question: >-
+  電力会社において，人による検針の代わりに，インターネットに接続された電力メータと通信することで，各家庭の電力使用量を遠隔計測するといったことが行われている。この事例のように，様々な機器をインターネットに接続して情報を活用する仕組みを表す用語はどれか。
+choice:
+  - label: ア
+    text: EDI
+  - label: イ
+    text: IoT
+  - label: ウ
+    text: ISP
+  - label: エ
+    text: RFID
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

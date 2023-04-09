@@ -1,0 +1,16 @@
+label: 11
+question: 貸借対照表から求められる，自己資本比率は何%か。
+choice:
+  - label: ア
+    text: '40'
+  - label: イ
+    text: '80'
+  - label: ウ
+    text: '125'
+  - label: エ
+    text: '150'
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

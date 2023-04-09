@@ -1,0 +1,21 @@
+label: 8
+question: |-
+  企業におけるマイナンバーの取扱いに関する行為a～cのうち，マイナンバー法に照らして適切なものだけを全て挙げたものはどれか。
+
+  1.  従業員から提供を受けたマイナンバーを人事評価情報の管理番号として利用する。
+  2.  従業員から提供を受けたマイナンバーを税務署に提出する調書に記載する。
+  3.  従業員からマイナンバーの提供を受けるときに，その番号が本人のものであることを確認する。
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: b
+  - label: エ
+    text: b，c
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

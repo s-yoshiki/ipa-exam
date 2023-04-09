@@ -1,0 +1,16 @@
+label: 27
+question: BYODの事例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 大手通信事業者から回線の卸売を受け，自社ブランドの通信サービスを開始した。
+  - label: イ
+    text: ゴーグルを通してあたかも現実のような映像を見せることで，ゲーム世界の臨場感を高めた。
+  - label: ウ
+    text: 私物のスマートフォンから会社のサーバにアクセスして，電子メールやスケジューラを利用することができるようにした。
+  - label: エ
+    text: 図書館の本にICタグを付け，簡単に蔵書の管理ができるようにした。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

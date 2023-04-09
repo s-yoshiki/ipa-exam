@@ -1,0 +1,16 @@
+label: 55
+question: USBメモリなどにファイルを保存する代わりに，インターネットを介して，自由に読み書きできるインターネット上のファイルの保存領域はどれか。
+choice:
+  - label: ア
+    text: cookie
+  - label: イ
+    text: RAID
+  - label: ウ
+    text: オンラインストレージ
+  - label: エ
+    text: クローラ
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

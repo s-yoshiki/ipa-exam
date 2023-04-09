@@ -1,0 +1,16 @@
+label: 28
+question: 製品やサービスの価値を機能とコストの関係で分析し，機能や品質の向上及びコスト削減などによって，その価値を高める手法はどれか。
+choice:
+  - label: ア
+    text: サプライチェーンマネジメント
+  - label: イ
+    text: ナレッジマネジメント
+  - label: ウ
+    text: バリューエンジニアリング
+  - label: エ
+    text: リバースエンジニアリング
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

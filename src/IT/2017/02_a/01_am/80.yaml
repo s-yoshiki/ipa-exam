@@ -1,0 +1,22 @@
+label: 80
+question: |-
+  ISMS適合性評価制度において，組織がISMS認証を取得していることから判断できることだけを全て挙げたものはどれか。  
+    
+
+  1.  組織が運営するWebサイトを構成しているシステムには脆弱性がないこと
+  2.  組織が情報資産を適切に管理し，それを守るための取組みを行っていること
+  3.  組織が提供する暗号モジュールには，暗号化機能，署名機能が適切に実装されていること
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: b
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

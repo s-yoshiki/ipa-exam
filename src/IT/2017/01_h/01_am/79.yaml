@@ -1,0 +1,16 @@
+label: 79
+question: 情報セキュリティにおける完全性を維持する対策の例として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: データにディジタル署名を付与する。
+  - label: イ
+    text: データを暗号化する。
+  - label: ウ
+    text: ハードウェアを二重化する。
+  - label: エ
+    text: 負荷分散装置を導入する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

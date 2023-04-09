@@ -1,0 +1,16 @@
+label: 31
+question: インターネットに接続する通信ネットワークを提供する事業者はどれか。
+choice:
+  - label: ア
+    text: ASP
+  - label: イ
+    text: ISP
+  - label: ウ
+    text: SaaS
+  - label: エ
+    text: SNS
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 34
+question: 企業の業務運営におけるPDCAサイクルのうち，業務の実行状況をKPIに基づいて測定，評価するものはどれか。
+choice:
+  - label: ア
+    text: P
+  - label: イ
+    text: D
+  - label: ウ
+    text: C
+  - label: エ
+    text: A
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

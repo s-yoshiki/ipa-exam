@@ -1,0 +1,16 @@
+label: 23
+question: 企業経営に携わる役職の一つであるCFOが責任をもつ対象はどれか。
+choice:
+  - label: ア
+    text: 技術
+  - label: イ
+    text: 財務
+  - label: ウ
+    text: 情報
+  - label: エ
+    text: 人事
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

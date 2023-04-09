@@ -1,0 +1,17 @@
+label: 57
+question: >-
+  通信事業者が構築したネットワークを利用し，インターネットで用いられているのと同じネットワークプロトコルによって，契約者の拠点間だけを専用線のようにセキュリティを確保して接続するWANサービスはどれか。
+choice:
+  - label: ア
+    text: DHCP
+  - label: イ
+    text: IP-VPN
+  - label: ウ
+    text: ISDN
+  - label: エ
+    text: VLAN
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

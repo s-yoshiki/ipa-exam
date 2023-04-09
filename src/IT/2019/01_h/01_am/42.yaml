@@ -1,0 +1,16 @@
+label: 42
+question: プロジェクト管理におけるプロジェクトスコープの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: プロジェクトチームの役割や責任
+  - label: イ
+    text: プロジェクトで実施すべき作業
+  - label: ウ
+    text: プロジェクトで実施する各作業の開始予定日と終了予定日
+  - label: エ
+    text: プロジェクトを実施するために必要な費用
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

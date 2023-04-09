@@ -1,0 +1,16 @@
+label: 63
+question: PDCAモデルに基づいてISMSを運用している組織において，A(Act)で実施することの例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務内容の監査結果に基づいた是正処置として，サーバの監視方法を変更する。
+  - label: イ
+    text: サーバ管理者の業務内容を第三者が客観的に評価する。
+  - label: ウ
+    text: サーバ室内の情報資産を洗い出す。
+  - label: エ
+    text: サーバの動作を定められた運用手順に従って監視する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

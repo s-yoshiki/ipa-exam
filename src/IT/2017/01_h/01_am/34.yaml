@@ -1,0 +1,16 @@
+label: 34
+question: PPM(Product Portfolio Management)の目的として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 事業を"強み"，"弱み"，"機会"，"脅威"の四つの視点から分析し，事業の成長戦略を策定する。
+  - label: イ
+    text: 自社の独自技術やノウハウを活用した中核事業の育成によって，他社との差別化を図る。
+  - label: ウ
+    text: 市場に投入した製品が"導入期"，"成長期"，"成熟期"，"衰退期"のどの段階にあるかを判断し，適切な販売促進戦略を策定する。
+  - label: エ
+    text: 複数の製品や事業を市場シェアと市場成長率の視点から判断して，最適な経営資源の配分を行う。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

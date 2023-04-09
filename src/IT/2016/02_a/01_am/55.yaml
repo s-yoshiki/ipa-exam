@@ -1,0 +1,22 @@
+label: 55
+question: |-
+  PKIにおいて，ディジタル署名をした電子メールに関する記述として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  送信者が本人であるかを受信者が確認できる。
+  2.  電子メールが途中で盗み見られることを防止できる。
+  3.  電子メールの内容が改ざんされていないことを受信者が確認できる。
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: a，b，c
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

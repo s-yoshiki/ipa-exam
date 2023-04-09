@@ -1,0 +1,16 @@
+label: 80
+question: 3Dプリンタの特徴として、適切なものはどれか。
+choice:
+  - label: ア
+    text: 3D効果がある画像を、平面に印刷する。
+  - label: イ
+    text: 3次元データを用いて、立体物を造形する。
+  - label: ウ
+    text: 立体物の曲面などに、画像を印刷する。
+  - label: エ
+    text: レーザによって、空間に立体画像を表示する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

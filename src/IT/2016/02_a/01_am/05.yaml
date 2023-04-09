@@ -1,0 +1,16 @@
+label: 5
+question: CRMの前提となっている考え方として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 競争の少ない領域に他社に先駆けて進出することが利益の源泉となる。
+  - label: イ
+    text: 顧客との良好な関係を構築し，維持することが利益の源泉となる。
+  - label: ウ
+    text: 製品のライフサイクルを短縮することが利益の源泉となる。
+  - label: エ
+    text: 特定市場で大きなシェアを獲得することが利益の源泉となる。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

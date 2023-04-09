@@ -1,0 +1,16 @@
+label: 22
+question: 受発注や決済などの業務で，ネットワークを利用して企業間でデータをやり取りするものはどれか。
+choice:
+  - label: ア
+    text: B to C
+  - label: イ
+    text: CDN
+  - label: ウ
+    text: EDI
+  - label: エ
+    text: SNS
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

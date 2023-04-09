@@ -1,0 +1,16 @@
+label: 24
+question: 営業担当者の情報リテラシを向上させるための研修内容として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務で扱われる営業実績データの構造を分析してデータベースの設計をする方法
+  - label: イ
+    text: 情報システムに保存されている過去の営業実績データを分析して業務に活用する方法
+  - label: ウ
+    text: 販売システムの開発作業の進捗管理データを分析してプロジェクト管理標準を改善する方法
+  - label: エ
+    text: 販売システムの満足度を調査してシステム改善のロードマップを描く方法
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

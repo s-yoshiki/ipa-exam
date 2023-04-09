@@ -1,0 +1,17 @@
+label: 57
+question: >-
+  CPU，主記憶，HDDなどのコンピュータを構成する要素を1枚の基板上に実装し，複数枚の基板をラック内部に搭載するなどの形態がある，省スペース化を実現しているサーバを何と呼ぶか。
+choice:
+  - label: ア
+    text: DNSサーバ
+  - label: イ
+    text: FTPサーバ
+  - label: ウ
+    text: Webサーバ
+  - label: エ
+    text: ブレードサーバ
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

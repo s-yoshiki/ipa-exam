@@ -1,0 +1,16 @@
+label: 29
+question: 一人一人のニーズを把握し，それを充足する製品やサービスを提供しようとするマーケティング手法はどれか。
+choice:
+  - label: ア
+    text: ソーシャルマーケティング
+  - label: イ
+    text: テレマーケティング
+  - label: ウ
+    text: マスマーケティング
+  - label: エ
+    text: ワントゥワンマーケティング
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

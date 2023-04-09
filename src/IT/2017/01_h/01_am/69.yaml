@@ -1,0 +1,17 @@
+label: 69
+question: >-
+  ある会社の社員の情報処理技術者試験の受験状況の一部を次に示す。この表を関係データベースで管理するために，二つの表に分割する方法として，適切なものはどれか。ここで，この会社には同姓同名の社員がいるものとする。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

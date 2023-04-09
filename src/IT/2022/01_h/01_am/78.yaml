@@ -1,0 +1,30 @@
+label: 78
+question: >-
+  関数 checkDigit は，10進9桁の整数の各桁の数字が上位の桁から順に格納された整数型の配列 originalDigit
+  を引数として，次の手順で計算したチェックデジットを戻り値とする。プログラム中のaに入れる字句として，適切なものはどれか。ここで，配列の要素番号は1から始まる。  
+    
+  〔手順〕
+
+
+  *   配列 originalDigit の要素番号1～9の要素の値を合計する。
+
+  *   合計した値が9より大きい場合は，合計した値を10進の整数で表現したときの各桁の数字を合計する。この操作を，合計した値が9以下になるまで繰り返す。
+
+  *   (2)で得られた値をチェックデジットとする。
+
+
+  〔プログラム〕
+choice:
+  - label: ア
+    text: j ← j－10×k
+  - label: イ
+    text: j ← k＋(j－10×k)
+  - label: ウ
+    text: j ← k＋(j－10)×k
+  - label: エ
+    text: j ← k＋j
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 50
+question: ある事業者において，情報資産のライフサイクルに従って実施される情報セキュリティ監査を行うことになった。この対象として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 情報資産を管理している情報システム
+  - label: イ
+    text: 情報システム以外で保有している情報資産
+  - label: ウ
+    text: 情報システムが保有している情報資産
+  - label: エ
+    text: 保有している全ての情報資産
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

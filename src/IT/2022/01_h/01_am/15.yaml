@@ -1,0 +1,16 @@
+label: 15
+question: 業務プロセスを，例示するUMLのアクティビティ図を使ってモデリングしたとき，表現できるものはどれか。
+choice:
+  - label: ア
+    text: 業務で必要となるコスト
+  - label: イ
+    text: 業務で必要となる時間
+  - label: ウ
+    text: 業務で必要となる成果物の品質指標
+  - label: エ
+    text: 業務で必要となる人の役割
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

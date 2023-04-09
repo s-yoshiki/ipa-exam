@@ -1,0 +1,16 @@
+label: 71
+question: 文書作成ソフトがもつ機能である禁則処理が行われた例はどれか。
+choice:
+  - label: ア
+    text: 改行後の先頭文字が，指定した文字数分だけ右へ移動した。
+  - label: イ
+    text: 行頭に置こうとした句読点や閉じ括弧が，前の行の行末に移動した。
+  - label: ウ
+    text: 行頭の英字が，小文字から大文字に変換された。
+  - label: エ
+    text: 文字列の文字が，指定した幅の中に等間隔に配置された。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

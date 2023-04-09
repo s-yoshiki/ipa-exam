@@ -1,0 +1,17 @@
+label: 76
+question: >-
+  IoTデバイス群とそれを管理するIoTサーバ構成されるIoTシステムがある。全てのIoTデバイスは同一の鍵を用いて通信の暗号化を行い，IoTサーバではIoTデバイスがもつ鍵とは異なる鍵で通信の復号を行うとき，この暗号技術はどれか。
+choice:
+  - label: ア
+    text: 共通鍵暗号方式
+  - label: イ
+    text: 公開鍵暗号方式
+  - label: ウ
+    text: ハッシュ関数
+  - label: エ
+    text: ブロックチェーン
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

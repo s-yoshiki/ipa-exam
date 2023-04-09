@@ -1,0 +1,17 @@
+label: 79
+question: >-
+  Aさんが，Pさん，Qさん及びRさんの3人に電子メールを送信した。Toの欄にはPさんのメールアドレスを，Ccの欄にはQさんのメールアドレスを，Bccの欄にはRさんのメールアドレスをそれぞれ指定した。電子メールを受け取ったPさん，Qさん及びRさんのうち，同じ内容の電子メールがPさん，Qさん及びRさんの3人に送られていることを知ることができる人だけを全て挙げたものはどれか。
+choice:
+  - label: ア
+    text: Pさん，Qさん，Rさん
+  - label: イ
+    text: Pさん，Rさん
+  - label: ウ
+    text: Qさん，Rさん
+  - label: エ
+    text: Rさん
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

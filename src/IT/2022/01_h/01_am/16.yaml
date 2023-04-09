@@ -1,0 +1,16 @@
+label: 16
+question: マイナンバーに関する説明のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 海外居住者を含め，日本国籍を有する者だけに付与される。
+  - label: イ
+    text: 企業が従業員番号として利用しても構わない。
+  - label: ウ
+    text: 申請をすれば，希望するマイナンバーを取得できる。
+  - label: エ
+    text: 付与されたマイナンバーを，自由に変更することはできない。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

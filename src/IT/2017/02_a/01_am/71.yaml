@@ -1,0 +1,16 @@
+label: 71
+question: バイオメトリクス認証の例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 本人の指紋で認証する。
+  - label: イ
+    text: 本人の電子証明書で認証する。
+  - label: ウ
+    text: 本人の身分証明書で認証する。
+  - label: エ
+    text: ワンタイムパスワードを用いて認証する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

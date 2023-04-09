@@ -1,0 +1,16 @@
+label: 42
+question: システム開発において使用するアローダイアグラムの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務のデータの流れを表した図である。
+  - label: イ
+    text: 作業の関連をネットワークで表した図である。
+  - label: ウ
+    text: 作業を縦軸にとって，作業の所要期間を横棒で表した図である。
+  - label: エ
+    text: ソフトウェアのデータ間の関係を表した図である。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

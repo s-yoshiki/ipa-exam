@@ -1,0 +1,17 @@
+label: 20
+question: >-
+  労働者派遣は，通常の派遣と，将来の雇用を想定した紹介予定派遣の二つに分けられる。前者の労働者派遣の契約に当たり，派遣先が派遣元に要求する派遣労働者の受入条件として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 候補者が備えるべきスキルの指定
+  - label: イ
+    text: 候補者の年齢及び性別の指定
+  - label: ウ
+    text: 候補者の派遣先による事前面接
+  - label: エ
+    text: 候補者の履歴書の派遣先への事前提出
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 69
+question: ソーシャルエンジニアリングによる被害に結びつきやすい状況はどれか。
+choice:
+  - label: ア
+    text: 運用担当者のセキュリティ意識が低い。
+  - label: イ
+    text: サーバ室の天井の防水対策が行われていない。
+  - label: ウ
+    text: サーバへのアクセス制御が行われていない。
+  - label: エ
+    text: 通信経路が暗号化されていない。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

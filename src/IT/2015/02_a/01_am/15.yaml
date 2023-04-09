@@ -1,0 +1,17 @@
+label: 15
+question: >-
+  製品1個を製造するためには，A原料10kgとB原料5kgが必要である。1か月当たりの原料使用可能量が，A原料は60kg，B原料は40kgである場合，1か月当たりの製品の最大生産可能数は何個か。
+choice:
+  - label: ア
+    text: '4'
+  - label: イ
+    text: '6'
+  - label: ウ
+    text: '8'
+  - label: エ
+    text: '10'
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

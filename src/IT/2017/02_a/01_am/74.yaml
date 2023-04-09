@@ -1,0 +1,17 @@
+label: 74
+question: >-
+  停電や落雷などによる電源の電圧の異常を感知したときに，それをコンピュータに知らせると同時に電力の供給を一定期間継続して，システムを安全に終了させたい。このとき，コンピュータと電源との間に設置する機器として，適切なものはどれか。
+choice:
+  - label: ア
+    text: DMZ
+  - label: イ
+    text: GPU
+  - label: ウ
+    text: UPS
+  - label: エ
+    text: VPN
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

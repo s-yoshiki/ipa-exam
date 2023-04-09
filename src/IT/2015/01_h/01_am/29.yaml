@@ -1,0 +1,17 @@
+label: 29
+question: >-
+  X社では，工場で長期間排水処理を担当してきた社員の経験やノウハウを文書化して蓄積することで，日常の排水処理業務に対応するとともに，新たな処理設備の設計に活かしている。この事例の考え方として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ERP
+  - label: イ
+    text: SFA
+  - label: ウ
+    text: サプライチェーンマネジメント
+  - label: エ
+    text: ナレッジマネジメント
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

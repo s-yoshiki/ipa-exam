@@ -1,0 +1,17 @@
+label: 62
+question: >-
+  1台のコンピュータを論理的に分割し，それぞれで独立したOSとアプリケーションソフトを実行させ，あたかも複数のコンピュータが同時に稼働しているかのように見せる技術として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: NAS
+  - label: イ
+    text: 拡張現実
+  - label: ウ
+    text: 仮想化
+  - label: エ
+    text: マルチブート
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

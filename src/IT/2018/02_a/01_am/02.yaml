@@ -1,0 +1,16 @@
+label: 2
+question: マーケティング戦略の策定において，自社製品と競合他社製品を比較する際に，差別化するポイントを明確にすることを表す用語として，適切なものはどれか。
+choice:
+  - label: ア
+    text: インストアプロモーション
+  - label: イ
+    text: ターゲティング
+  - label: ウ
+    text: ポジショニング
+  - label: エ
+    text: リベート
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

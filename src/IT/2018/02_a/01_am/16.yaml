@@ -1,0 +1,19 @@
+label: 16
+question: >-
+  ある会社の昨年度の売上高は3,000万円，年度末の在庫金額は600万円，売上総利益率は20%であった。このとき，在庫回転期間は何日か。ここで，在庫回転期間は簡易的に次の式で計算し，小数第1位を四捨五入して求める。  
+    
+  　在庫回転期間＝(期末の在庫金額÷1年間の売上原価)×365
+choice:
+  - label: ア
+    text: '58'
+  - label: イ
+    text: '73'
+  - label: ウ
+    text: '88'
+  - label: エ
+    text: '91'
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

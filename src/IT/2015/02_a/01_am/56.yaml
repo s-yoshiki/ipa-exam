@@ -1,0 +1,16 @@
+label: 56
+question: 無線LANのセキュリティを向上させるための対策はどれか。
+choice:
+  - label: ア
+    text: ESSIDをステルス化する。
+  - label: イ
+    text: アクセスポイントへの電源供給はLANケーブルを介して行う。
+  - label: ウ
+    text: 通信の暗号化方式をWPA2からWEPに変更する。
+  - label: エ
+    text: ローミングを行う。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

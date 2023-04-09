@@ -1,0 +1,16 @@
+label: 58
+question: ISMSの計画，運用，パフォーマンス評価及び改善において，パフォーマンス評価で実施するものはどれか。
+choice:
+  - label: ア
+    text: 運用の計画及び管理
+  - label: イ
+    text: 内部監査
+  - label: ウ
+    text: 不適合の是正処置
+  - label: エ
+    text: リスクの決定
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

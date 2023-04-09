@@ -1,0 +1,16 @@
+label: 44
+question: システム開発プロジェクトにおけるリスク対応には，回避，転嫁，軽減，受容などがある。転嫁の事例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 財務的なリスクへの対応として保険を掛ける。
+  - label: イ
+    text: スコープを縮小する。
+  - label: ウ
+    text: より多くのテストを実施する。
+  - label: エ
+    text: リスク発生時の対処に必要な予備費用を計上する。
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

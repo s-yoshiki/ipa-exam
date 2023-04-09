@@ -1,0 +1,16 @@
+label: 7
+question: 情報リテラシに該当するものはどれか。
+choice:
+  - label: ア
+    text: PCの新製品情報，各機種の性能を知っていること
+  - label: イ
+    text: 技術革新が社会に及ぼす影響を洞察できること
+  - label: ウ
+    text: 業務に必要なデータを検索し，目的に合わせて活用できること
+  - label: エ
+    text: 高度なプログラム言語を使ってソフトウェアを開発できること
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

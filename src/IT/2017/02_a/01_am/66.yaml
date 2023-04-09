@@ -1,0 +1,16 @@
+label: 66
+question: 公開鍵暗号方式と共通鍵暗号方式において，共通鍵暗号方式だけがもつ特徴として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 暗号化に使用する鍵を第三者に知られても，安全に通信ができる。
+  - label: イ
+    text: 個別に安全な通信を行う必要がある相手が複数であっても，鍵は一つでよい。
+  - label: ウ
+    text: 電子証明書によって，鍵の持ち主を確認できる。
+  - label: エ
+    text: 復号には，暗号化で使用した鍵と同一の鍵を用いる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

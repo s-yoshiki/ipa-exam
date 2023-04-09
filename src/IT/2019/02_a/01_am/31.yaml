@@ -1,0 +1,16 @@
+label: 31
+question: RFIDの活用によって可能となる事柄として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 移動しているタクシーの現在位置をリアルタイムで把握する。
+  - label: イ
+    text: インターネット販売などで情報を暗号化して通信の安全性を確保する。
+  - label: ウ
+    text: 入館時に指紋や虹彩といった身体的特徴を識別して個人を認証する。
+  - label: エ
+    text: 本の貸出時や返却の際に複数の本を一度にまとめて処理する。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

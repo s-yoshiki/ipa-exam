@@ -1,0 +1,17 @@
+label: 10
+question: >-
+  図のソフトウェアライフサイクルを，運用プロセス，開発プロセス，企画プロセス，保守プロセス，要件定義プロセスに分類したとき，aに当てはまるものはどれか。ここで，aと網掛けの部分には，開発，企画，保守，要件定義のいずれかが入るものとする。
+choice:
+  - label: ア
+    text: 開発
+  - label: イ
+    text: 企画
+  - label: ウ
+    text: 保守
+  - label: エ
+    text: 要件定義
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

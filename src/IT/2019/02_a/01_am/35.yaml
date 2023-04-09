@@ -1,0 +1,16 @@
+label: 35
+question: 持続可能な世界を実現するために国連が採択した，2030年までに達成されるべき開発目標を示す言葉として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: SDGs
+  - label: イ
+    text: SDK
+  - label: ウ
+    text: SGA
+  - label: エ
+    text: SGML
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

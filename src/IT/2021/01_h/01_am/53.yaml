@@ -1,0 +1,16 @@
+label: 53
+question: ITサービスにおけるSLMに関する説明のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: SLMでは，SLAで合意したサービスレベルを維持することが最優先課題となるので，サービスの品質の改善は補助的な活動となる。
+  - label: イ
+    text: SLMでは，SLAで合意した定量的な目標の達成状況を確認するために，サービスの提供状況のモニタリングやレビューを行う。
+  - label: ウ
+    text: SLMの目的は，顧客とサービスの内容，要求水準などの共通認識を得ることであり，SLAの作成が活動の最終目的である。
+  - label: エ
+    text: SLMを効果的な活動にするために，SLAで合意するサービスレベルを容易に達成できるレベルにしておくことが重要である。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

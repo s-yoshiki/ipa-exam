@@ -1,0 +1,26 @@
+label: 11
+question: >-
+  次の条件で，製品Xを製造する。部品Y，部品Zの歩留りが表のとおりであるとき，製品Xを300個製造するために必要な部品Yの原材料投入量aは何kgか。ここで，製品Xの歩留りは100%で，部品は全て新規に製造するものとする。  
+    
+  〔製品Xの製造条件〕
+
+
+  *   1個の組立て製品Xは，3個の部品Y及び1個の部品Zで構成されている。
+
+  *   部品Y及び部品Zは，それぞれの原材料から製造して用いる。
+
+  *   部品Y及び部品Zは，原材料1kgから1個製造することができる。
+choice:
+  - label: ア
+    text: '225'
+  - label: イ
+    text: '250'
+  - label: ウ
+    text: '900'
+  - label: エ
+    text: 1,000
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

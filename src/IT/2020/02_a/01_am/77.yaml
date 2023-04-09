@@ -1,0 +1,16 @@
+label: 77
+question: IP電話で使用されている技術に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: インターネットだけでなく，企業内LANのような閉じたネットワーク上にも構築することができる。
+  - label: イ
+    text: 音声をIPパケットに変換する技術としてIP-VPNを使用している。
+  - label: ウ
+    text: 公衆電話網への発信を行うことはできない。
+  - label: エ
+    text: 利用するにはISDN回線が引かれていることが前提となる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 38
+question: SNSの事例におけるITサービスマネジメントの要件に関する記述のうち，機密性に該当するものはどれか。
+choice:
+  - label: ア
+    text: 24時間365日利用可能である。
+  - label: イ
+    text: 許可されていないユーザはデータやサービスにアクセスできない。
+  - label: ウ
+    text: サーバ設置場所に地震などの災害が起こっても，1時間以内に利用が再開できる。
+  - label: エ
+    text: 投稿した写真の加工や他のユーザのフォローができる。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

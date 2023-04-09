@@ -1,0 +1,17 @@
+label: 39
+question: >-
+  自社開発して長年使用しているソフトウェアがあるが，ドキュメントが不十分で保守性が良くない。保守のためのドキュメントを作成するために，既存のソフトウェアのプログラムを解析した。この手法を何というか。
+choice:
+  - label: ア
+    text: ウォータフォールモデル
+  - label: イ
+    text: スパイラルモデル
+  - label: ウ
+    text: プロトタイピング
+  - label: エ
+    text: リバースエンジニアリング
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

@@ -1,0 +1,22 @@
+label: 72
+question: |-
+  IPネットワークを構成する機器①～④のうち，受信したパケットの宛先IPアドレスを見て送信先を決定するものだけを全て挙げたものはどれか。
+
+  1.  L2スイッチ
+  2.  L3スイッチ
+  3.  リピータ
+  4.  ルータ
+choice:
+  - label: ア
+    text: ①，③
+  - label: イ
+    text: ①，④
+  - label: ウ
+    text: ②，③
+  - label: エ
+    text: ②，④
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

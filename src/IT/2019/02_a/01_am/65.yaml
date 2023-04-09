@@ -1,0 +1,19 @@
+label: 65
+question: |-
+  NATに関する次の記述中のa，bに入れる字句の適切な組合せはどれか。  
+    
+  NATは，職場や家庭のLANをインターネットヘ接続するときによく利用され，aとbを相互に変換する。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

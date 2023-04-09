@@ -1,0 +1,16 @@
+label: 66
+question: 関係データベースにおいて，主キーを設定する理由はどれか。
+choice:
+  - label: ア
+    text: 算術演算の対象とならないことが明確になる。
+  - label: イ
+    text: 主キーを設定した列が検索できるようになる。
+  - label: ウ
+    text: 他の表からの参照を防止できるようになる。
+  - label: エ
+    text: 表中のレコードを一意に識別できるようになる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 67
+question: PCやサーバ，通信機器，プリンタなどの間での通信を行う事例のうち，WANを利用する必要があるものはどれか。
+choice:
+  - label: ア
+    text: >-
+      大阪支社内のLANに複数のPCと1台のファイルサーバを接続し，ファイルサーバに格納されたファイルを，そのLANに接続されたどのPCからでもアクセス可能とする。
+  - label: イ
+    text: 家庭内で，PCとプリンタをBluetoothで接続し，PCで作成した資料をプリンタで印刷する。
+  - label: ウ
+    text: サーバルーム内で，PCとWebサーバをハブに接続し，PCからWebサーバのメンテナンスを行う。
+  - label: エ
+    text: 福岡営業所内のLANに接続されたPCから，東京本社内のサーバにアクセスし，売上情報をアップロードする。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

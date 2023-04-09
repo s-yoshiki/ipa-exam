@@ -1,0 +1,16 @@
+label: 44
+question: システム監査に関する説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ITサービスマネジメントを実現するためのフレームワークのこと
+  - label: イ
+    text: 情報システムに関わるリスクに対するコントロールが適切に整備・運用されているかどうかを検証すること
+  - label: ウ
+    text: 品質の良いソフトウェアを，効率よく開発するための技術や技法のこと
+  - label: エ
+    text: プロジェクトの要求事項を満足させるために，知識，スキル，ツール及び技法をプロジェクト活動に適用させること
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

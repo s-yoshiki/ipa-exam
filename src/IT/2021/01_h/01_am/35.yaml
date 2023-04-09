@@ -1,0 +1,17 @@
+label: 35
+question: >-
+  ある製造業では，後工程から前工程への生産指示や，前工程から後工程への部品を引き渡す際の納品書として，部品の品番などを記録した電子式タグを用いる生産方式を採用している。サプライチェーンや内製におけるジャストインタイム生産方式の一つであるこのような生産方式として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: かんばん方式
+  - label: イ
+    text: クラフト生産方式
+  - label: ウ
+    text: セル生産方式
+  - label: エ
+    text: 見込み生産方式
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

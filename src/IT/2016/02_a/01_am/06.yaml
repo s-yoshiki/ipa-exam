@@ -1,0 +1,16 @@
+label: 6
+question: システム化計画において，情報システムの費用対効果を評価する。その評価指標として，適切なものはどれか。
+choice:
+  - label: ア
+    text: PER
+  - label: イ
+    text: ROI
+  - label: ウ
+    text: 自己資本比率
+  - label: エ
+    text: 流動比率
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 21
+question: >-
+  X社では，現在開発中である新商品Yの発売が遅れる可能性と，遅れた場合における今後の業績に与える影響の大きさについて，分析と評価を行った。この取組みに該当するものとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: ABC分析
+  - label: イ
+    text: SWOT分析
+  - label: ウ
+    text: 環境アセスメント
+  - label: エ
+    text: リスクアセスメント
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

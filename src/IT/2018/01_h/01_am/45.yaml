@@ -1,0 +1,16 @@
+label: 45
+question: システム監査を実施することになり監査チームを編成した。チームに参画する全ての監査人に対して，共通して求められる要件はどれか。
+choice:
+  - label: ア
+    text: 監査対象からの独立性
+  - label: イ
+    text: 監査対象システムの詳細な技術知識
+  - label: ウ
+    text: 監査対象となっている業務の実務経験
+  - label: エ
+    text: 監査対象部署の問題点に対する改善能力
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

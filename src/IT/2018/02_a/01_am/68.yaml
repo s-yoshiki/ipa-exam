@@ -1,0 +1,16 @@
+label: 68
+question: 情報セキュリティにおけるリスクアセスメントの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: PCやサーバに侵入したウイルスを，感染拡大のリスクを抑えながら駆除する。
+  - label: イ
+    text: 識別された資産に対するリスクを分析，評価し，基準に照らして対応が必要かどうかを判断する。
+  - label: ウ
+    text: 事前に登録された情報を使って，システムの利用者が本人であることを確認する。
+  - label: エ
+    text: 情報システムの導入に際し，費用対効果を算出する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

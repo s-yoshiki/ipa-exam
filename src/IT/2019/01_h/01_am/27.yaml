@@ -1,0 +1,23 @@
+label: 27
+question: |-
+  企業がコンプライアンスを推進する上で，配慮が必要なものだけを全て挙げたものはどれか。  
+    
+
+  1.  加盟する業界団体の定めたガイドライン
+  2.  社会通念や慣習
+  3.  社内規則
+  4.  法律
+choice:
+  - label: ア
+    text: a，b，c，d
+  - label: イ
+    text: a，c，d
+  - label: ウ
+    text: b，c，d
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

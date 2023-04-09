@@ -1,0 +1,16 @@
+label: 5
+question: KPIの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 企業目標の達成に向けて行われる活動の実行状況を計るために設定する重要な指標
+  - label: イ
+    text: 経営計画で設定した目標を達成するための最も重要な要因
+  - label: ウ
+    text: 経営計画や業務改革が目標に沿って遂行され，想定した成果を挙げていることを確認する行為
+  - label: エ
+    text: 商品やサービスの価値を機能とコストの関係で分析し，価値を向上させる手法
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

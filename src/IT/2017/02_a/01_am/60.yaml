@@ -1,0 +1,16 @@
+label: 60
+question: 関係データベースで管理している"販売明細"表と"商品"表がある。ノートの売上数量の合計は幾らか。
+choice:
+  - label: ア
+    text: '40'
+  - label: イ
+    text: '80'
+  - label: ウ
+    text: '120'
+  - label: エ
+    text: '200'
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

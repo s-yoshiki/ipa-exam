@@ -1,0 +1,22 @@
+label: 32
+question: |-
+  a～cのうち，サイバーセキュリティ基本法に規定されているものだけを全て挙げたものはどれか。  
+    
+
+  1.  サイバーセキュリティに関して，国や地方公共団体が果たすべき責務
+  2.  サイバーセキュリティに関して，国民が努力すべきこと
+  3.  サイバーセキュリティに関する施策の推進についての基本理念
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: a，c
+  - label: エ
+    text: b，c
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

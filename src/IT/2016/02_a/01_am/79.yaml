@@ -1,0 +1,17 @@
+label: 79
+question: >-
+  WPA2による暗号化を設定したアクセスポイントがある。このアクセスポイントを経由して，図のようにPCをインターネット上のWebサーバに接続するとき，WPA2による暗号化の効果が及ぶ範囲として，適切なものはどれか。
+choice:
+  - label: ア
+    text: PCからアクセスポイントまで
+  - label: イ
+    text: PCからファイアウォールまで
+  - label: ウ
+    text: PCからWebサーバまで
+  - label: エ
+    text: アクセスポイントからWebサーバまで
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

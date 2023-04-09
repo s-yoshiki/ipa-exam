@@ -1,0 +1,17 @@
+label: 25
+question: >-
+  企業の収益性分析を行う指標の一つに，"利益÷資本"で求められる資本利益率がある。資本利益率は，売上高利益率(利益÷売上高)と資本回転率(売上高÷資本)に分解して求め，それぞれの要素で分析することもできる。ここで，資本利益率が4%である企業の資本回転率が2.0回のとき，売上高利益率は何%か。
+choice:
+  - label: ア
+    text: '0.08'
+  - label: イ
+    text: '0.5'
+  - label: ウ
+    text: '2.0'
+  - label: エ
+    text: '8.0'
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

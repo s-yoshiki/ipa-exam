@@ -1,0 +1,16 @@
+label: 8
+question: 企業の事業展開における垂直統合の事例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: あるアパレルメーカは工場の検品作業を関連会社に委託した。
+  - label: イ
+    text: ある大手商社は海外から買い付けた商品の販売拡大を目的に，大手小売店を子会社とした。
+  - label: ウ
+    text: ある銀行は規模の拡大を目的に，M&Aによって同業の銀行を買収した。
+  - label: エ
+    text: 多くのPC組立メーカが特定のメーカの半導体やOSを採用した。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 17
+question: >-
+  在庫回転率は資本の効率を分析する指標の一つであり，その数値が高いほど，商品の仕入れから実際の販売までの期間が短く，在庫管理が効率よく行われていることを示している。在庫回転率の算出式として，適切なものはどれか。
+choice:
+  - label: ア
+    text: (期首在庫高＋期末在庫高)÷2
+  - label: イ
+    text: 売上高÷総資産
+  - label: ウ
+    text: 売上高÷平均在庫高
+  - label: エ
+    text: 平均在庫高÷売上高
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,22 @@
+label: 33
+question: |-
+  要件a～cのうち，公益通報者保護法によって通報者が保護されるための条件として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  書面による通報であることが条件であり，口頭による通報は条件にならない。
+  2.  既に発生した事実であることが条件であり，将来的に発生し得ることは条件にならない。
+  3.  通報内容が勤務先に関わるものであることが条件であり，私的なものは条件にならない。
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: a，c
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

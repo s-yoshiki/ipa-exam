@@ -1,0 +1,17 @@
+label: 55
+question: >-
+  有料のメールサービスを提供している企業において，メールサービスに関する開発・設備投資の費用対効果の効率性を対象にしてシステム監査を実施するとき，システム監査人が所属している組織として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 社長直轄の品質保証部門
+  - label: イ
+    text: メールサービスに必要な機器の調達を行う運用部門
+  - label: ウ
+    text: メールサービスの機能の選定や費用対効果の評価を行う企画部門
+  - label: エ
+    text: メールシステムの開発部門
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

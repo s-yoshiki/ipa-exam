@@ -1,0 +1,17 @@
+label: 8
+question: >-
+  経営戦略に基づき全社の情報システム戦略を策定し，それを受けて個別システムについての企画業務，開発業務を行う。このとき，全社の情報システム戦略を策定する段階で行う作業として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: システム移行計画の立案
+  - label: イ
+    text: システムテスト計画の立案
+  - label: ウ
+    text: 情報化投資計画の立案
+  - label: エ
+    text: 調達計画の立案
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

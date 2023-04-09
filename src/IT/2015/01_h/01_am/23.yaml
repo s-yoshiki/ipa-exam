@@ -1,0 +1,16 @@
+label: 23
+question: イノベーションは，大きくプロセスイノベーションとプロダクトイノベーションに分けることができる。プロダクトイノベーションの要因として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 効率的な生産方式
+  - label: イ
+    text: サプライチェーン管理
+  - label: ウ
+    text: 市場のニーズ
+  - label: エ
+    text: バリューチェーン管理
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 63
+question: CPUのクロック周波数に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 32ビットCPUでも64ビットCPUでも，クロック周波数が同じであれば同等の性能をもつ。
+  - label: イ
+    text: 同一種類のCPUであれば，クロック周波数を上げるほどCPU発熱量も増加するので，放熱処置が重要となる。
+  - label: ウ
+    text: ネットワークに接続しているとき，クロック周波数とネットワークの転送速度は正比例の関係にある。
+  - label: エ
+    text: マルチコアプロセッサでは，処理能力はクロック周波数には依存しない。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

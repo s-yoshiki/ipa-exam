@@ -1,0 +1,16 @@
+label: 56
+question: 要件定義から導入までを行うシステム開発プロジェクトにおける，マスタスケジュールの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 一週間分の作業を詳細に記述したスケジュール
+  - label: イ
+    text: 一日分の作業とその開始時間，終了時間，担当者を記述したスケジュール
+  - label: ウ
+    text: 主たる工程の作業を詳細に記述したスケジュール
+  - label: エ
+    text: プロジェクト全体の主要な成果物や作業を集約したスケジュール
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

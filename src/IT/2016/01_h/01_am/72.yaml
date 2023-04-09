@@ -1,0 +1,16 @@
+label: 72
+question: 機械的な可動部分が無く，電力消費も少ないという特徴をもつ補助記憶装置はどれか。
+choice:
+  - label: ア
+    text: CD-RWドライブ
+  - label: イ
+    text: DVDドライブ
+  - label: ウ
+    text: HDD
+  - label: エ
+    text: SSD
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

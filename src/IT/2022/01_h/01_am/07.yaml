@@ -1,0 +1,17 @@
+label: 7
+question: >-
+  業務と情報システムを最適にすることを目的に，例えばビジネス，データ，アプリケーション及び技術の四つの階層において，まず現状を把握し，目標とする理想像を設定する。次に現状と理想との乖離を明確にし，目標とする理想像に向けた改善活動を移行計画として定義する。このような最適化の手法として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: BI(Business Intelligence)
+  - label: イ
+    text: EA(Enterprise Architecture)
+  - label: ウ
+    text: MOT(Management of Technology)
+  - label: エ
+    text: SOA(Service Oriented Architecture)
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

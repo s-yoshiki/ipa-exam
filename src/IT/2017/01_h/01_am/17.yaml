@@ -1,0 +1,16 @@
+label: 17
+question: 意匠権による保護の対象として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 幾何学的で複雑なパターンが造形美術のような，プリント基板の回路そのもの
+  - label: イ
+    text: 業務用車両に目立つように描かれた，企業が提供するサービスの名称
+  - label: ウ
+    text: 工芸家がデザインし職人が量産できる，可愛らしい姿の土産物の張子の虎
+  - label: エ
+    text: 魚のうろこのような形の重なりが美しい，山の斜面に作られた棚田の景観
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

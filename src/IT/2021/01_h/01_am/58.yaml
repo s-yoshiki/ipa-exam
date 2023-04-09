@@ -1,0 +1,16 @@
+label: 58
+question: サーバルームへの共連れによる不正入室を防ぐ物理的セキュリティ対策の例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: サークル型のセキュリティゲートを設置する。
+  - label: イ
+    text: サーバの入ったラックを施錠する。
+  - label: ウ
+    text: サーバルーム内にいる間は入室証を着用するルールとする。
+  - label: エ
+    text: サーバルームの入り口に入退室管理簿を置いて記録させる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

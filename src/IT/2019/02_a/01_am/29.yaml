@@ -1,0 +1,16 @@
+label: 29
+question: SEOに関する説明として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: SNSに立ち上げたコミュニティの参加者に，そのコミュニティの目的に合った検索結果を表示する。
+  - label: イ
+    text: 自社のWebサイトのアクセスログを，検索エンジンを使って解析し，不正アクセスの有無をチェックする。
+  - label: ウ
+    text: 利用者が検索エンジンを使ってキーワード検索を行ったときに，自社のWebサイトを検索結果の上位に表示させるよう工夫する。
+  - label: エ
+    text: 利用者がどのような検索エンジンを望んでいるかを調査し，要望にあった検索エンジンを開発する。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

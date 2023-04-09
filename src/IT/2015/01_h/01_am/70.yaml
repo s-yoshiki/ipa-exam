@@ -1,0 +1,21 @@
+label: 70
+question: |-
+  Webブラウザの利用方法①～③のうち，セキュリティリスクが軽減する利用方法だけを全て挙げたものはどれか。
+
+  1.  IDとパスワードをWebブラウザに記憶させる。
+  2.  JavaScriptを無効にする。
+  3.  管理者権限でPCにログインし，Webブラウザを利用する。
+choice:
+  - label: ア
+    text: ①，②
+  - label: イ
+    text: ①，③
+  - label: ウ
+    text: ②
+  - label: エ
+    text: ②，③
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

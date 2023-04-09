@@ -1,0 +1,16 @@
+label: 74
+question: オンラインストレージの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: インターネット経由で構築される仮想的なプライベートネットワーク
+  - label: イ
+    text: インターネット経由でデータを保管するディスク領域を貸し出すサービス
+  - label: ウ
+    text: インターネット経由で配布されたり販売されたりするソフトウェア
+  - label: エ
+    text: インターネット経由で複数の人が同時に参加できるコンピュータゲーム
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 38
+question: オンラインモールを運営するITサービス提供者が，ショップのオーナとSLAで合意する内容として，適切なものはどれか。
+choice:
+  - label: ア
+    text: アプリケーション監視のためのソフトウェア開発の外部委託及びその納期
+  - label: イ
+    text: オンラインサービスの計画停止を休日夜間に行うこと
+  - label: ウ
+    text: オンラインモールの利用者への新しい決済サービスの公表
+  - label: エ
+    text: 障害復旧時間を短縮するためにPDCAサイクルを通してプロセスを改善すること
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

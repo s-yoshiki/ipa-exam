@@ -1,0 +1,16 @@
+label: 58
+question: 情報セキュリティの観点から，システムの可用性を高める施策の例として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 生体認証を採用する。
+  - label: イ
+    text: ディジタル署名を行う。
+  - label: ウ
+    text: データを暗号化する。
+  - label: エ
+    text: ハードウェアを二重化する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

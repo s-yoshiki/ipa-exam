@@ -1,0 +1,16 @@
+label: 72
+question: アプリケーションプログラムやデバイスドライバなどを安全に配布したり，それらが不正に改ざんされていないことを確認したりするために利用するものはどれか。
+choice:
+  - label: ア
+    text: SMTP
+  - label: イ
+    text: WPA2
+  - label: ウ
+    text: コード署名
+  - label: エ
+    text: 電子透かし
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

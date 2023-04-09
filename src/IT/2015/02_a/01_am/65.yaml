@@ -1,0 +1,16 @@
+label: 65
+question: OSS(Open Source Software)に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: ソースコードは，一般利用者に開示されていない。
+  - label: イ
+    text: ソースコードを再配布してはいけない。
+  - label: ウ
+    text: ソフトウェアのセキュリティは，開発者によって保証されている。
+  - label: エ
+    text: 著作権は放棄されていない。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

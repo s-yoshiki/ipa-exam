@@ -1,0 +1,16 @@
+label: 46
+question: ディジタルコンテンツで使用されるDRM(Digital Rights Management)の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 映像と音声データの圧縮方式のことで，再生品質に応じた複数の規格がある。
+  - label: イ
+    text: コンテンツの著作権を保護し，利用や複製を制限する技術の総称である。
+  - label: ウ
+    text: ディジタルテレビでデータ放送を制御するXMLベースの記述言語である。
+  - label: エ
+    text: 臨場感ある音響効果を再現するための規格である。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

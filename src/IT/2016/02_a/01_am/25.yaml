@@ -1,0 +1,16 @@
+label: 25
+question: 図によって表される企業の組織形態はどれか。
+choice:
+  - label: ア
+    text: 事業部制組織
+  - label: イ
+    text: 社内ベンチャ組織
+  - label: ウ
+    text: 職能別組織
+  - label: エ
+    text: マトリックス組織
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

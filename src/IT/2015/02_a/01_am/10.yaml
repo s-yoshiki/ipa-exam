@@ -1,0 +1,16 @@
+label: 10
+question: プライバシーマーク制度で評価されるマネジメントシステムが，管理の対象とするものはどれか。
+choice:
+  - label: ア
+    text: 営業秘密
+  - label: イ
+    text: 個人情報
+  - label: ウ
+    text: 肖像権
+  - label: エ
+    text: 情報システム
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

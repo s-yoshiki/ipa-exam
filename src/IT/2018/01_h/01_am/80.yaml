@@ -1,0 +1,17 @@
+label: 80
+question: >-
+  稼働率0.9の装置を2台直列に接続したシステムに，同じ装置をもう1台追加して3台直列のシステムにしたとき，システム全体の稼働率は2台直列のときを基準にすると，どのようになるか。
+choice:
+  - label: ア
+    text: 10%上がる。
+  - label: イ
+    text: 変わらない。
+  - label: ウ
+    text: 10%下がる。
+  - label: エ
+    text: 30%下がる。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 56
+question: ランサムウェアによる損害を受けてしまった場合を想定して，その損害を軽減するための対策例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: PC内の重要なファイルは，PCから取外し可能な外部記憶装置に定期的にバックアップしておく。
+  - label: イ
+    text: Webサービスごとに，使用するIDやパスワードを異なるものにしておく。
+  - label: ウ
+    text: マルウェア対策ソフトを用いてPC内の全ファイルの検査をしておく。
+  - label: エ
+    text: 無線LANを使用するときには，WPA2を用いて通信内容を暗号化しておく。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

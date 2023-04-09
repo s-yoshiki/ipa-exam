@@ -1,0 +1,16 @@
+label: 49
+question: インシデント管理の目的について説明したものはどれか。
+choice:
+  - label: ア
+    text: ITサービスで利用する新しいソフトウェアを稼働環境へ移行するための作業を確実に行う。
+  - label: イ
+    text: ITサービスに関する変更要求に基づいて発生する一連の作業を管理する。
+  - label: ウ
+    text: ITサービスを阻害する要因が発生したときに，ITサービスを一刻も早く復旧させて，ビジネスへの影響をできるだけ小さくする。
+  - label: エ
+    text: ITサービスを提供するために必要な要素とその組合せの情報を管理する。
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

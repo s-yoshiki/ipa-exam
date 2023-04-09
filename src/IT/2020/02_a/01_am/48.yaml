@@ -1,0 +1,16 @@
+label: 48
+question: 委託に基づき他社のシステム監査を実施するとき，システム監査人の行動として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 委託元の経営者にとって不利にならないように監査を実施する。
+  - label: イ
+    text: システム監査を実施する上で知り得た情報は，全て世間へ公開する。
+  - label: ウ
+    text: 指摘事項の多寡によって報酬を確定できる契約を結び監査を実施する。
+  - label: エ
+    text: 十分かつ適切な監査証拠を基に判断する。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

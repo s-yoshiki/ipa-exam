@@ -1,0 +1,16 @@
+label: 10
+question: 受注生産方式と見込生産方式を比較した場合の受注生産方式の特徴として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 受注時点で製品の出荷はできないが，製品が過剰在庫となるリスクはない。
+  - label: イ
+    text: 受注予測の精度を上げて，製品の在庫量を適正に維持することが求められる。
+  - label: ウ
+    text: 製品の在庫不足によって，受注機会を損失するリスクを伴う。
+  - label: エ
+    text: 製品の受注予測に基づいて立案した生産計画に従って，製品を生産する。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

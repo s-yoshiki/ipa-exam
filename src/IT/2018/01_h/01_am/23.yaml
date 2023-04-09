@@ -1,0 +1,16 @@
+label: 23
+question: 調達や生産，販売などの広い範囲を考慮に入れた上での物流の最適化を目指す考え方として，適切なものはどれか。
+choice:
+  - label: ア
+    text: トレーサビリティ
+  - label: イ
+    text: ベストプラクティス
+  - label: ウ
+    text: ベンチマーキング
+  - label: エ
+    text: ロジスティクス
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

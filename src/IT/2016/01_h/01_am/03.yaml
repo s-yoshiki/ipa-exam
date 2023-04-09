@@ -1,0 +1,17 @@
+label: 3
+question: >-
+  インターネットショッピングにおいて，個人がアクセスしたWebページの閲覧履歴や商品の購入履歴を分析し，関心のありそうな情報を表示して別商品の購入を促すマーケティング手法はどれか。
+choice:
+  - label: ア
+    text: アフィリエイト
+  - label: イ
+    text: オークション
+  - label: ウ
+    text: フラッシュマーケティング
+  - label: エ
+    text: レコメンデーション
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

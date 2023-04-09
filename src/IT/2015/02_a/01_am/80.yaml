@@ -1,0 +1,16 @@
+label: 80
+question: ISMSに関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: ISMSのマネジメントサイクルは，セキュリティ事故が発生した時点で開始し，セキュリティ事故が収束した時点で終了する。
+  - label: イ
+    text: ISMSの構築，運用は，組織全体ではなく，必ず部門ごとに行う。
+  - label: ウ
+    text: ISMSを構築する組織は，保護すべき情報資産を特定し，リスク対策を決める。
+  - label: エ
+    text: 情報セキュリティ方針は，具体的なセキュリティ対策が記述されたものである。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

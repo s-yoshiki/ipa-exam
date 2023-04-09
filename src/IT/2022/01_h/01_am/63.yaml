@@ -1,0 +1,16 @@
+label: 63
+question: スマートフォンやタブレットなどの携帯端末に用いられている，OSS(Open Source Software)であるOSはどれか。
+choice:
+  - label: ア
+    text: Android
+  - label: イ
+    text: iOS
+  - label: ウ
+    text: Safari
+  - label: エ
+    text: Windows
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

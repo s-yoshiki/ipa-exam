@@ -1,0 +1,16 @@
+label: 55
+question: 情報セキュリティにおけるPCI DSSの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: クレジットカード情報を取り扱う事業者に求められるセキュリティ基準
+  - label: イ
+    text: コンピュータなどに内蔵されるセキュリティ関連の処理を行う半導体チップ
+  - label: ウ
+    text: コンピュータやネットワークのセキュリティ事故に対応する組織
+  - label: エ
+    text: サーバやネットワークの通信を監視し，不正なアクセスを検知して攻撃を防ぐシステム
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

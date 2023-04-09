@@ -1,0 +1,17 @@
+label: 13
+question: >-
+  A社では，受注から納品までの期間が，従来に比べて長く掛かるようになった。原因は，各部門の業務の細分化と専門化が進んだことによって，受注から出荷までの工程数が増え，工程間の待ち時間も増えたからである。経営戦略として，リードタイムの短縮とコストの削減を実現するために社内の業務プロセスを抜本的に見直したいとき，適用する手法として，適切なものはどれか。
+choice:
+  - label: ア
+    text: BCM
+  - label: イ
+    text: BPR
+  - label: ウ
+    text: CRM
+  - label: エ
+    text: SFA
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

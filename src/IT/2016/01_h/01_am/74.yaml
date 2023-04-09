@@ -1,0 +1,16 @@
+label: 74
+question: 無線LANのアクセスポイントに備わるセキュリティ対策のうち，自身のESSIDの発信を停止するものはどれか。
+choice:
+  - label: ア
+    text: MACアドレスフィルタリング
+  - label: イ
+    text: WEP
+  - label: ウ
+    text: WPA
+  - label: エ
+    text: ステルス機能
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

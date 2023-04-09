@@ -1,0 +1,22 @@
+label: 44
+question: |-
+  情報システムに関わる業務a～cのうち，システム監査の対象となり得る業務だけを全て挙げたものはどれか。  
+    
+
+  1.  情報システム戦略の立案
+  2.  情報システムの企画・開発
+  3.  情報システムの運用・保守
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

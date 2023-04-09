@@ -1,0 +1,16 @@
+label: 74
+question: 無線LANにおいて，端末とアクセスポイント間で伝送されているデータの盗聴を防止するために利用されるものはどれか。
+choice:
+  - label: ア
+    text: ANY接続拒否
+  - label: イ
+    text: ESSIDステルス
+  - label: ウ
+    text: MACアドレスフィルタリング
+  - label: エ
+    text: WPA2
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

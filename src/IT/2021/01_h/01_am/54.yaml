@@ -1,0 +1,16 @@
+label: 54
+question: WBSを作成するときに，作業の記述や完了基準などを記述した補助文書を作成する。この文書の目的として，適切なものはどれか。
+choice:
+  - label: ア
+    text: WBSで定義した作業で使用するデータの意味を明確に定義する。
+  - label: イ
+    text: WBSで定義した作業の進捗を管理する。
+  - label: ウ
+    text: WBSで定義した作業のスケジュールのクリティカルパスを求める。
+  - label: エ
+    text: WBSで定義した作業の内容と意味を明確に定義する。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

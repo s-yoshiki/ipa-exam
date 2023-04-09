@@ -1,0 +1,16 @@
+label: 50
+question: システム監査では，監査部門だけではなく被監査部門にも相応の役割がある。被監査部門が実施するものはどれか。
+choice:
+  - label: ア
+    text: 監査対象システムに関する運用ルールなどの説明
+  - label: イ
+    text: システム監査計画に基づく本調査
+  - label: ウ
+    text: システム監査計画の作成
+  - label: エ
+    text: システム監査報告書の受理
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

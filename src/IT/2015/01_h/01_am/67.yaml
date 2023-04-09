@@ -1,0 +1,16 @@
+label: 67
+question: PCをネットワークに接続せずに単独で利用する形態を何と呼ぶか。
+choice:
+  - label: ア
+    text: シンクライアント
+  - label: イ
+    text: シングルプロセッサ
+  - label: ウ
+    text: スタンドアロン
+  - label: エ
+    text: ピアツーピア
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

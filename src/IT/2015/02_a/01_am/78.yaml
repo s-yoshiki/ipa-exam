@@ -1,0 +1,17 @@
+label: 78
+question: >-
+  一度に複数の相手に電子メールを送信するとき，電子メールを受け取った相手が自分以外の受信者のメールアドレスを知ることがないようにしたい。このとき，送信したい複数の相手のメールアドレスを記述する場所として適切なものはどれか。
+choice:
+  - label: ア
+    text: Bcc
+  - label: イ
+    text: Cc
+  - label: ウ
+    text: To
+  - label: エ
+    text: ToとBccの両方
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

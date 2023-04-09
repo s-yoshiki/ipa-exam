@@ -1,0 +1,16 @@
+label: 14
+question: 日本産業規格(JIS)に関する説明のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: ISOなど，国際的な規格との整合性に配慮した規格である。
+  - label: イ
+    text: 規格に適合しない製品の製造・販売は禁止されている。
+  - label: ウ
+    text: 鉱工業の分野ごとに，民間団体が定めた標準を集めた規格である。
+  - label: エ
+    text: 食品や医薬品の安全性に関する基準を規定している。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 41
+question: ITサービスマネジメントにおいて，サービス提供者がSLAの内容を合意する相手は誰か。
+choice:
+  - label: ア
+    text: ITサービスを利用する組織の責任者
+  - label: イ
+    text: サービスデスクの責任者
+  - label: ウ
+    text: システム開発の発注先
+  - label: エ
+    text: 不特定多数を対象として外部に公開しているWebサイトの利用者
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

@@ -1,0 +1,17 @@
+label: 78
+question: >-
+  300×600ドットで構成され，1画素の情報を記録するのに24ビットを使用する画像データがある。これを150×300ドットで構成され，1画素の情報を記録するのに8ビットを使用する画像データに変換した。必要な記憶容量は何倍になるか。
+choice:
+  - label: ア
+    text: 1／12
+  - label: イ
+    text: 1／6
+  - label: ウ
+    text: 1／4
+  - label: エ
+    text: 1／2
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

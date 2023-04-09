@@ -1,0 +1,16 @@
+label: 40
+question: ITを利用するオフィスの施設管理の目的には，コスト削減や快適性，安全性，機密性の確保などがある。安全性の確保に関する施策として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 耐震対策や避難通路の確保
+  - label: イ
+    text: 電力消費の少ないIT機器の採用
+  - label: ウ
+    text: 机・椅子，音や光などの環境の整備
+  - label: エ
+    text: 入退出管理などのセキュリティ対策の実施
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

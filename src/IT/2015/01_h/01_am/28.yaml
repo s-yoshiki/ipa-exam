@@ -1,0 +1,17 @@
+label: 28
+question: >-
+  生産・販売・調達・経理・人事といった全社の業務を統合的に管理し，企業全体の経営資源の最適化を図りたい。この目的を実現するために構築する情報システムとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: CRMシステム
+  - label: イ
+    text: ERPシステム
+  - label: ウ
+    text: HRMシステム
+  - label: エ
+    text: MRPシステム
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

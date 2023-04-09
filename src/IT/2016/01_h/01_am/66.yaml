@@ -1,0 +1,21 @@
+label: 66
+question: |-
+  インターネットのWebメールに関する記述①～③のうち，適切なものだけを全て挙げたものはどれか。
+
+  1.  PCに，電子メールの作成や送受信，受信した電子メールの保存や管理を行う専用のソフトウェアをインストールしておく必要がある。
+  2.  PCを買い替えた場合でも，過去の電子メールの移行が不要である。
+  3.  ブラウザが動作し，インターネットに接続できるPCがあれば，電子メール機能を利用することができる。
+choice:
+  - label: ア
+    text: ①，②
+  - label: イ
+    text: ①，③
+  - label: ウ
+    text: ②，③
+  - label: エ
+    text: ③
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

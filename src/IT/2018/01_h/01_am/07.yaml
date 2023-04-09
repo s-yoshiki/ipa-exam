@@ -1,0 +1,16 @@
+label: 7
+question: 性別，年齢，国籍，経験などが個人ごとに異なるような多様性を示す言葉として，適切なものはどれか。
+choice:
+  - label: ア
+    text: グラスシーリング
+  - label: イ
+    text: ダイバーシティ
+  - label: ウ
+    text: ホワイトカラーエグゼンプション
+  - label: エ
+    text: ワークライフバランス
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

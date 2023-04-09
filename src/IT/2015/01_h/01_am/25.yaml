@@ -1,0 +1,22 @@
+label: 25
+question: |-
+  次の業務プロセスをDFDで表現したものはどれか。  
+    
+  〔業務プロセス〕
+
+  1.  日々の業務において社内各部で発生した伝票を経理担当者が伝票つづりにファイリングする。
+  2.  決算作業開始時に，ファイリングされた伝票を決算担当者と検算担当者が別々に集計し，両者の結果を照合する。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

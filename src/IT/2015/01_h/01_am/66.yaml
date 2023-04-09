@@ -1,0 +1,16 @@
+label: 66
+question: スパイウェアが目的としている動作の説明として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: OSやソフトウェアの動作を不安定にする。
+  - label: イ
+    text: ファイルシステム上から勝手にファイルを削除する。
+  - label: ウ
+    text: ブラウザをハイジャックして特定の動作を強制する。
+  - label: エ
+    text: 利用者に気付かれないように個人情報などを収集する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

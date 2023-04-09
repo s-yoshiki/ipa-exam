@@ -1,0 +1,22 @@
+label: 1
+question: |-
+  著作権及び特許権に関する記述a～cのうち，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  偶然二つの同じようなものが生み出された場合，発明に伴う特許権は両方に認められるが，著作権は一方の著作者にだけ認められる。
+  2.  ソフトウェアの場合，特許権も著作権もソースプログラムリストに対して認められる。
+  3.  特許権の取得には出願と登録が必要だが，著作権は出願や登録の必要はない。
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: b
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 22
+question: >-
+  バリューチェーン分析では，企業の活動を，企業の価値に直結する主活動と，主活動全体を支援して全社的な機能を果たす支援活動に分けて分析する。コンピュータ関連機器の製造と販売を行うA社は，部材の購買，機器の設計と製造，商品の出荷，販売とマーケティング，アフターサービスの五つの領域を主活動に，その他の活動領域を支援活動に分類した。企業活動で利用する情報システムのうち，主にA社の支援活動に利用されるものはどれか。
+choice:
+  - label: ア
+    text: CAD/CAM(Computer Aided Design/Computer Aided Manufacturing)
+  - label: イ
+    text: CRM(Customer Relationship Management)
+  - label: ウ
+    text: HRM(Human Resource Management)
+  - label: エ
+    text: SFA(Sales Force Automation)
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

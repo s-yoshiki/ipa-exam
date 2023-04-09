@@ -1,0 +1,22 @@
+label: 79
+question: |-
+  Aさんは次の送信先を指定して電子メールを送信した。この電子メールの受信者が知ることのできる情報の説明として，適切なものはどれか。  
+    
+  〔送信先〕  
+  To: Bさん，Cさん  
+  Cc: Dさん  
+  Bcc: Eさん，Fさん
+choice:
+  - label: ア
+    text: Bさんは，同じメールがEさんにも送信されていることが分かる。
+  - label: イ
+    text: Cさんは，同じメールがBさんとDさんにも送信されていることが分かる。
+  - label: ウ
+    text: Dさんは，同じメールがEさんにも送信されていることが分かる。
+  - label: エ
+    text: Eさんは，同じメールがCさんとFさんにも送信されていることが分かる。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

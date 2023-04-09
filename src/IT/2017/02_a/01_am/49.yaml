@@ -1,0 +1,16 @@
+label: 49
+question: 企業においてITガバナンスを確立させる責任者は誰か。
+choice:
+  - label: ア
+    text: 株主
+  - label: イ
+    text: 経営者
+  - label: ウ
+    text: システム監査人
+  - label: エ
+    text: システム部門長
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

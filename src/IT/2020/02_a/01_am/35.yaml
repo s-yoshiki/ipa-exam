@@ -1,0 +1,17 @@
+label: 35
+question: >-
+  ある企業が，フィンテックを活用した新サービスを実現するためのプログラムを開発しようとしている。そこで，デザイナ，プログラマなどを集めてチームを編成し，数日を掛けて集中的にプログラム開発作業に取り組み，その成果を競い合うイベントを企画した。このようなイベントを表す用語として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ウォークスルー
+  - label: イ
+    text: ゲーミフィケーション
+  - label: ウ
+    text: ハッカソン
+  - label: エ
+    text: ブレーンストーミング
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,20 @@
+label: 34
+question: |-
+  次の特徴をもつ組織形態として，適切なものはどれか。
+
+  *   組織の構成員が，お互い対等な関係にあり，自律性を有している。
+  *   企業，部門の壁を乗り越えて編成されることもある。
+choice:
+  - label: ア
+    text: アウトソーシング
+  - label: イ
+    text: タスクフォース
+  - label: ウ
+    text: ネットワーク組織
+  - label: エ
+    text: マトリックス組織
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

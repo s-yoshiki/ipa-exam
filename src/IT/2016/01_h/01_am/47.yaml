@@ -1,0 +1,16 @@
+label: 47
+question: プロジェクトスコープマネジメントに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: プロジェクトが生み出す製品やサービスなどの成果物と，それらを完成するために必要な作業を定義し管理する。
+  - label: イ
+    text: プロジェクト全体を通じて，最も長い所要期間を要する作業経路を管理する。
+  - label: ウ
+    text: プロジェクトの結果に利害を及ぼす可能性がある事象を管理する。
+  - label: エ
+    text: プロジェクトの実施とその結果によって利害を被る関係者を調整する。
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

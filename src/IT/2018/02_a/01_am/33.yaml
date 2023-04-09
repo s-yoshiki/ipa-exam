@@ -1,0 +1,16 @@
+label: 33
+question: 情報処理の関連規格のうち，情報セキュリティマネジメントに関して定めたものはどれか。
+choice:
+  - label: ア
+    text: IEEE802.3
+  - label: イ
+    text: JIS Q 27001
+  - label: ウ
+    text: JPEG 2000
+  - label: エ
+    text: MPEG1
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

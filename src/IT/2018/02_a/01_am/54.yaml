@@ -1,0 +1,17 @@
+label: 54
+question: >-
+  プロジェクトの計画段階で行う作業で，プロジェクトで実施しなければならない全ての作業を洗い出し階層構造に整理し，同時にプロジェクトの管理単位を明確化する手法はどれか。
+choice:
+  - label: ア
+    text: CRM
+  - label: イ
+    text: ERP
+  - label: ウ
+    text: PPM
+  - label: エ
+    text: WBS
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

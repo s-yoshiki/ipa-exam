@@ -1,0 +1,16 @@
+label: 25
+question: 経営戦略上，ITの利活用が不可欠な企業の経営者を対象として，サイバー攻撃から企業を守る観点で経営者が認識すべき原則や取り組むべき項目を記載したものはどれか。
+choice:
+  - label: ア
+    text: IT基本法
+  - label: イ
+    text: ITサービス継続ガイドライン
+  - label: ウ
+    text: サイバーセキュリティ基本法
+  - label: エ
+    text: サイバーセキュリティ経営ガイドライン
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

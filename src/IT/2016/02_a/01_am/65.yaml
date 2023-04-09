@@ -1,0 +1,16 @@
+label: 65
+question: 通信プロトコルの説明として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: PCやプリンタなどの機器をLANへ接続するために使われるケーブルの集線装置
+  - label: イ
+    text: Webブラウザで指定する情報の場所とその取得方法に関する記述
+  - label: ウ
+    text: インターネット通信でコンピュータを識別するために使用される番号
+  - label: エ
+    text: ネットワークを介して通信するために定められた約束事の集合
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

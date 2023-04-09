@@ -1,0 +1,16 @@
+label: 46
+question: プロジェクトの管理を進捗管理，品質管理，コスト管理と分けた場合，進捗管理の確認事項として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 結合テストが様々な観点で網羅的に行われているかどうか。
+  - label: イ
+    text: 今後の費用増加はどの程度見込まれるか。
+  - label: ウ
+    text: 作業の遅れが全体日程に与える影響はどの程度か。
+  - label: エ
+    text: 設計の不備を発見するための設計レビュー手順が確立しているかどうか。
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 14
+question: 紙に書かれた過去の文書や設計図を電子ファイル化して，全社で共有したい。このときに使用する機器として，適切なものはどれか。
+choice:
+  - label: ア
+    text: GPS受信機
+  - label: イ
+    text: スキャナ
+  - label: ウ
+    text: ディジタイザ
+  - label: エ
+    text: プロッタ
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

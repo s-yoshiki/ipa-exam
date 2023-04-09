@@ -1,0 +1,16 @@
+label: 15
+question: 複数人が集まり，お互いの意見を批判せず，質より量を重視して自由に意見を出し合うことによって，アイディアを創出していく技法はどれか。
+choice:
+  - label: ア
+    text: ブレーンストーミング
+  - label: イ
+    text: ベンチマーキング
+  - label: ウ
+    text: ロールプレイング
+  - label: エ
+    text: ワークデザイン
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 37
+question: 内部統制におけるモニタリングの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 内部統制が有効に働いていることを継続的に評価するプロセス
+  - label: イ
+    text: 内部統制に関わる法令その他の規範の遵守を促進するプロセス
+  - label: ウ
+    text: 内部統制の体制を構築するプロセス
+  - label: エ
+    text: 内部統制を阻害するリスクを分析するプロセス
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

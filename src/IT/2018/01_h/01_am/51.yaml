@@ -1,0 +1,16 @@
+label: 51
+question: 新しく開発した業務システムのテストに，利用部門の立場で参画することになった。利用部門の立場で確認すべき事項として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務上の要件が満たされていること
+  - label: イ
+    text: 個々のプログラムがプログラム仕様書どおりに動作すること
+  - label: ウ
+    text: システムが利用するネットワークの監視が決められた手順どおりに実施できること
+  - label: エ
+    text: プログラム間のデータの受渡しが設計書の規定どおりに行われること
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

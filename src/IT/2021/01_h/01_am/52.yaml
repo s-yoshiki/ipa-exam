@@ -1,0 +1,23 @@
+label: 52
+question: |-
+  自社の情報システムに関して，BCP(事業継続計画)に基づいて，マネジメントの視点から行う活動a～d のうち，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  重要データのバックアップを定期的に取得する。
+  2.  非常時用の発電機と燃料を確保する。
+  3.  複数の通信網を確保する。
+  4.  復旧手順の訓練を実施する。
+choice:
+  - label: ア
+    text: a，b，c
+  - label: イ
+    text: a，b，c，d
+  - label: ウ
+    text: a，d
+  - label: エ
+    text: b，c，d
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

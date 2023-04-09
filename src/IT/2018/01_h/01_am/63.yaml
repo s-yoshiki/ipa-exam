@@ -1,0 +1,16 @@
+label: 63
+question: パスワード管理に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務システムで使用しているパスワードを，私的なインターネットサービスの利用では使用しない。
+  - label: イ
+    text: 初期パスワードは，システムのログイン操作に慣れるまで変更しない。
+  - label: ウ
+    text: 数個のパスワードを用意しておき，それを使い回す。
+  - label: エ
+    text: パスワードは，平文のファイルに格納してPCへ保存しておく。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

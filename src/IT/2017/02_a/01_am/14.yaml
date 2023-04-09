@@ -1,0 +1,16 @@
+label: 14
+question: BSC(Balanced Scorecard)の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 顧客に提供する製品やサービスの価値が，どの活動によって生み出されているかを分析する。
+  - label: イ
+    text: 財務に加え，顧客，内部ビジネスプロセス，学習と成長の四つの視点に基づいて戦略策定や業績評価を行う。
+  - label: ウ
+    text: 帳簿の貸方と借方が，常にバランスした金額になるように記帳する。
+  - label: エ
+    text: 取引先の信用度を財務指標などによって，スコアリングして評価する。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

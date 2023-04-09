@@ -1,0 +1,21 @@
+label: 26
+question: |-
+  法律a～cのうち，内部統制の整備を要請しているものだけを全て挙げたものはどれか。
+
+  1.  会社法
+  2.  金融商品取引法
+  3.  労働者派遣法
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: a，c
+  - label: エ
+    text: b
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

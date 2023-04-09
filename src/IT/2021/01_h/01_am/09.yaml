@@ -1,0 +1,22 @@
+label: 9
+question: |-
+  不適切な行為a～cのうち，不正競争防止法で規制されているものだけを全て挙げたものはどれか。  
+    
+
+  1.  キャンペーンの応募者の個人情報を，応募者に無断で他の目的のために利用する行為
+  2.  他人のIDとパスワードを不正に入手し，それらを使用してインターネット経由でコンピュータにアクセスする行為
+  3.  不正な利益を得ようとして，他社の商品名や社名に類似したドメイン名を使用する行為
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: b
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

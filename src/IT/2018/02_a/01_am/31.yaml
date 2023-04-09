@@ -1,0 +1,22 @@
+label: 31
+question: |-
+  記述a～cのうち，技術戦略に基づいて，技術開発計画を進めるときなどに用いられる技術ロードマップの特徴として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  技術者の短期的な業績管理に向いている。
+  2.  時間軸を考慮した技術投資の予算及び人材配分の計画がしやすい。
+  3.  創造性に重きを置いて，時間軸は余り考慮しない。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: a，b，c
+  - label: エ
+    text: b
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

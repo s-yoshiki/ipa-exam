@@ -1,0 +1,16 @@
+label: 53
+question: プロジェクトのゴールなどを検討するに当たり，集団でアイディアを出し合った結果をグループ分けして体系的に整理する手法はどれか。
+choice:
+  - label: ア
+    text: インタビュー
+  - label: イ
+    text: 親和図法
+  - label: ウ
+    text: ブレーンストーミング
+  - label: エ
+    text: プロトタイプ
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

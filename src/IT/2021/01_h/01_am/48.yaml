@@ -1,0 +1,16 @@
+label: 48
+question: 既存のプログラムを，外側から見たソフトウェアの動きを変えずに内部構造を改善する活動として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: テスト駆動開発
+  - label: イ
+    text: ペアプログラミング
+  - label: ウ
+    text: リバースエンジニアリング
+  - label: エ
+    text: リファクタリング
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

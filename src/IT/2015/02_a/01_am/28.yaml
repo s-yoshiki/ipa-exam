@@ -1,0 +1,17 @@
+label: 28
+question: >-
+  アクセス管理者は，不正アクセスからコンピュータを防御する役割を担う。不正アクセス禁止法において，アクセス管理者が実施するよう努力すべきこととして定められている行為はどれか。
+choice:
+  - label: ア
+    text: アクセス制御機能の有効性を検証する。
+  - label: イ
+    text: アクセスログを定期的に監督官庁に提出する。
+  - label: ウ
+    text: 複数の人員でアクセス状況を常時監視する。
+  - label: エ
+    text: 利用者のパスワードを定期的に変更する。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

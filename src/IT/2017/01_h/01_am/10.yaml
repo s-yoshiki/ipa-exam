@@ -1,0 +1,16 @@
+label: 10
+question: PCのオペレーティングシステムを構成するプログラムを知的財産として保護する法律はどれか。
+choice:
+  - label: ア
+    text: 意匠法
+  - label: イ
+    text: 回路配置法
+  - label: ウ
+    text: 実用新案法
+  - label: エ
+    text: 著作権法
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

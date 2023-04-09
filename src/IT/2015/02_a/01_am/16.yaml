@@ -1,0 +1,16 @@
+label: 16
+question: 情報を活用できる環境や能力の差によって，待遇や収入などの格差が生じることを表すものはどれか。
+choice:
+  - label: ア
+    text: 情報バリアフリー
+  - label: イ
+    text: 情報リテラシ
+  - label: ウ
+    text: ディジタルディバイド
+  - label: エ
+    text: データマイニング
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

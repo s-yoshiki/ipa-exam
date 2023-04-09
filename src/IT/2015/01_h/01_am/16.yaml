@@ -1,0 +1,16 @@
+label: 16
+question: RFPを作成する目的として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 開発を委託する場合の概算委託額をベンダに提示する。
+  - label: イ
+    text: 将来のシステム開発に向けて，最適な先進技術に関する情報を入手する。
+  - label: ウ
+    text: 内製，開発の委託，製品の購入といった調達手続を標準化する。
+  - label: エ
+    text: ベンダに提案書の提示を求め，発注先を適切に選定する。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

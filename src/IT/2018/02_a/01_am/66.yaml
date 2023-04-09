@@ -1,0 +1,16 @@
+label: 66
+question: NFCに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 10cm程度の近距離での通信を行うものであり，ICカードやICタグのデータの読み書きに利用されている。
+  - label: イ
+    text: 数十mのエリアで通信を行うことができ，無線LANに利用されている。
+  - label: ウ
+    text: 赤外線を利用して通信を行うものであり，携帯電話のデータ交換などに利用されている。
+  - label: エ
+    text: 複数の人工衛星からの電波を受信することができ，カーナビの位置計測に利用されている。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

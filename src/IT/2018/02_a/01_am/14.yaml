@@ -1,0 +1,16 @@
+label: 14
+question: ISO(国際標準化機構)によって規格化されているものはどれか。
+choice:
+  - label: ア
+    text: コンテンツマネジメントシステム
+  - label: イ
+    text: 情報セキュリティマネジメントシステム
+  - label: ウ
+    text: タレントマネジメントシステム
+  - label: エ
+    text: ナレッジマネジメントシステム
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

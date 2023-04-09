@@ -1,0 +1,17 @@
+label: 9
+question: >-
+  ある製品を生産，販売するのに，固定費が100万円，製品1個当たりの変動費が7万円である。この製品を単価10万円で販売するとき，利益を170万円以上確保するためには，少なくとも何個を販売する必要があるか。
+choice:
+  - label: ア
+    text: '90'
+  - label: イ
+    text: '270'
+  - label: ウ
+    text: '630'
+  - label: エ
+    text: '900'
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

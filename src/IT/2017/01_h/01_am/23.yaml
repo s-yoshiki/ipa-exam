@@ -1,0 +1,17 @@
+label: 23
+question: >-
+  組織の情報共有とコミュニケーションの促進を図るためにグループウェアを利用することを検討している。必要なサーバやソフトウェアを自社で購入せずに利用できるソリューションとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: ASP
+  - label: イ
+    text: BPO
+  - label: ウ
+    text: ISP
+  - label: エ
+    text: SI
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

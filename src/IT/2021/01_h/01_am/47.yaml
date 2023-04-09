@@ -1,0 +1,17 @@
+label: 47
+question: >-
+  システム開発プロジェクトにおいて，成果物として定義された画面・帳票の一覧と，実際に作成された画面・帳票の数を比較して，開発中に生じた差異とその理由を確認するプロジェクトマネジメントの活動はどれか。
+choice:
+  - label: ア
+    text: プロジェクト資源マネジメント
+  - label: イ
+    text: プロジェクトスコープマネジメント
+  - label: ウ
+    text: プロジェクト調達マネジメント
+  - label: エ
+    text: プロジェクト品質マネジメント
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

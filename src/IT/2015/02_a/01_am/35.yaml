@@ -1,0 +1,17 @@
+label: 35
+question: >-
+  システム監査は，監査対象から独立かつ客観的立場のシステム監査人が情報システムを総合的に点検及び評価する。ある企業の経営者から依頼され実施したシステム監査の結果，現在の情報システムの有効性に問題があることが発見された。システム監査人が，助言及び勧告する相手として，最も適切な者は誰か。
+choice:
+  - label: ア
+    text: 株主
+  - label: イ
+    text: 監督官庁
+  - label: ウ
+    text: 経営者
+  - label: エ
+    text: システムの利用者
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

@@ -1,0 +1,17 @@
+label: 3
+question: >-
+  技術経営における新事業創出のプロセスを，研究，開発，事業化，産業化の四つに分類したとき，事業化から産業化を達成し，企業の業績に貢献するためには，新市場の立上げや競合製品の登場などの障壁がある。この障壁を意味する用語として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 囚人のジレンマ
+  - label: イ
+    text: ダーウィンの海
+  - label: ウ
+    text: ファイアウォール
+  - label: エ
+    text: ファイブフォース
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

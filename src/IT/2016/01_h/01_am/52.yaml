@@ -1,0 +1,16 @@
+label: 52
+question: 次の表に示す作業全体の最短の所要日数を増やすことなく作業Eの所要日数を増やしたい。最大何日増やすことができるか。
+choice:
+  - label: ア
+    text: '0'
+  - label: イ
+    text: '1'
+  - label: ウ
+    text: '2'
+  - label: エ
+    text: '3'
+calculation: false
+figure: true
+answer: ウ
+category: M
+figureText: ''

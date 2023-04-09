@@ -1,0 +1,16 @@
+label: 44
+question: プロジェクトの特徴として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 期間を限定して特定の目標を達成する。
+  - label: イ
+    text: 固定したメンバで，チームを構成し，全工程をそのチームが担当する。
+  - label: ウ
+    text: 終了時点は決めないで開始し，進捗状況を見ながらそれを決める。
+  - label: エ
+    text: 定常的な業務として繰り返し実行される。
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 33
+question: 情報システムの導入に当たり，ユーザがベンダに提案を求めるために提示する文書であり，導入システムの概要や調達条件を記したものはどれか。
+choice:
+  - label: ア
+    text: RFC
+  - label: イ
+    text: RFI
+  - label: ウ
+    text: RFID
+  - label: エ
+    text: RFP
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

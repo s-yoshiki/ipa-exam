@@ -1,0 +1,16 @@
+label: 57
+question: 次に示す項目を使って関係データベースで管理する"社員"表を設計する。他の項目から導出できる，冗長な項目はどれか。
+choice:
+  - label: ア
+    text: 生年月日
+  - label: イ
+    text: 現在の満年齢
+  - label: ウ
+    text: 住所
+  - label: エ
+    text: 趣味
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

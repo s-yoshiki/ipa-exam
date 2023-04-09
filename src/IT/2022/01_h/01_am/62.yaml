@@ -1,0 +1,16 @@
+label: 62
+question: アドホックネットワークの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: アクセスポイントを経由せず，端末同士が相互に通信を行う無線ネットワーク
+  - label: イ
+    text: インターネット上に，セキュリティが保たれたプライベー卜な環境を実現するネットワーク
+  - label: ウ
+    text: サーバと，そのサーバを利用する複数台のPCをつなぐ有線ネットワーク
+  - label: エ
+    text: 本店と支店など，遠く離れた拠点間を結ぶ広域ネットワーク
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

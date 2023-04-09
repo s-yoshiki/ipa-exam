@@ -1,0 +1,26 @@
+label: 12
+question: >-
+  プロダクトポートフォリオマネジメントにおいて，分析対象となる製品や事業を，金のなる木，花形，負け犬及び問題児に分類するとき，縦軸と横軸に使われる指標の組合せとして適切なものはどれか。  
+    
+
+  1.  顧客定着率
+
+  2.  市場規模
+
+  3.  市場成長率
+
+  4.  市場占有率
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: b，d
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

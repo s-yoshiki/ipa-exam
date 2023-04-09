@@ -1,0 +1,16 @@
+label: 76
+question: OSS(Open Source Software)に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: ソースコードに手を加えて再配布することができる。
+  - label: イ
+    text: ソースコードの入手は無償だが，有償の保守サポートを受けなければならない。
+  - label: ウ
+    text: 著作権が放棄されているので，無断で利用することができる。
+  - label: エ
+    text: 著作権を放棄しない場合は，動作も保証しなければならない。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

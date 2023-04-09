@@ -1,0 +1,17 @@
+label: 73
+question: >-
+  Webサイトからファイルをダウンロードしながら，その間に表計算ソフトでデータ処理を行うというように，1台のPCで，複数のアプリケーションプログラムを少しずつ互い違いに並行して実行するOSの機能を何と呼ぶか。
+choice:
+  - label: ア
+    text: 仮想現実
+  - label: イ
+    text: デュアルコア
+  - label: ウ
+    text: デュアルシステム
+  - label: エ
+    text: マルチタスク
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

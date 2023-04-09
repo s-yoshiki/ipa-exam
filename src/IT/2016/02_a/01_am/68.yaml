@@ -1,0 +1,16 @@
+label: 68
+question: 無線LANのネットワークを識別するために使われるものはどれか。
+choice:
+  - label: ア
+    text: Bluetooth
+  - label: イ
+    text: ESSID
+  - label: ウ
+    text: LTE
+  - label: エ
+    text: WPA2
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

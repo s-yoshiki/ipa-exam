@@ -1,0 +1,17 @@
+label: 61
+question: >-
+  大学のキャンパス案内のWebページ内に他のWebサービスが提供する地図情報を組み込んで表示するなど，公開されているWebページやWebサービスを組み合わせて一つの新しいコンテンツを作成する手法を何と呼ぶか。
+choice:
+  - label: ア
+    text: シングルサインオン
+  - label: イ
+    text: デジタルフォレンジックス
+  - label: ウ
+    text: トークン
+  - label: エ
+    text: マッシュアップ
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

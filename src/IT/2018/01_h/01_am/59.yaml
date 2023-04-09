@@ -1,0 +1,21 @@
+label: 59
+question: |-
+  電子メールに関する記述として，適切なものだけを全て挙げたものはどれか。
+
+  1.  電子メールのプロトコルには，受信にSMTP，送信にPOP3が使われる。
+  2.  メーリングリストによる電子メールを受信すると，その宛先には全ての登録メンバのメールアドレスが記述されている。
+  3.  メール転送機能を利用すると，自分名義の複数のメールアドレス宛に届いた電子メールを一つのメールボックスに保存することができる。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: b
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

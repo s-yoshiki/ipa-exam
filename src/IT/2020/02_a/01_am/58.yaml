@@ -1,0 +1,16 @@
+label: 58
+question: 受信した電子メールに添付されていた文書ファイルを開いたところ，PCの挙動がおかしくなった。疑われる攻撃として，適切なものはどれか。
+choice:
+  - label: ア
+    text: SQLインジェクション
+  - label: イ
+    text: クロスサイトスクリプティング
+  - label: ウ
+    text: ショルダーハッキング
+  - label: エ
+    text: マクロウイルス
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

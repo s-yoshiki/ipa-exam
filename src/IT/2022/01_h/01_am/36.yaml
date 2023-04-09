@@ -1,0 +1,16 @@
+label: 36
+question: プロジェクトで作成するWBSに関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: WBSではプロジェクトで実施すべき作業内容と成果物を定義するので，作業工数を見積もるときの根拠として使用できる。
+  - label: イ
+    text: WBSには，プロジェクトのスコープ外の作業も検討して含める。
+  - label: ウ
+    text: 全てのプロジェクトにおいて，WBSは成果物と作業内容を同じ階層まで詳細化する。
+  - label: エ
+    text: プロジェクトの担当者がスコープ内の類似作業を実施する場合，WBSにはそれらの作業を記載しなくてよい。
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

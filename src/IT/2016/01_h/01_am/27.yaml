@@ -1,0 +1,16 @@
+label: 27
+question: 企業の業務と情報システムの現状を把握し，目標とするあるべき姿を設定して，全体最適を図りたい。このときに用いられる手法として，適切なものはどれか。
+choice:
+  - label: ア
+    text: DOA(Data Oriented Approach)
+  - label: イ
+    text: EA(Enterprise Architecture)
+  - label: ウ
+    text: OOA(Object Oriented AnaLysis)
+  - label: エ
+    text: SOA(Service Oriented Architecture)
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

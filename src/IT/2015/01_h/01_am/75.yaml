@@ -1,0 +1,16 @@
+label: 75
+question: ISMSの運用において，監査結果をインプットとし，ISMSを継続的に改善するための是正処置及び予防処置を行うプロセスはPDCAサイクルのどれにあたるか。
+choice:
+  - label: ア
+    text: P
+  - label: イ
+    text: D
+  - label: ウ
+    text: C
+  - label: エ
+    text: A
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

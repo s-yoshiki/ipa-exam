@@ -1,0 +1,16 @@
+label: 76
+question: メモリに関する説明のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: DRAMは，定期的に再書込みを行う必要があり，主に主記憶に使われる。
+  - label: イ
+    text: ROMは，アクセス速度が速いので，キャッシュメモリなどに使われる。
+  - label: ウ
+    text: SRAMは，不揮発性メモリであり，USBメモリとして使われる。
+  - label: エ
+    text: フラッシュメモリは，製造時にプログラムやデータが書き込まれ，利用者が内容を変更することはできない。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

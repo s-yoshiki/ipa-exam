@@ -1,0 +1,16 @@
+label: 48
+question: サービスレベル管理のPDCAサイクルのうち，C(Check)で実施する内容はどれか。
+choice:
+  - label: ア
+    text: SLAに基づくサービスを提供する。
+  - label: イ
+    text: サービス提供結果の報告とレビューに基づき，サービスの改善計画を作成する。
+  - label: ウ
+    text: サービス要件及びサービス改善計画を基に，目標とするサービス品質を合意し，SLAを作成する。
+  - label: エ
+    text: 提供したサービスを監視・測定し，サービス報告書を作成する。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

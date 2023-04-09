@@ -1,0 +1,16 @@
+label: 33
+question: 内部統制の観点から，担当者間で相互けん制を働かせることで，業務における不正や誤りが発生するリスクを減らすために，担当者の役割を決めることを何というか。
+choice:
+  - label: ア
+    text: 権限委譲
+  - label: イ
+    text: 職務分掌
+  - label: ウ
+    text: モニタリング
+  - label: エ
+    text: リスク分散
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

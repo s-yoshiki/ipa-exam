@@ -1,0 +1,24 @@
+label: 17
+question: >-
+  プロバイダが提供したサービスにおいて発生した事例a～cのうち，プロバイダ責任制限法によって，プロバイダの対応責任の対象となり得るものだけを全て挙げたものはどれか。  
+    
+
+  1.  氏名などの個人情報が電子掲示板に掲載されて，個人の権利が侵害された。
+
+  2.  受信した電子メールの添付ファイルによってマルウェアに感染させられた。
+
+  3.  無断で利用者IDとパスワードを使われて，ショッピングサイトにアクセスされた。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: a，c
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

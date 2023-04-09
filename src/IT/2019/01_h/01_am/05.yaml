@@ -1,0 +1,17 @@
+label: 5
+question: >-
+  既存市場と新市場，既存製品と新製品でできるマトリックスの四つのセルに企業の成長戦略を表す市場開発戦略，市場浸透戦略，製品開発戦略，多角化戦略を位置付けるとき，市場浸透戦略が位置付けられるのはどのセルか。
+choice:
+  - label: ア
+    text: A
+  - label: イ
+    text: B
+  - label: ウ
+    text: C
+  - label: エ
+    text: D
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

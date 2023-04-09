@@ -1,0 +1,17 @@
+label: 43
+question: >-
+  図のアローダイアグラムにおいて，作業Bが2日遅れて完了した。そこで，予定どおりの期間で全ての作業を完了させるために，作業Dに要員を追加することにした。作業Dに当初20名が割り当てられているとき，作業Dに追加する要員は最少で何名必要か。ここで，要員の作業効率は一律である。
+choice:
+  - label: ア
+    text: '2'
+  - label: イ
+    text: '3'
+  - label: ウ
+    text: '4'
+  - label: エ
+    text: '5'
+calculation: false
+figure: true
+answer: エ
+category: M
+figureText: ''

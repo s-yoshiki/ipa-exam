@@ -1,0 +1,17 @@
+label: 54
+question: >-
+  利用者からの問合せの窓口となるサービスデスクでは，電話や電子メールに加え，自動応答技術を用いてリアルタイムで会話形式のコミュニケーションを行うツールが活用されている。このツールとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: FAQ
+  - label: イ
+    text: RPA
+  - label: ウ
+    text: エスカレーション
+  - label: エ
+    text: チャットボット
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

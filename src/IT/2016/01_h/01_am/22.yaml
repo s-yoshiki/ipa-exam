@@ -1,0 +1,17 @@
+label: 22
+question: >-
+  導入予定のシステムについて，3種類の実現方式を検討している。各実現方式で見込まれる費用の内訳が表のとおりであるとき，導入後の運用期間を10年とした場合の開発・導入，運用，保守の総費用の大小関係を表したものはどれか。ここで，利用者は毎年4,000人で一定とする。また，記載のない条件(10年後の除却費，更改費用など)は考慮しない。
+choice:
+  - label: ア
+    text: A案＞B案＞C案
+  - label: イ
+    text: A案＞C案＞B案
+  - label: ウ
+    text: B案＞C案＞A案
+  - label: エ
+    text: C案＞B案＞A案
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

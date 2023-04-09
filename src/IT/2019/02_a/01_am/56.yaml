@@ -1,0 +1,23 @@
+label: 56
+question: |-
+  次の作業a～dのうち，リスクマネジメントにおける，リスクアセスメントに含まれるものだけを全て挙げたものはどれか。  
+    
+
+  1.  リスク特定
+  2.  リスク分析
+  3.  リスク評価
+  4.  リスク対応
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: b，c，d
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 26
+question: 電子メール，電子掲示板を介したコミュニケーション，情報共有，電子会議などの各種機能を有し，共同作業環境を提供するソフトウェアを何と呼ぶか。
+choice:
+  - label: ア
+    text: グループウェア
+  - label: イ
+    text: シェアウェア
+  - label: ウ
+    text: ファームウェア
+  - label: エ
+    text: フリーウェア
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

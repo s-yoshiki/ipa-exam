@@ -1,0 +1,16 @@
+label: 39
+question: 企業などの競争力を高めるために，情報システム戦略の策定及び実行を統制するものとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ITガバナンス
+  - label: イ
+    text: コンプライアンス
+  - label: ウ
+    text: システム監査
+  - label: エ
+    text: プロジェクトマネジメント
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

@@ -1,0 +1,17 @@
+label: 28
+question: >-
+  倉庫A，Bにある在庫の全量を店舗C，Dに輸送する。倉庫A，Bの在庫量がそれぞれ35個，15個，店舗C，Dの必要量がそれぞれ20個，30個であり，各倉庫から各店舗への1個当たりの輸送費が表のとおりであるとき，最小となる総輸送費は何万円か。
+choice:
+  - label: ア
+    text: '85'
+  - label: イ
+    text: '100'
+  - label: ウ
+    text: '110'
+  - label: エ
+    text: '125'
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

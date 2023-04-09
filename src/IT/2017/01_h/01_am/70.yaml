@@ -1,0 +1,16 @@
+label: 70
+question: 機械語に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: FortranやC言語で記述されたプログラムは，機械語に変換されてから実行される。
+  - label: イ
+    text: 機械語は，高水準言語の一つである。
+  - label: ウ
+    text: 機械語は，プログラムを10進数の数字列で表現する。
+  - label: エ
+    text: 現在でもアプリケーションソフトの多くは，機械語を使ってプログラミングされている。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

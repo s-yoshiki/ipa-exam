@@ -1,0 +1,16 @@
+label: 18
+question: '"POSシステムの構築"によって，達成が可能となる経営目標はどれか。'
+choice:
+  - label: ア
+    text: 営業員の業務生産性向上と営業部門の組織力強化
+  - label: イ
+    text: 構成部品及び仕掛品の在庫量削減
+  - label: ウ
+    text: 調達から製造・配送・販売に至る一連のプロセスの最適化
+  - label: エ
+    text: 店舗ごとの品ぞろえの改善と発注や在庫管理業務の効率化
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

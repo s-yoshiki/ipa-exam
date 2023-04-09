@@ -1,0 +1,17 @@
+label: 75
+question: >-
+  AさんはBさんだけに伝えたい内容を書いた電子メールを，公開鍵暗号方式を用いてBさんの鍵で暗号化してBさんに送った。この電子メールを復号するために必要な鍵はどれか。
+choice:
+  - label: ア
+    text: Aさんの公開鍵
+  - label: イ
+    text: Aさんの秘密鍵
+  - label: ウ
+    text: Bさんの公開鍵
+  - label: エ
+    text: Bさんの秘密鍵
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

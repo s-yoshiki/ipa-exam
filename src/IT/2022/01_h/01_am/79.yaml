@@ -1,0 +1,16 @@
+label: 79
+question: 流れ図で示す処理を終了したとき，xの値はどれか。
+choice:
+  - label: ア
+    text: '0'
+  - label: イ
+    text: '14'
+  - label: ウ
+    text: '28'
+  - label: エ
+    text: '56'
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

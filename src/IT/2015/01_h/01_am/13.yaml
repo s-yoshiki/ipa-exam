@@ -1,0 +1,16 @@
+label: 13
+question: SFAの目的に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 営業活動で入手した市場ニーズに対応して，製品の改良を図る。
+  - label: イ
+    text: 他の優れた企業の業績や組織の分析を通じて，自社の営業組織の見直しを図る。
+  - label: ウ
+    text: 蓄積された知識やノウハウを組織全体で共有し，営業活動の効率と管理水準の向上を図る。
+  - label: エ
+    text: 販売情報を基に，資材の調達から生産，流通，販売までの一連のプロセスを改善して全体の在庫の最適化を図る。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

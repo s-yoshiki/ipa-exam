@@ -1,0 +1,16 @@
+label: 72
+question: 特定のメールアドレスに電子メールを送ると，そのアドレスに対応して登録済みの複数のメールアドレスに同じ内容のメールを配信する仕組みはどれか。
+choice:
+  - label: ア
+    text: Webメール
+  - label: イ
+    text: チェーンメール
+  - label: ウ
+    text: メーリングリスト
+  - label: エ
+    text: リプライメール
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

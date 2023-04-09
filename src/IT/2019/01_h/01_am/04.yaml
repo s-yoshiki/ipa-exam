@@ -1,0 +1,22 @@
+label: 4
+question: |-
+  次の記述a～cのうち，勤務先の法令違反行為の通報に関して，公益通報者保護法で規定されているものだけを全て挙げたものはどれか。  
+    
+
+  1.  勤務先の同業他社への転職のあっせん
+  2.  通報したことを理由とした解雇の無効
+  3.  通報の内容に応じた報奨金の授与
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: b
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

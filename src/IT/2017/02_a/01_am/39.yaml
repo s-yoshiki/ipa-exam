@@ -1,0 +1,16 @@
+label: 39
+question: ソフトウェア保守で実施する活動として，適切なものはどれか。
+choice:
+  - label: ア
+    text: システムの利用者に対して初期パスワードを発行する。
+  - label: イ
+    text: 新規システムの開発を行うとき，保守のしやすさを含めたシステム要件をシステムでどのように実現するか検討する。
+  - label: ウ
+    text: ベンダに開発を委託した新規システムの受入れテストを行う。
+  - label: エ
+    text: 本番稼働中のシステムに対して，法律改正に適合させるためにプログラムを修正する。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

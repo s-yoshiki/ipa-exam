@@ -1,0 +1,22 @@
+label: 64
+question: |-
+  データ処理に関する記述a～cのうち，DBMSを導入することによって得られる効果だけを全て挙げたものはどれか。  
+    
+
+  1.  同じデータに対して複数のプログラムから同時にアクセスしても，一貫性が保たれる。
+  2.  各トランザクションの優先度に応じて，処理する順番をDBMSが決めるので，リアルタイム処理の応答時間が短くなる。
+  3.  仮想記憶のページ管理の効率が良くなるので，データ量にかかわらずデータへのアクセス時間が一定になる。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: b
+  - label: エ
+    text: b，c
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

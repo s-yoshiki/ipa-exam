@@ -1,0 +1,16 @@
+label: 49
+question: ITガバナンスの説明として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 企業などにおけるコンプライアンス向上のための取組みのことである。
+  - label: イ
+    text: 経営目標を達成するために，情報システム戦略を策定し，戦略の実行を統制することである。
+  - label: ウ
+    text: 情報技術に関するリスクの管理手法のことである。
+  - label: エ
+    text: 情報システムの開発において，組織がもっているプロジェクトマネジメントの能力のことである。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

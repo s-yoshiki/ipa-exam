@@ -1,0 +1,17 @@
+label: 73
+question: >-
+  ブログの機能の一つで，ある記事から別の記事に対してリンクを設定すると，リンク先となった別の記事からリンク元となった記事へのリンクが自動的に設定される仕組みのことを何と呼ぶか。
+choice:
+  - label: ア
+    text: RSS
+  - label: イ
+    text: トラックバック
+  - label: ウ
+    text: バックログ
+  - label: エ
+    text: パンくずリスト
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

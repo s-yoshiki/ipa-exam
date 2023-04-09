@@ -1,0 +1,16 @@
+label: 22
+question: ICタグを使用した機能の事例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: POSレジにおけるバーコードの読取り
+  - label: イ
+    text: 遠隔医療システムの画像配信
+  - label: ウ
+    text: カーナビゲーションシステムにおける現在地の把握
+  - label: エ
+    text: 図書館の盗難防止ゲートでの持出しの監視
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

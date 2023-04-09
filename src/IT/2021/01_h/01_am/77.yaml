@@ -1,0 +1,17 @@
+label: 77
+question: >-
+  PDCAモデルに基づいてISMSを運用している組織の活動において，リスクマネジメントの活動状況の監視の結果などを受けて，是正や改善措置を決定している。この作業は，PDCAモデルのどのプロセスで実施されるか。
+choice:
+  - label: ア
+    text: P
+  - label: イ
+    text: D
+  - label: ウ
+    text: C
+  - label: エ
+    text: A
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

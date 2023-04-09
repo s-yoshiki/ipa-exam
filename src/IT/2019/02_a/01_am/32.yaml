@@ -1,0 +1,17 @@
+label: 32
+question: >-
+  一般消費者向けの製品を製造しているA社では，新製品の開発に当たって，市場を取り巻くマクロ環境を政治，経済，社会，技術の観点について分析することにした。このときに収集すべき情報として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 競合企業の経営戦略
+  - label: イ
+    text: 競合企業の財務状況
+  - label: ウ
+    text: 主要仕入先の原材料価格
+  - label: エ
+    text: 我が国の高齢化率
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

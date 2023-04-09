@@ -1,0 +1,17 @@
+label: 33
+question: >-
+  コンピュータシステム開発の外部への発注において，発注金額の確定後に請負契約を締結した。契約後，支払までに発注側と受注側の間で交わされる書類の組合せのうち，適切なものはどれか。ここで，契約内容の変更はないものとする。
+choice:
+  - label: ア
+    text: 提案書，納品書，検収書
+  - label: イ
+    text: 提案書，見積書，請求書
+  - label: ウ
+    text: 納品書，検収書，請求書
+  - label: エ
+    text: 見積書，納品書，請求書
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

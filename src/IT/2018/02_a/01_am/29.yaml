@@ -1,0 +1,16 @@
+label: 29
+question: 画期的なビジネスモデルの創出や技術革新などの意味で用いられることがある用語として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: イノベーション
+  - label: イ
+    text: マイグレーション
+  - label: ウ
+    text: リアルオプション
+  - label: エ
+    text: レボリューション
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

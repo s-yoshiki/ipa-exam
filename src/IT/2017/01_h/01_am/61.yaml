@@ -1,0 +1,16 @@
+label: 61
+question: 情報セキュリティにおけるディジタルフォレンジックスの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 2台の外部記憶装置に同じデータを書き込むことで，1台が故障しても可用性を確保する方式
+  - label: イ
+    text: 公衆回線網を使用して構築する，機密性を確保できる仮想的な専用ネットワーク
+  - label: ウ
+    text: コンピュータに関する犯罪や法的紛争の証拠を明らかにする技術
+  - label: エ
+    text: ディジタル文書の正当性を保証するために付けられる暗号化された情報
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

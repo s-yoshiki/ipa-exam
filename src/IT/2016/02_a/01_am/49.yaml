@@ -1,0 +1,16 @@
+label: 49
+question: ITサービスマネジメントのプロセスにおいて，資産管理が適切に実行されているかどうかの判断に有効な計測項目はどれか。
+choice:
+  - label: ア
+    text: 解決された問題の件数
+  - label: イ
+    text: 緊急リリースの件数
+  - label: ウ
+    text: 仕様変更の実装が失敗した件数
+  - label: エ
+    text: 未使用のソフトウェアライセンス数
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

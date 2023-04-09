@@ -1,0 +1,24 @@
+label: 62
+question: >-
+  複数のハードディスクを論理的に一つのものとして取り扱うための方式①～③のうち，構成するハードディスクが1台故障してもデータ復旧が可能なものだけを全て挙げたものはどれか。
+
+
+  1.  RAID5
+
+  2.  ストライピング
+
+  3.  ミラーリング
+choice:
+  - label: ア
+    text: ①，②
+  - label: イ
+    text: ①，②，③
+  - label: ウ
+    text: ①，③
+  - label: エ
+    text: ②，③
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

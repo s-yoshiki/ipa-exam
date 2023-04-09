@@ -1,0 +1,16 @@
+label: 62
+question: ISMSに関するトップマネジメントの考え方や基本原理を示す公式な文書はどれか。
+choice:
+  - label: ア
+    text: 情報セキュリティ監査基準
+  - label: イ
+    text: 情報セキュリティ実施手順
+  - label: ウ
+    text: 情報セキュリティ対策基準
+  - label: エ
+    text: 情報セキュリティ方針
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

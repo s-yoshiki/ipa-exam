@@ -1,0 +1,16 @@
+label: 64
+question: OSS(Open Source Software)を利用することのメリットはどれか。
+choice:
+  - label: ア
+    text: 開発元から導入時に技術サポートを無償で受けられる。
+  - label: イ
+    text: ソースコードが公開されていないので，ウイルスに感染しにくい。
+  - label: ウ
+    text: ソフトウェアの不具合による損害の補償が受けられる。
+  - label: エ
+    text: ライセンス条件に従えば，利用者の環境に合わせてソースコードを改変できる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

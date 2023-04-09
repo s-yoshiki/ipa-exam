@@ -1,0 +1,16 @@
+label: 39
+question: システム監査における評価に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 監査証拠がない部分は，推測によって評価する。
+  - label: イ
+    text: 監査証拠に基づいて評価しなければならない。
+  - label: ウ
+    text: システム利用部門の意向に従い評価する。
+  - label: エ
+    text: 被監査部門の意向に従い評価する。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

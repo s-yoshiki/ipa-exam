@@ -1,0 +1,22 @@
+label: 79
+question: |-
+  認証に用いられる情報a～dのうち，バイオメトリクス認証に利用されるものだけを全て挙げたものはどれか。  
+
+  1.  PIN(Personal Identification Number)
+  2.  虹彩
+  3.  指紋
+  4.  静脈
+choice:
+  - label: ア
+    text: a，b，c
+  - label: イ
+    text: b，c
+  - label: ウ
+    text: b，c，d
+  - label: エ
+    text: d
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

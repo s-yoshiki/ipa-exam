@@ -1,0 +1,17 @@
+label: 18
+question: >-
+  技術開発の推進において，進捗を評価したり，関連技術との整合性をチェックしたりする際に，例示したような図が用いられる。このような，研究開発への取組みによる要素技術や，求められる機能などの進展の道筋を時間軸上に記載した図を何というか。
+choice:
+  - label: ア
+    text: 管理図
+  - label: イ
+    text: 特性要因図
+  - label: ウ
+    text: パレート図
+  - label: エ
+    text: ロードマップ
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

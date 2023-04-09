@@ -1,0 +1,19 @@
+label: 44
+question: |-
+  内部統制の構築に関して，次の記述中のa，bに入れる字句の適切な組合せはどれか。  
+    
+  内部統制の構築には，a，職務分掌，実施ルールの設定及びbが必要である。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: M
+figureText: ''

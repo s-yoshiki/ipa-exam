@@ -1,0 +1,17 @@
+label: 57
+question: >-
+  ISMSにおける情報セキュリティリスクの取扱いに関する"リスク及び機会に対処する活動"には，リスク対応，リスク評価，リスク分析が含まれる。この活動の流れとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: リスク対応→リスク評価→リスク分析
+  - label: イ
+    text: リスク評価→リスク分析→リスク対応
+  - label: ウ
+    text: リスク分析→リスク対応→リスク評価
+  - label: エ
+    text: リスク分析→リスク評価→リスク対応
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,21 @@
+label: 72
+question: |-
+  情報セキュリティにおける機密性，完全性及び可用性と，①～③のインシデントによって損なわれたものとの組合せとして，適切なものはどれか。
+
+  1.  DDoS攻撃によって，Webサイトがダウンした。
+  2.  キーボードの打ち間違いによって，不正確なデータが入力された。
+  3.  PCがマルウェアに感染したことによって，個人情報が漏えいした。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

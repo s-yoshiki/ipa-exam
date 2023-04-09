@@ -1,0 +1,16 @@
+label: 3
+question: あらかじめ明示的に同意を得た相手だけに，広告宣伝メールの送付や個人情報の取得を行う，コンプライアンスにのっとった手法を表すものはどれか。
+choice:
+  - label: ア
+    text: アクティベーション
+  - label: イ
+    text: オプトアウト
+  - label: ウ
+    text: オプトイン
+  - label: エ
+    text: ホワイトリスト
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

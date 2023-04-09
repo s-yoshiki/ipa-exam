@@ -1,0 +1,16 @@
+label: 68
+question: 全社を適用範囲としてISMSを導入する場合の情報セキュリティ方針に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 同じ業種であれば記述内容は同じである。
+  - label: イ
+    text: 全社共通のPCの設定ルールを定めたものである。
+  - label: ウ
+    text: トップマネジメントが確立しなければならない。
+  - label: エ
+    text: 部門ごとに最適化された情報セキュリティ方針を，個別に策定する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

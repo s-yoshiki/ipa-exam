@@ -1,0 +1,17 @@
+label: 62
+question: >-
+  二つの集合AとBについて，常に成立する関係を記述したものはどれか。ここで，(X∩Y)は，XとYの両方に属する部分(積集合)，(X∪Y)は，X又はYの少なくとも一方に属する部分(和集合)を表す。
+choice:
+  - label: ア
+    text: (A∪B)は，(A∩B)でない集合の部分集合である。
+  - label: イ
+    text: (A∪B)は，Aの部分集合である。
+  - label: ウ
+    text: (A∩B)は，(A∪B)の部分集合である。
+  - label: エ
+    text: (A∩B)は，Aでない集合の部分集合である。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

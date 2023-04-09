@@ -1,0 +1,17 @@
+label: 68
+question: >-
+  無線LANルータにおいて，外部から持ち込まれた端末用に設けられた，"ゲストポート"や"ゲストSSID"などと呼ばれる機能によって実現できることの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 端末から内部ネットワークには接続をさせず，インターネットにだけ接続する。
+  - label: イ
+    text: 端末がマルウェアに感染していないかどうかを検査し，安全が確認された端末だけを接続する。
+  - label: ウ
+    text: 端末と無線LANルータのボタン操作だけで，端末から無線LANルータへの接続設定ができる。
+  - label: エ
+    text: 端末のSSIDの設定欄を空欄にしておけば，SSIDが分からなくても無線LANルータに接続できる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

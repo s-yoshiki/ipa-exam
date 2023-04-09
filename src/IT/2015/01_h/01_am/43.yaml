@@ -1,0 +1,23 @@
+label: 43
+question: |-
+  情報システムの品質マネジメントの考え方に関する記述a～dのうち，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  PDCAサイクルによる継続的な取組みが，品質の改善には有効である。
+  2.  多くの機能をもつシステムほど品質が高い。
+  3.  欠陥の予防コストは，不具合発生時に是正するコストよりも一般的に少ない。
+  4.  適切な設計や製造によって品質を高めることができる。
+choice:
+  - label: ア
+    text: a，b，d
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: a，c，d
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

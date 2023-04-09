@@ -1,0 +1,16 @@
+label: 14
+question: DFDの表記に関する記述として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 時間の経過や状況の変化に伴う，システムの状態の遷移を表記する。
+  - label: イ
+    text: システムで扱う実体同士を関連付けて，データの構造を表記する。
+  - label: ウ
+    text: システムを構成する要素の属性や操作，要素同士の関係を表記する。
+  - label: エ
+    text: データの流れに着目し，業務のデータの流れと処理の関係を表記する。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

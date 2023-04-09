@@ -1,0 +1,16 @@
+label: 16
+question: 特許法における特許権の存続期間は出願日から何年か。ここで，存続期間の延長登録をしないものとする。
+choice:
+  - label: ア
+    text: '10'
+  - label: イ
+    text: '20'
+  - label: ウ
+    text: '25'
+  - label: エ
+    text: '30'
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

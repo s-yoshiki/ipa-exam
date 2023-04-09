@@ -1,0 +1,16 @@
+label: 59
+question: プログラムの処理手順を図式を用いて視覚的に表したものはどれか。
+choice:
+  - label: ア
+    text: ガントチャート
+  - label: イ
+    text: データフローダイアグラム
+  - label: ウ
+    text: フローチャート
+  - label: エ
+    text: レーダチャート
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

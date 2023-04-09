@@ -1,0 +1,16 @@
+label: 72
+question: 二つの2進数01011010との01101011を加算して得られる2進数はどれか。ここで，2進数は値が正の8ビットで表現するものとする。
+choice:
+  - label: ア
+    text: '00110001'
+  - label: イ
+    text: '01111011'
+  - label: ウ
+    text: '10000100'
+  - label: エ
+    text: '11000101'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 22
+question: 人工知能の活用事例として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 運転手が関与せずに，自動車の加速，操縦，制動の全てをシステムが行う。
+  - label: イ
+    text: オフィスの自席にいながら，会議室やトイレの空き状況がリアルタイムに分かる。
+  - label: ウ
+    text: 銀行のような中央管理者を置かなくても，分散型の合意形成技術によって，取引の承認を行う。
+  - label: エ
+    text: 自宅のPCから事前に入力し，窓口に行かなくても自動で振替や振込を行う。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 76
+question: バイオメトリクス認証に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 指紋や静脈を使用した認証は，のぞき見行為によって容易に認証情報が漏えいする。
+  - label: イ
+    text: 装置が大型なので，携帯電話やスマートフォンには搭載できない。
+  - label: ウ
+    text: 他人を本人と誤って認証してしまうリスクがない。
+  - label: エ
+    text: 筆跡やキーストロークなどの本人の行動的特徴を利用したものも含まれる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

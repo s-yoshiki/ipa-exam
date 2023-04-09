@@ -1,0 +1,16 @@
+label: 21
+question: 横軸に相対マーケットシェア，縦軸に市場成長率を用いて自社の製品や事業の戦略的位置付けを分析する手法はどれか。
+choice:
+  - label: ア
+    text: ABC分析
+  - label: イ
+    text: PPM分析
+  - label: ウ
+    text: SWOT分析
+  - label: エ
+    text: バリューチェーン分析
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

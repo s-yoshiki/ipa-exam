@@ -1,0 +1,16 @@
+label: 32
+question: 品質管理において，測定値の存在する範囲を幾つかの区間に分け，各区間に入るデータの度数を棒グラフで表したものはどれか。
+choice:
+  - label: ア
+    text: 管理図
+  - label: イ
+    text: 特性要因図
+  - label: ウ
+    text: パレート図
+  - label: エ
+    text: ヒストグラム
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

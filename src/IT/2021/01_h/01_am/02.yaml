@@ -1,0 +1,16 @@
+label: 2
+question: 国際標準化機関に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: ICANNは，工業や科学技術分野の国際標準化機関である。
+  - label: イ
+    text: IECは，電子商取引分野の国際標準化機関である。
+  - label: ウ
+    text: IEEEは，会計分野の国際標準化機関である。
+  - label: エ
+    text: ITUは，電気通信分野の国際標準化機関である。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

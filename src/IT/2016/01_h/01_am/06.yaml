@@ -1,0 +1,17 @@
+label: 6
+question: >-
+  情報システムの構築に当たり，要件定義から開発作業までを外部に委託し，開発したシステムの運用は自社で行いたい。委託の際に利用するサービスとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: SaaS(Software as a Service)
+  - label: イ
+    text: システムインテグレーションサービス
+  - label: ウ
+    text: ハウジングサービス
+  - label: エ
+    text: ホスティングサービス
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

@@ -1,0 +1,23 @@
+label: 22
+question: |-
+  企業の活動a～dのうち，コンプライアンスの確立に関するものだけを全て挙げたものはどれか。  
+    
+
+  1.  芸術や文化活動を支援する。
+  2.  従業員に対して行動規範の教育を行う。
+  3.  地球の砂漠化防止の取組みを行う。
+  4.  内部通報の仕組みを作る。
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: b，d
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

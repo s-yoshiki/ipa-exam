@@ -1,0 +1,17 @@
+label: 59
+question: >-
+  仮想記憶を利用したコンピュータで，主記憶と補助記憶の間で内容の入替えが頻繁に行われていることが原因で処理性能が低下していることが分かった。この処理性能が低下している原因を除去する対策として，最も適切なものはどれか。ここで，このコンピュータの補助記憶装置は1台だけである。
+choice:
+  - label: ア
+    text: 演算能力の高いCPUと交換する。
+  - label: イ
+    text: 仮想記憶の容量を増やす。
+  - label: ウ
+    text: 主記憶装置の容量を増やす。
+  - label: エ
+    text: 補助記憶装置を大きな容量の装置に交換する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

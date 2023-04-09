@@ -1,0 +1,16 @@
+label: 41
+question: SLAの合意内容を達成するために，サービス状況のモニタリングやレビューなどを通じてサービスレベルの維持や向上を図る活動を何というか。
+choice:
+  - label: ア
+    text: CSR
+  - label: イ
+    text: ERP
+  - label: ウ
+    text: SLM
+  - label: エ
+    text: SWOT
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

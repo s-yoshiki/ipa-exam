@@ -1,0 +1,19 @@
+label: 60
+question: >-
+  支店ごとの月別の売上データを評価する。各月の各支店の"評価"欄に，該当支店の売上額がA～C支店の該当月の売上額の平均値を下回る場合に文字"×"
+  を，平均値以上であれば文字"○"を表示したい。セル C3 に入力する式として，適切なものはどれか。ここで，セル C3 に入力した式は，セル D3，セル
+  E3，セル C5～E5，セル C7～E7 に複写して利用するものとする。
+choice:
+  - label: ア
+    text: IF($C2＜平均(C2:E2)，'○'，'×')
+  - label: イ
+    text: IF($C2＜平均(C2:E2)，'×'，'○')
+  - label: ウ
+    text: IF(C2＜平均($C2:$E2)，'○'，'×')
+  - label: エ
+    text: IF(C2＜平均($C2:$E2)，'×'，'○')
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 24
+question: 顧客の購買行動を分析する手法の一つであるRFM分析で用いる指標で，Rが示すものはどれか。ここで，括弧内は具体的な項目の例示である。
+choice:
+  - label: ア
+    text: Reaction(アンケート好感度)
+  - label: イ
+    text: Recency(最終購買日)
+  - label: ウ
+    text: Request(要望)
+  - label: エ
+    text: Respect(ブランド信頼度)
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

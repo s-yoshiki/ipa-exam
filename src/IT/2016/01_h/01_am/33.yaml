@@ -1,0 +1,17 @@
+label: 33
+question: >-
+  地点Xから出発してA，B，Cの3地点の全てを経由して地点Yまで行きたい。各地点間の経路と所要時間が図及び表のとおりであるとき，地点Xから地点Yまで行く最短の時間は何分か。ここで，3地点A，B，Cはどのような順番で経由してもよいものとする。
+choice:
+  - label: ア
+    text: '110'
+  - label: イ
+    text: '130'
+  - label: ウ
+    text: '140'
+  - label: エ
+    text: '150'
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

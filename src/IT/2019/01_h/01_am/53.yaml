@@ -1,0 +1,23 @@
+label: 53
+question: |-
+  50本のプログラム開発をA社又はB社に委託することにした。開発期間が短い会社と開発コストが低い会社の組合せはどれか。  
+    
+  〔前提〕
+
+  *   A社　生産性：プログラム1本を2日で作成　コスト:4万円／日
+  *   B社　生産性：プログラム1本を3日で作成　コスト:3万円／日
+  *   プログラムは1本ずつ順に作成する。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: M
+figureText: ''

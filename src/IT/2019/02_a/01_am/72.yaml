@@ -1,0 +1,17 @@
+label: 72
+question: >-
+  3人の候補者の中から兼任も許す方法で委員長と書記を1名ずつ選ぶ場合，3人の中から委員長1名の選び方が3通りで，3人の中から書記1名の選び方が3通りであるので，委員長と書記の選び方は全部で9通りある。5人の候補者の中から兼任も許す方法で委員長と書記を1名ずつ選ぶ場合，選び方は何通りあるか。
+choice:
+  - label: ア
+    text: '5'
+  - label: イ
+    text: '10'
+  - label: ウ
+    text: '20'
+  - label: エ
+    text: '25'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

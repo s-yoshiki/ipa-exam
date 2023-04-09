@@ -1,0 +1,16 @@
+label: 51
+question: 情報システムに関するファシリティマネジメントの施策として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 打合せの場において，参加者の合意形成をサポートするスキルの獲得
+  - label: イ
+    text: サーバ室内の設備を，省エネ機器へ交換することによる維持コストの低減
+  - label: ウ
+    text: 相談窓口の設置によるソフトウェア製品に関するクレームへの対応
+  - label: エ
+    text: 部品調達先との生産計画の共有化による製品在庫数の削減
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

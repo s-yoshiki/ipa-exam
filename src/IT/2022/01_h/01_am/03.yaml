@@ -1,0 +1,16 @@
+label: 3
+question: ゲーム機，家電製品などに搭載されている，ハードウェアの基本的な制御を行うためのソフトウェアはどれか。
+choice:
+  - label: ア
+    text: グループウェア
+  - label: イ
+    text: シェアウェア
+  - label: ウ
+    text: ファームウェア
+  - label: エ
+    text: ミドルウェア
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

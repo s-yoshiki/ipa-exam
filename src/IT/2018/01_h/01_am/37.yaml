@@ -1,0 +1,16 @@
+label: 37
+question: システム開発プロジェクトにおける，プロジェクト人的資源マネジメントの活動として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 外部設計で作成する成果物の種類を決める。
+  - label: イ
+    text: 結合テストのスケジュールを作成する。
+  - label: ウ
+    text: システム要件定義を行うための人件費を見積もる。
+  - label: エ
+    text: プログラミングのスキルを高めるためのトレーニングを行う。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

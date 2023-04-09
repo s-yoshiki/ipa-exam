@@ -1,0 +1,16 @@
+label: 11
+question: 情報システム戦略において定義した目標の達成状況を測定するために，重要な業績評価の指標を示す用語はどれか。
+choice:
+  - label: ア
+    text: BPO
+  - label: イ
+    text: CSR
+  - label: ウ
+    text: KPI
+  - label: エ
+    text: ROA
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 71
+question: >-
+  図1のように二つの正の整数A1，A2を入力すると，二つの数値B1，B2を出力するボックスがある。B1はA2と同じ値であり，B2はA1をA2で割った余りである。図2のように，このボックスを2個つないだ構成において，左側のボックスのA1として49，A2として11を入力したとき，右側のボックスから出力されるB2の値は幾らか。
+choice:
+  - label: ア
+    text: '1'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '4'
+  - label: エ
+    text: '5'
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

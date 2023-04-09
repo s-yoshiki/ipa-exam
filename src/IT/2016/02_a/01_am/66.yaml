@@ -1,0 +1,16 @@
+label: 66
+question: 個人の身体的，行動的特徴を用いた認証であり，認証のために個人が情報を記憶したり，物を所持したりする必要はないが，認証用の特別な装置が必要なものはどれか。
+choice:
+  - label: ア
+    text: 公的個人認証
+  - label: イ
+    text: 送信ドメイン認証
+  - label: ウ
+    text: バイオメトリクス認証
+  - label: エ
+    text: ライセンス認証
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

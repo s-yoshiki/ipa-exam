@@ -1,0 +1,17 @@
+label: 12
+question: >-
+  表は，シュウマイ弁当の原材料表の一部である。100個のシュウマイ弁当を製造するために必要な豚肉の量は何グラムか。ここで，このシュウマイ弁当にはシュウマイ以外に豚肉を使う料理は入っていないものとし，製造過程での原材料のロスはないものとする。
+choice:
+  - label: ア
+    text: 1,200
+  - label: イ
+    text: 3,000
+  - label: ウ
+    text: 6,000
+  - label: エ
+    text: 30,000
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

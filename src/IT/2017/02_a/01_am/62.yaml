@@ -1,0 +1,16 @@
+label: 62
+question: 関係データベースのデータを正規化することによって得られる効果として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 異機種のコンピュータ間でのデータの互換性の確保
+  - label: イ
+    text: データ圧縮処理による格納効率の向上
+  - label: ウ
+    text: データの重複や矛盾の排除
+  - label: エ
+    text: データを格納した装置の障害に備えたバックアップの省略
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

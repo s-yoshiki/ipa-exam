@@ -1,0 +1,16 @@
+label: 11
+question: RPA(Robotic Process Automation)の特徴として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 新しく設計した部品を少ロットで試作するなど，工場での非定型的な作業に適している。
+  - label: イ
+    text: 同じ設計の部品を大量に製造するなど，工場での定型的な作業に適している。
+  - label: ウ
+    text: システムエラー発生時に，状況に応じて実行する処理を選択するなど，PCで実施する非定型的な作業に適している。
+  - label: エ
+    text: 受注データの入力や更新など，PCで実施する定型的な作業に適している。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

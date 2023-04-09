@@ -1,0 +1,25 @@
+label: 49
+question: >-
+  リスクマネジメントを推進するために，リスクマネジメントシステムの実行計画を最初に策定した。その後に行う活動を次の a～c
+  に分けて行うとき，PDCAサイクルに従った実施順序として，適切なものはどれか。  
+    
+
+  1.  実行計画に従ってリスク対策を実施する。
+
+  2.  実施の効果を測定し，リスクマネジメントシステムの有効性を評価する。
+
+  3.  リスクマネジメントシステムに関する是正・改善措置を実施する。
+choice:
+  - label: ア
+    text: a → b → c
+  - label: イ
+    text: a → c → b
+  - label: ウ
+    text: c → a → b
+  - label: エ
+    text: c → b → a
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

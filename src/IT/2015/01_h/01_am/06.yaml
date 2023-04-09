@@ -1,0 +1,16 @@
+label: 6
+question: ビジネスに関わるあらゆる情報を蓄積し，その情報を経営者や社員が自ら分析し，分析結果を経営や事業推進に役立てるといった概念はどれか。
+choice:
+  - label: ア
+    text: BI
+  - label: イ
+    text: BPR
+  - label: ウ
+    text: EA
+  - label: エ
+    text: SOA
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

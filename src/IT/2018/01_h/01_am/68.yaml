@@ -1,0 +1,16 @@
+label: 68
+question: 企業のネットワークにおいて，DMZ(非武装地帯)ではなく，企業内LANに設置すベきサーバはどれか。
+choice:
+  - label: ア
+    text: 社外から電子メールを受け取るメールサーバ
+  - label: イ
+    text: 社外に公開するサーバのIPアドレスを登録したDNSサーバ
+  - label: ウ
+    text: 社外秘の機密情報を格納するファイルサーバ
+  - label: エ
+    text: 社外向け情報を公開するWebサーバ
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

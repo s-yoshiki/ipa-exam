@@ -1,0 +1,16 @@
+label: 14
+question: ブルーオーシャン戦略の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 新しい価値を提供することによって，競争のない新たな市場を生み出す。
+  - label: イ
+    text: 売れ筋商品以外の商品も幅広く取り扱うことによって，販売機会の増大を図る。
+  - label: ウ
+    text: 業界のトップ企業が提供する製品との差別化を徹底的に進める。
+  - label: エ
+    text: コスト削減によって競合他社に対する優位性を築く。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

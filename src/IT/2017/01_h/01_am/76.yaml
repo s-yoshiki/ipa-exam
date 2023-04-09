@@ -1,0 +1,22 @@
+label: 76
+question: |-
+  バイオメトリクス認証に関する記述a～c のうち，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  認証装置が大型なこともあり，ノートPCや携帯端末では利用されない。
+  2.  利用者にとってパスワードを記憶する負担がない。
+  3.  利用者の身体的特徴や，筆圧などの行動上の特徴を利用している。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: a，c
+  - label: エ
+    text: b，c
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

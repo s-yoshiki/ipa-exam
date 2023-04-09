@@ -1,0 +1,17 @@
+label: 31
+question: >-
+  利用者と提供者をマッチングさせることによって，個人や企業が所有する自動車，住居，衣服などの使われていない資産を他者に貸与したり，提供者の空き時間に買い物代行，語学レッスンなどの役務を提供したりするサービスや仕組みはどれか。
+choice:
+  - label: ア
+    text: クラウドコンピューティング
+  - label: イ
+    text: シェアリングエコノミー
+  - label: ウ
+    text: テレワーク
+  - label: エ
+    text: ワークシェアリング
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

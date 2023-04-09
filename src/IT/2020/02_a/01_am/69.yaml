@@ -1,0 +1,16 @@
+label: 69
+question: ISMSの確立，実施，維持及び継続的改善における次の実施項目のうち，最初に行うものはどれか。
+choice:
+  - label: ア
+    text: 情報セキュリティリスクアセスメント
+  - label: イ
+    text: 情報セキュリティリスク対応
+  - label: ウ
+    text: 内部監査
+  - label: エ
+    text: 利害関係者のニーズと期待の理解
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 67
+question: サイバー攻撃の<u>例ではないもの</u>はどれか。
+choice:
+  - label: ア
+    text: 機密情報の取得を目的として，オフィスから廃棄された記録メディアをあさる。
+  - label: イ
+    text: サーバの脆弱性を利用して，Webサイトに侵入してデータを改ざんする。
+  - label: ウ
+    text: 大量のアクセスを集中させて，サービスを停止させる。
+  - label: エ
+    text: バックドアを利用して，他人のPCを遠隔操作する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

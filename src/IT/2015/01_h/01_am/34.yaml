@@ -1,0 +1,16 @@
+label: 34
+question: 自社で使用する情報システムの開発を外部へ委託した。受入れテストに関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 委託先が行うシステムテストで不具合が報告されない場合，受入れテストを実施せずに合格とする。
+  - label: イ
+    text: 委託先に受入れテストの計画と実施を依頼しなければならない。
+  - label: ウ
+    text: 委託先の支援を受けるなどし，自社が受入れテストを実施する。
+  - label: エ
+    text: 自社で受入れテストを実施し，委託先がテスト結果の合否を判定する。
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

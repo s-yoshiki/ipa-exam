@@ -1,0 +1,16 @@
+label: 23
+question: CADを活用した業務改善の事例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 商品にICタグを取り付け，出荷監視することによって，在庫管理を自動化する。
+  - label: イ
+    text: 生産ラインに温度センサを設置し，温度監視を行って，生産に適した温度が維持されるように制御する。
+  - label: ウ
+    text: 設計情報をデータベース化しておき，設計図面を共有・再利用する。
+  - label: エ
+    text: ロポットを利用して生産ラインを自動化し，工場を無人化する。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

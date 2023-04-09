@@ -1,0 +1,16 @@
+label: 26
+question: 職能別組織を説明したものはどれか。
+choice:
+  - label: ア
+    text: ある問題を解決するために必要な機能だけを集めて一定の期間に限って結成し，問題解決とともに解散する組織
+  - label: イ
+    text: 業務を専門的な機能に分け，各機能を単位として構成する組織
+  - label: ウ
+    text: 製品，地域などを単位として，事業の利益責任をもつように構成する組織
+  - label: エ
+    text: 製品や機能などの単位を組み合わせることによって，縦と横の構造をもつように構成する組織
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

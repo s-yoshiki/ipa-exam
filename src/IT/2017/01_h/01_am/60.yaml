@@ -1,0 +1,16 @@
+label: 60
+question: 情報セキュリティにおける脅威と脆(ぜい)弱性のうち，脆弱性に該当するものはどれか。
+choice:
+  - label: ア
+    text: コンピュータウイルス
+  - label: イ
+    text: ソーシャルエンジニアリング
+  - label: ウ
+    text: 通信データの盗聴
+  - label: エ
+    text: 不適切なパスワード管理
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

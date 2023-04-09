@@ -1,0 +1,16 @@
+label: 1
+question: 著作者の権利である著作権が発生するのはどの時点か。
+choice:
+  - label: ア
+    text: 著作物を創作したとき
+  - label: イ
+    text: 著作物を他人に譲渡したとき
+  - label: ウ
+    text: 著作物を複製したとき
+  - label: エ
+    text: 著作物を文化庁に登録したとき
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

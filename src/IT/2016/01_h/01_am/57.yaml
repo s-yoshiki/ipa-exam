@@ -1,0 +1,16 @@
+label: 57
+question: 情報セキュリティにおけるPKIに必要不可欠な構成要素はどれか。
+choice:
+  - label: ア
+    text: VPN
+  - label: イ
+    text: 認証局
+  - label: ウ
+    text: バイオメトリクス認証
+  - label: エ
+    text: ファイアウォール
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

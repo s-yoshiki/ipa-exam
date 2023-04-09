@@ -1,0 +1,17 @@
+label: 20
+question: >-
+  クラウドコンピューティング環境では，インターネット上にあるアプリケーションやサーバなどの情報資源を，物理的な存在場所を意識することなく利用することが可能である。次のサービスのうち，このクラウドコンピューティング環境で提供されるサービスとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: SaaS
+  - label: イ
+    text: エスクロー
+  - label: ウ
+    text: システムインテグレーション
+  - label: エ
+    text: ハウジング
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

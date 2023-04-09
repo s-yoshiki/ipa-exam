@@ -1,0 +1,16 @@
+label: 46
+question: 過去の類似プロジェクトのコスト実績を用いて，新たに開始するプロジェクトのコストを類推し見積もった。このようなコスト見積り方法の特徴はどれか。
+choice:
+  - label: ア
+    text: 詳細情報から積み上げる見積り方法より作業負荷が大きい。
+  - label: イ
+    text: プロジェクトの初期より後期の段階で活用されることが多い。
+  - label: ウ
+    text: 他の見積り方法より正確なコスト見積り結果が期待できる。
+  - label: エ
+    text: 他の見積り方法より見積りに要する費用は少ないが，正確さでは劣る。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 47
+question: サービス提供者が行う活動のうち，稼働率の向上に有効なものはどれか。
+choice:
+  - label: ア
+    text: 応答時間の計測
+  - label: イ
+    text: 障害発生の監視
+  - label: ウ
+    text: 組織で使用しているサーバ構成の管理
+  - label: エ
+    text: プログラムの修正履歴の記録
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

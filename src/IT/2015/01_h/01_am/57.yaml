@@ -1,0 +1,16 @@
+label: 57
+question: OSS(Open Source Software)であるメールソフトはどれか。
+choice:
+  - label: ア
+    text: Android
+  - label: イ
+    text: Firefox
+  - label: ウ
+    text: MySQL
+  - label: エ
+    text: Thunderbird
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

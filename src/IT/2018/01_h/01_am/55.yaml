@@ -1,0 +1,17 @@
+label: 55
+question: >-
+  1,800万円の予算でプログラムを60本作成するプロジェクトにおいて，開始後20日経った現在の状況を確認したところ，60本中40本のプログラムが完成し，1,500万円のコストが掛かっていた。このままプロジェクトを進めた場合，予算に対する超過コストは何万円か。ここで，プログラムの規模及び生産性は全て同じであるとする。
+choice:
+  - label: ア
+    text: '300'
+  - label: イ
+    text: '450'
+  - label: ウ
+    text: '600'
+  - label: エ
+    text: '750'
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

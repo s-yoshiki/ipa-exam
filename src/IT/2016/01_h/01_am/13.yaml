@@ -1,0 +1,16 @@
+label: 13
+question: BPM(Business Process Management)の考えに基づいた業務改善に関する説明として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 企業内のデータを統合し，これを用いて業務上の意思決定の支援を図る。
+  - label: イ
+    text: 業務と経営資源を統合的に管理し，経営資源の活用方法の改善を図る。
+  - label: ウ
+    text: 業務の実行結果などから業務プロセス自体を見直し，継続的な改善を図る。
+  - label: エ
+    text: 業務プロセスの分業化を進め，作業効率の向上を図る。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

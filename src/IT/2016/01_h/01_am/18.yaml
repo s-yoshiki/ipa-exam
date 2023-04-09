@@ -1,0 +1,17 @@
+label: 18
+question: >-
+  組立生産される製品W，X，Y，Zの1個当たりの利益，1個当たりの組立作業時間，組立作業1分当たりの利益，1週間の最大生産可能数は表のとおりである。1週間の利益を最大にするように生産計画を立てるとき，製品Zの生産個数は幾つか。ここで，1週間の総組立作業時間は40時間であり，製品W，X，Y，Zの全てを生産する必要はなく，同時には一つの製品しか組立生産できないものとする。
+choice:
+  - label: ア
+    text: '0'
+  - label: イ
+    text: '8'
+  - label: ウ
+    text: '20'
+  - label: エ
+    text: '45'
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

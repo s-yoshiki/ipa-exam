@@ -1,0 +1,16 @@
+label: 79
+question: ファイルのあるレコードが変更されたときに，変更された内容を特定する方法として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ファイルのサイズ及び更新日時を記録しておく。
+  - label: イ
+    text: ファイルの複製をとっておき，後で照合する。
+  - label: ウ
+    text: レコードの件数をファイル内に記録しておく。
+  - label: エ
+    text: レコードをキー項目で昇順に並べておく。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

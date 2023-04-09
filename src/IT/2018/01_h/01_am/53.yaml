@@ -1,0 +1,16 @@
+label: 53
+question: 情報システムの施設や設備を維持・保全するファシリティマネジメントの施策として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 自家発電装置の適切な発電可能時間を維持するために，燃料の補充計画を見直す。
+  - label: イ
+    text: 自社のソフトウェアを一元管理するために，資産管理ソフトウェアを導入する。
+  - label: ウ
+    text: PCの不正利用を防止するために，スクリーンセーバの設定方法を標準化する。
+  - label: エ
+    text: 不正アクセス防止を強化するために，ファイアウォールの設定内容を見直す。
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

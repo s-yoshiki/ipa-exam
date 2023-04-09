@@ -1,0 +1,17 @@
+label: 78
+question: >-
+  通信プロトコルとしてTCP/IPを用いるVPNには，インターネットを使用するインターネットVPNや通信事業者の独自ネットワークを使用するIP-VPNなどがある。インターネットVPNではできないが，IP-VPNではできることはどれか。
+choice:
+  - label: ア
+    text: IP電話を用いた音声通話
+  - label: イ
+    text: 帯域幅などの通信品質の保証
+  - label: ウ
+    text: 盗聴，改ざんの防止
+  - label: エ
+    text: 動画の配信
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

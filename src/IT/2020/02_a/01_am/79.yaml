@@ -1,0 +1,22 @@
+label: 79
+question: |-
+  次の①～④のうち，電源供給が途絶えると記憶内容が消える揮発性のメモリだけを全て挙げたものはどれか。
+
+  1.  DRAM
+  2.  ROM
+  3.  SRAM
+  4.  SSD
+choice:
+  - label: ア
+    text: ①，②
+  - label: イ
+    text: ①，③
+  - label: ウ
+    text: ②，④
+  - label: エ
+    text: ③，④
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

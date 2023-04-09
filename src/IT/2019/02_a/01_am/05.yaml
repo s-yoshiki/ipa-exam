@@ -1,0 +1,16 @@
+label: 5
+question: 材料調達から商品販売までの流れを一括管理して，供給の最適化を目指すシステムはどれか。
+choice:
+  - label: ア
+    text: ASP
+  - label: イ
+    text: CRM
+  - label: ウ
+    text: ERP
+  - label: エ
+    text: SCM
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

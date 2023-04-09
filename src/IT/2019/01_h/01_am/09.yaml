@@ -1,0 +1,16 @@
+label: 9
+question: 著作権法の保護対象として，適切なものはどれか。
+choice:
+  - label: ア
+    text: プログラム内の情報検索機能に関するアルゴリズム
+  - label: イ
+    text: プログラムの処理内容を記述したプログラム仕様書
+  - label: ウ
+    text: プログラムを作成するためのコーディングルール
+  - label: エ
+    text: プログラムをほかのシステムが使うためのインタフェース規約
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

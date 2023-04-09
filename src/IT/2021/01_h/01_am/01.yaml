@@ -1,0 +1,16 @@
+label: 1
+question: E-R図を使用してデータモデリングを行う理由として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務上でのデータのやり取りを把握し，ワークフローを明らかにする。
+  - label: イ
+    text: 現行業務でのデータの流れを把握し，業務遂行上の問題点を明らかにする。
+  - label: ウ
+    text: 顧客や製品といった業務の管理対象間の関係を図示し，その業務上の意味を明らかにする。
+  - label: エ
+    text: データ項目を詳細に検討し，データベースの実装方法を明らかにする。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 19
+question: >-
+  特定の目的の達成や課題の解決をテーマとして，ソフトウェアの開発者や企画者などが短期集中的にアイディアを出し合い，ソフトウェアの開発などの共同作業を行い，成果を競い合うイベントはどれか。
+choice:
+  - label: ア
+    text: コンベンション
+  - label: イ
+    text: トレードフェア
+  - label: ウ
+    text: ハッカソン
+  - label: エ
+    text: レセプション
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

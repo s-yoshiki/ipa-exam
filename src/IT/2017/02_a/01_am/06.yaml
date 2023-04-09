@@ -1,0 +1,16 @@
+label: 6
+question: 社内でPDCAサイクルを継続的に適用するという方法によって，製造部門における歩留りの向上を実現した。この事例が示すような業務改善の考え方を示す用語はどれか。
+choice:
+  - label: ア
+    text: ASP
+  - label: イ
+    text: BPM
+  - label: ウ
+    text: BPO
+  - label: エ
+    text: SFA
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

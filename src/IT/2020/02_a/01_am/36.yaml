@@ -1,0 +1,16 @@
+label: 36
+question: 納入されたソフトウェアの一連のテストの中で，開発を発注した利用者が主体となって実施するテストはどれか。
+choice:
+  - label: ア
+    text: 受入れテスト
+  - label: イ
+    text: 結合テスト
+  - label: ウ
+    text: システムテスト
+  - label: エ
+    text: 単体テスト
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

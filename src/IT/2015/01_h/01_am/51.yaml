@@ -1,0 +1,16 @@
+label: 51
+question: 互換CPUに関する記述のうち，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: オリジナルのCPUで動作するのと同じOSやアプリケーションソフトを動作させることができる。
+  - label: イ
+    text: オリジナルのCPUの特許が有効な期間は，開発・製造することはできない。
+  - label: ウ
+    text: シングルコアCPUに対応する互換CPUは開発されているが，マルチコアCPUに対応する互換CPUは存在しない。
+  - label: エ
+    text: 古くなったPCの性能を向上させるために用いられるCPUであり，新製品のPCに採用されることはない。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

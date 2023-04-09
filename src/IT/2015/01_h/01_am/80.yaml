@@ -1,0 +1,17 @@
+label: 80
+question: >-
+  プリンタへの出力処理において，ハードディスクに全ての出力データを一時的に書き込み，プリンタの処理速度に合わせて少しずつ出力処理をさせることで，CPUをシステム全体で効率的に利用する機能はどれか。
+choice:
+  - label: ア
+    text: アドオン
+  - label: イ
+    text: スプール
+  - label: ウ
+    text: デフラグ
+  - label: エ
+    text: プラグアンドプレイ
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

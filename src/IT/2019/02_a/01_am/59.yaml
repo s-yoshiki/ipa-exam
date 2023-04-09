@@ -1,0 +1,17 @@
+label: 59
+question: >-
+  複数の取引記録をまとめたデータを順次作成するときに，そのデータに直前のデータのハッシュ値を埋め込むことによって，データを相互に関連付け，取引記録を矛盾なく改ざんすることを困難にすることで，データの信頼性を高める技術はどれか。
+choice:
+  - label: ア
+    text: LPWA
+  - label: イ
+    text: SDN
+  - label: ウ
+    text: エッジコンピューティング
+  - label: エ
+    text: ブロックチェーン
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

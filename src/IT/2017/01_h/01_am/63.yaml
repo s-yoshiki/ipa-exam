@@ -1,0 +1,16 @@
+label: 63
+question: 情報セキュリティのリスクマネジメントをリスク特定，リスク分析，リスク評価，リスク対応に分けたときに，リスク対応に含まれるものはどれか。
+choice:
+  - label: ア
+    text: 組織に存在するリスクを洗い出す。
+  - label: イ
+    text: リスクの大きさとリスク受容基準を比較して，対策実施の必要性を判断する。
+  - label: ウ
+    text: リスクの発生確率と影響度から，リスクの大きさを算定する。
+  - label: エ
+    text: リスクへの対処方法を選択し，具体的な管理策の計画を立てる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

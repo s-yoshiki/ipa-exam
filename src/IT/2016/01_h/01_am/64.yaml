@@ -1,0 +1,17 @@
+label: 64
+question: >-
+  SQLインジェクションの対策などで用いられ，処理の誤動作を招かないように，利用者がWebサイトに入力した内容に含まれる有害な文字列を無害な文字列に置き換えることを何と呼ぶか。
+choice:
+  - label: ア
+    text: サニタイジング
+  - label: イ
+    text: ストリーミング
+  - label: ウ
+    text: テザリング
+  - label: エ
+    text: リバースエンジニアリング
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

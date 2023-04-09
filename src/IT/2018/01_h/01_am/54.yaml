@@ -1,0 +1,17 @@
+label: 54
+question: >-
+  一般的なウォータフォールモデルで開発を行うプロジェクトにおいて，プロジェクトの経過とともに必要となる要員の数と，変更や間違いが発生したときに訂正作業に掛かる1件当たりのコストについて図にしたもののうち，適切な組合せはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: M
+figureText: ''

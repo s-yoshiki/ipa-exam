@@ -1,0 +1,16 @@
+label: 64
+question: CPU内部にある高速小容量の記憶回路であり，演算や制御に関わるデータを一時的に記憶するのに用いられるものはどれか。
+choice:
+  - label: ア
+    text: GPU
+  - label: イ
+    text: SSD
+  - label: ウ
+    text: 主記憶
+  - label: エ
+    text: レジスタ
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

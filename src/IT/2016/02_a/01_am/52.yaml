@@ -1,0 +1,16 @@
+label: 52
+question: プロジェクトが発足したときに，プロジェクトマネージャがプロジェクト運営を行うために作成するものはどれか。
+choice:
+  - label: ア
+    text: 提案依頼書
+  - label: イ
+    text: プロジェクト実施報告書
+  - label: ウ
+    text: プロジェクトマネジメント計画書
+  - label: エ
+    text: 要件定義書
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

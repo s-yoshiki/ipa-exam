@@ -1,0 +1,16 @@
+label: 67
+question: TCP/IPにおけるポート番号によって識別されるものはどれか。
+choice:
+  - label: ア
+    text: LANに接続されたコンピュータや通信機器のLANインタフェース
+  - label: イ
+    text: インターネットなどのIPネットワークに接続したコンピュータや通信機器
+  - label: ウ
+    text: コンピュータ上で動作している通信アプリケーション
+  - label: エ
+    text: 無線LANのネットワーク
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

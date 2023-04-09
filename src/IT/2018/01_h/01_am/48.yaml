@@ -1,0 +1,16 @@
+label: 48
+question: プロジェクトマネジメントにおけるWBSの作成に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 最下位の作業は1人が必ず1日で行える作業まで分解して定義する。
+  - label: イ
+    text: 最小単位の作業を一つずつ積み上げて上位の作業を定義する。
+  - label: ウ
+    text: 成果物を作成するのに必要な作業を分解して定義する。
+  - label: エ
+    text: 一つのプロジェクトでは全て同じ階層の深さに定義する。
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

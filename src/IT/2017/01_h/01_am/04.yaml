@@ -1,0 +1,17 @@
+label: 4
+question: >-
+  システムのライフサイクルを，企画プロセス，要件定義プロセス，開発プロセス，運用・保守プロセスに分けたとき，業務を実現させるためのシステムの機能を明らかにするプロセスとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: 企画プロセス
+  - label: イ
+    text: 要件定義プロセス
+  - label: ウ
+    text: 開発プロセス
+  - label: エ
+    text: 運用・保守プロセス
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

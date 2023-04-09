@@ -1,0 +1,16 @@
+label: 20
+question: 次の損益計算資料から求められる経常利益は何百万円か。
+choice:
+  - label: ア
+    text: '120'
+  - label: イ
+    text: '190'
+  - label: ウ
+    text: '200'
+  - label: エ
+    text: '210'
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

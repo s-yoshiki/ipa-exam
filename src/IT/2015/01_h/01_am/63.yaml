@@ -1,0 +1,16 @@
+label: 63
+question: 社内の情報セキュリティ教育に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 再教育は，情報システムを入れ替えたときだけ実施する。
+  - label: イ
+    text: 新入社員へは，業務に慣れた後に実施する。
+  - label: ウ
+    text: 対象は，情報資産にアクセスする社員だけにする。
+  - label: エ
+    text: 内容は，社員の担当業務，役割及び責任に応じて変更する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

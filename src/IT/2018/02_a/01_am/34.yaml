@@ -1,0 +1,16 @@
+label: 34
+question: 営業部門の組織力強化や営業活動の効率化を実現するために導入する情報システムとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: MRP
+  - label: イ
+    text: POS
+  - label: ウ
+    text: SCM
+  - label: エ
+    text: SFA
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

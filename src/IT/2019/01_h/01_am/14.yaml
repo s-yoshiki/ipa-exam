@@ -1,0 +1,17 @@
+label: 14
+question: >-
+  技術と経営の両面に精通し，組織横断的な事業推進能力を兼ね備えた人材を育成するプログラムが大学などの教育機関で開講されている。このような教育プログラムの背景にある，技術に立脚する事業を行う組織が，技術がもつ可能性を見極めてイノベーションを創出し，経済的価値の最大化を目指す経営の考え方を表すものとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: BPR
+  - label: イ
+    text: CSR
+  - label: ウ
+    text: HRM
+  - label: エ
+    text: MOT
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

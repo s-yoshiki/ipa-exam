@@ -1,0 +1,16 @@
+label: 18
+question: システム開発において作成されるRFPに記載される情報に関する記述として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ITベンダが発注側企業に，開発期間の見積りを示す。
+  - label: イ
+    text: ITベンダが発注側企業に，調達条件を示す。
+  - label: ウ
+    text: 発注側企業がITベンダに，導入システムの概要を示す。
+  - label: エ
+    text: 発注側企業がITベンダに，開発体制を示す。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

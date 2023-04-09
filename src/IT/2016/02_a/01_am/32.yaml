@@ -1,0 +1,16 @@
+label: 32
+question: データベース化された顧客情報を活用し，優良顧客を抽出する方法として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 3C分析
+  - label: イ
+    text: RFM分析
+  - label: ウ
+    text: SWOT分析
+  - label: エ
+    text: バリューチェーン分析
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

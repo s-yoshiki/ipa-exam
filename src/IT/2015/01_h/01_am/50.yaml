@@ -1,0 +1,16 @@
+label: 50
+question: 建物の中など，限定された範囲内を対象に構築する通信ネットワークはどれか。
+choice:
+  - label: ア
+    text: IP-VPN
+  - label: イ
+    text: LAN
+  - label: ウ
+    text: WAN
+  - label: エ
+    text: 広域イーサネット
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

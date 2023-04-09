@@ -1,0 +1,16 @@
+label: 30
+question: 店舗での陳列，販促キャンペーンなど，消費者のニーズに合致するような形態で商品を提供するために行う一連の活動を示す用語として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ターゲティング
+  - label: イ
+    text: ドミナント戦略
+  - label: ウ
+    text: マーチャンダイジング
+  - label: エ
+    text: ロジスティックス
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

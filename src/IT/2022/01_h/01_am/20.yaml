@@ -1,0 +1,17 @@
+label: 20
+question: >-
+  あるデータを表現するために，1個のJANコードか1個のQRコードのどちらかの利用を検討する。表現できる最大のデータ量の大きい方を採用する場合，検討結果として，適切なものはどれか。
+choice:
+  - label: ア
+    text: JANコードを採用する。
+  - label: イ
+    text: QRコードを採用する。
+  - label: ウ
+    text: 表現する内容によって最大のデータ量は変化するので決められない。
+  - label: エ
+    text: 表現できる最大のデータ量は同じなので決められない。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

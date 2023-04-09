@@ -1,0 +1,16 @@
+label: 74
+question: スマートフォンを安全に利用するために行うこととして，適切なものはどれか。
+choice:
+  - label: ア
+    text: OSはアップデートせず，購入時の状態のままで利用する。
+  - label: イ
+    text: 権限昇格などの改造を行い，機能を強化する。
+  - label: ウ
+    text: パスワードによる画面のロック機能を設定する。
+  - label: エ
+    text: 有用と思うアプリケーションであれば，どのようなWebサイトからダウンロードしてもよい。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

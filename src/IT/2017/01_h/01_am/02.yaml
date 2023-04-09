@@ -1,0 +1,16 @@
+label: 2
+question: マーケティングミックスの検討に用いる考え方の一つであり，売り手側の視点を分類したものはどれか。
+choice:
+  - label: ア
+    text: 4C
+  - label: イ
+    text: 4P
+  - label: ウ
+    text: PPM
+  - label: エ
+    text: SWOT
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

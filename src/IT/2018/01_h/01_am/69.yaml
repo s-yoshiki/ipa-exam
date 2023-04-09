@@ -1,0 +1,16 @@
+label: 69
+question: 電子メールで使用されるS/MIMEの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: Webサイト上で電子メールの送受信を行うことで，利用者がWebブラウザから利用できるサービスである。
+  - label: イ
+    text: 電子証明書を使用して，メールソフト間で電子メールを安全に送受信するための規格である。
+  - label: ウ
+    text: メールサーバ間で電子メールを転送するためのプロトコルである。
+  - label: エ
+    text: メールソフトが電子メールを受信するためのプロトコルである。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

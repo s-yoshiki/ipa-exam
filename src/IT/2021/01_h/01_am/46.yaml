@@ -1,0 +1,16 @@
+label: 46
+question: システム要件定義で明確にするもののうち，性能に関する要件はどれか。
+choice:
+  - label: ア
+    text: 業務要件を実現するシステムの機能
+  - label: イ
+    text: システムの稼働率
+  - label: ウ
+    text: 照会機能の応答時間
+  - label: エ
+    text: 障害の復旧時間
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

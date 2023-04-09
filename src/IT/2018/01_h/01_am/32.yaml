@@ -1,0 +1,16 @@
+label: 32
+question: 情報セキュリティマネジメントシステムや品質マネジメントシステムなどの標準化を行っている国際標準化機構はどれか。
+choice:
+  - label: ア
+    text: ANSI
+  - label: イ
+    text: CEN
+  - label: ウ
+    text: ISO
+  - label: エ
+    text: JIS
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

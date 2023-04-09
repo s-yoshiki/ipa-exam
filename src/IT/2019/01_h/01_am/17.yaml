@@ -1,0 +1,16 @@
+label: 17
+question: 要件定義プロセスの不備に起因する問題はどれか。
+choice:
+  - label: ア
+    text: システム開発案件の費用対効果の誤った評価
+  - label: イ
+    text: システム開発案件の優先順位の誤った判断
+  - label: ウ
+    text: システム開発作業の委託先の不適切な選定手続
+  - label: エ
+    text: システムに盛り込む業務ルールの誤った解釈
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 68
+question: FTTHの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: IEEEが策定した無線通信の規格に準拠し，相互接続性が保証されていることを示すブランド名
+  - label: イ
+    text: アナログの電話線を用いて高速のディジタル通信を実現する技術
+  - label: ウ
+    text: インターネットなどでファイルを転送するときに使用するプロトコル
+  - label: エ
+    text: 光ファイバを使った家庭向けの通信サービスの形態
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

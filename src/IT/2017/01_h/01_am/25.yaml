@@ -1,0 +1,16 @@
+label: 25
+question: 企業が，異質，多様な人材の能力，経験，価値観を受け入れることによって，組織全体の活性化，価値創造力の向上を図るマネジメント手法はどれか。
+choice:
+  - label: ア
+    text: カスタマーリレーションシップマネジメント
+  - label: イ
+    text: ダイバーシティマネジメント
+  - label: ウ
+    text: ナレッジマネジメント
+  - label: エ
+    text: バリューチェーンマネジメント
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

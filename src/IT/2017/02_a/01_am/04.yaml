@@ -1,0 +1,16 @@
+label: 4
+question: 電子商取引の商品と代金の受け渡しにおいて，売り手と買い手の間に，信頼のおける第三者が介在することによって，取引の安全性を高めるサービスはどれか。
+choice:
+  - label: ア
+    text: アフィリエイト
+  - label: イ
+    text: エスクロー
+  - label: ウ
+    text: 逆オークション
+  - label: エ
+    text: ソーシャルネットワーキングサービス
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

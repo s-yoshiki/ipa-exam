@@ -1,0 +1,16 @@
+label: 7
+question: 大規模な自然災害を想定したBCPを作成する目的として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 経営資源が縮減された状況における重要事業の継続
+  - label: イ
+    text: 建物や設備などの資産の保全
+  - label: ウ
+    text: 被災地における連絡手段の確保
+  - label: エ
+    text: 労働災害の原因となるリスクの発生確率とその影響の低減
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 18
+question: >-
+  戦略目標の達成状況を評価する指標には，目標達成のための手段を評価する先行指標と目標達成度を評価する結果指標の二つがある。戦略目標が"新規顧客の開拓"であるとき，先行指標として適切なものはどれか。
+choice:
+  - label: ア
+    text: 売上高増加額
+  - label: イ
+    text: 新規契約獲得率
+  - label: ウ
+    text: 総顧客増加率
+  - label: エ
+    text: 見込み客訪問件数
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 7
+question: 開発したプログラム及びそれを開発するために用いたアルゴリズムに関して，著作権法による保護範囲の適切な組合せはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

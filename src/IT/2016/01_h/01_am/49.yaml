@@ -1,0 +1,16 @@
+label: 49
+question: ユーザの要求を定義する場合に作成するプロトタイプはどれか。
+choice:
+  - label: ア
+    text: 基幹システムで生成されたデータをユーザ自身が抽出・加工するためのソフトウェア
+  - label: イ
+    text: ユーザがシステムに要求する業務の流れを記述した図
+  - label: ウ
+    text: ユーザとシステムのやり取りを記述した図
+  - label: エ
+    text: ユーザの要求を理解するために作成する簡易なソフトウェア
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

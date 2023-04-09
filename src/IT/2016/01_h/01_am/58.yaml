@@ -1,0 +1,16 @@
+label: 58
+question: 情報セキュリティにおけるソーシャルエンジニアリングへの対策の例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ウイルスを検知，除去する機能を電子メールシステムに導入する。
+  - label: イ
+    text: サーバへの攻撃を想定した擬似アタック試験を実施し，発見された脆(ぜい)弱性への対策を行う。
+  - label: ウ
+    text: 従業員のセキュリティ意識を高めるため，セキュリティ教育を行う。
+  - label: エ
+    text: 停電に備えて，サーバルーム向けの自家発電装置を導入する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

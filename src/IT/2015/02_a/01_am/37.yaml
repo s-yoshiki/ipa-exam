@@ -1,0 +1,16 @@
+label: 37
+question: プロジェクト管理のプロセス群に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 監視コントロールでは，プロジェクトの開始と資源投入を正式に承認する。
+  - label: イ
+    text: 計画では，プロジェクトで実行する作業を洗い出し，管理可能な単位に詳細化する作業を実施する。
+  - label: ウ
+    text: 実行では，スケジュールやコストなどの予実管理やプロジェクト作業の変更管理を行う。
+  - label: エ
+    text: 立上げでは，プロジェクト計画に含まれるアクティビティを実行する。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

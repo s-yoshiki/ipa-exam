@@ -1,0 +1,17 @@
+label: 39
+question: >-
+  A社のIT部門では，ヘルプデスクの可用性の向上を図るために，対応時間を24時間に拡大することを検討している。ヘルプデスク業務をA社から受託しているB社は，これを実現するためにチャットボットをB社が導入し，活用することによって，深夜時間帯は自動応答で対応する旨を提案したところ，A社は24時間対応が可能であるのでこれに合意した。合意に用いる文書として，適切なものはどれか。
+choice:
+  - label: ア
+    text: BCP
+  - label: イ
+    text: NDA
+  - label: ウ
+    text: RFP
+  - label: エ
+    text: SLA
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

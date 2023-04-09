@@ -1,0 +1,16 @@
+label: 30
+question: コーポレートガバナンスの観点から，経営の意思決定プロセスを監視・監督する機能を強化する方法として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 社長室への出入りを監視するためのカメラを設置する。
+  - label: イ
+    text: 定期的に私立探偵に経営者の素行調査を依頼する。
+  - label: ウ
+    text: 取締役の一部を社外取締役にする。
+  - label: エ
+    text: 法学部出身者を内部監査部門の社員として雇用する。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

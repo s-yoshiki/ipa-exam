@@ -1,0 +1,16 @@
+label: 9
+question: 国連が中心となり，持続可能な世界を実現するために設定した17のゴールから成る国際的な開発目標はどれか。
+choice:
+  - label: ア
+    text: COP21
+  - label: イ
+    text: SDGs
+  - label: ウ
+    text: UNESCO
+  - label: エ
+    text: WHO
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

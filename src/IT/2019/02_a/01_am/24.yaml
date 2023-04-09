@@ -1,0 +1,16 @@
+label: 24
+question: 著作権法における著作権に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 偶然に内容が類似している二つの著作物が同時期に創られた場合，著作権は一方の著作者だけに認められる。
+  - label: イ
+    text: 著作権は，権利を取得するための申請や登録などの手続が不要である。
+  - label: ウ
+    text: 著作権法の保護対象には，技術的思想も含まれる。
+  - label: エ
+    text: 著作物は，創作性に加え新規性も兼ね備える必要がある。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

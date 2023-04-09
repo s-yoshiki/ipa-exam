@@ -1,0 +1,16 @@
+label: 60
+question: '"http://example.co.jp/index.html" で示されるURLのトップレベルドメイン(TLD)はどれか。'
+choice:
+  - label: ア
+    text: http
+  - label: イ
+    text: example
+  - label: ウ
+    text: co
+  - label: エ
+    text: jp
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 29
+question: 人間が行っていた定型的な事務作業を，ソフトウェアのロボットに代替させることによって，自動化や効率化を図る手段を表す用語として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ROA
+  - label: イ
+    text: RPA
+  - label: ウ
+    text: SFA
+  - label: エ
+    text: SOA
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

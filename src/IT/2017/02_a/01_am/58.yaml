@@ -1,0 +1,17 @@
+label: 58
+question: >-
+  キーボード入力を補助する機能の一つであり，入力中の文字から過去の入力履歴を参照して，候補となる文字列の一覧を表示することで，文字入力の手間を軽減するものはどれか。
+choice:
+  - label: ア
+    text: インデント
+  - label: イ
+    text: オートコンプリート
+  - label: ウ
+    text: オートフィルタ
+  - label: エ
+    text: ハイパリンク
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

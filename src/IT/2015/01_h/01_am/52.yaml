@@ -1,0 +1,16 @@
+label: 52
+question: PCの処理効率を高めるために，CPUが主記憶にアクセスする時間を見かけ上短縮することを目的としたものはどれか。
+choice:
+  - label: ア
+    text: SSD
+  - label: イ
+    text: 仮想記憶
+  - label: ウ
+    text: キャッシュメモリ
+  - label: エ
+    text: デフラグ
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

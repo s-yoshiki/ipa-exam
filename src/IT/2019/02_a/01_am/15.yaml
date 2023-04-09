@@ -1,0 +1,17 @@
+label: 15
+question: >-
+  自社の商品やサービスの情報を主体的に収集する見込み客の獲得を目的に，企業がSNSやブログ，検索エンジンなどを利用して商品やサービスに関連する情報を発信する。このようにして獲得した見込み客を，最終的に顧客に転換させることを目標とするマーケティング手法として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: アウトバウンドマーケティング
+  - label: イ
+    text: インバウンドマーケティング
+  - label: ウ
+    text: ダイレクトマーケティング
+  - label: エ
+    text: テレマーケティング
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

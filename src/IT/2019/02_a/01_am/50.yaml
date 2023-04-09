@@ -1,0 +1,16 @@
+label: 50
+question: ITサービスマネジメントのフレームワークはどれか。
+choice:
+  - label: ア
+    text: IEEE
+  - label: イ
+    text: IETF
+  - label: ウ
+    text: ISMS
+  - label: エ
+    text: ITIL
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

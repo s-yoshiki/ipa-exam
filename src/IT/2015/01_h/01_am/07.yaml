@@ -1,0 +1,16 @@
+label: 7
+question: NDA(Non Disclosure Agreement)の事例はどれか。
+choice:
+  - label: ア
+    text: ITサービスを提供する前に，サービスの提供者と顧客の間で提供されるサービス内容について契約で定めた。
+  - label: イ
+    text: コンピュータ設備の売主が財産権を移転する義務を負い，買主がその代金を支払う義務を負うことについて契約で定めた。
+  - label: ウ
+    text: システム開発などに際して，委託者と受託者間でお互いに知り得た相手の秘密情報の守秘義務について契約で定めた。
+  - label: エ
+    text: 汎用パッケージ導入の委託を受けた者が自己の裁量と責任によって仕事を行い，仕事の完了をもって報酬を受けることについて契約で定めた。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

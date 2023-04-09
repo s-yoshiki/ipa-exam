@@ -1,0 +1,16 @@
+label: 65
+question: PCやスマートフォンなどの表示画面の画像処理用のチップとして用いられているほか，AIにおける膨大な計算処理にも利用されているものはどれか。
+choice:
+  - label: ア
+    text: AR
+  - label: イ
+    text: DVI
+  - label: ウ
+    text: GPU
+  - label: エ
+    text: MPEG
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

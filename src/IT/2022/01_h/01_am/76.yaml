@@ -1,0 +1,17 @@
+label: 76
+question: >-
+  情報セキュリティのリスクマネジメントにおけるリスク対応を，リスク回避，リスク共有，リスク低減及びリスク保有の四つに分類するとき，情報漏えい発生時の損害に備えてサイバー保険に入ることはどれに分類されるか。
+choice:
+  - label: ア
+    text: リスク回避
+  - label: イ
+    text: リスク共有
+  - label: ウ
+    text: リスク低減
+  - label: エ
+    text: リスク保有
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,25 @@
+label: 71
+question: >-
+  Aさんは電子メールの宛先を次のように設定して送信した。この電子メールを受信したYさんは，電子メールに記載されていた送り先全員と送信者に返信の電子メールを送信した。Aさん，Xさん，Zさんの3人のうち，Yさんの送信した電子メールが届く人を全て挙げたものはどれか。  
+    
+  〔Aさんの電子メールの宛先設定〕  
+
+  　To：X  
+
+  　Cc：Y  
+
+  　Bcc：Z
+choice:
+  - label: ア
+    text: A
+  - label: イ
+    text: A，X
+  - label: ウ
+    text: A，X，Z
+  - label: エ
+    text: X，Z
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

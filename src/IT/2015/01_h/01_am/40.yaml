@@ -1,0 +1,16 @@
+label: 40
+question: 情報システムのリスクに対するコントロールが適切に整備運用されていることを検証するための手段として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: BCP
+  - label: イ
+    text: ITIL
+  - label: ウ
+    text: ITガバナンス
+  - label: エ
+    text: システム監査
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

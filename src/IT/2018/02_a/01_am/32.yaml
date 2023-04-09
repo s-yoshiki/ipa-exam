@@ -1,0 +1,22 @@
+label: 32
+question: |-
+  不適切な行為に関する記述a～cのうち，不正競争防止法で規制されている行為だけを全て挙げたものはどれか。  
+    
+
+  1.  営業秘密となっている他社の技術情報を，第三者から不正に入手した。
+  2.  会社がライセンス購入したソフトウェアパッケージを，不正に個人のPCにインストールした。
+  3.  キャンペーン応募者の個人情報を，本人に無断で他の目的に利用した。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: a，b，c
+  - label: エ
+    text: b，c
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

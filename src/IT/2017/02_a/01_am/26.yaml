@@ -1,0 +1,16 @@
+label: 26
+question: 情報システム戦略の立案に当たり，必ず考慮すべき事項はどれか。
+choice:
+  - label: ア
+    text: 開発期間の短縮方法を検討する。
+  - label: イ
+    text: 経営戦略との整合性を図る。
+  - label: ウ
+    text: コストの削減方法を検討する。
+  - label: エ
+    text: 最新技術の導入を計画する。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 1
+question: 労働者派遣法に基づき， A社がY氏をB社へ派遣することとなった。このときに成立する関係として，適切なものはどれか。
+choice:
+  - label: ア
+    text: A社とB社との間の委託関係
+  - label: イ
+    text: A社とY氏との間の労働者派遣契約関係
+  - label: ウ
+    text: B社とY氏との間の雇用関係
+  - label: エ
+    text: B社とY氏との間の指揮命令関係
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

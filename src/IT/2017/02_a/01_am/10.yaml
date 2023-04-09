@@ -1,0 +1,16 @@
+label: 10
+question: ISOが定めた環境マネジメントシステムの国際規格はどれか。
+choice:
+  - label: ア
+    text: ISO 9000
+  - label: イ
+    text: ISO 14000
+  - label: ウ
+    text: ISO/IEC 20000
+  - label: エ
+    text: ISO/IEC 27000
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

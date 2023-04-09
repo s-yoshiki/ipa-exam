@@ -1,0 +1,16 @@
+label: 61
+question: クレジットカードの会員データを安全に取り扱うことを目的として策定された，クレジットカード情報の保護に関するセキュリティ基準はどれか。
+choice:
+  - label: ア
+    text: NFC
+  - label: イ
+    text: PCI DSS
+  - label: ウ
+    text: PCI Express
+  - label: エ
+    text: RFID
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

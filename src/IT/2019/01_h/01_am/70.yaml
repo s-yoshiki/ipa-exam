@@ -1,0 +1,16 @@
+label: 70
+question: 次の記憶装置のうち，アクセス時間が最も短いものはどれか。
+choice:
+  - label: ア
+    text: HDD
+  - label: イ
+    text: SSD
+  - label: ウ
+    text: キャッシュメモリ
+  - label: エ
+    text: 主記憶
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 78
+question: >-
+  ハブとルータを使用してPC1～4が相互に通信できるように構成したTCP/IPネットワークがある。ルータの各ポートに設定したIPアドレスが図のとおりであるとき，PC1に設定するデフォルトゲートウェイのIPアドレスとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: 192.168.1.1
+  - label: イ
+    text: 192.168.2.1
+  - label: ウ
+    text: 192.168.5.1
+  - label: エ
+    text: 192.168.5.2
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

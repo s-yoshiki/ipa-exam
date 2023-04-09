@@ -1,0 +1,16 @@
+label: 66
+question: PCで電子メールの本文に記載されていたURLにアクセスしたところ，画面に図のメッセージが表示され，PCがロックされてしまった。これは，何による攻撃か。
+choice:
+  - label: ア
+    text: キーロガー
+  - label: イ
+    text: スパイウェア
+  - label: ウ
+    text: ボット
+  - label: エ
+    text: ランサムウェア
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

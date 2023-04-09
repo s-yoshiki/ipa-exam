@@ -1,0 +1,16 @@
+label: 31
+question: ある商品を5,000個販売したところ，売上が5,000万円，利益が300万円となった。商品1個当たりの変動費が7,000円であるとき，固定費は何万円か。
+choice:
+  - label: ア
+    text: 1,200
+  - label: イ
+    text: 1,500
+  - label: ウ
+    text: 3,500
+  - label: エ
+    text: 4,000
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

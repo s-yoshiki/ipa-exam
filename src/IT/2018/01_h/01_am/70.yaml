@@ -1,0 +1,16 @@
+label: 70
+question: ISMSにおけるリスク分析に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 異なる情報資産について，脅威と脆弱性のレベルが同じであれば，その資産価値が小さいほどリスク値は大きくなる。
+  - label: イ
+    text: システムの規模や重要度にかかわらず，全てのリスクを詳細に分析しなければならない。
+  - label: ウ
+    text: 電子データは分析の対象とするが，紙媒体のデータは対象としない。
+  - label: エ
+    text: リスクの内容は業界や業種によって異なることから，対象とする組織に適した分析手法を用いる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

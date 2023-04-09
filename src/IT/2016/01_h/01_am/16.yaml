@@ -1,0 +1,16 @@
+label: 16
+question: 企業がISO 9001を導入することによって期待できるメリットのうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 企業の貿易手続が標準化され，効率の向上や非関税障壁の減少につながる。
+  - label: イ
+    text: 業界で技術仕様が標準化され，製品の品質の向上や市場の拡大が進む。
+  - label: ウ
+    text: 情報資産の取扱方法が標準化され，情報セキュリティの品質が向上する。
+  - label: エ
+    text: 品質管理に関する業務運営が標準化され，管理の質や効率が向上する。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

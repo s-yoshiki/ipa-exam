@@ -1,0 +1,17 @@
+label: 55
+question: >-
+  情報システムの要件は，業務要件を実現するための機能を記述した機能要件と，性能や保守のしやすさなどについて記述した非機能要件に分類することができる。機能要件に該当するものはどれか。
+choice:
+  - label: ア
+    text: システムが取り扱う入出力データの種類
+  - label: イ
+    text: システム障害発生時の許容復旧時間
+  - label: ウ
+    text: システムの移行手順
+  - label: エ
+    text: 目標とするシステムの品質と開発コスト
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

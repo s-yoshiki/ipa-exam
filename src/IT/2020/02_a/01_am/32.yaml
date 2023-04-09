@@ -1,0 +1,17 @@
+label: 32
+question: >-
+  ある会社のECサイトでは，利用者からのチャットでの多様な問合せについて，オペレータが対応する仕組みから，ソフトウェアによる自動対応に変更した。このとき，利用者の過去のチャットの内容などを学習して，会話の流れから適切な回答を推測できる仕組みに変更するために使われた技術として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: AI
+  - label: イ
+    text: AR
+  - label: ウ
+    text: CRM
+  - label: エ
+    text: ERP
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

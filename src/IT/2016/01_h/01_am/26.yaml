@@ -1,0 +1,16 @@
+label: 26
+question: 会社を組織的に運営するためのルールのうち，職務分掌を説明したものはどれか。
+choice:
+  - label: ア
+    text: 会社の基本となる経営組織，職制を定めたもの
+  - label: イ
+    text: 各部門の職務の内容と責任及び権限を定めたもの
+  - label: ウ
+    text: 従業員の労働条件などの就業に関する事項を定めたもの
+  - label: エ
+    text: 法令，各種規則や社会的規範に照らして正しく行動することを定めたもの
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

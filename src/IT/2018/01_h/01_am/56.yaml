@@ -1,0 +1,16 @@
+label: 56
+question: PCのファンクションキーに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: アプリケーションやOSごとに特定の機能を割り当てられたキー
+  - label: イ
+    text: 画面上にキーボードの形を表示し，入力処理をソフトウェアで実現したもの
+  - label: ウ
+    text: セキュリティに関する機能で，暗号化や復号を行うための変換キー
+  - label: エ
+    text: データベースに関する機能で，特定の行を一意に識別するための情報
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

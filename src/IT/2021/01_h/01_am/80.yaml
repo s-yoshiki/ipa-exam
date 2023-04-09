@@ -1,0 +1,17 @@
+label: 80
+question: >-
+  IoTデバイス，IoTゲートウェイ及びIoTサーバで構成された，温度・湿度管理システムがある。IoTデバイスとその近傍に設置されたIoTゲートウェイとの間を接続するのに使用する，低消費電力の無線通信の仕様として，適切なものはどれか。
+choice:
+  - label: ア
+    text: BLE
+  - label: イ
+    text: HEMS
+  - label: ウ
+    text: NUI
+  - label: エ
+    text: PLC
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

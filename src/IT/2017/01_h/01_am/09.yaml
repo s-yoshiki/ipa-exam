@@ -1,0 +1,16 @@
+label: 9
+question: 新しい業務システム開発の発注に当たり，発注元企業がベンダ企業に対して求めるべき提案事項として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 現行システムの問題点
+  - label: イ
+    text: 新システム開発の実施体制
+  - label: ウ
+    text: 新システムの狙いと要件
+  - label: エ
+    text: 提案内容の評価基準
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

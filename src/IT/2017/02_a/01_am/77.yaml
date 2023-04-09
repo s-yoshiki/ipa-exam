@@ -1,0 +1,17 @@
+label: 77
+question: >-
+  PDCAモデルに基づいてISMSを運用している組織において，サーバ運用管理手順書に従って定期的に，"ウイルス検知用の定義ファイルを最新版に更新する"作業を実施している。この作業は，PDCAモデルのどのプロセスで実施されるか。
+choice:
+  - label: ア
+    text: P
+  - label: イ
+    text: D
+  - label: ウ
+    text: C
+  - label: エ
+    text: A
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

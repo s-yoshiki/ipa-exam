@@ -1,0 +1,16 @@
+label: 4
+question: 情報を縦横2次元の図形パターンに保存するコードはどれか。
+choice:
+  - label: ア
+    text: ASCIIコード
+  - label: イ
+    text: Gコード
+  - label: ウ
+    text: JANコード
+  - label: エ
+    text: QRコード
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

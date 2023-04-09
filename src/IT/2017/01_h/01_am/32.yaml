@@ -1,0 +1,17 @@
+label: 32
+question: >-
+  ある商品の4月の仕入と売上が表のとおりであるとき，移動平均法による4月末の商品の棚卸評価額は何円か。移動平均法とは，仕入の都度，在庫商品の平均単価を算出し，棚卸評価額の計算には直前の在庫商品の平均単価を用いる方法である。
+choice:
+  - label: ア
+    text: 1,280
+  - label: イ
+    text: 1,300
+  - label: ウ
+    text: 1,400
+  - label: エ
+    text: 1,500
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

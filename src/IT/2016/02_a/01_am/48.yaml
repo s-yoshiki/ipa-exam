@@ -1,0 +1,17 @@
+label: 48
+question: >-
+  プロジェクトの目的を達成するために，プロジェクトで作成する必要のある成果物と，成果物を作成するために必要な作業を細分化した。この活動はプロジェクトマネジメントのどの知識エリアの活動か。
+choice:
+  - label: ア
+    text: プロジェクトコストマネジメント
+  - label: イ
+    text: プロジェクトスコープマネジメント
+  - label: ウ
+    text: プロジェクトタイムマネジメント
+  - label: エ
+    text: プロジェクトリスクマネジメント
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

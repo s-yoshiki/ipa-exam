@@ -1,0 +1,17 @@
+label: 27
+question: >-
+  ある商品の前期，当期2期分の売上高と総費用は表のとおりである。この商品の1期間の固定費は何千円か。ここで，総費用は固定費と変動費の合計であり，固定費，及び売上高に対する変動費の割合は，前期，当期ともに変わらないものとする。
+choice:
+  - label: ア
+    text: 2,400
+  - label: イ
+    text: 3,000
+  - label: ウ
+    text: 3,600
+  - label: エ
+    text: 4,000
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

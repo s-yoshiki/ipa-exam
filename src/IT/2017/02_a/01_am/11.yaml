@@ -1,0 +1,16 @@
+label: 11
+question: SaaSの説明として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: インターネットへの接続サービスを提供する。
+  - label: イ
+    text: システムの稼働に必要な規模のハードウェア機能を，サービスとしてネットワーク経由で提供する。
+  - label: ウ
+    text: ハードウェア機能に加えて，OSやデータベースソフトウェアなど，アプリケーションソフトウェアの稼働に必要な基盤をネットワーク経由で提供する。
+  - label: エ
+    text: 利用者に対して，アプリケーションソフトウェアの必要な機能だけを必要なときに，ネットワーク経由で提供する。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

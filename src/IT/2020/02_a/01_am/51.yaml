@@ -1,0 +1,16 @@
+label: 51
+question: リバースエンジニアリングで実施する作業として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 開発中のソフトウェアに対する変更要求などに柔軟に対応するために，短い期間の開発を繰り返す。
+  - label: イ
+    text: 試作品のソフトウェアを作成して，利用者による評価をフィードバックして開発する。
+  - label: ウ
+    text: ソフトウェア開発において，上流から下流までを順番に実施する。
+  - label: エ
+    text: プログラムを解析することで，ソフトウェアの仕様を調査して設計情報を抽出する。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

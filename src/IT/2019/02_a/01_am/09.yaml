@@ -1,0 +1,22 @@
+label: 9
+question: |-
+  DFDにおいて，データフローや処理(機能)以外に記述されるものだけを全て挙げたものはどれか。  
+    
+
+  1.  データの処理に要する時間
+  2.  データの蓄積場所
+  3.  データの発生源や出力先
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

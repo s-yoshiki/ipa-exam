@@ -1,0 +1,16 @@
+label: 66
+question: RGBの各色の階調を，それぞれ3桁の2進数で表す場合，混色によって表すことができる色は何通りか。
+choice:
+  - label: ア
+    text: '8'
+  - label: イ
+    text: '24'
+  - label: ウ
+    text: '256'
+  - label: エ
+    text: '512'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

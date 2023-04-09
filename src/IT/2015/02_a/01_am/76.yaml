@@ -1,0 +1,22 @@
+label: 76
+question: |-
+  無線LANに関する記述として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  ESSIDは，設定する値が無線LANの規格ごとに固定値として決められており，利用者が変更することはできない。
+  2.  通信規格の中には，使用する電波が電子レンジの電波と干渉して，通信に影響が出る可能性のあるものがある。
+  3.  テザリング機能で用いる通信方式の一つとして，使用されている。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

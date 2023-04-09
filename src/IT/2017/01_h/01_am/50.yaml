@@ -1,0 +1,17 @@
+label: 50
+question: >-
+  プロジェクトチームのメンバがそれぞれ1対1で情報の伝達を行う必要がある。メンバが10人から15人に増えた場合に，情報の伝達を行うために必要な経路は幾つ増加するか。
+choice:
+  - label: ア
+    text: '5'
+  - label: イ
+    text: '10'
+  - label: ウ
+    text: '60'
+  - label: エ
+    text: '105'
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 54
+question: 内部統制を機能させるための方策として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務範囲や役割分担を示す職務記述書を作成しない。
+  - label: イ
+    text: 後任者への引継ぎ書を作成しない。
+  - label: ウ
+    text: 購買と支払の業務を同一人に担当させない。
+  - label: エ
+    text: システム開発と運用の担当を分離しない。
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 46
+question: システム監査に当たるものはどれか。
+choice:
+  - label: ア
+    text: 監査対象の情報システムの運用管理者が行う，日常点検
+  - label: イ
+    text: 監査対象の情報システムの運用担当者が行う，自己点検
+  - label: ウ
+    text: 監査対象の情報システムの利用者が行う，満足度評価
+  - label: エ
+    text: 内部監査の担当部署が行う，監査対象の情報システムの評価
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

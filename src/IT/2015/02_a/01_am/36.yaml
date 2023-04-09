@@ -1,0 +1,16 @@
+label: 36
+question: システム監査人の職業倫理に照らして<u>ふさわしくない</u>行為はどれか。
+choice:
+  - label: ア
+    text: 監査役による業務監査における指摘事項の確認
+  - label: イ
+    text: 成功報酬契約による監査
+  - label: ウ
+    text: 専門知識を持った他の監査人との共同監査
+  - label: エ
+    text: 前年実施した別の監査人による監査報告内容の確認
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

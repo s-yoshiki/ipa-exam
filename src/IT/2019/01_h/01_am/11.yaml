@@ -1,0 +1,17 @@
+label: 11
+question: >-
+  Xさんは，ディジタルカメラで撮影した画像を記録媒体に保管し，その記録媒体をプリンタに差し込んで印刷を行った。その際，ディジタルカメラのメーカを意識することなく印刷することが可能であった。このことは，画像データに関するどのような技術的前提によるものであるか。
+choice:
+  - label: ア
+    text: コモディティ化
+  - label: イ
+    text: ネットワーク化
+  - label: ウ
+    text: 標準化
+  - label: エ
+    text: ユビキタス化
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

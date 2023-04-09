@@ -1,0 +1,16 @@
+label: 47
+question: アジャイル開発の特徴として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 大規模なプロジェクトチームによる開発に適している。
+  - label: イ
+    text: 設計ドキュメントを重視し，詳細なドキュメントを作成する。
+  - label: ウ
+    text: 顧客との関係では，協調よりも契約交渉を重視している。
+  - label: エ
+    text: ウォータフォール開発と比較して，要求の変更に柔軟に対応できる。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

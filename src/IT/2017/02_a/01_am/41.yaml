@@ -1,0 +1,16 @@
+label: 41
+question: 共通フレーム(Software Life Cycle Process)の利用に関する説明のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 取得者と供給者が請負契約を締結する取引に限定し，利用することを目的にしている。
+  - label: イ
+    text: ソフトウェア開発に対するシステム監査を実施するときに，システム監査人の行為規範を確認するために利用する。
+  - label: ウ
+    text: ソフトウェアを中心としたシステムの開発及び取引のプロセスを明確化しており，必要に応じて修整して利用する。
+  - label: エ
+    text: 明確化した作業範囲や作業項目をそのまま利用することを推奨している。
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

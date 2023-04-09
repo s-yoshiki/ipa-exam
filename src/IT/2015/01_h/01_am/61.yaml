@@ -1,0 +1,16 @@
+label: 61
+question: ワンタイムパスワードを用いることによって防げることはどれか。
+choice:
+  - label: ア
+    text: 通信経路上におけるパスワードの盗聴
+  - label: イ
+    text: 不正侵入された場合の機密ファイルの改ざん
+  - label: ウ
+    text: 不正プログラムによるウイルス感染
+  - label: エ
+    text: 漏えいしたパスワードによる不正侵入
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

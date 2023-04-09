@@ -1,0 +1,17 @@
+label: 79
+question: >-
+  Webサイトによっては，ブラウザで閲覧したときの情報を，ブラウザを介して閲覧者のPCに保存することがある。以後このWebサイトにアクセスした際は保存された情報を使い，閲覧の利便性を高めることができる。このような目的で利用される仕組みはどれか。
+choice:
+  - label: ア
+    text: Cookie
+  - label: イ
+    text: SQL
+  - label: ウ
+    text: URL
+  - label: エ
+    text: XML
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

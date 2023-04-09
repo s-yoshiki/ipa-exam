@@ -1,0 +1,16 @@
+label: 29
+question: 自社が保有する複数の事業への経営資源の配分を最適化するために用いられるPPMの評価軸として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 技術と製品
+  - label: イ
+    text: 市場成長率と市場シェア
+  - label: ウ
+    text: 製品と市場
+  - label: エ
+    text: 強み・弱みと機会・脅威
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

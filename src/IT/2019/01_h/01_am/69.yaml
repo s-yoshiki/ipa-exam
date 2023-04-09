@@ -1,0 +1,16 @@
+label: 69
+question: PCでWebサイトを閲覧しただけで，PCにウイルスなどを感染させる攻撃はどれか。
+choice:
+  - label: ア
+    text: DoS攻撃
+  - label: イ
+    text: ソーシャルエンジニアリング
+  - label: ウ
+    text: ドライブバイダウンロード
+  - label: エ
+    text: バックドア
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

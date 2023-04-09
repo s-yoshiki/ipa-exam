@@ -1,0 +1,23 @@
+label: 64
+question: |-
+  a～dのうち，ファイアウォールの設置によって実現できる事項として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  外部に公開するWebサーバやメールサーバを設置するためのDMZの構築
+  2.  外部のネットワークから組織内部のネットワークへの不正アクセスの防止
+  3.  サーバルームの入り口に設置することによるアクセスを承認された人だけの入室
+  4.  不特定多数のクライアントからの大量の要求を複数のサーバに動的に振り分けることによるサーバ負荷の分散
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，b，d
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

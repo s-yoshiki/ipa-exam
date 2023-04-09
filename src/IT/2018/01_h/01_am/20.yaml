@@ -1,0 +1,16 @@
+label: 20
+question: ブレーンストーミングの進め方のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 自由奔放なアイディアは控え，実現可能なアイディアの提出を求める。
+  - label: イ
+    text: 他のメンバの案に便乗した改善案が出ても，とがめずに進める。
+  - label: ウ
+    text: メンバから出される意見の中で，テーマに適したものを選択しながら進める。
+  - label: エ
+    text: 量よりも質の高いアイディアを追求するために，アイディアの批判を奨励する。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

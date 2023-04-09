@@ -1,0 +1,23 @@
+label: 75
+question: |-
+  情報システムに関する機能a～dのうち，DBMSに備わるものを全て挙げたものはどれか。  
+    
+
+  1.  アクセス権管理
+  2.  障害回復
+  3.  同時実行制御
+  4.  ファイアウォール
+choice:
+  - label: ア
+    text: a，b，c
+  - label: イ
+    text: a，d
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

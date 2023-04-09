@@ -1,0 +1,16 @@
+label: 62
+question: 電子証明書を発行するときに生成した秘密鍵と公開鍵の鍵ペアのうち，秘密鍵が漏えいした場合の対処として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 使用していた鍵ペアによる電子証明書を再発行する。
+  - label: イ
+    text: 認証局に電子証明書の失効を申請する。
+  - label: ウ
+    text: 有効期限切れによる再発行時に，新しく生成した鍵ペアを使用する。
+  - label: エ
+    text: 漏えいしたのは秘密鍵だけなので，電子証明書をそのまま使用する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

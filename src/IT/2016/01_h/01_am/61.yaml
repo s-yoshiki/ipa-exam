@@ -1,0 +1,16 @@
+label: 61
+question: ランサムウェアに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: PCやファイルを使用不能にするなどして，回復のための金銭を要求する。
+  - label: イ
+    text: コンピュータの画面へ自動的に広告を表示する。
+  - label: ウ
+    text: 利用者がキーボードから入力した情報を記録し，外部に送信する。
+  - label: エ
+    text: ワープ口ソフトや表計算ソフトの文書ファイルに感染する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

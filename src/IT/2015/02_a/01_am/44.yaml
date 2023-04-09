@@ -1,0 +1,17 @@
+label: 44
+question: >-
+  要件定義後の外部設計，内部設計，プログラミング，結合テスト，システムテストを行う開発プロジェクトにおいて，生産性を規模÷工数で表すものとする。プログラミングの生産性を1とした場合の内部設計と結合テストの生産性は2，外部設計とシステムテストの生産性は4である。外部設計に1人月を要するとき，プロジェクト全体の工数は何人月必要か。
+choice:
+  - label: ア
+    text: '5'
+  - label: イ
+    text: '7'
+  - label: ウ
+    text: '10'
+  - label: エ
+    text: '13'
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

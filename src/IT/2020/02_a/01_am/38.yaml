@@ -1,0 +1,16 @@
+label: 38
+question: サービス提供者と顧客双方の観点から，提供されるITサービスの品質の継続的な測定と改善に焦点を当てているベストプラクティスをまとめたものはどれか。
+choice:
+  - label: ア
+    text: ITIL
+  - label: イ
+    text: 共通フレーム
+  - label: ウ
+    text: システム管理基準
+  - label: エ
+    text: 内部統制
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

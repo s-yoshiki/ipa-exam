@@ -1,0 +1,22 @@
+label: 70
+question: |-
+  電子メールにデジタル署名を付与することによって得られる効果だけを全て挙げたものはどれか。  
+    
+
+  1.  可用性が向上する。
+  2.  完全性が向上する。
+  3.  機密性が向上する。
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: b
+  - label: エ
+    text: b，c
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

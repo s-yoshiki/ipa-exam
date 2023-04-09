@@ -1,0 +1,16 @@
+label: 60
+question: 暗号資産(仮想通貨)を入手するためのマイニングと呼ばれる作業を，他人のコンピュータを使って気付かれないように行うことを何と呼ぶか。
+choice:
+  - label: ア
+    text: クリプトジャッキング
+  - label: イ
+    text: ソーシャルエンジニアリング
+  - label: ウ
+    text: バッファオーバフロー
+  - label: エ
+    text: フィッシング
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

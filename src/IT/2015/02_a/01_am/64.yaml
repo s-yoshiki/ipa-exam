@@ -1,0 +1,17 @@
+label: 64
+question: >-
+  関係データベースで管理している"入館履歴"表と"建物"表から，建物名'東館'を条件に抽出した結果を日付の降順でソートしたとき，2番目のレコードの社員番号はどれか。
+choice:
+  - label: ア
+    text: S0001
+  - label: イ
+    text: S0002
+  - label: ウ
+    text: S0003
+  - label: エ
+    text: S0004
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

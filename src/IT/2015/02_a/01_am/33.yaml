@@ -1,0 +1,16 @@
+label: 33
+question: ITの運用の効率化を図り，可用性をはじめとするサービスの品質を高めようとするマネジメントシステムとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: ITの技術戦略マネジメント
+  - label: イ
+    text: ITサービスマネジメント
+  - label: ウ
+    text: ITプロジェクトのスコープマネジメント
+  - label: エ
+    text: ITプロジェクトのタイムマネジメント
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

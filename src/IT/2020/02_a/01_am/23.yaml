@@ -1,0 +1,16 @@
+label: 23
+question: 経営戦略と情報システム戦略の関係性の説明として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 経営戦略と情報システム戦略は，それぞれが相互に独立したものとして策定される。
+  - label: イ
+    text: 経営戦略の内容を踏まえて情報システム戦略が策定される。
+  - label: ウ
+    text: 情報システム戦略の内容を踏まえて経営戦略が策定される。
+  - label: エ
+    text: 情報システム戦略はIT部門の戦略であり，経営戦略は経営企画部門の戦略である。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

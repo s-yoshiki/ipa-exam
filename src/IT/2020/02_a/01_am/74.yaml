@@ -1,0 +1,16 @@
+label: 74
+question: IoTデバイスへの電力供給でも用いられ，周りの環境から光や熱(温度差)などの微小なエネルギーを集めて，電力に変換する技術はどれか。
+choice:
+  - label: ア
+    text: PLC
+  - label: イ
+    text: PoE
+  - label: ウ
+    text: エネルギーハーベスティング
+  - label: エ
+    text: スマートグリッド
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

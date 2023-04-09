@@ -1,0 +1,16 @@
+label: 78
+question: OSS(Open Source Software)であるWebブラウザはどれか。
+choice:
+  - label: ア
+    text: Apache
+  - label: イ
+    text: Firefox
+  - label: ウ
+    text: Linux
+  - label: エ
+    text: Thunderbird
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

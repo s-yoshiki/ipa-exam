@@ -1,0 +1,26 @@
+label: 2
+question: >-
+  企業が社会の信頼に応えていくために，法令を遵守することはもちろん，社会的規範などの基本的なルールに従って活動する，いわゆるコンプライアンスが求められている。a～dのうち，コンプライアンスとして考慮しなければならないものだけを全て挙げたものはどれか。  
+    
+
+  1.  交通ルールの遵守
+
+  2.  公務員接待の禁止
+
+  3.  自社の就業規則の遵守
+
+  4.  他者の知的財産権の尊重
+choice:
+  - label: ア
+    text: a，b，c
+  - label: イ
+    text: a，b，c，d
+  - label: ウ
+    text: a，c，d
+  - label: エ
+    text: b，c，d
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

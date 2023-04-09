@@ -1,0 +1,16 @@
+label: 36
+question: 情報システムに関するファシリティマネジメントの目的として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ITサービスのコストの適正化
+  - label: イ
+    text: 災害時などにおける企業の事業継続
+  - label: ウ
+    text: 情報資産に対する適切なセキュリティの確保
+  - label: エ
+    text: 情報処理関連の設備や環境の総合的な維持
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

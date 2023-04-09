@@ -1,0 +1,19 @@
+label: 25
+question: |-
+  次の事例が該当する，最も適切な用語はどれか。  
+    
+  "継続的成長を達成するために，売上が低迷している事業領域Aから撤退し，その経営資源を事業領域Bを強化するために投入する。"
+choice:
+  - label: ア
+    text: 経営環境
+  - label: イ
+    text: 経営戦略
+  - label: ウ
+    text: 経営ビジョン
+  - label: エ
+    text: 経営理念
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

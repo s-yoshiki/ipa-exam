@@ -1,0 +1,16 @@
+label: 24
+question: マイナンバーを使用する行政手続として，<u>適切でないもの</u>はどれか。
+choice:
+  - label: ア
+    text: 災害対策の分野における被災者台帳の作成
+  - label: イ
+    text: 社会保障の分野における雇用保険などの資格取得や給付
+  - label: ウ
+    text: 税の分野における税務当局の内部事務
+  - label: エ
+    text: 入国管理の分野における邦人の出入国管理
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

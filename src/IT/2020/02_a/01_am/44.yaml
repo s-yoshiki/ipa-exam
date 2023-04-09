@@ -1,0 +1,19 @@
+label: 44
+question: |-
+  次の作業はシステム開発プロセスのどの段階で実施されるか。  
+    
+  実務に精通している利用者に参画してもらい，開発するシステムの具体的な利用方法について分析を行う。
+choice:
+  - label: ア
+    text: システム要件定義
+  - label: イ
+    text: システム設計
+  - label: ウ
+    text: テスト
+  - label: エ
+    text: プログラミング
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

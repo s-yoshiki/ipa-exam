@@ -1,0 +1,17 @@
+label: 3
+question: >-
+  購買，生産，販売，経理，人事などの企業の基幹業務の全体を把握し，関連する情報を一元的に管理することによって，企業全体の経営資源の最適化と経営効率の向上を図るためのシステムはどれか。
+choice:
+  - label: ア
+    text: ERP
+  - label: イ
+    text: MRP
+  - label: ウ
+    text: SCM
+  - label: エ
+    text: SFA
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

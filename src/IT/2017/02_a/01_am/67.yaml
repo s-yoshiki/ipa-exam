@@ -1,0 +1,16 @@
+label: 67
+question: フラッシュメモリの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 紫外線を利用してデータを消去し，書き換えることができるメモリである。
+  - label: イ
+    text: データ読出し速度が速いメモリで，CPUと主記憶の性能差を埋めるキャッシュメモリによく使われる。
+  - label: ウ
+    text: 電気的に書換え可能な，不揮発性のメモリである。
+  - label: エ
+    text: リフレッシュ動作が必要なメモリで，主記憶によく使われる。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

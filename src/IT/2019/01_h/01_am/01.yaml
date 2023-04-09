@@ -1,0 +1,16 @@
+label: 1
+question: リスクアセスメントを三つのプロセスに分けるとすると，リスクの特定，リスクの評価ともう一つはどれか。
+choice:
+  - label: ア
+    text: リスクの移転
+  - label: イ
+    text: リスクの回避
+  - label: ウ
+    text: リスクの低減
+  - label: エ
+    text: リスクの分析
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

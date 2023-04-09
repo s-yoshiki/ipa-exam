@@ -1,0 +1,16 @@
+label: 29
+question: プロジェクト開始後，プロジェクトへの要求事項を収集してスコープを定義する。スコープを定義する目的として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: プロジェクトで実施すべき作業を明確にするため
+  - label: イ
+    text: プロジェクトで発生したリスクの対応策を検討するため
+  - label: ウ
+    text: プロジェクトの進捗遅延時の対応策を作成するため
+  - label: エ
+    text: プロジェクトの目標を作成するため
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

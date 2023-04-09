@@ -1,0 +1,16 @@
+label: 27
+question: 企業間で商取引の情報の書式や通信手順を統一し，電子的に情報交換を行う仕組みはどれか。
+choice:
+  - label: ア
+    text: EDI
+  - label: イ
+    text: EIP
+  - label: ウ
+    text: ERP
+  - label: エ
+    text: ETC
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

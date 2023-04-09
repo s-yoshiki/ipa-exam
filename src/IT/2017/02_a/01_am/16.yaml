@@ -1,0 +1,16 @@
+label: 16
+question: ある商品の1年間の売上高が400万円，利益が50万円，固定費が150万円であるとき，この商品の損益分岐点での売上高は何万円か。
+choice:
+  - label: ア
+    text: '240'
+  - label: イ
+    text: '300'
+  - label: ウ
+    text: '320'
+  - label: エ
+    text: '350'
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

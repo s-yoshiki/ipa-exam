@@ -1,0 +1,16 @@
+label: 10
+question: 企業経営で用いられるベンチマーキングの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: PDCAサイクルを適用して，ビジネスプロセスの継続的な改善を図ること
+  - label: イ
+    text: 改善を行う際に，比較や分析の対象とする最も優れた事例のこと
+  - label: ウ
+    text: 競合他社に対する優位性を確保するための独自のスキルや技術のこと
+  - label: エ
+    text: 自社の製品やサービスを測定し，他社の優れたそれらと比較すること
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

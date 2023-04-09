@@ -1,0 +1,16 @@
+label: 16
+question: CADの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: コンピュータを利用して教育を行うこと
+  - label: イ
+    text: コンピュータを利用して製造作業を行うこと
+  - label: ウ
+    text: コンピュータを利用して設計や製図を行うこと
+  - label: エ
+    text: コンピュータを利用してソフトウェアの設計・開発やメンテナンスを行うこと
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

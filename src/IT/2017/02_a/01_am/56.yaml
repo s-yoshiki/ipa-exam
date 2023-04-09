@@ -1,0 +1,16 @@
+label: 56
+question: PC内のファイルを暗号化して使用不能にし，復号するためのキーと引換えに金品を要求するソフトウェアを何と呼ぶか。
+choice:
+  - label: ア
+    text: キーロガー
+  - label: イ
+    text: ランサムウェア
+  - label: ウ
+    text: ルートキット
+  - label: エ
+    text: ワーム
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

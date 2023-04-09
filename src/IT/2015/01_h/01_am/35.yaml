@@ -1,0 +1,16 @@
+label: 35
+question: システム要件定義の段階で，検討したシステム要件の技術的な実現性を確認するために有効な作業として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務モデルの作成
+  - label: イ
+    text: ファンクションポイントの算出
+  - label: ウ
+    text: プロトタイピングの実施
+  - label: エ
+    text: 利用者の要求事項の収集
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

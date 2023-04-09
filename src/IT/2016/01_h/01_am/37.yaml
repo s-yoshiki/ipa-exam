@@ -1,0 +1,16 @@
+label: 37
+question: システム開発部門のシステム監査における実施事項はどれか。
+choice:
+  - label: ア
+    text: 開発委託先と締結する委託契約書の作成
+  - label: イ
+    text: 外部設計書のレビューで発見された不具合の修正
+  - label: ウ
+    text: システム開発手順の不備の指摘
+  - label: エ
+    text: プログラマに対するプログラミング教育
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

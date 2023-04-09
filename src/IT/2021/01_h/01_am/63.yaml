@@ -1,0 +1,17 @@
+label: 63
+question: >-
+  PCやスマートフォンのブラウザから無線LANのアクセスポイントを経由して，インターネット上のWebサーバにアクセスする。このときの通信の暗号化に利用するSSL/TLSとWPA2に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: SSL/TLSの利用の有無にかかわらず，WPA2を利用することによって，ブラウザとWebサーバ間の通信を暗号化できる。
+  - label: イ
+    text: WPA2の利用の有無にかかわらず，SSL/TLSを利用することによって，ブラウザとWebサーバ間の通信を暗号化できる。
+  - label: ウ
+    text: ブラウザとWebサーバ間の通信を暗号化するためには，PCの場合はSSL/TLSを利用し，スマートフォンの場合はWPA2を利用する。
+  - label: エ
+    text: ブラウザとWebサーバ間の通信を暗号化するためには，PCの場合はWPA2を利用し，スマートフォンの場合はSSL/TLSを利用する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

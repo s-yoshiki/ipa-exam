@@ -1,0 +1,16 @@
+label: 12
+question: 企業の経営理念を策定する意義として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 企業の経営戦略を実現するための行動計画を具体的に示すことができる。
+  - label: イ
+    text: 企業の経営目標を実現するためのシナリオを明確にすることができる。
+  - label: ウ
+    text: 企業の存在理由や価値観を明確にすることができる。
+  - label: エ
+    text: 企業の到達したい将来像を示すことができる。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

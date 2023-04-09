@@ -1,0 +1,16 @@
+label: 64
+question: プロキシサーバの役割として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ドメイン名とIPアドレスの対応関係を管理する。
+  - label: イ
+    text: 内部ネットワーク内のPCに代わってインターネットに接続する。
+  - label: ウ
+    text: ネットワークに接続するために必要な情報をPCに割り当てる。
+  - label: エ
+    text: プライベートIPアドレスとグローバルIPアドレスを相互変換する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

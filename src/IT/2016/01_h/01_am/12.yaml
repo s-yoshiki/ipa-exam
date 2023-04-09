@@ -1,0 +1,17 @@
+label: 12
+question: >-
+  A社の子会社であるB社では，A社の製品も販売している。A社とB社の当期の売上高，売上原価，売上総利益が表のとおりであり，当期のA社の売上高におけるB社への販売分が2,000百万円である。このとき，連結損益計算書における当期仕入高は何百万円か。ここで，A社はB社からの仕入はないものとする。
+choice:
+  - label: ア
+    text: 11,000
+  - label: イ
+    text: 12,000
+  - label: ウ
+    text: 14,000
+  - label: エ
+    text: 16,000
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

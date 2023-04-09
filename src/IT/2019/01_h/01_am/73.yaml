@@ -1,0 +1,16 @@
+label: 73
+question: LTEよりも通信速度が高速なだけではなく，より多くの端末が接続でき，通信の遅延も少ないという特徴をもつ移動通信システムはどれか。
+choice:
+  - label: ア
+    text: ブロックチェーン
+  - label: イ
+    text: MVNO
+  - label: ウ
+    text: 8K
+  - label: エ
+    text: 5G
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 66
+question: >-
+  情報処理技術者試験の日程を確認するために，Webブラウザのアドレスバーに情報処理技術者試験センターのURL"https://www.jitec.ipa.go.jp/"を入力したところ，正しく入力しているにもかかわらず，何度入力しても接続工ラーとなってしまった。そこで，あらかじめ調べておいたIPアドレスを使って接続したところ接続できた。接続エラーの原因として最も疑われるものはどれか。
+choice:
+  - label: ア
+    text: DHCPサーバの障害
+  - label: イ
+    text: DNSサーバの障害
+  - label: ウ
+    text: PCに接続されているLANケーブルの断線
+  - label: エ
+    text: デフォルトルータの障害
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 11
+question: >-
+  あるレストランでは，受付時に来店した客の名前を来店客リストに記入し，座席案内時に来店客リストと空席状況の両方を参照している。この一連の業務をDFDで表現したものとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

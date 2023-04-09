@@ -1,0 +1,16 @@
+label: 40
+question: システムに関して"障害からの回復を3時間以内にする"などの内容を，システム運用側と利用側の間で取り決める文書はどれか。
+choice:
+  - label: ア
+    text: サービスレベル合意書
+  - label: イ
+    text: ソフトウェア詳細設計書
+  - label: ウ
+    text: 提案依頼書(RFP)
+  - label: エ
+    text: プロジェクト憲章
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

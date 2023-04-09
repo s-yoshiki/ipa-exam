@@ -1,0 +1,16 @@
+label: 46
+question: システム開発後にプログラムの修正や変更を行うことを何というか。
+choice:
+  - label: ア
+    text: システム化の企画
+  - label: イ
+    text: システム運用
+  - label: ウ
+    text: ソフトウェア保守
+  - label: エ
+    text: 要件定義
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

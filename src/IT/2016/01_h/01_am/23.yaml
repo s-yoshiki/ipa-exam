@@ -1,0 +1,16 @@
+label: 23
+question: 知的財産権のうち，全てが産業財産権に該当するものの組合せはどれか。
+choice:
+  - label: ア
+    text: 意匠権，実用新案権，著作権
+  - label: イ
+    text: 意匠権，実用新案権，特許権
+  - label: ウ
+    text: 意匠権，著作権，特許権
+  - label: エ
+    text: 実用新案権，著作権，特許権
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

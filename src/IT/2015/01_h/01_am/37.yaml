@@ -1,0 +1,17 @@
+label: 37
+question: >-
+  ITサービスマネジメントにおけるITサービス継続性管理とは，災害などの発生時にビジネスへの悪影響を最小限にするための活動である。ITサービス継続性管理においてPDCAサイクルのA(Act)に該当するものはどれか。
+choice:
+  - label: ア
+    text: ITサービスを継続するための復旧方法などを定めた復旧計画書を策定する。
+  - label: イ
+    text: 災害の発生を想定して，要員に対する定期的な教育や訓練を実施する。
+  - label: ウ
+    text: 復旧計画の内容についてレビューやテストを実施して検証する。
+  - label: エ
+    text: レビューやテストの実施結果に基づいて，必要であれば復旧計画書を見直す。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

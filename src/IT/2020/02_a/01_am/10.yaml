@@ -1,0 +1,16 @@
+label: 10
+question: IoTに関する事例として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: インターネット上に自分のプロファイルを公開し，コミュニケーションの輸を広げる。
+  - label: イ
+    text: インターネット上の店舗や通信販売のWebサイトにおいて，ある商品を検索すると，類似商品の広告が表示される。
+  - label: ウ
+    text: 学校などにおける授業や講義をあらかじめ録画し，インターネットで配信する。
+  - label: エ
+    text: 発電設備の運転状況をインターネット経由で遠隔監視し，発電設備の性能管理，不具合の予兆検知及び補修対応に役立てる。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

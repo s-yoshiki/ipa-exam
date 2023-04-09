@@ -1,0 +1,16 @@
+label: 52
+question: 内部統制における相互けん制を働かせるための職務分掌の例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 営業部門の申請書を経理部門が承認する。
+  - label: イ
+    text: 課長が不在となる間，課長補佐に承認権限を委譲する。
+  - label: ウ
+    text: 業務部門と監査部門を統合する。
+  - label: エ
+    text: 効率化を目的として，業務を複数部署で分担して実施する。
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

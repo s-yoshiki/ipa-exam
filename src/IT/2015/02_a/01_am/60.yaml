@@ -1,0 +1,16 @@
+label: 60
+question: ネットワーク機器がパケットを複製して，複数の宛先に送ることを何というか。
+choice:
+  - label: ア
+    text: DNS
+  - label: イ
+    text: URL
+  - label: ウ
+    text: マルチキャスト
+  - label: エ
+    text: マルチリンク
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

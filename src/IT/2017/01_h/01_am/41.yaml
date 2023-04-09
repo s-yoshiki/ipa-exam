@@ -1,0 +1,16 @@
+label: 41
+question: 製品やサービスの納入者を選定するために用意するものとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: コミュニケーションマネジメント計画書
+  - label: イ
+    text: テストケース
+  - label: ウ
+    text: 評価基準
+  - label: エ
+    text: プロジェクト憲章
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

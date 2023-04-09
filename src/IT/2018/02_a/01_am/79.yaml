@@ -1,0 +1,16 @@
+label: 79
+question: 8ビットの2進データ X と 00001111 について，ビットごとの論理積をとった結果はどれか。ここでデータの左方を上位，右方を下位とする。
+choice:
+  - label: ア
+    text: 下位4ビットが全て0になり，Xの上位4ビットがそのまま残る。
+  - label: イ
+    text: 下位4ビットが全て1になり，Xの上位4ビットがそのまま残る。
+  - label: ウ
+    text: 上位4ビットが全て0になり，Xの下位4ビットがそのまま残る。
+  - label: エ
+    text: 上位4ビットが全て1になり，Xの下位4ビットがそのまま残る。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 11
+question: CRMに必要な情報として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 顧客データ，顧客の購買履歴
+  - label: イ
+    text: 設計図面データ
+  - label: ウ
+    text: 専門家の知識データ
+  - label: エ
+    text: 販売日時，販売店，販売商品，販売数量
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

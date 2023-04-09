@@ -1,0 +1,24 @@
+label: 11
+question: >-
+  企業が，他の企業の経営資源を活用する手法として，企業買収や企業提携がある。企業買収と比較したときの企業提携の一般的なデメリットだけを全て挙げたものはどれか。  
+    
+
+  1.  相手企業の組織や業務プロセスの改革が必要となる。
+
+  2.  経営資源の活用に関する相手企業の意思決定への関与が限定的である。
+
+  3.  必要な投資が大きく，財務状況への影響が発生する。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: a，c
+  - label: エ
+    text: b
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

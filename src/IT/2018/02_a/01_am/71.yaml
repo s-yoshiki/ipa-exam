@@ -1,0 +1,16 @@
+label: 71
+question: HTTPSで接続したWebサーバとブラウザ間の暗号化通信に利用されるプロトコルはどれか。
+choice:
+  - label: ア
+    text: SEO
+  - label: イ
+    text: SPEC
+  - label: ウ
+    text: SQL
+  - label: エ
+    text: SSL/TLS
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

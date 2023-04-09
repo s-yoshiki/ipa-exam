@@ -1,0 +1,17 @@
+label: 65
+question: >-
+  企業での内部不正などの不正が発生するときには，"不正のトライアングル"と呼ばれる3要素の全てがそろって存在すると考えられている。"不正のトライアングル"を構成する3要素として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 機会，情報，正当化
+  - label: イ
+    text: 機会，情報，動機
+  - label: ウ
+    text: 機会，正当化，動機
+  - label: エ
+    text: 情報，正当化，動機
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

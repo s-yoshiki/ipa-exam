@@ -1,0 +1,16 @@
+label: 36
+question: 社内システムの利用方法などについての問合せに対し，単一の窓口であるサービスデスクを設置する部門として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: インシデント管理の担当
+  - label: イ
+    text: 構成管理の担当
+  - label: ウ
+    text: 変更管理の担当
+  - label: エ
+    text: リリース管理の担当
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

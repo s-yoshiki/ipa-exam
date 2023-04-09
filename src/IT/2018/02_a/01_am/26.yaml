@@ -1,0 +1,17 @@
+label: 26
+question: >-
+  中堅家電メーカA社では，自社の製品群に対する資金投資の優先度を検討するために，将来性と競争力によって製品をグループ分けしたい。このとき用いる分析手法として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 自社製品の価格と客層に関するクラスタ分析
+  - label: イ
+    text: 自社製品の購入顧客に関するRFM分析
+  - label: ウ
+    text: 自社製品のシェアと市場成長率に関するPPM分析
+  - label: エ
+    text: 自社製品の不具合の原因に関する主成分分析
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 47
+question: 手書き文字を読み取り，文字コードに変換したいときに用いる装置はどれか。
+choice:
+  - label: ア
+    text: BD-R
+  - label: イ
+    text: CD-R
+  - label: ウ
+    text: OCR
+  - label: エ
+    text: OMR
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

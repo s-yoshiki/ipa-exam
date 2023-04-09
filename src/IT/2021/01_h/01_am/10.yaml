@@ -1,0 +1,16 @@
+label: 10
+question: 技術ロードマップの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: カーナビゲーションシステムなどに用いられている最短経路の探索機能の実現に必要な技術を示したもの
+  - label: イ
+    text: 業務システムの開発工程で用いるソフトウェア技術の一覧を示したもの
+  - label: ウ
+    text: 情報システム部門の人材が習得すべき技術をキャリアとともに示したもの
+  - label: エ
+    text: 対象とする分野において，実現が期待されている技術を時間軸とともに示したもの
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

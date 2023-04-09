@@ -1,0 +1,16 @@
+label: 73
+question: インターネット経由で行うペネトレーションテストで見つけられる脆弱性の例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 外部ネットワークから公開サーバへの不正侵入口
+  - label: イ
+    text: 記録媒体による機密情報の持出し
+  - label: ウ
+    text: 社内のネットワークに接続しようとするPCのウイルス感染
+  - label: エ
+    text: セキュリティで保護された部屋への不正な入室経路
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

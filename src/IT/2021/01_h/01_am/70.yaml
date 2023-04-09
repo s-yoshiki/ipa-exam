@@ -1,0 +1,27 @@
+label: 70
+question: |-
+  条件①～④を全て満たすとき，出版社と著者と本の関係を示すE-R図はどれか。ここで，E-R図の表記法は次のとおりとする。  
+    
+  〔表記法〕  
+  a→b aとbが，1対多の関係であることを表す。  
+    
+  〔条件〕
+
+  1.  出版社は，複数の著者と契約している。
+  2.  著者は，一つの出版社とだけ契約している。
+  3.  著者は，複数の本を書いている。
+  4.  1冊の本は，1人の著者が書いている。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

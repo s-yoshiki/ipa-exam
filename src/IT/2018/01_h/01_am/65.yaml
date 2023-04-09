@@ -1,0 +1,21 @@
+label: 65
+question: |-
+  関係データベースの操作a～cと，関係演算の適切な組合せはどれか。
+
+  1.  指定したフィールド(列)を抽出する。
+  2.  指定したレコード(行)を抽出する。
+  3.  複数の表を一つの表にする。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

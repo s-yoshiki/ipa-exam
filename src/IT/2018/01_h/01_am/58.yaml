@@ -1,0 +1,16 @@
+label: 58
+question: ハブと呼ばれる集線装置を中心として，放射状に複数の通信機器を接続するLANの物理的な接続形態はどれか。
+choice:
+  - label: ア
+    text: スター型
+  - label: イ
+    text: バス型
+  - label: ウ
+    text: メッシュ型
+  - label: エ
+    text: リング型
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

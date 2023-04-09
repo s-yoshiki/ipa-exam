@@ -1,0 +1,16 @@
+label: 77
+question: DBMSにおいて，データへの同時アクセスによる矛盾の発生を防止し，データの一貫性を保つための機能はどれか。
+choice:
+  - label: ア
+    text: 正規化
+  - label: イ
+    text: デッドロック
+  - label: ウ
+    text: 排他制御
+  - label: エ
+    text: リストア
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

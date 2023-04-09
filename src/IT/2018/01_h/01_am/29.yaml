@@ -1,0 +1,17 @@
+label: 29
+question: >-
+  航空会社A社では，経営戦略を実現するために，バランススコアカードの四つの視点ごとに戦略目標を設定した。bに該当するものはどれか。ここで，a～dはア～エのどれかに対応するものとする。
+choice:
+  - label: ア
+    text: 学習と成長の視点
+  - label: イ
+    text: 業務プロセスの視点
+  - label: ウ
+    text: 顧客の視点
+  - label: エ
+    text: 財務の視点
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

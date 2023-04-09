@@ -1,0 +1,22 @@
+label: 52
+question: |-
+  関係データベースを構築するための作業を，a～cに分けて行うとき，作業の順序として適切なものはどれか。  
+    
+
+  1.  業務で使用するデータ項目の洗い出し
+  2.  表の生成
+  3.  レコードの挿入
+choice:
+  - label: ア
+    text: a → b → c
+  - label: イ
+    text: a → c → b
+  - label: ウ
+    text: b → a → c
+  - label: エ
+    text: b → c → a
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

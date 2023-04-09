@@ -1,0 +1,17 @@
+label: 28
+question: >-
+  意思決定に役立つ知見を得ることなどが期待されており，大量かつ多種多様な形式でリアルタイム性を有する情報などの意味で用いられる言葉として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ビッグデータ
+  - label: イ
+    text: ダイバーシティ
+  - label: ウ
+    text: コアコンピタンス
+  - label: エ
+    text: クラウドファンディング
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 14
+question: CADの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: アナログ信号をディジタル信号に変換する回路のこと
+  - label: イ
+    text: 建築物，工業製品などの設計にコンピュータを用いること
+  - label: ウ
+    text: 光を電気信号に変換する撮像素子のこと
+  - label: エ
+    text: 文字，画像，音声などのデータを組み合わせて一つのコンテンツを作ること
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

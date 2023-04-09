@@ -1,0 +1,16 @@
+label: 57
+question: Webサイトの更新状況を把握するために使われる情報の形式はどれか。
+choice:
+  - label: ア
+    text: CSS
+  - label: イ
+    text: DHCP
+  - label: ウ
+    text: ISMS
+  - label: エ
+    text: RSS
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

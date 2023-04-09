@@ -1,0 +1,17 @@
+label: 40
+question: >-
+  Cさんの生産性は，Aさんの1.5倍，Bさんの3倍とする。AさんとBさんの2人で作業すると20日掛かるソフトウェア開発の仕事がある。これをAさんとCさんで担当した場合の作業日数は何日か。
+choice:
+  - label: ア
+    text: '12'
+  - label: イ
+    text: '15'
+  - label: ウ
+    text: '18'
+  - label: エ
+    text: '20'
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

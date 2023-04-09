@@ -1,0 +1,21 @@
+label: 74
+question: |-
+  32ビットCPU及び64ビットCPUに関する記述のうち，適切なものだけを全て挙げたものはどれか。
+
+  1.  32ビットCPUと64ビットCPUでは，64ビットCPUの方が取り扱えるメモリ空間の理論上の上限は大きい。
+  2.  64ビットCPUを搭載したPCで動作する32ビット用のOSはない。
+  3.  USBメモリの読み書きの速度は，64ビットCPUを採用したPCの方が32ビットCPUを採用したPCよりも2倍速い。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

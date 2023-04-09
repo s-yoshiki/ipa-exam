@@ -1,0 +1,16 @@
+label: 24
+question: テレワークに関する記述として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ITを活用した，場所や時間にとらわれない柔軟な働き方のこと
+  - label: イ
+    text: ある業務に対して従来割り当てていた人数を増員し，業務を細分化して配分すること
+  - label: ウ
+    text: 個人が所有するPCやスマートデバイスなどの機器を，会社が許可を与えた上でオフィスでの業務に利用させること
+  - label: エ
+    text: 仕事の時間と私生活の時間の調和に取り組むこと
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

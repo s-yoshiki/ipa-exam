@@ -1,0 +1,20 @@
+label: 68
+question: |-
+  リスク対応を，移転，回避，低減及び保有に分類するとき，次の対応はどれに分類されるか。  
+    
+  〔対応〕  
+  職場における机上の書類からの情報漏えい対策として，退社時のクリアデスクを導入した。
+choice:
+  - label: ア
+    text: 移転
+  - label: イ
+    text: 回避
+  - label: ウ
+    text: 低減
+  - label: エ
+    text: 保有
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

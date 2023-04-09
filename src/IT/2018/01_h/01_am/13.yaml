@@ -1,0 +1,16 @@
+label: 13
+question: A社では営業部員の行動予定を把握したい。このとき利用するソフトウェアとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: CRMソフトウェア
+  - label: イ
+    text: ERPソフトウェア
+  - label: ウ
+    text: SCMソフトウェア
+  - label: エ
+    text: グループウェア
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

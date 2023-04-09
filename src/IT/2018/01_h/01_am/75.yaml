@@ -1,0 +1,16 @@
+label: 75
+question: A～Zの26種類の文字を表現する文字コードに最小限必要なビット数は幾つか。
+choice:
+  - label: ア
+    text: '4'
+  - label: イ
+    text: '5'
+  - label: ウ
+    text: '6'
+  - label: エ
+    text: '7'
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

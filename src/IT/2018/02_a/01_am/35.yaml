@@ -1,0 +1,16 @@
+label: 35
+question: 販売時点で，商品コードや購入者の属性などのデータを読み取ったりキー入力したりすることで，販売管理や在庫管理に必要な情報を収集するシステムはどれか。
+choice:
+  - label: ア
+    text: ETC
+  - label: イ
+    text: GPS
+  - label: ウ
+    text: POS
+  - label: エ
+    text: SCM
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

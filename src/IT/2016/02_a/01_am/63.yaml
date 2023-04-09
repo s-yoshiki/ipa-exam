@@ -1,0 +1,16 @@
+label: 63
+question: イントラネットの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: インターネットの技術を利用して構築された組織内ネットワーク
+  - label: イ
+    text: 社外の誰もが自由に接続可能な社内ネットワーク
+  - label: ウ
+    text: 複数の企業間で電子商取引を行うために構築されたネットワーク
+  - label: エ
+    text: 無線を使わずに有線だけで構成されたネットワーク
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

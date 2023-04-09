@@ -1,0 +1,16 @@
+label: 36
+question: システム開発プロジェクトにおけるステークホルダの説明として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 開発したシステムの利用者や，開発部門の担当者などのプロジェクトに関わる個人や組織
+  - label: イ
+    text: システム開発の費用を負担するスポンサ
+  - label: ウ
+    text: プロジェクトにマイナスの影響を与える可能性のある事象又はプラスの影響を与える可能性のある事象
+  - label: エ
+    text: プロジェクトの成果物や，成果物を作成するために行う作業
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 2
+question: グループウェアの機能を利用した事例のうち，ワークフロー管理機能を活用したものとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 営業活動に有効な提案書テンプレートの共有
+  - label: イ
+    text: 会議出席予定者の空き時間の確認
+  - label: ウ
+    text: 出張申請から交通費の精算までの承認手続の電子化
+  - label: エ
+    text: ネットワーク上での本支店間会議の実施
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

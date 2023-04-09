@@ -1,0 +1,16 @@
+label: 59
+question: マルチスレッドの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: CPUに複数のコア(演算回路)を搭載していること
+  - label: イ
+    text: ハードディスクなどの外部記憶装置を利用して，主記憶よりも大きな容量の記憶空間を実現すること
+  - label: ウ
+    text: 一つのアプリケーションプログラムを複数の処理単位に分けて，それらを並列に処理すること
+  - label: エ
+    text: 一つのデータを分割して，複数のハードディスクに並列に書き込むこと
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

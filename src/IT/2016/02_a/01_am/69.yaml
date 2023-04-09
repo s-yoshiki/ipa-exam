@@ -1,0 +1,16 @@
+label: 69
+question: 地球規模の環境シミュレーションや遺伝子解析などに使われており，大量の計算を超高速で処理する目的で開発されたコンピュータはどれか。
+choice:
+  - label: ア
+    text: 仮想コンピュータ
+  - label: イ
+    text: スーパコンピュータ
+  - label: ウ
+    text: 汎用コンピュータ
+  - label: エ
+    text: マイクロコンピュータ
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

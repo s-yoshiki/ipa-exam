@@ -1,0 +1,16 @@
+label: 8
+question: 不良品や故障，クレームなどの件数を原因別や状況別に分類し，それを大きい順に並べた棒グラフと，それらの累積和を折れ線グラフで表した図はどれか。
+choice:
+  - label: ア
+    text: 管理図
+  - label: イ
+    text: 系統図
+  - label: ウ
+    text: パレート図
+  - label: エ
+    text: マトリックス図
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

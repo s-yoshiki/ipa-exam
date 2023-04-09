@@ -1,0 +1,17 @@
+label: 7
+question: >-
+  企業のビジョンや戦略を実現するために，"財務"，"顧客"，"業務プロセス"，"学習と成長"の四つの視点から，具体的に目標を設定して成果を評価する手法はどれか。
+choice:
+  - label: ア
+    text: PPM
+  - label: イ
+    text: SWOT分析
+  - label: ウ
+    text: バランススコアカード
+  - label: エ
+    text: マーケティングミックス
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

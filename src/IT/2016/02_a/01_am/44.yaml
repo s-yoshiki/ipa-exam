@@ -1,0 +1,16 @@
+label: 44
+question: 内部統制の整備で文書化される，業務規定やマニュアルのような個々の業務内容についての手順や詳細を文章で示したものはどれか。
+choice:
+  - label: ア
+    text: 業務記述書
+  - label: イ
+    text: 業務の流れ図
+  - label: ウ
+    text: スプレッドシート
+  - label: エ
+    text: 要件定義書
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

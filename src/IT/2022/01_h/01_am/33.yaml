@@ -1,0 +1,17 @@
+label: 33
+question: >-
+  IT機器やソフトウェア，情報などについて，利用者の身体の特性や能力の違いなどにかかわらず，様々な人が同様に操作，入手，利用できる状態又は度合いを表す用語として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: アクセシビリティ
+  - label: イ
+    text: スケーラビリティ
+  - label: ウ
+    text: ダイバーシティ
+  - label: エ
+    text: トレーサビリティ
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 77
+question: 通信プロトコルに関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: アナログ通信で用いられる通信プロトコルはない。
+  - label: イ
+    text: 国際機関が制定したものだけであり，メーカが独自に定めたものは通信プロトコルとは呼ばない。
+  - label: ウ
+    text: 通信プロトコルは正常時の動作手順だけが定義されている。
+  - label: エ
+    text: メーカやOSが異なる機器同士でも，同じ通信プロトコルを使えば互いに通信することができる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

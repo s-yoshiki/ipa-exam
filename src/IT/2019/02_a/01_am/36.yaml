@@ -1,0 +1,16 @@
+label: 36
+question: システム監査の目的はどれか。
+choice:
+  - label: ア
+    text: 情報システム運用段階で，重要データのバックアップをとる。
+  - label: イ
+    text: 情報システム開発要員のスキルアップを図る。
+  - label: ウ
+    text: 情報システム企画段階で，ユーザニーズを調査し，システム化要件として文書化する。
+  - label: エ
+    text: 情報システムに係るリスクをコントロールし，情報システムを安全，有効かつ効率的に機能させる。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

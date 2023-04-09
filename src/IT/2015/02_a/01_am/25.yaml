@@ -1,0 +1,16 @@
+label: 25
+question: 新システムの開発に当たって実施する業務要件の定義に際し，必ず合意を得ておくべき関係者として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 現行システム開発時のプロジェクトの責任者
+  - label: イ
+    text: 現行システムの保守ベンダの責任者
+  - label: ウ
+    text: 新システムの開発ベンダの責任者
+  - label: エ
+    text: 新システムの利用部門の責任者
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

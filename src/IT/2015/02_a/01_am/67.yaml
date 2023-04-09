@@ -1,0 +1,16 @@
+label: 67
+question: NAT(Network Address Translation)がもつ機能として，適切なものはどれか。
+choice:
+  - label: ア
+    text: IPアドレスをコンピュータのMACアドレスに対応付ける。
+  - label: イ
+    text: IPアドレスをコンピュータのホスト名に変換する。
+  - label: ウ
+    text: コンピュータのホスト名をIPアドレスに変換する。
+  - label: エ
+    text: プライベートIPアドレスをグローバルIPアドレスに対応付ける。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

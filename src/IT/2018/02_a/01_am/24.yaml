@@ -1,0 +1,16 @@
+label: 24
+question: 次の計算式で算出される財務指標はどれか。
+choice:
+  - label: ア
+    text: ROA
+  - label: イ
+    text: ROE
+  - label: ウ
+    text: 自己資本比率
+  - label: エ
+    text: 当座比率
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

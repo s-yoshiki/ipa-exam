@@ -1,0 +1,17 @@
+label: 50
+question: >-
+  120kステップのソフトウェアを開発した。開発の各工程における生産性の実績が表のとおりであるとき，開発全体の工数は何人月か。ここで，生産性は1人月当たりのkステップとする。
+choice:
+  - label: ア
+    text: '10'
+  - label: イ
+    text: '12'
+  - label: ウ
+    text: '24'
+  - label: エ
+    text: '50'
+calculation: false
+figure: true
+answer: エ
+category: M
+figureText: ''

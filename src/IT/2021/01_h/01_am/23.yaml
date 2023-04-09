@@ -1,0 +1,17 @@
+label: 23
+question: >-
+  プロダクトポートフォリオマネジメントは，企業の経営資源を最適配分するために使用する手法であり，製品やサービスの市場成長率と市場におけるシェアから，その戦略的な位置付けを四つの領域に分類する。市場シェアは低いが急成長市場にあり，将来の成長のために多くの資金投入が必要となる領域はどれか。
+choice:
+  - label: ア
+    text: 金のなる木
+  - label: イ
+    text: 花形
+  - label: ウ
+    text: 負け犬
+  - label: エ
+    text: 問題児
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 45
+question: プロジェクトチームが実行する作業を，階層的に要素分解した図表はどれか。
+choice:
+  - label: ア
+    text: DFD
+  - label: イ
+    text: WBS
+  - label: ウ
+    text: アローダイアグラム
+  - label: エ
+    text: マイルストーンチャート
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

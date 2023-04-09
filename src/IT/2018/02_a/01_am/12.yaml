@@ -1,0 +1,16 @@
+label: 12
+question: コンプライアンスに関する事例として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 為替の大幅な変動によって，多額の損失が発生した。
+  - label: イ
+    text: 規制緩和による市場参入者の増加によって，市場シェアを失った。
+  - label: ウ
+    text: 原材料の高騰によって，限界利益が大幅に減少した。
+  - label: エ
+    text: 品質データの改ざんの発覚によって，当該商品のリコールが発生した。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

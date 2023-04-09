@@ -1,0 +1,17 @@
+label: 55
+question: >-
+  システム監査の業務は，監査計画の立案，監査証拠の入手と評価，監査手続の実施，監査報告書の作成，フォローアップのプロセスに分けられる。これらのうち，適切な対策の実施を指導するプロセスはどれか。
+choice:
+  - label: ア
+    text: 監査証拠の入手と評価
+  - label: イ
+    text: 監査手続の実施
+  - label: ウ
+    text: 監査報告書の作成
+  - label: エ
+    text: フォローアップ
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

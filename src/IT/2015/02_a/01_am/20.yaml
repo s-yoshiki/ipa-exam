@@ -1,0 +1,16 @@
+label: 20
+question: 図書を特定するために世界標準として使用されているコードはどれか。
+choice:
+  - label: ア
+    text: ISBN
+  - label: イ
+    text: ITF
+  - label: ウ
+    text: JAN
+  - label: エ
+    text: QR
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

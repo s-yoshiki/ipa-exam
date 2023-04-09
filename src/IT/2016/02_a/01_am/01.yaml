@@ -1,0 +1,16 @@
+label: 1
+question: 労働者派遣に関する説明のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務の種類によらず，派遣期間の制限はない。
+  - label: イ
+    text: 派遣契約の種類によらず，派遣労働者の選任は派遣先が行う。
+  - label: ウ
+    text: 派遣先が派遣労働者に給与を支払う。
+  - label: エ
+    text: 派遣労働者であった者を，派遣元との雇用期間が終了後，派遣先が雇用してもよい。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

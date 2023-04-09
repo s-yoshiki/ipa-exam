@@ -1,0 +1,16 @@
+label: 77
+question: 無線LANに関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: アクセスポイントの不正利用対策が必要である。
+  - label: イ
+    text: 暗号化の規格はWPA2に限定されている。
+  - label: ウ
+    text: 端末とアクセスポイント間の距離に関係なく通信できる。
+  - label: エ
+    text: 無線LANの規格は複数あるが，全て相互に通信できる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,22 @@
+label: 67
+question: |-
+  システムの一部に障害が発生した場合でも，正常に処理を実行することができる施策として，適切なものだけを全て挙げたものはどれか。
+
+  1.  HDDをミラーリングで構成する。
+  2.  システムの安定稼働後は，保守や点検の頻度をできるだけ減らす。
+  3.  冗長化していた複数のネットワーク回線を，より高速な1本の回線にまとめる。
+  4.  無停電電源装置を設置するなどして電源を多重化する。
+choice:
+  - label: ア
+    text: ①，③
+  - label: イ
+    text: ①，④
+  - label: ウ
+    text: ②，③
+  - label: エ
+    text: ②，④
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

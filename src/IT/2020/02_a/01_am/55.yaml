@@ -1,0 +1,16 @@
+label: 55
+question: 図の工程の最短所要日数及び最長所要日数は何日か。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: M
+figureText: ''

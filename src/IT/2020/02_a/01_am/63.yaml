@@ -1,0 +1,23 @@
+label: 63
+question: |-
+  記述a～dのうち，クライアントサーバシステムの応答時間を短縮するための施策として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  クライアントとサーバ間の回線を高速化し，データの送受信時間を短くする。
+  2.  クライアントの台数を増やして，クライアントの利用待ち時間を短くする。
+  3.  クライアントの入力画面で，利用者がデータを入力する時間を短くする。
+  4.  サーバを高性能化して，サーバの処理時間を短くする。
+choice:
+  - label: ア
+    text: a，b，c
+  - label: イ
+    text: a，d
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

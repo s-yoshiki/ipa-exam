@@ -1,0 +1,16 @@
+label: 39
+question: 共通フレームの定義に含まれているものとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: 各工程で作成する成果物の文書化に関する詳細な規定
+  - label: イ
+    text: システムの開発や保守の各工程の作業項目
+  - label: ウ
+    text: システムを構成するソフトウェアの信頼性レベルや保守性レベルなどの尺度の規定
+  - label: エ
+    text: システムを構成するハードウェアの開発に関する詳細な作業項目
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 74
+question: 通信プロトコルであるPOPの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 離れた場所にあるコンピュータを，端末から遠隔操作するためのプロトコル
+  - label: イ
+    text: ファイル転送を行うためのプロトコル
+  - label: ウ
+    text: メールサーバへ電子メールを送信するためのプロトコル
+  - label: エ
+    text: メールソフトがメールサーバから電子メールを受信するためのプロトコル
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

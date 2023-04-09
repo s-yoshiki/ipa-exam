@@ -1,0 +1,24 @@
+label: 72
+question: >-
+  関係データベースで管理された"売上"表，"顧客"表及び"商品"表がある。a～cのうち，これらの表のデータを用いて作成できるものだけを全て挙げたものはどれか。ここで，下線のうち実線は主キーを，破線は外部キーを表す。
+
+
+  1.  過去のある期間に一定額以上の売上があった顧客の一覧
+
+  2.  前月に在庫切れがあった商品の一覧
+
+  3.  直近1か月の商品別売上額ランキング
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: a，c
+  - label: エ
+    text: b，c
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

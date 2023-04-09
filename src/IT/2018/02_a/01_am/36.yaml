@@ -1,0 +1,16 @@
+label: 36
+question: プロジェクトにおけるスコープの変更に該当するものとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: プロジェクトで利用する開発場所の変更
+  - label: イ
+    text: プロジェクトに参画する開発メンバの追加
+  - label: ウ
+    text: プロジェクトの一部の作業の外注先の変更
+  - label: エ
+    text: プロジェクトの作業に，顧客が行う運用テストの支援を追加
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

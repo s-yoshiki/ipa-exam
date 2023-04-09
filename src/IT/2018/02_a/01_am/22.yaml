@@ -1,0 +1,16 @@
+label: 22
+question: 製品の製造におけるプロセスイノベーションによって，直接的に得られる成果はどれか。
+choice:
+  - label: ア
+    text: 新たな市場が開拓される。
+  - label: イ
+    text: 製品の品質が向上する。
+  - label: ウ
+    text: 製品一つ当たりの生産時間が増加する。
+  - label: エ
+    text: 歩留り率が低下する。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

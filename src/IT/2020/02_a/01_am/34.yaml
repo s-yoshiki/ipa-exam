@@ -1,0 +1,16 @@
+label: 34
+question: 営業利益を求める計算式はどれか。
+choice:
+  - label: ア
+    text: (売上総利益)－(販売費及び一般管理費)
+  - label: イ
+    text: (売上高)－(売上原価)
+  - label: ウ
+    text: (経常利益)＋(特別利益)－(特別損失)
+  - label: エ
+    text: (税引前当期純利益)－(法人税，住民税及び事業税)
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

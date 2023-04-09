@@ -1,0 +1,16 @@
+label: 67
+question: 情報の漏えいなどのセキュリティ事故が発生したときに，被害の拡大を防止する活動を行う組織はどれか。
+choice:
+  - label: ア
+    text: CSIRT
+  - label: イ
+    text: ISMS
+  - label: ウ
+    text: MVNO
+  - label: エ
+    text: ディジタルフォレンジックス
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

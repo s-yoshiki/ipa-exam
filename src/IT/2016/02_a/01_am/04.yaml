@@ -1,0 +1,16 @@
+label: 4
+question: 定義すべき要件を業務要件とシステム要件に分けたとき，業務要件に当たるものはどれか。
+choice:
+  - label: ア
+    text: オンラインシステムの稼働率は99%以上とする。
+  - label: イ
+    text: 情報漏えいを防ぐために，ネットワークを介して授受するデータを暗号化する。
+  - label: ウ
+    text: 操作性向上のために，画面表示にはWebブラウザを使用する。
+  - label: エ
+    text: 物流コストを削減するために出庫作業の自動化率を高める。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

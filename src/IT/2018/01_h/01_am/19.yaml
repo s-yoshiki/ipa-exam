@@ -1,0 +1,16 @@
+label: 19
+question: 前期と当期の損益計算書を比較したとき，前期から当期における変化の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 売上総利益が1,500百万円増となった。
+  - label: イ
+    text: 営業利益が50%増となった。
+  - label: ウ
+    text: 経常利益が2倍となった。
+  - label: エ
+    text: 当期純利益は増減しなかった。
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

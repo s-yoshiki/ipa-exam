@@ -1,0 +1,16 @@
+label: 50
+question: プロジェクトメンバ間のコミュニケーションのルールを明確にするための施策として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 作成すべき成果物を定義する。
+  - label: イ
+    text: 実際に使った費用を把握し，計画とのずれがあれば対策を講じる。
+  - label: ウ
+    text: スケジュールを作成し，進捗管理を行う。
+  - label: エ
+    text: プロジェクト情報の作成や配布の方法を明確にする。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

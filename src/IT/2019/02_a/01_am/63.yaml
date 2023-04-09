@@ -1,0 +1,23 @@
+label: 63
+question: |-
+  チェーンメールの特徴として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  グループ内の連絡や情報共有目的で利用される。
+  2.  ネットワークやサーバに，無駄な負荷をかける。
+  3.  返信に対する返信を，お互いに何度も繰り返す。
+  4.  本文中に，多数への転送を煽(あお)る文言が記されている。
+choice:
+  - label: ア
+    text: a，c
+  - label: イ
+    text: a，d
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: b，d
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

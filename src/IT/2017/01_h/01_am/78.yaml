@@ -1,0 +1,16 @@
+label: 78
+question: DBMSにおいて，あるサーバのデータを他のサーバに複製し，同期をとることで，可用性や性能の向上を図る手法のことを何というか。
+choice:
+  - label: ア
+    text: アーカイブ
+  - label: イ
+    text: ジャーナル
+  - label: ウ
+    text: 分散トランザクション
+  - label: エ
+    text: レプリケーション
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

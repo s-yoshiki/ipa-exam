@@ -1,0 +1,17 @@
+label: 78
+question: >-
+  関係データベースの"社員"表と"部署"表がある。"社員"表と"部署"表を結合し，社員の住所と所属する部署の所在地が異なる社員を抽出する。抽出される社員は何人か。
+choice:
+  - label: ア
+    text: '1'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '3'
+  - label: エ
+    text: '4'
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

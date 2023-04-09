@@ -1,0 +1,17 @@
+label: 13
+question: >-
+  我が国における，社会インフラとなっている情報システムや情報通信ネットワークへの脅威に対する防御施策を，効果的に推進するための政府組織の設置などを定めた法律はどれか。
+choice:
+  - label: ア
+    text: サイバーセキュリティ基本法
+  - label: イ
+    text: 特定秘密保護法
+  - label: ウ
+    text: 不正競争防止法
+  - label: エ
+    text: マイナンバー法
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

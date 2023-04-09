@@ -1,0 +1,16 @@
+label: 69
+question: ソフトウェアの不具合を修正するために提供されるファイルのことを何と呼ぶか。
+choice:
+  - label: ア
+    text: パターンファイル
+  - label: イ
+    text: バックアップファイル
+  - label: ウ
+    text: バッチファイル
+  - label: エ
+    text: パッチファイル
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

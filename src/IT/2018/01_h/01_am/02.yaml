@@ -1,0 +1,16 @@
+label: 2
+question: コンピュータなどの情報機器を使いこなせる人と使いこなせない人との間に生じる，入手できる情報の質，量や収入などの格差を表す用語はどれか。
+choice:
+  - label: ア
+    text: ソーシャルネットワーキングサービス
+  - label: イ
+    text: ディジタルサイネージ
+  - label: ウ
+    text: ディジタルディバイド
+  - label: エ
+    text: ディジタルネイティブ
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

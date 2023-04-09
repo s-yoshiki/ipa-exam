@@ -1,0 +1,17 @@
+label: 41
+question: >-
+  テレワークを推進しているある会社では，サテライトオフィスを構築している。サテライトオフィスで使用するネットワーク機器やPCを対象に，落雷による過電流を防止するための対策を検討した。有効な対策として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: グリーンITに対応した機器の設置
+  - label: イ
+    text: サージ防護に対応した機器の設置
+  - label: ウ
+    text: 無線LANルータの設置
+  - label: エ
+    text: 無停電電源装置の設置
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

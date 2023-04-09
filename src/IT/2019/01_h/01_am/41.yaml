@@ -1,0 +1,16 @@
+label: 41
+question: システムのテスト中に発見したバグを，原因別に集計して発生頻度の高い順に並べ，累積曲線を入れた図表はどれか。
+choice:
+  - label: ア
+    text: 散布図
+  - label: イ
+    text: 特性要因図
+  - label: ウ
+    text: パレート図
+  - label: エ
+    text: ヒストグラム
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

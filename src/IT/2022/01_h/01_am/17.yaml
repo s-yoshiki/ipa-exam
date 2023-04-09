@@ -1,0 +1,16 @@
+label: 17
+question: BYODの事例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 会社から貸与されたスマートフォンを業務中に私的に使用する。
+  - label: イ
+    text: 会社から貸与されたスマートフォンを業務で使用する。
+  - label: ウ
+    text: 会社が利用を許可した私物のスマートフォンを業務で使用する。
+  - label: エ
+    text: 私物のスマートフォンを業務中に私的に使用する。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 68
+question: PCにおける有害なソフトウェアへの情報セキュリティ対策として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 64ビットOSを使用する。
+  - label: イ
+    text: マルウェア定義ファイルは常に最新に保つ。
+  - label: ウ
+    text: 定期的にハードディスクをデフラグする。
+  - label: エ
+    text: ファイルは圧縮して保存する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

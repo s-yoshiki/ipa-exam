@@ -1,0 +1,17 @@
+label: 76
+question: >-
+  認証方式を"知識による認証"，"所持品による認証"及び"個人の身体的・行動的特徴による認証"の三つに分類したとき，"個人の身体的・行動的特徴による認証"に分類されるものはどれか。
+choice:
+  - label: ア
+    text: IDカードによる認証
+  - label: イ
+    text: ニーモニック認証
+  - label: ウ
+    text: バイオメトリクス認証
+  - label: エ
+    text: パスワード認証
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

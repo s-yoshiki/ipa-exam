@@ -1,0 +1,16 @@
+label: 73
+question: 情報セキュリティマネジメントシステムを構築した企業において，情報セキュリティ方針を改訂したことを周知する範囲として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 機密情報を扱う部署の従業員
+  - label: イ
+    text: 経営者
+  - label: ウ
+    text: 全ての従業員及び関連する外部関係者
+  - label: エ
+    text: セキュリティ管理者
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

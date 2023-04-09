@@ -1,0 +1,16 @@
+label: 23
+question: 特段の取決めをしないで，A社がB社にソフトウェア開発を委託した場合，ソフトウェアの著作権の保有先として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ソフトウェアの著作権はA社とB社の双方で保有する。
+  - label: イ
+    text: ソフトウェアの著作権はA社とB社のどちらも保有せず，消滅する。
+  - label: ウ
+    text: ソフトウェアの著作権は全てA社が保有する。
+  - label: エ
+    text: ソフトウェアの著作権は全てB社が保有する。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

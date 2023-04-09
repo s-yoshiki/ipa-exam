@@ -1,0 +1,16 @@
+label: 51
+question: メールサービスにおけるITサービスマネジメントの可用性の要件に関する事例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: Webブラウザだけでメールサービスを使用できるようにする。
+  - label: イ
+    text: 定められたメンテナンス時間以外はいつでもメールサービスを使用できるようにする。
+  - label: ウ
+    text: 自分宛てのメールを他人が勝手に読むことができないようにする。
+  - label: エ
+    text: 送信したメールが改ざんされてしまうことがないようにする。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

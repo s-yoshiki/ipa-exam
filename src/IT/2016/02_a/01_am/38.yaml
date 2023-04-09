@@ -1,0 +1,17 @@
+label: 38
+question: >-
+  システム開発プロジェクトにおいて，開発用のPCの導入が遅延することになった。しかし，遅延した場合には旧型のPCを代替機として使用するようにあらかじめ計画していたので，開発作業を予定どおりに開始することができた。この場合に，プロジェクトマネジメントとして実施したものはどれか。
+choice:
+  - label: ア
+    text: クリティカルパスの見積り
+  - label: イ
+    text: スコープ定義
+  - label: ウ
+    text: ステークホルダの特定
+  - label: エ
+    text: リスク対応計画の実行
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

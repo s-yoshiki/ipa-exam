@@ -1,0 +1,16 @@
+label: 24
+question: CADの導入効果として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 資材の所要量を把握して最適な発注ができる。
+  - label: イ
+    text: 生産工程の自動化と作業の無人化ができる。
+  - label: ウ
+    text: 生産に関連する一連のプロセスを統合的に管理できる。
+  - label: エ
+    text: 設計データを再利用して作業を効率化しやすくする。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

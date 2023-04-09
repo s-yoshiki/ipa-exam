@@ -1,0 +1,17 @@
+label: 11
+question: >-
+  与信限度額が3,000万円に設定されている取引先の5月31日業務終了時までの全取引が表のとおりであるとき，その時点での取引先の与信の余力は何万円か。ここで，受注分も与信に含めるものとし，満期日前の手形回収は回収とはみなさないものとする。
+choice:
+  - label: ア
+    text: 1,100
+  - label: イ
+    text: 1,900
+  - label: ウ
+    text: 2,200
+  - label: エ
+    text: 2,400
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

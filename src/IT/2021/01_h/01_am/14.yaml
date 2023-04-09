@@ -1,0 +1,17 @@
+label: 14
+question: >-
+  ソフトウェアライフサイクルを，企画プロセス，要件定義プロセス，開発プロセス，運用プロセスに分けるとき，システム化計画を踏まえて，利用者及び他の利害関係者が必要とするシステムの機能を明確にし，合意を形成するプロセスはどれか。
+choice:
+  - label: ア
+    text: 企画プロセス
+  - label: イ
+    text: 要件定義プロセス
+  - label: ウ
+    text: 開発プロセス
+  - label: エ
+    text: 運用プロセス
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 19
+question: 複数の店舗をもつ小売業A社の業績推移を示す表から読み取れるものはどれか。
+choice:
+  - label: ア
+    text: 1店舗当たりの売上高は減少し，営業利益率は増加している。
+  - label: イ
+    text: 1店舗当たりの売上高は減少し，営業利益率も減少している。
+  - label: ウ
+    text: 1店舗当たりの売上高は増加し，営業利益率も増加している。
+  - label: エ
+    text: 1店舗当たりの売上高は増加し，営業利益率は減少している。
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

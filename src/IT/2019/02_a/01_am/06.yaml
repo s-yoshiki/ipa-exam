@@ -1,0 +1,16 @@
+label: 6
+question: 行政機関の保有する資料について，開示を請求する権利とその手続などについて定めた法律はどれか。
+choice:
+  - label: ア
+    text: 公益通報者保護法
+  - label: イ
+    text: 個人情報保護法
+  - label: ウ
+    text: 情報公開法
+  - label: エ
+    text: 不正アクセス禁止法
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 30
+question: BYODの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 企業などにおいて，従業員が私物の情報端末を自社のネットワークに接続するなどして，業務で利用できるようにすること
+  - label: イ
+    text: 業務プロセスを抜本的に改革し，ITを駆使して業務の処理能力とコスト効率を高めること
+  - label: ウ
+    text: 事故や災害が発生した場合でも，安定的に業務を遂行できるようにするための事業継続計画のこと
+  - label: エ
+    text: 自社の業務プロセスの一部を，子会社や外部の専門的な企業に委託し，業務の効率化を図ること
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

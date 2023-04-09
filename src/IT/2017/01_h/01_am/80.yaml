@@ -1,0 +1,16 @@
+label: 80
+question: 情報セキュリティを脅かすもののうち，ソフトウェアの脆(ぜい)弱性を修正するパッチを適用することが最も有効な対策となるものはどれか。
+choice:
+  - label: ア
+    text: 総当たり攻撃
+  - label: イ
+    text: ソーシャルエンジニアリング
+  - label: ウ
+    text: バッファオーバフロー
+  - label: エ
+    text: ポートスキャン
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

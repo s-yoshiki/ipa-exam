@@ -1,0 +1,16 @@
+label: 23
+question: プロの棋士に勝利するまでに将棋ソフトウェアの能力が向上した。この将棋ソフトウェアの能力向上の中核となった技術として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: VR
+  - label: イ
+    text: ER
+  - label: ウ
+    text: EC
+  - label: エ
+    text: AI
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

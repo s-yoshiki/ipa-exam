@@ -1,0 +1,24 @@
+label: 6
+question: >-
+  システムのライフサイクルプロセスの一つに位置付けられる，要件定義プロセスで定義するシステム化の要件には，業務要件を実現するために必要なシステム機能を明らかにする機能要件と，それ以外の技術要件や運用要件などを明らかにする非機能要件がある。非機能要件だけを全て挙げたものはどれか。
+
+
+  1.  業務機能間のデータの流れ
+
+  2.  システム監視のサイクル
+
+  3.  障害発生時の許容復旧時間
+choice:
+  - label: ア
+    text: a，c
+  - label: イ
+    text: b
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

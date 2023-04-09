@@ -1,0 +1,16 @@
+label: 43
+question: システム開発を示した図のアローダイアグラムにおいて，工程AとDが合わせて3日遅れると，全体では何日遅れるか。
+choice:
+  - label: ア
+    text: '1'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '3'
+  - label: エ
+    text: '4'
+calculation: false
+figure: true
+answer: ア
+category: M
+figureText: ''

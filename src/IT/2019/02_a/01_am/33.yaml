@@ -1,0 +1,16 @@
+label: 33
+question: RPA(Robotic Process Automation)の事例として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 高度で非定型な判断だけを人間の代わりに自動で行うソフトウェアが，求人サイトにエントリーされたデータから採用候補者を選定する。
+  - label: イ
+    text: 人間の形をしたロボットが，銀行の窓口での接客など非定型な業務を自動で行う。
+  - label: ウ
+    text: ルール化された定型的な操作を人間の代わりに自動で行うソフトウェアが，インターネットで受け付けた注文データを配送システムに転記する。
+  - label: エ
+    text: ロボットが，工場の製造現場で組立てなどの定型的な作業を人間の代わりに自動で行う。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

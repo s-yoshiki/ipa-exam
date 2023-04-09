@@ -1,0 +1,17 @@
+label: 74
+question: >-
+  無線LANの暗号化方式であり，WEPでは短い時間で暗号が解読されてしまう問題が報告されたことから，より暗号強度を高めるために利用が推奨されているものはどれか。
+choice:
+  - label: ア
+    text: ESSID
+  - label: イ
+    text: HTTPS
+  - label: ウ
+    text: S/MIME
+  - label: エ
+    text: WPA2
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

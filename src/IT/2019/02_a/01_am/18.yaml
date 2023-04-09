@@ -1,0 +1,17 @@
+label: 18
+question: >-
+  銀行などの預金者の資産を，AIが自動的に運用するサービスを提供するなど，金融業においてIT技術を活用して，これまでにない革新的なサービスを開拓する取組を示す用語はどれか。
+choice:
+  - label: ア
+    text: FA
+  - label: イ
+    text: FinTech
+  - label: ウ
+    text: OA
+  - label: エ
+    text: シェアリングエコノミー
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

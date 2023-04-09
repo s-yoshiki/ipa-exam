@@ -1,0 +1,22 @@
+label: 12
+question: |-
+  労働者派遣に関する記述a～cのうち，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  派遣契約の種類によらず派遣労働者の選任は派遣先が行う。
+  2.  派遣労働者であった者を，派遣元との雇用期間が終了後，派遣先が雇用してもよい。
+  3.  派遣労働者の給与を派遣先が支払う。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: b
+  - label: エ
+    text: b，c
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

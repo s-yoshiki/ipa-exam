@@ -1,0 +1,17 @@
+label: 4
+question: >-
+  ITの活用によって，個人の学習履歴を蓄積，解析し，学習者一人一人の学習進行度や理解度に応じて最適なコンテンツを提供することによって，学習の効率と効果を高める仕組みとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: アダプティブラー二ング
+  - label: イ
+    text: タレントマネジメント
+  - label: ウ
+    text: ディープラーニング
+  - label: エ
+    text: ナレッジマネジメント
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

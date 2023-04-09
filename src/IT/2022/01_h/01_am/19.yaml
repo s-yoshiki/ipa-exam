@@ -1,0 +1,17 @@
+label: 19
+question: >-
+  製造販売業A社は，バランススコアカードの考え方を用いて戦略テーマを設定した。業務プロセス(内部ビジネスプロセス)の視点に基づく戦略テーマとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 売上高の拡大
+  - label: イ
+    text: 顧客ロイヤルティの拡大
+  - label: ウ
+    text: 従業員の技術力強化
+  - label: エ
+    text: 部品の共有化比率の向上
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

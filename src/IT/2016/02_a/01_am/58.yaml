@@ -1,0 +1,16 @@
+label: 58
+question: GPUの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 1秒間に何十億回の命令が実行できるかを示すCPUの処理能力を表す指標の一つ
+  - label: イ
+    text: CPUが演算処理の同期をとるための周期的信号
+  - label: ウ
+    text: CPUと主記憶装置との間に設けられた，主記憶装置よりも読み書きが高速な記憶装置
+  - label: エ
+    text: 三次元グラフィックスの画像処理などをCPUに代わって高速に実行する演算装置
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

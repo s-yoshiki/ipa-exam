@@ -1,0 +1,17 @@
+label: 23
+question: >-
+  統計学や機械学習などの手法を用いて大量のデータを解析して，新たなサービスや価値を生み出すためのヒントやアイディアを抽出する役割が重要となっている。その役割を担う人材として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ITストラテジスト
+  - label: イ
+    text: システムアーキテクト
+  - label: ウ
+    text: システムアナリスト
+  - label: エ
+    text: データサイエンティスト
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

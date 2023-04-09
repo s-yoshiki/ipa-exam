@@ -1,0 +1,16 @@
+label: 63
+question: NATの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: IPアドレスとMACアドレスを対応付ける。
+  - label: イ
+    text: ネットワークへ接続するコンピュータにIPアドレスを自動的に割り当てる。
+  - label: ウ
+    text: プライベートIPアドレスとグローバルIPアドレスを相互変換する。
+  - label: エ
+    text: ホスト名からIPアドレスを得る。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 5
+question: >-
+  機械XとYを使用する作業A，B，Cがあり，いずれの作業も機械X，機械Yの順に使用する必要がある。各作業における機械XとYの使用時間が表のとおりであるとき，三つの作業を完了するための総所要時間が最小となる作業の順番はどれか。ここで，図のように機械XとYは並行して使用できるが，それぞれの機械は二つ以上の作業を同時に行うことはできないものとする。
+choice:
+  - label: ア
+    text: A→B→C
+  - label: イ
+    text: A→C→B
+  - label: ウ
+    text: C→A→B
+  - label: エ
+    text: C→B→A
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

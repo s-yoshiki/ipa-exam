@@ -1,0 +1,23 @@
+label: 65
+question: |-
+  顧客の氏名，住所などが記載された住所録の取扱いa～dのうち，個人情報保護の観点から適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  顧客から本人の登録内容の確認希望があっても，情報の保護を理由に開示しない。
+  2.  住所録から全員の氏名と住所を抽出した一覧を作成し，それを顧客全員に配布して誤りがないことを確認してもらう。
+  3.  住所録のデータを書き込んだCD-ROMを破棄するときには破砕する。
+  4.  住所録のデータをファイルに保存するときには暗号化する。
+choice:
+  - label: ア
+    text: a，c，d
+  - label: イ
+    text: a，d
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

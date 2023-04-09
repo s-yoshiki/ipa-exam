@@ -1,0 +1,16 @@
+label: 28
+question: 次の当期末損益計算資料から求められる経常利益は何百万円か。
+choice:
+  - label: ア
+    text: '385'
+  - label: イ
+    text: '685'
+  - label: ウ
+    text: '985'
+  - label: エ
+    text: 1,000
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

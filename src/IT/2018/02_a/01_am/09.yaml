@@ -1,0 +1,16 @@
+label: 9
+question: '"クラウドコンピューティング"に関する記述として，適切なものはどれか。'
+choice:
+  - label: ア
+    text: インターネットの通信プロトコル
+  - label: イ
+    text: コンピュータ資源の提供に関するサービスモデル
+  - label: ウ
+    text: 仕様変更に柔軟に対応できるソフトウェア開発の手法
+  - label: エ
+    text: 電子商取引などに使われる電子データ交換の規格
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

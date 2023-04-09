@@ -1,0 +1,16 @@
+label: 52
+question: アジャイル開発において，短い間隔による開発工程の反復や，その開発サイクルを表す用語として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: イテレーション
+  - label: イ
+    text: スクラム
+  - label: ウ
+    text: プロトタイピング
+  - label: エ
+    text: ペアプログラミング
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

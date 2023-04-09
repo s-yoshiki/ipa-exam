@@ -1,0 +1,17 @@
+label: 30
+question: >-
+  内部統制の一環として，業務分掌と整合のとれたアクセス管理を実現することになった。情報システムの開発において，アクセス管理の検討を開始するプロセスとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: 要件定義
+  - label: イ
+    text: プログラミング
+  - label: ウ
+    text: テスト
+  - label: エ
+    text: 運用開始後
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

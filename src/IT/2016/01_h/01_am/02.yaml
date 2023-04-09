@@ -1,0 +1,23 @@
+label: 2
+question: |-
+  不正アクセス禁止法で規制されている行為だけを全て挙げたものはどれか。  
+    
+
+  1.  Webサイトの利用者IDとパスワードを，本人に無断で第三者に提供した。
+  2.  ウイルスが感染しているファイルを，誤って電子メールに添付して送信した。
+  3.  営業秘密の情報が添付されている電子メールを，誤って第三者に送信した。
+  4.  著作権を侵害している違法なサイトを閲覧した。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: a，b，c
+  - label: エ
+    text: a，d
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

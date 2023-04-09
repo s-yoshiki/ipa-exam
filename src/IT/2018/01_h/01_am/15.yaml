@@ -1,0 +1,17 @@
+label: 15
+question: >-
+  1個の製品Pは2個の部品Qで構成され，部品Qは4個の部品Rで構成されている。部品Qは1個，部品Rは3個の在庫があるとき，製品Pを6個生産するには，部品Rはあと何個必要か。
+choice:
+  - label: ア
+    text: '41'
+  - label: イ
+    text: '44'
+  - label: ウ
+    text: '45'
+  - label: エ
+    text: '48'
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

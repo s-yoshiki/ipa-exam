@@ -1,0 +1,16 @@
+label: 52
+question: サービスデスクが行うこととして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: インシデントの根本原因を排除し，インシデントの再発防止を行う。
+  - label: イ
+    text: インシデントの再発防止のために，変更されたソフトウェアを導入する。
+  - label: ウ
+    text: サービスに対する変更を一元的に管理する。
+  - label: エ
+    text: 利用者からの問合せの受付けや記録を行う。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

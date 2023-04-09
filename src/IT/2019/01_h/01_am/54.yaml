@@ -1,0 +1,16 @@
+label: 54
+question: ソフトウェア保守に関する説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 稼働後にプログラム仕様書を分かりやすくするための改善は，ソフトウェア保守である。
+  - label: イ
+    text: 稼働後に見つかった画面や帳票の軽微な不良対策は，ソフトウェア保守ではない。
+  - label: ウ
+    text: システムテストで検出されたバグの修正は，ソフトウェア保守である。
+  - label: エ
+    text: システムを全く新規のものに更改することは，ソフトウェア保守である。
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

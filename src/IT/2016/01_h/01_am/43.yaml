@@ -1,0 +1,16 @@
+label: 43
+question: システム開発のテストを，単体テスト，結合テスト，システムテスト，運用テストの順に行う場合，システムテストの内容として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 個々のプログラムに誤りがないことを検証する。
+  - label: イ
+    text: 性能要件を満たしていることを開発者が検証する。
+  - label: ウ
+    text: プログラム間のインタフェースに誤りがないことを検証する。
+  - label: エ
+    text: 利用者が実際に運用することで，業務の運用が要件どおり実施できることを検証する。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

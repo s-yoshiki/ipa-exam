@@ -1,0 +1,16 @@
+label: 8
+question: 自社のWebサイトのコンテンツのバージョン管理や公開に労力が割かれている。それを改善するために導入するシステムとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: CAD
+  - label: イ
+    text: CMS
+  - label: ウ
+    text: CRM
+  - label: エ
+    text: SFA
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

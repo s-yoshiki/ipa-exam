@@ -1,0 +1,16 @@
+label: 8
+question: 著作権法による保護の対象となるものはどれか。
+choice:
+  - label: ア
+    text: アルゴリズム
+  - label: イ
+    text: 操作マニュアル
+  - label: ウ
+    text: プログラム言語
+  - label: エ
+    text: プロトコル
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

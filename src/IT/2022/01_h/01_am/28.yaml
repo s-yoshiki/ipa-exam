@@ -1,0 +1,16 @@
+label: 28
+question: A社のある期の資産，負債及び純資産が次のとおりであるとき，経営の安全性指標の一つで，短期の支払能力を示す流動比率は何%か。
+choice:
+  - label: ア
+    text: '50'
+  - label: イ
+    text: '100'
+  - label: ウ
+    text: '150'
+  - label: エ
+    text: '200'
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

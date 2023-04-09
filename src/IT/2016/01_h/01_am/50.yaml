@@ -1,0 +1,26 @@
+label: 50
+question: >-
+  システム開発プロジェクトの工程を，システム要件定義，システム設計，プログラミング，テストの順に進めるとき，a～dのうち，品質の管理を実施する必要がある工程として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  システム要件定義
+
+  2.  システム設計
+
+  3.  プログラミング
+
+  4.  テスト
+choice:
+  - label: ア
+    text: a，b，c，d
+  - label: イ
+    text: b，c，d
+  - label: ウ
+    text: c，d
+  - label: エ
+    text: d
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

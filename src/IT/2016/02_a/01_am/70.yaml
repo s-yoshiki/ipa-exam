@@ -1,0 +1,16 @@
+label: 70
+question: テザリング機能をもつスマートフォンを利用した，PCのインターネット接続に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: PCとスマートフォンの接続は無線LANに限定されるので，無線LANに対応したPCが必要である。
+  - label: イ
+    text: 携帯電話回線のネットワークを利用するので安全性は確保されており，PCのウイルス対策は必要ない。
+  - label: ウ
+    text: スマートフォンをルータとして利用できるので，別途ルータを用意する必要はない。
+  - label: エ
+    text: テザリング専用プロトコルに対応したPCを用意する必要がある。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

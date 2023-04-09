@@ -1,0 +1,17 @@
+label: 34
+question: >-
+  商品の販売数が700個のときの営業利益は表のとおりである。拡販のために販売単価を20%値下げしたところ，販売数が20%増加した。このときの営業利益は何円か。ここで，商品1個当たりの変動費は変わらないものとする。
+choice:
+  - label: ア
+    text: 200,000
+  - label: イ
+    text: 204,000
+  - label: ウ
+    text: 260,000
+  - label: エ
+    text: 320,000
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

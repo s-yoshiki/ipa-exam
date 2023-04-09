@@ -1,0 +1,16 @@
+label: 34
+question: 売上高，変動費，固定費，営業日数が表のようなレストランで，年間400万円以上の利益を上げるためには，1営業日当たり少なくとも何人の来店客が必要か。
+choice:
+  - label: ア
+    text: '14'
+  - label: イ
+    text: '20'
+  - label: ウ
+    text: '27'
+  - label: エ
+    text: '40'
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

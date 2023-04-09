@@ -1,0 +1,16 @@
+label: 58
+question: スパイウェアの説明はどれか。
+choice:
+  - label: ア
+    text: Webサイトの閲覧や画像のクリックだけで料金を請求する詐欺のこと
+  - label: イ
+    text: 攻撃者がPCへの侵入後に利用するために，ログの消去やバックドアなどの攻撃ツールをパッケージ化して隠しておく仕組みのこと
+  - label: ウ
+    text: 多数のPCに感染して，ネットワークを通じた指示に従ってPCを不正に操作することで一斉攻撃などの動作を行うプログラムのこと
+  - label: エ
+    text: 利用者が認識することなくインストールされ，利用者の個人情報やアクセス履歴などの情報を収集するプログラムのこと
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

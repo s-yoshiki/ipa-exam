@@ -1,0 +1,17 @@
+label: 34
+question: >-
+  PPMを用いて，自社の資金を生み出す事業と，投資が必要な事業を区分し，資源配分の最適化を図りたい。このとき，PPMにおける資金や利益の有効な源となる"金のなる木"と名付けられた領域はどれか。
+choice:
+  - label: ア
+    text: 市場成長率，自社のマーケットシェアがともに高い事業
+  - label: イ
+    text: 市場成長率，自社のマーケットシェアがともに低い事業
+  - label: ウ
+    text: 市場成長率は高いが，自社のマーケットシェアは低い事業
+  - label: エ
+    text: 市場成長率は低いが，自社のマーケットシェアは高い事業
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

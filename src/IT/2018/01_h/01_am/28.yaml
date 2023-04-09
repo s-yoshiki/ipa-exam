@@ -1,0 +1,16 @@
+label: 28
+question: 技術開発戦略の立案，技術開発計画の策定などを行うマネジメント分野はどれか。
+choice:
+  - label: ア
+    text: M&A
+  - label: イ
+    text: MBA
+  - label: ウ
+    text: MBO
+  - label: エ
+    text: MOT
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 8
+question: >-
+  人口減少や高齢化などを背景に，ICTを活用して，都市や地域の機能やサービスを効率化，高度化し，地域課題の解決や活性化を実現することが試みられている。このような街づくりのソリューションを示す言葉として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: キャパシティ
+  - label: イ
+    text: スマートシティ
+  - label: ウ
+    text: ダイバーシティ
+  - label: エ
+    text: ユニバーシティ
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

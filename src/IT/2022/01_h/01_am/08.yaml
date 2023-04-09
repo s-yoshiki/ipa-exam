@@ -1,0 +1,17 @@
+label: 8
+question: >-
+  ある業務システムの再構築に関して，複数のベンダにその新システムの実現イメージの提出を求めるRFIを予定している。その際，同時にベンダからの提出を求める情報として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 現行システムの概要
+  - label: イ
+    text: システム再構築の狙い
+  - label: ウ
+    text: 新システムに求める要件
+  - label: エ
+    text: 適用可能な技術とその動向
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

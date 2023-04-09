@@ -1,0 +1,16 @@
+label: 53
+question: ISMSにおけるセキュリティリスクへの対応には，リスク移転，リスク回避，リスク受容及びリスク低減がある。リスク回避に該当する事例はどれか。
+choice:
+  - label: ア
+    text: セキュリティ対策を行って，問題発生の可能性を下げた。
+  - label: イ
+    text: 問題発生時の損害に備えて，保険に入った。
+  - label: ウ
+    text: リスクが小さいことを確認し，問題発生時は損害を負担することにした。
+  - label: エ
+    text: リスクの大きいサービスから撤退した。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

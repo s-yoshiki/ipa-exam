@@ -1,0 +1,17 @@
+label: 31
+question: >-
+  事業コストを低減する方策として"範囲の経済"を追求する方法や"規模の経済"を追求する方法などがある。範囲の経済の追求に基づくコスト低減策として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 共通の基盤技術を利用して複数の事業を行う。
+  - label: イ
+    text: 継続的な業務改善を行う。
+  - label: ウ
+    text: 工場での生産量を拡大する。
+  - label: エ
+    text: 同一製品を複数の工場で生産する。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

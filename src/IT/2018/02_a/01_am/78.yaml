@@ -1,0 +1,23 @@
+label: 78
+question: |-
+  情報セキュリティ対策において，情報を保護レベルによって分類して管理するとき，管理方法として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  情報に付与した保護レベルは，廃棄するまで変更しない。
+  2.  情報の取扱い手順は，保護レベルごとに定める。
+  3.  情報の保護レベルは，組織が作成した基準によって決める。
+  4.  保護レベルで管理する対象は，電子データとそれを保存した保存媒体に限定する。
+choice:
+  - label: ア
+    text: a，c
+  - label: イ
+    text: a，d
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: b，d
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

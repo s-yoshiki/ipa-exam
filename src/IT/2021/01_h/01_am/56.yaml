@@ -1,0 +1,17 @@
+label: 56
+question: >-
+  インターネットにおいてドメイン名とIPアドレスの対応付けを行うサービスを提供しているサーバに保管されている管理情報を書き換えることによって，利用者を偽のサイトへ誘導する攻撃はどれか。
+choice:
+  - label: ア
+    text: DDoS攻撃
+  - label: イ
+    text: DNSキャッシュポイズニング
+  - label: ウ
+    text: SQLインジェクション
+  - label: エ
+    text: フィッシング
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 1
+question: >-
+  表は，技術者A，B，Cがそれぞれ製品X，Y，Zを製造する場合の1日の生産額を示している。各技術者は1日に1製品しか担当できないとき，1日の最大生産額は何万円か。ここで，どの製品も必ず生産するものとする。
+choice:
+  - label: ア
+    text: '20'
+  - label: イ
+    text: '21'
+  - label: ウ
+    text: '22'
+  - label: エ
+    text: '23'
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

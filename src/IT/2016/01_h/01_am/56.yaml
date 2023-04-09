@@ -1,0 +1,16 @@
+label: 56
+question: ブラウザとWebサーバ間の通信プロトコルを，HTTPからHTTPSに変更した。これによって実現できることとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: クライアントPCとWebサーバ間の通信速度の向上
+  - label: イ
+    text: コンピュータウイルス感染の防止
+  - label: ウ
+    text: 通信の機密性の確保
+  - label: エ
+    text: ブラウザの表示速度の向上
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

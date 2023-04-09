@@ -1,0 +1,16 @@
+label: 49
+question: 情報システムの施設や設備を維持・保全するファシリティマネジメントの施策として，適切なものはどれか。
+choice:
+  - label: ア
+    text: インターネットサイトへのアクセス制限
+  - label: イ
+    text: コンピュータウイルスのチェック
+  - label: ウ
+    text: スクリーンセーバの設定時間の標準化
+  - label: エ
+    text: 電力消費量のモニタリング
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

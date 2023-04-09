@@ -1,0 +1,17 @@
+label: 60
+question: >-
+  オンラインバンキングにおいて，マルウェアなどでブラウザを乗っ取り，正式な取引画面の間に不正な画面を介在させ，振込先の情報を不正に書き換えて，攻撃者の指定した口座に送金させるなどの不正操作を行うことを何と呼ぶか。
+choice:
+  - label: ア
+    text: MITB(Man In The Browser)攻撃
+  - label: イ
+    text: SQLインジェクション
+  - label: ウ
+    text: ソーシャルエンジニアリング
+  - label: エ
+    text: ブルートフォース攻撃
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

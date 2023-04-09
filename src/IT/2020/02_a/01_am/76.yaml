@@ -1,0 +1,17 @@
+label: 76
+question: >-
+  従業員に貸与するスマートフォンなどのモバイル端末を遠隔から統合的に管理する仕組みであり，セキュリティの設定や，紛失時にロックしたり初期化したりする機能をもつものはどれか。
+choice:
+  - label: ア
+    text: DMZ
+  - label: イ
+    text: MDM
+  - label: ウ
+    text: SDN
+  - label: エ
+    text: VPN
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

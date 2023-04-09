@@ -1,0 +1,16 @@
+label: 10
+question: ソフトウェアライフサイクルを，企画プロセス，要件定義プロセス，開発プロセス，運用プロセスに分けるとき，要件定義プロセスの実施内容として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務及びシステムの移行
+  - label: イ
+    text: システム化計画の立案
+  - label: ウ
+    text: ソフトウェアの詳細設計
+  - label: エ
+    text: 利害関係者のニーズの識別
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

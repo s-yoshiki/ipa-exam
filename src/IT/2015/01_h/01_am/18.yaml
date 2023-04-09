@@ -1,0 +1,16 @@
+label: 18
+question: BSCを導入する目的はどれか。
+choice:
+  - label: ア
+    text: 環境などに配慮した活動によって，社会的責任を果たすこと
+  - label: イ
+    text: 財務報告の信頼性を向上させ，投資家保護に貢献すること
+  - label: ウ
+    text: 市場成長率と市場シェアによって，効率的に経営資源を配分すること
+  - label: エ
+    text: 短期的な財務成果に偏らない複数の視点から，戦略策定や業績評価を行うこと
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

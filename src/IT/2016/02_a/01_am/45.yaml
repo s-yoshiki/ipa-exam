@@ -1,0 +1,16 @@
+label: 45
+question: 共通フレーム(Software Life Cycle Process)で定義されている内容として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ソフトウェア開発とその取引の適正化に向けて，基本となる作業項目を定義し標準化したもの
+  - label: イ
+    text: ソフトウェア開発の規模，工数，コストに関する見積手法
+  - label: ウ
+    text: ソフトウェア開発のプロジェクト管理において必要な知識体系
+  - label: エ
+    text: 法律に基づいて制定された情報処理用語やソフトウェア製品の品質や評価項目
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

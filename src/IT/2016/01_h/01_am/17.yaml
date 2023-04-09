@@ -1,0 +1,16 @@
+label: 17
+question: SNSをマーケティングに活用した事例として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: インターネットで注文された商品の引渡しとその代金の受取りを支障なく行う。
+  - label: イ
+    text: 書込み機能を利用して，登録会員に自社商品の評価内容を記載してもらう。
+  - label: ウ
+    text: 検索エンジンによる検索結果の上位に自社サイトを表示させて，訪問者増を狙う。
+  - label: エ
+    text: 同業他社よりも安い価格を設定して，顧客の購入意欲を高める。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

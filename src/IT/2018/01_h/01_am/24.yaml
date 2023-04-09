@@ -1,0 +1,22 @@
+label: 24
+question: |-
+  営業秘密の要件に関する記述a～dのうち，不正競争防止法に照らして適切なものだけを全て挙げたものはどれか。
+
+  1.  公然と知られていないこと
+  2.  利用したいときに利用できること
+  3.  事業活動に有用であること
+  4.  秘密として管理されていること
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，c，d
+  - label: ウ
+    text: b，c，d
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 5
+question: NDAに関する記述として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 企業などにおいて，情報システムへの脅威の監視や分析を行う専門組織
+  - label: イ
+    text: 契約当事者がもつ営業秘密などを特定し，相手の秘密情報を管理する意思を合意する契約
+  - label: ウ
+    text: 提供するサービス内容に関して，サービスの提供者と利用者が合意した，客観的な品質基準の取決め
+  - label: エ
+    text: プロジェクトにおいて実施する作業を細分化し，階層構造で整理したもの
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

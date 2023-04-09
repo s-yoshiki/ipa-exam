@@ -1,0 +1,16 @@
+label: 71
+question: 移動体通信サービスのインフラを他社から借りて，自社ブランドのスマートフォンやSIMカードによる移動体通信サービスを提供する事業者を何と呼ぶか。
+choice:
+  - label: ア
+    text: ISP
+  - label: イ
+    text: MNP
+  - label: ウ
+    text: MVNO
+  - label: エ
+    text: OSS
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

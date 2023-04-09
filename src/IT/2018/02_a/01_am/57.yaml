@@ -1,0 +1,21 @@
+label: 57
+question: |-
+  Webメールに関する記述①～③のうち，適切なものだけを全て挙げたものはどれか。
+
+  1.  Webメールを利用して送られた電子メールは，Webブラウザでしか閲覧できない。
+  2.  電子メールをPCにダウンロードして保存することなく閲覧できる。
+  3.  メールソフトの代わりに，Webブラウザだけあれば電子メールの送受信ができる。
+choice:
+  - label: ア
+    text: ①，②
+  - label: イ
+    text: ①，②，③
+  - label: ウ
+    text: ①，③
+  - label: エ
+    text: ②，③
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

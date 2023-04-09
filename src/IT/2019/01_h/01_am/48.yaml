@@ -1,0 +1,16 @@
+label: 48
+question: 安価な労働力を大量に得られることを狙いに，システム開発を海外の事業者や海外の子会社に委託する開発形態として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ウォータフォール開発
+  - label: イ
+    text: オフショア開発
+  - label: ウ
+    text: プロトタイプ開発
+  - label: エ
+    text: ラピッドアプリケーション開発
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

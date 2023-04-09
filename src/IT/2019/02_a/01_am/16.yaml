@@ -1,0 +1,16 @@
+label: 16
+question: システム導入を検討している企業や官公庁などがRFIを実施する目的として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ベンダ企業からシステムの詳細な見積金額を入手し，契約金額を確定する。
+  - label: イ
+    text: ベンダ企業から情報収集を行い，システムの技術的な課題や実現性を把握する。
+  - label: ウ
+    text: ベンダ企業との認識のずれをなくし，取引を適正化する。
+  - label: エ
+    text: ベンダ企業に提案書の提出を求め，発注先を決定する。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

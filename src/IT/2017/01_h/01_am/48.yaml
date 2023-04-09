@@ -1,0 +1,19 @@
+label: 48
+question: |-
+  プロジェクトで実施する作業の順序設定に関して，次の記述中のa，bに入れる宇句の適切な組合せはどれか。  
+    
+  成果物を作成するための作業を，管理しやすい単位にaによって要素分解し，それらの順序関係をbによって表示する。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: M
+figureText: ''

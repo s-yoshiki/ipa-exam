@@ -1,0 +1,16 @@
+label: 20
+question: 事業活動における重要な技術情報について，営業秘密とするための要件を定めている法律はどれか。
+choice:
+  - label: ア
+    text: 著作権法
+  - label: イ
+    text: 特定商取引法
+  - label: ウ
+    text: 不正アクセス禁止法
+  - label: エ
+    text: 不正競争防止法
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

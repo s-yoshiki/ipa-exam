@@ -1,0 +1,16 @@
+label: 40
+question: ITガバナンスに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ITベンダが構築すべきものであり，それ以外の組織では必要ない。
+  - label: イ
+    text: ITを管理している部門が，全社のITに関する原則やルールを独自に定めて周知する。
+  - label: ウ
+    text: 経営者がITに関する原則や方針を定めて，各部署で方針に沿った活動を実施する。
+  - label: エ
+    text: 経営者の責任であり，ITガバナンスに関する活動は全て経営者が行う。
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 80
+question: HyperTextの特徴を説明したものはどれか。
+choice:
+  - label: ア
+    text: いろいろな数式を作成・編集できる機能をもっている。
+  - label: イ
+    text: いろいろな図形を作成・編集できる機能をもっている。
+  - label: ウ
+    text: 多様なテンプレートが用意されており，それらを利用できるようにしている。
+  - label: エ
+    text: 文中の任意の場所にリンクを埋め込むことで関連した情報をたどれるようにした仕組みをもっている。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

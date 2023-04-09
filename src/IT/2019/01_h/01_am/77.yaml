@@ -1,0 +1,16 @@
+label: 77
+question: 次の条件で，インターネットに接続されたサーバから5MバイトのファイルをPCにダウンロードするときに掛かる時間は何秒か。
+choice:
+  - label: ア
+    text: '0.05'
+  - label: イ
+    text: '0.25'
+  - label: ウ
+    text: '0.5'
+  - label: エ
+    text: '2'
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 43
+question: >-
+  ウォータフォールモデルで開発を行うプロジェクトにおいて，システム要件定義の不具合を後続の工程で発見した。不具合を発見した工程のうち，不具合の修正や修正に伴う手戻りが最も少なく済む工程はどれか。
+choice:
+  - label: ア
+    text: システム設計
+  - label: イ
+    text: プログラミング
+  - label: ウ
+    text: テスト
+  - label: エ
+    text: ソフトウェア受入れ
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

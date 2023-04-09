@@ -1,0 +1,18 @@
+label: 65
+question: >-
+  認証局(CA:Certificate
+  Authority)は，公開鍵の持ち主が間違いなく本人であることを確認する手段を提供する。この確認に使用されるものはどれか。
+choice:
+  - label: ア
+    text: ディジタルサイネージ
+  - label: イ
+    text: ディジタルフォレンジックス
+  - label: ウ
+    text: 電子証明書
+  - label: エ
+    text: バイオメトリクス認証
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 3
+question: >-
+  システムのライフサイクルを，企画プロセス，要件定義プロセス，開発プロセス，運用プロセス，保守プロセスとしたとき，経営層及び各部門からの要求事項に基づいたシステムを実現するためのシステム化計画を立案するプロセスとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: 開発プロセス
+  - label: イ
+    text: 企画プロセス
+  - label: ウ
+    text: 保守プロセス
+  - label: エ
+    text: 要件定義プロセス
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

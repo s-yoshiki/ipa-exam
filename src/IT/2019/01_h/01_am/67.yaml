@@ -1,0 +1,16 @@
+label: 67
+question: OSS(Open Source Software)であるDBMSはどれか。
+choice:
+  - label: ア
+    text: Android
+  - label: イ
+    text: Firefox
+  - label: ウ
+    text: MySQL
+  - label: エ
+    text: Thunderbird
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

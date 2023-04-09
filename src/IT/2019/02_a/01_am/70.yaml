@@ -1,0 +1,16 @@
+label: 70
+question: 大文字の英字から成る文字列の暗号化を考える。暗号化の手順と例は次のとおりである。この手順で暗号化した結果が"EGE"であるとき，元の文字列はどれか。
+choice:
+  - label: ア
+    text: BED
+  - label: イ
+    text: DEB
+  - label: ウ
+    text: FIH
+  - label: エ
+    text: HIF
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

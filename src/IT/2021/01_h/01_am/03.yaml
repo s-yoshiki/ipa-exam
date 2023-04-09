@@ -1,0 +1,16 @@
+label: 3
+question: 人間の脳神経の仕組みをモデルにして，コンピュータプログラムで模したものを表す用語はどれか。
+choice:
+  - label: ア
+    text: ソーシャルネットワーク
+  - label: イ
+    text: デジタルトランスフォーメーション
+  - label: ウ
+    text: ニューラルネットワーク
+  - label: エ
+    text: ブレーンストーミング
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 47
+question: >-
+  情報セキュリティ基本方針，又は情報セキュリティ基本方針と情報セキュリティ対策基準で構成されており，企業や組織の情報セキュリティに関する取組みを包括的に規定した文書として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 情報セキュリティポリシ
+  - label: イ
+    text: 情報セキュリティマネジメントシステム
+  - label: ウ
+    text: ソーシャルエンジニアリング
+  - label: エ
+    text: リスクアセスメント
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

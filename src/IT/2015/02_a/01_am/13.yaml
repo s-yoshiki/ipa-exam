@@ -1,0 +1,16 @@
+label: 13
+question: RFIDを活用することによって可能となるシステムはどれか。
+choice:
+  - label: ア
+    text: 遠隔地からネットワークを介し，患者の画像や音声データを送受信して医療活動を行う。
+  - label: イ
+    text: キャッシュカードを使い，銀行のATMから現金の預け入れや払い出しを行う。
+  - label: ウ
+    text: 店頭での販売時に，商品に貼付されたバーコードから商品情報を読み取り，販売情報管理や発注処理を行う。
+  - label: エ
+    text: 配送荷物に電子タグを装着し，荷物の輸送履歴に関する情報の確認を行う。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

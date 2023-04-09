@@ -1,0 +1,16 @@
+label: 73
+question: 情報セキュリティにおけるクラッキングの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: PCなどの機器に対して，外部からの衝撃や圧力，落下，振動などの耐久テストを行う。
+  - label: イ
+    text: 悪意をもってコンピュータに不正侵入し，データを盗み見たり破壊などを行う。
+  - label: ウ
+    text: システム管理者として，ファイアウォールの設定など，情報機器の設定やメンテナンスを行う。
+  - label: エ
+    text: 組織のセキュリティ対策が有効に働いていることを確認するために監査を行う。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

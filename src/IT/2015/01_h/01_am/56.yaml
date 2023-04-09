@@ -1,0 +1,17 @@
+label: 56
+question: >-
+  情報セキュリティに関する用語である可用性，完全性，機密性及び脆(ぜい)弱性のうち，ISMSが組織の情報資産に対して維持管理すべき特性としているものだけを全て挙げたものはどれか。
+choice:
+  - label: ア
+    text: 可用性，完全性
+  - label: イ
+    text: 可用性，完全性，機密性
+  - label: ウ
+    text: 完全性，機密性
+  - label: エ
+    text: 完全性，機密性，脆弱性
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

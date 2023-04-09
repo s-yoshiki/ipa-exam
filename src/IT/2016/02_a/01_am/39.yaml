@@ -1,0 +1,17 @@
+label: 39
+question: >-
+  20本のプログラムを作成するに当たり，プログラム1本につき，作業期間が1日，コストが4万円と見積もり，作成に着手した。開始からの10日間で8本作成し，累積コストは36万円になっていた。残りのプログラムは未着手である。このままの生産性で進めると，見積りに対する超過コストは最終的に何万円になるか。
+choice:
+  - label: ア
+    text: '4'
+  - label: イ
+    text: '6'
+  - label: ウ
+    text: '10'
+  - label: エ
+    text: '18'
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 26
+question: 自社が保有していない技術やノウハウを，他社から短期間で補完するための手段として，適切なものはどれか。
+choice:
+  - label: ア
+    text: BPR
+  - label: イ
+    text: アライアンス
+  - label: ウ
+    text: インキュベーション
+  - label: エ
+    text: ベンチマーキング
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

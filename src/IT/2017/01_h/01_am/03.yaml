@@ -1,0 +1,16 @@
+label: 3
+question: 経営戦略との整合性を確保した全社的な情報システムの整備計画の策定を行うことになった。この活動の責任者として，最も適切な者はどれか。
+choice:
+  - label: ア
+    text: CIO
+  - label: イ
+    text: CTO
+  - label: ウ
+    text: 基幹事業の部門長
+  - label: エ
+    text: 情報システム部門の企画担当者
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

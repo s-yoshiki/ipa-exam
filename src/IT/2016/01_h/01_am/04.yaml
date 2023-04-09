@@ -1,0 +1,16 @@
+label: 4
+question: 健全な資本市場の維持や投資家の保護を目的として，適切な情報開示のために整備されたものはどれか。
+choice:
+  - label: ア
+    text: クーリングオフ制度
+  - label: イ
+    text: 製造物責任法
+  - label: ウ
+    text: 内部統制報告制度
+  - label: エ
+    text: 不正アクセス禁止法
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 7
+question: >-
+  蓄積されている会計，販売，購買，顧客などの様々なデータを，迅速かつ効果的に検索，分析する機能をもち，経営者などの意思決定を支援することを目的としたものはどれか。
+choice:
+  - label: ア
+    text: BIツール
+  - label: イ
+    text: POSシステム
+  - label: ウ
+    text: 電子ファイリングシステム
+  - label: エ
+    text: ワークフローシステム
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

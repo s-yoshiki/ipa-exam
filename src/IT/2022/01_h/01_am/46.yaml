@@ -1,0 +1,23 @@
+label: 46
+question: |-
+  a～dのうち，ファシリティマネジメントに関する実施事項として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  コンピュータを設置した建物への入退館の管理
+  2.  社内のPCへのマルウェア対策ソフトの導入と更新管理
+  3.  情報システムを構成するソフトウェアのライセンス管理
+  4.  停電時のデータ消失防止のための無停電電源装置の設置
+choice:
+  - label: ア
+    text: a，c
+  - label: イ
+    text: a，d
+  - label: ウ
+    text: b，d
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

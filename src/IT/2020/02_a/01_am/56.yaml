@@ -1,0 +1,16 @@
+label: 56
+question: HTML形式の電子メールの特徴を悪用する攻撃はどれか。
+choice:
+  - label: ア
+    text: DoS攻撃
+  - label: イ
+    text: SQLインジェクション
+  - label: ウ
+    text: 悪意のあるスクリプトの実行
+  - label: エ
+    text: 辞書攻撃
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

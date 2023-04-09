@@ -1,0 +1,17 @@
+label: 65
+question: >-
+  一つのアプリケーションプログラムの中で，並列処理が可能な部分を複数の処理単位に分け，それらを並行して処理することで，マルチコアCPUを使用したコンピュータの処理能力の有効活用を図る方式はどれか。
+choice:
+  - label: ア
+    text: マルチウィンドウ
+  - label: イ
+    text: マルチキャスト
+  - label: ウ
+    text: マルチスレッド
+  - label: エ
+    text: マルチブート
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

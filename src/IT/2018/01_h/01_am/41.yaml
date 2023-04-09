@@ -1,0 +1,16 @@
+label: 41
+question: ITサービスマネジメントにおいて利用者にFAQを提供する目的として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ITサービスマネジメントのフレームワークを提供すること
+  - label: イ
+    text: サービス提供者側と利用者側でサービスレベルの目標値を定めること
+  - label: ウ
+    text: サービスに関するあらゆる問合せを受け付けるため，利用者に対する単一の窓口を設置すること
+  - label: エ
+    text: 利用者が問題を自己解決できるように支援すること
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

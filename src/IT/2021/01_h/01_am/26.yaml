@@ -1,0 +1,17 @@
+label: 26
+question: >-
+  企業の人事機能の向上や，働き方改革を実現することなどを目的として，人事評価や人材採用などの人事関連業務に，AlやIoTといったITを活用する手法を表す用語として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: e-ラーニング
+  - label: イ
+    text: FinTech
+  - label: ウ
+    text: HRTech
+  - label: エ
+    text: コンピテンシ
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

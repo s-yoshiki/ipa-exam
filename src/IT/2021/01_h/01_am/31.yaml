@@ -1,0 +1,16 @@
+label: 31
+question: APIエコノミーに関する記述として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: インターネットを通じて，様々な事業者が提供するサービスを連携させて，より付加価値の高いサービスを提供する仕組み
+  - label: イ
+    text: 著作権者がインターネットなどを通じて，ソフトウェアのソースコードを無料公開する仕組み
+  - label: ウ
+    text: 定型的な事務作業などを，ソフトウェアロボットを活用して効率化する仕組み
+  - label: エ
+    text: 複数のシステムで取引履歴を分散管理する仕組み
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

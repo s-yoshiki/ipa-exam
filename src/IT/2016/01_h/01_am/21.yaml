@@ -1,0 +1,16 @@
+label: 21
+question: 一定の条件に該当する会社に対して，取締役の職務に関するコンプライアンスを確保するための体制整備を義務付けている法令はどれか。
+choice:
+  - label: ア
+    text: 会社法
+  - label: イ
+    text: 金融商品取引法
+  - label: ウ
+    text: 公益通報者保護法
+  - label: エ
+    text: 民法
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

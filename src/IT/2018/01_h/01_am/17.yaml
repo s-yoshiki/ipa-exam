@@ -1,0 +1,16 @@
+label: 17
+question: ある業界への新規参入を検討している企業がSWOT分析を行った。分析結果のうち，機会に該当するものはどれか。
+choice:
+  - label: ア
+    text: 既存事業での成功体験
+  - label: イ
+    text: 業界の規制緩和
+  - label: ウ
+    text: 自社の商品開発力
+  - label: エ
+    text: 全国をカバーする自社の小売店舗網
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

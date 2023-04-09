@@ -1,0 +1,17 @@
+label: 71
+question: >-
+  隣の部屋に他社が引っ越してきた頃から，自社の無線LANの通信速度が低下した。原因を調査して，自社の無線LANの設定を変更することで，元の通信速度に戻った。このときに変更した内容として，適切なものはどれか。ここで，自社のESSIDは，その引っ越してきた他社のものとは異なる文字列である。
+choice:
+  - label: ア
+    text: 暗号化のキー文字列を変更した。
+  - label: イ
+    text: 暗号化の設定をWEPからWPA2に変更した。
+  - label: ウ
+    text: ステルス機能を設定した。
+  - label: エ
+    text: 無線チャネルを変更した。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

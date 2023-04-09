@@ -1,0 +1,16 @@
+label: 20
+question: 実用新案権の保護対象として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 圧縮比率を大きくしても高い復元性を得られる工夫をした画像処理プログラム
+  - label: イ
+    text: インターネットを利用し，顧客の多様な要望に対応できるビジネスモデル
+  - label: ウ
+    text: 岩石に含まれているレアメタルを無駄なく抽出して，資源を有効活用する方法
+  - label: エ
+    text: 電気スタンドと時計を組み合わせて夜間でも容易に時刻を確かめられる機器
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

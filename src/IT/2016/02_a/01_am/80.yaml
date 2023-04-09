@@ -1,0 +1,16 @@
+label: 80
+question: キーロガーやワームのような悪意のあるソフトウェアの総称はどれか。
+choice:
+  - label: ア
+    text: シェアウェア
+  - label: イ
+    text: ファームウェア
+  - label: ウ
+    text: マルウェア
+  - label: エ
+    text: ミドルウェア
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

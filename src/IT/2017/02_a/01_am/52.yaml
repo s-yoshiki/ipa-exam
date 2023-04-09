@@ -1,0 +1,16 @@
+label: 52
+question: 顧客のニーズに合致したサービスを提供するために，組織が情報システムの運用の維持管理及び継続的な改善を行っていく取組みとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: ITガバナンス
+  - label: イ
+    text: ITサービスマネジメント
+  - label: ウ
+    text: サービスデスク
+  - label: エ
+    text: プロジェクトマネジメント
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

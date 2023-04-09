@@ -1,0 +1,16 @@
+label: 75
+question: PCに設定するIPv4のIPアドレスの表記の例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 00.00.11.aa.bb.cc
+  - label: イ
+    text: 050-1234-5678
+  - label: ウ
+    text: 10.123.45.67
+  - label: エ
+    text: http://www.example.co.jp/
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

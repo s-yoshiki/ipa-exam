@@ -1,0 +1,16 @@
+label: 56
+question: サービスデスクの顧客満足度に関するサービスレベル管理において，PDCAサイクルのAに当たるものはどれか。
+choice:
+  - label: ア
+    text: 計画に従い顧客満足度調査を行った。
+  - label: イ
+    text: 顧客満足度の測定方法と目標値を定めた。
+  - label: ウ
+    text: 測定した顧客満足度と目標値との差異を分析した。
+  - label: エ
+    text: 目標未達の要因に対して改善策を実施した。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

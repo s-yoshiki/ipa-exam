@@ -1,0 +1,16 @@
+label: 46
+question: プロジェクトの成果物の作成作業を階層的に分解したものはどれか。
+choice:
+  - label: ア
+    text: EVM
+  - label: イ
+    text: RFP
+  - label: ウ
+    text: SLA
+  - label: エ
+    text: WBS
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

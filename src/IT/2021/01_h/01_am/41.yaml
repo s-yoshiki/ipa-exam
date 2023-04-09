@@ -1,0 +1,16 @@
+label: 41
+question: クラスや継承という概念を利用して，ソフトウェアを部品化したり再利用することで，ソフトウェア開発の生産性向上を図る手法として，適切なものはどれか。
+choice:
+  - label: ア
+    text: オブジェクト指向
+  - label: イ
+    text: 構造化
+  - label: ウ
+    text: プロセス中心アプローチ
+  - label: エ
+    text: プロトタイピング
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

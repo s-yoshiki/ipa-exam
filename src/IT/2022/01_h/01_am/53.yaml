@@ -1,0 +1,26 @@
+label: 53
+question: >-
+  a～dのうち，システム監査人が，合理的な評価・結論を得るために予備調査や本調査のときに利用する調査手段に関する記述として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  EA(Enterprise Architecture)の活用
+
+  2.  コンピュータを利用した監査技法の活用
+
+  3.  資料や文書の閲覧
+
+  4.  ヒアリング
+choice:
+  - label: ア
+    text: a，b，c
+  - label: イ
+    text: a，b，d
+  - label: ウ
+    text: a，c，d
+  - label: エ
+    text: b，c，d
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

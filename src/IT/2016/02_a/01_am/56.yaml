@@ -1,0 +1,16 @@
+label: 56
+question: 次の記憶媒体のうち，記録容量が最も大きいものはどれか。ここで，記憶媒体の直径は12cmとする。
+choice:
+  - label: ア
+    text: BD-R
+  - label: イ
+    text: CD-R
+  - label: ウ
+    text: DVD-R
+  - label: エ
+    text: DVD-RAM
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

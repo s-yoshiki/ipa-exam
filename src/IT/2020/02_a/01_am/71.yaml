@@ -1,0 +1,18 @@
+label: 71
+question: >-
+  表計算ソフトを用いて，ワークシートに示す各商品の月別売上額データを用いた計算を行う。セル E2
+  に式"条件付個数(B2:D2,＞15000)"を入力した後，セル E3 と E4 に複写したとき，セル E4 に表示される値はどれか。
+choice:
+  - label: ア
+    text: '0'
+  - label: イ
+    text: '1'
+  - label: ウ
+    text: '2'
+  - label: エ
+    text: '3'
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

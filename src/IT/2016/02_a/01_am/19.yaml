@@ -1,0 +1,16 @@
+label: 19
+question: イーサネットのLANや無線LANなどに関する標準化活動を推進している，米国の学会はどれか。
+choice:
+  - label: ア
+    text: ICANN
+  - label: イ
+    text: IEEE
+  - label: ウ
+    text: ISO
+  - label: エ
+    text: W3C
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

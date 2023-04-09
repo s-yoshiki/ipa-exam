@@ -1,0 +1,17 @@
+label: 22
+question: >-
+  自然災害などによるシステム障害に備えるため，自社のコンピュータセンタとは別の地域に自社のバックアップサーバを設置したい。このとき利用する外部業者のサービスとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: ASP
+  - label: イ
+    text: BPO
+  - label: ウ
+    text: SaaS
+  - label: エ
+    text: ハウジング
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

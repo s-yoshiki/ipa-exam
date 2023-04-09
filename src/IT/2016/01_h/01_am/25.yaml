@@ -1,0 +1,16 @@
+label: 25
+question: 個人情報保護法で定める個人情報取扱事業者の義務が<u>適用されないもの</u>はどれか。
+choice:
+  - label: ア
+    text: ガス会社が検針作業で取り扱う個人情報の管理
+  - label: イ
+    text: 証券会社が株式売買で取り扱う個人情報の管理
+  - label: ウ
+    text: 新聞社が報道で取り扱う個人情報の管理
+  - label: エ
+    text: 鉄道会社が定期券販売で取り扱う個人情報の管理
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

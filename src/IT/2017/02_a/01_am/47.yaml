@@ -1,0 +1,16 @@
+label: 47
+question: ITサービスマネジメントにおける問題管理の事例はどれか。
+choice:
+  - label: ア
+    text: 障害再発防止に向けて，アプリケーションの不具合箇所を突き止めた。
+  - label: イ
+    text: ネットワーク障害によって電子メールが送信できなかったので，電話で内容を伝えた。
+  - label: ウ
+    text: プリンタのトナーが切れたので，トナーの交換を行った。
+  - label: エ
+    text: 利用者からの依頼を受けて，パスワードの初期化を行った。
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

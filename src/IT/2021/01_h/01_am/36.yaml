@@ -1,0 +1,17 @@
+label: 36
+question: >-
+  開発期間10か月，開発の人件費予算1,000万円のプロジェクトがある。5か月経過した時点で，人件費の実績は600万円であり，成果物は全体の40%が完成していた。このままの生産性で完成まで開発を続けると，人件費の予算超過はいくらになるか。
+choice:
+  - label: ア
+    text: 100万円
+  - label: イ
+    text: 200万円
+  - label: ウ
+    text: 250万円
+  - label: エ
+    text: 500万円
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

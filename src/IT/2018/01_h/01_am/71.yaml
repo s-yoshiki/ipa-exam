@@ -1,0 +1,17 @@
+label: 71
+question: >-
+  ノートPCやタブレット端末などに接続して利用する機能拡張用の機器であり，シリアルポートやパラレルポート，HDMI端子，LAN端子などの複数種類の接続端子をもつものはどれか。
+choice:
+  - label: ア
+    text: PS/2ポート
+  - label: イ
+    text: USBハブ
+  - label: ウ
+    text: 拡張スロット
+  - label: エ
+    text: ポートリプリケータ
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

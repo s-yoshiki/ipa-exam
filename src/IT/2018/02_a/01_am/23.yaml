@@ -1,0 +1,16 @@
+label: 23
+question: Just In Timeの導入によって解決が期待できる課題として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 営業部門の生産性を向上する。
+  - label: イ
+    text: 顧客との長期的な関係を構築する。
+  - label: ウ
+    text: 商品の販売状況を単品単位で把握する。
+  - label: エ
+    text: 半製品や部品在庫数を削減する。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 34
+question: >-
+  あるオンラインサービスでは，新たに作成したデザインと従来のデザインのWebサイトを実験的に並行稼働し，どちらのWebサイトの利用者がより有料サービスの申込みに至りやすいかを比較，検証した。このとき用いた手法として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: A/Bテスト
+  - label: イ
+    text: ABC分析
+  - label: ウ
+    text: クラスタ分析
+  - label: エ
+    text: リグレッションテスト
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

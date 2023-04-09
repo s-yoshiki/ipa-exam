@@ -1,0 +1,16 @@
+label: 61
+question: 文化，言語，年齢及び性別の違いや，障害の有無や能力の違いなどにかかわらず，できる限り多くの人が快適に利用できることを目指した設計を何というか。
+choice:
+  - label: ア
+    text: バリアフリーデザイン
+  - label: イ
+    text: フェールセーフ
+  - label: ウ
+    text: フールプルーフ
+  - label: エ
+    text: ユニバーサルデザイン
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

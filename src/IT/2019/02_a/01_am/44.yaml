@@ -1,0 +1,17 @@
+label: 44
+question: >-
+  業務処理時間の短縮を目的として，運用中の業務システムの処理能力の改善を図った。この改善が有効であることを評価するためにシステム監査を実施するとき，システム監査人が運用部門に要求する情報として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 稼働統計資料
+  - label: イ
+    text: システム運用体制
+  - label: ウ
+    text: システム運用マニュアル
+  - label: エ
+    text: ユーザマニュアル
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

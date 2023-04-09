@@ -1,0 +1,16 @@
+label: 64
+question: オフィスや家庭内のネットワークからインターネットなどの他のネットワークへアクセスするときに，他のネットワークへの出入り口の役割を果たすものはどれか。
+choice:
+  - label: ア
+    text: スプリッタ
+  - label: イ
+    text: デフォルトゲートウェイ
+  - label: ウ
+    text: ハブ
+  - label: エ
+    text: リピータ
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 78
+question: 部外秘とすべき電子ファイルがある。このファイルの機密性を確保するために使用するセキュリティ対策技術として，適切なものはどれか。
+choice:
+  - label: ア
+    text: アクセス制御
+  - label: イ
+    text: タイムスタンプ
+  - label: ウ
+    text: ディジタル署名
+  - label: エ
+    text: ホットスタンバイ
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

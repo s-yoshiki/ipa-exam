@@ -1,0 +1,16 @@
+label: 59
+question: コンピュータなどのアカウントに設定するパスワードに関し，使用する文字種や長さなどの条件を定めたものはどれか。
+choice:
+  - label: ア
+    text: シングルサインオン
+  - label: イ
+    text: パスワードクラック
+  - label: ウ
+    text: パスワードポリシ
+  - label: エ
+    text: ワンタイムパスワード
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 18
+question: バランススコアカードを用いて戦略立案する際，策定した戦略目標ごとに，その実現のために明確化する事項として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 企業倫理
+  - label: イ
+    text: 経営理念
+  - label: ウ
+    text: 重要成功要因
+  - label: エ
+    text: ビジョン
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

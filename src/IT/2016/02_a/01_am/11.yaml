@@ -1,0 +1,16 @@
+label: 11
+question: キャッシュフロー計算書において，キャッシュフローの減少要因となるものはどれか。
+choice:
+  - label: ア
+    text: 売掛金の増加
+  - label: イ
+    text: 減価償却費の増加
+  - label: ウ
+    text: 在庫の減少
+  - label: エ
+    text: 短期借入金の増加
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

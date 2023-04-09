@@ -1,0 +1,17 @@
+label: 72
+question: >-
+  IoTデバイスとIoTサーバで構成され，IoTデバイスが計測した外気温をIoTサーバへ送り，IoTサーバからの指示で窓を開閉するシステムがある。このシステムのIoTデバイスに搭載されて，窓を開閉する役割をもつものはどれか。
+choice:
+  - label: ア
+    text: アクチュエータ
+  - label: イ
+    text: エッジコンピューティング
+  - label: ウ
+    text: キャリアアグリゲーション
+  - label: エ
+    text: センサ
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

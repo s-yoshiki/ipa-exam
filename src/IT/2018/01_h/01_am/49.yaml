@@ -1,0 +1,16 @@
+label: 49
+question: ITガバナンスの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ITサービスの運用を対象としたベストプラクティスのフレームワーク
+  - label: イ
+    text: IT戦略の策定と実行をコントロールする組織の能力
+  - label: ウ
+    text: ITや情報を活用する利用者の能力
+  - label: エ
+    text: 各種手続にITを導入して業務の効率化を図った行政機構
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

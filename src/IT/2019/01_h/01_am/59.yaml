@@ -1,0 +1,16 @@
+label: 59
+question: ログイン機能をもつWebサイトに対する，パスワードの盗聴と総当たり攻撃へのそれぞれの対策の組合せとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

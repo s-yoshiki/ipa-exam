@@ -1,0 +1,16 @@
+label: 3
+question: 現在担当している業務の実践を通じて，業務の遂行に必要な技術や知識を習得させる教育訓練の手法はどれか。
+choice:
+  - label: ア
+    text: CDP
+  - label: イ
+    text: e-ラーニング
+  - label: ウ
+    text: Off-JT
+  - label: エ
+    text: OJT
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

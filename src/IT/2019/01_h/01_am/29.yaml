@@ -1,0 +1,22 @@
+label: 29
+question: |-
+  公開することが不適切なWebサイトa～cのうち，不正アクセス禁止法の規制対象に該当するものだけを全て挙げたものはどれか。  
+    
+
+  1.  スマートフォンからメールアドレスを不正に詐取するウイルスに感染させるWebサイト
+  2.  他の公開されているWebサイトと誤認させ，本物のWebサイトで利用するIDとパスワードの入力を求めるWebサイト
+  3.  本人の同意を得ることなく，病歴や身体障害の有無などの個人の健康に関する情報を一般に公開するWebサイト
+choice:
+  - label: ア
+    text: a，b，c
+  - label: イ
+    text: b
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

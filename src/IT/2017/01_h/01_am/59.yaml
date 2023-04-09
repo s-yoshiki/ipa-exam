@@ -1,0 +1,16 @@
+label: 59
+question: タッチパネルの複数のポイントに同時に触れて操作する入力方式はどれか。
+choice:
+  - label: ア
+    text: タッチタイプ
+  - label: イ
+    text: ダブルクリック
+  - label: ウ
+    text: マルチタスク
+  - label: エ
+    text: マルチタッチ
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

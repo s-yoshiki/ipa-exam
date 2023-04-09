@@ -1,0 +1,16 @@
+label: 61
+question: 情報セキュリティリスクへの対応には，リスク移転，リスク回避，リスク受容及びリスク低減がある。リスク受容に該当する記述はどれか。
+choice:
+  - label: ア
+    text: セキュリティ対策を行って，問題発生の可能性を下げること
+  - label: イ
+    text: 特段の対応は行わずに，損害発生時の負担を想定しておくこと
+  - label: ウ
+    text: 保険などによってリスクを他者などに移すこと
+  - label: エ
+    text: 問題の発生要因を排除してリスクが発生する可能性を取り去ること
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

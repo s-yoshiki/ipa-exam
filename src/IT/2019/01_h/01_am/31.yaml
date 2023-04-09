@@ -1,0 +1,16 @@
+label: 31
+question: EA(Enterprise Architecture)で用いられる，現状とあるべき姿を比較して課題を明確にする分析手法はどれか。
+choice:
+  - label: ア
+    text: ギャップ分析
+  - label: イ
+    text: コアコンピタンス分析
+  - label: ウ
+    text: バリューチェーン分析
+  - label: エ
+    text: パレート分析
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

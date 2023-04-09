@@ -1,0 +1,16 @@
+label: 65
+question: 人の心理的な隙や不注意に付け込んで機密情報などを不正に入手する手法はどれか。
+choice:
+  - label: ア
+    text: DoS攻撃
+  - label: イ
+    text: SQLインジェクション
+  - label: ウ
+    text: ソーシャルエンジニアリング
+  - label: エ
+    text: バッファオーバフロー
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

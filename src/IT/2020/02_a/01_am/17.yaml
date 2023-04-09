@@ -1,0 +1,16 @@
+label: 17
+question: 複数の企業が，研究開発を共同で行って新しい事業を展開したいと思っている。共同出資によって，新しい会社を組織する形態として，適切なものはどれか。
+choice:
+  - label: ア
+    text: M&A
+  - label: イ
+    text: クロスライセンス
+  - label: ウ
+    text: ジョイントベンチャ
+  - label: エ
+    text: スピンオフ
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

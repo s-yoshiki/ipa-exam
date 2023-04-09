@@ -1,0 +1,17 @@
+label: 73
+question: >-
+  膨大な数のIoTデバイスをインターネットに接続するために大量のIPアドレスが必要となり，IPアドレスの長さが128ビットで構成されているインターネットプロトコルを使用することにした。このプロトコルはどれか。
+choice:
+  - label: ア
+    text: IPv4
+  - label: イ
+    text: IPv5
+  - label: ウ
+    text: IPv6
+  - label: エ
+    text: IPv8
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

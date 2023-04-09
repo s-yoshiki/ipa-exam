@@ -1,0 +1,16 @@
+label: 30
+question: 次に挙げるソフトウェアライフサイクルの主なプロセスのうち，開発するシステムの機能に関して利害関係者の合意が必要なプロセスはどれか。
+choice:
+  - label: ア
+    text: 企画
+  - label: イ
+    text: 要件定義
+  - label: ウ
+    text: 開発
+  - label: エ
+    text: 保守・運用
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 50
+question: ホットプラグの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: PCの電源を入れたままで周辺機器の着脱が行える機能のこと
+  - label: イ
+    text: アプリケーションソフトの機能を強化するために，後から組み込むソフトウェアのこと
+  - label: ウ
+    text: 周辺機器との接続ケーブルを介して，PCから周辺機器に電力を供給する仕組みのこと
+  - label: エ
+    text: 特定のプログラムを実行して，処理に掛かる時間でシステムの性能を評価する手法のこと
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

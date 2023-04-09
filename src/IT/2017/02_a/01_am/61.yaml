@@ -1,0 +1,16 @@
+label: 61
+question: ブレードサーバに関する説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: CPUやメモリを搭載したボード型のコンピュータを，専用の筐(きょう)体に複数収納して使う。
+  - label: イ
+    text: オフィスソフトやメールソフトなどをインターネット上のWebサービスとして利用できるようにする。
+  - label: ウ
+    text: 家電や車などの機器に組み込んで使う。
+  - label: エ
+    text: タッチパネル付きの液晶ディスプレイによる手書き入力機能をもつ。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

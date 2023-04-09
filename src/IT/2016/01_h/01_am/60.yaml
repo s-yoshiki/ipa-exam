@@ -1,0 +1,17 @@
+label: 60
+question: >-
+  同じ装置が複数接続されているシステム構成a～cについて，稼働率が高い順に並べたものはどれか。ここで，は装置を表し，並列に接続されている場合はいずれか一つの装置が動作していればよく，直列に接続されている場合は全ての装置が動作していなければならない。
+choice:
+  - label: ア
+    text: a，b，c
+  - label: イ
+    text: b，a，c
+  - label: ウ
+    text: c，a，b
+  - label: エ
+    text: c，b，a
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

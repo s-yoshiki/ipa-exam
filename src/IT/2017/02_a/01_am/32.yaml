@@ -1,0 +1,16 @@
+label: 32
+question: マーケティングミックスにおける売り手から見た要素は4Pと呼ばれる。これに対応する買い手から見た要素はどれか。
+choice:
+  - label: ア
+    text: 4C
+  - label: イ
+    text: 4S
+  - label: ウ
+    text: AIDMA
+  - label: エ
+    text: SWOT
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

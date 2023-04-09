@@ -1,0 +1,16 @@
+label: 78
+question: 受け取ったデータが改ざんされていることを検知するのに使われる技術はどれか。
+choice:
+  - label: ア
+    text: 圧縮
+  - label: イ
+    text: ディジタル署名
+  - label: ウ
+    text: パスワード認証
+  - label: エ
+    text: フィルタリング
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

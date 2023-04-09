@@ -1,0 +1,16 @@
+label: 59
+question: 次のソフトウェアの組合せのうち，OSS(Open Source Software)だけの組合せはどれか。
+choice:
+  - label: ア
+    text: Internet Explorer，Linux，PostgreSQL
+  - label: イ
+    text: Internet Explorer，PostgreSQL，Windows
+  - label: ウ
+    text: Firefox，Linux，Thunderbird
+  - label: エ
+    text: Firefox，Thunderbird，Windows
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

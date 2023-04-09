@@ -1,0 +1,17 @@
+label: 68
+question: >-
+  資産A～Dの資産価値，脅威及び脆弱性の評価値が表のとおりであるとき，最優先でリスク対応するべきと評価される資産はどれか。ここで，リスク値は，表の各項目を重み付けせずに掛け合わせることによって算出した値とする。
+choice:
+  - label: ア
+    text: 資産A
+  - label: イ
+    text: 資産B
+  - label: ウ
+    text: 資産C
+  - label: エ
+    text: 資産D
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

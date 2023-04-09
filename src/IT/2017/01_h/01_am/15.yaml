@@ -1,0 +1,22 @@
+label: 15
+question: |-
+  不適切な行為a～cのうち，不正アクセス禁止法において規制されている行為だけを全て挙げたものはどれか。  
+    
+
+  1.  他人の電子メールの利用者IDとパスワードを，正当な理由なく本人に無断で第三者に提供する。
+  2.  他人の電子メールの利用者IDとパスワードを，本人に無断で使用してネットワーク経由でメールサーバ上のその人の電子メールを閲覧する。
+  3.  メールサーバにアクセスできないよう，電子メールの利用者IDとパスワードを無効にするウイルスを作成する。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: a，b，c
+  - label: エ
+    text: b
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

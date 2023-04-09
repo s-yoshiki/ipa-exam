@@ -1,0 +1,16 @@
+label: 73
+question: 関係データベースにおいて，表Aと表Bの積集合演算を実行した結果はどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

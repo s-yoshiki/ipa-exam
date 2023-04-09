@@ -1,0 +1,16 @@
+label: 21
+question: 事業者の信用維持や需要者の混同を回避するために，更新の申請を繰り返すことで，実質的に永続的な権利保有が可能な工業所有権はどれか。
+choice:
+  - label: ア
+    text: 意匠権
+  - label: イ
+    text: 実用新案権
+  - label: ウ
+    text: 商標権
+  - label: エ
+    text: 特許権
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

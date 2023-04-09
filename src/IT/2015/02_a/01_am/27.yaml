@@ -1,0 +1,16 @@
+label: 27
+question: 企業の経営を，財務的な業績からだけでなく顧客，業務プ口セス，学習と成長といった側面から分析評価し，戦略の策定に結び付けようとする手法はどれか。
+choice:
+  - label: ア
+    text: BSC
+  - label: イ
+    text: CSF
+  - label: ウ
+    text: PPM
+  - label: エ
+    text: SWOT分析
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

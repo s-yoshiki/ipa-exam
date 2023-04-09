@@ -1,0 +1,17 @@
+label: 68
+question: >-
+  全ての通信区間で盗聴されるおそれがある通信環境において，受信者以外に内容を知られたくないファイルを電子メールに添付して送る方法として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: S/MIMEを利用して電子メールを暗号化する。
+  - label: イ
+    text: SSL/TLSを利用してプロバイダのメールサーバとの通信を暗号化する。
+  - label: ウ
+    text: WPA2を利用して通信を暗号化する。
+  - label: エ
+    text: パスワードで保護されたファイルを電子メールに添付して送信した後，別の電子メールでパスワードを相手に知らせる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

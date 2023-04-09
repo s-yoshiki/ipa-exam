@@ -1,0 +1,17 @@
+label: 8
+question: >-
+  小売業A社は，自社の流通センタ近隣の小学校において，食料品の一般的な流通プロセスを分かりやすく説明する活動を行っている。A社のこの活動の背景にある考え方はどれか。
+choice:
+  - label: ア
+    text: CSR
+  - label: イ
+    text: アライアンス
+  - label: ウ
+    text: コアコンピタンス
+  - label: エ
+    text: コーポレートガバナンス
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

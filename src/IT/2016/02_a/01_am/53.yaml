@@ -1,0 +1,16 @@
+label: 53
+question: 新システム導入に際して，ハードウェア，ソフトウェアで実現する範囲と手作業で実施する範囲を明確にする必要がある。これらの範囲を明確にする工程はどれか。
+choice:
+  - label: ア
+    text: 運用テスト
+  - label: イ
+    text: システム方式設計
+  - label: ウ
+    text: ソフトウェア導入
+  - label: エ
+    text: ソフトウェア要件定義
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

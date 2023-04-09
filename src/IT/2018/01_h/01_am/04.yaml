@@ -1,0 +1,16 @@
+label: 4
+question: 企業の情報システム戦略で明示するものとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: ITガバナンスの方針
+  - label: イ
+    text: 基幹システムの開発体制
+  - label: ウ
+    text: ベンダ提案の評価基準
+  - label: エ
+    text: 利用者の要求の分析結果
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

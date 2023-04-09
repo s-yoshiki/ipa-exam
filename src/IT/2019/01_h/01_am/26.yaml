@@ -1,0 +1,16 @@
+label: 26
+question: 自社の商品についてPPMを作図した。"金のなる木"に該当するものはどれか。
+choice:
+  - label: ア
+    text: A商品
+  - label: イ
+    text: B商品
+  - label: ウ
+    text: C商品
+  - label: エ
+    text: D商品
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

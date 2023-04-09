@@ -1,0 +1,26 @@
+label: 52
+question: >-
+  A社がB社にシステム開発を発注し，システム開発プロジェクトを開始した。プロジェクトの関係者①～④のうち，プロジェクトのステークホルダとなるものだけを全て挙げたものはどれか。
+
+
+  1.  A社の経営者
+
+  2.  A社の利用部門
+
+  3.  B社のプロジェクトマネージャ
+
+  4.  B社を技術支援する協力会社
+choice:
+  - label: ア
+    text: ①，②，④
+  - label: イ
+    text: ①，②，③，④
+  - label: ウ
+    text: ②，③，④
+  - label: エ
+    text: ②，④
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

@@ -1,0 +1,17 @@
+label: 20
+question: >-
+  ある製造販売会社の経営戦略の策定において，取引先との協力の下で，"調達から製造，配送及び販売に至る一連のプロセスの最適化"という戦略目標が掲げられた。この戦略目標を実現するために構築する情報システムとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: CRM
+  - label: イ
+    text: POS
+  - label: ウ
+    text: SCM
+  - label: エ
+    text: SFA
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

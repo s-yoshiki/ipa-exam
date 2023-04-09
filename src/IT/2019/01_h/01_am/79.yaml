@@ -1,0 +1,22 @@
+label: 79
+question: |-
+  次の記述a～cのうち，VPNの特徴として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  アクセスポイントを経由しないで，端末同士が相互に無線通信を行うことができる。
+  2.  公衆ネットワークなどを利用するが，あたかも自社専用ネットワークのように使うことができる。
+  3.  ネットワークに接続することによって，PCのセキュリティ状態を検査することができる。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: b
+  - label: エ
+    text: c
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

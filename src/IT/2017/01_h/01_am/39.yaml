@@ -1,0 +1,16 @@
+label: 39
+question: ソフトウェアの開発に当たり，必要となる作業を階層構造としてブレークダウンする手法はどれか。
+choice:
+  - label: ア
+    text: CMM
+  - label: イ
+    text: ITIL
+  - label: ウ
+    text: PERT
+  - label: エ
+    text: WBS
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 53
+question: 企業におけるITガバナンスを構築し，推進する責任者として，適切な者は誰か。
+choice:
+  - label: ア
+    text: 株主
+  - label: イ
+    text: 経営者
+  - label: ウ
+    text: 従業員
+  - label: エ
+    text: 情報システム部員
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 21
+question: ABC分析の事例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 顧客の消費行動を，時代，年齢，世代の三つの観点から分析する。
+  - label: イ
+    text: 自社の商品を，売上高の高い順に三つのグループに分類して分析する。
+  - label: ウ
+    text: マーケティング環境を，顧客，競合，自社の三つの観点から分析する。
+  - label: エ
+    text: リピート顧客を，最新購買日，購買頻度，購買金額の三つの観点から分析する。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

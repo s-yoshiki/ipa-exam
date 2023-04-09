@@ -1,0 +1,16 @@
+label: 62
+question: 10進数155を2進数で表したものはどれか。
+choice:
+  - label: ア
+    text: '10011011'
+  - label: イ
+    text: '10110011'
+  - label: ウ
+    text: '11001101'
+  - label: エ
+    text: '11011001'
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

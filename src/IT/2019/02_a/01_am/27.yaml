@@ -1,0 +1,22 @@
+label: 27
+question: |-
+  取得した個人情報の管理に関する行為a～cのうち，個人情報保護法において，本人に通知又は公表が必要となるものだけを全て挙げたものはどれか。  
+    
+
+  1.  個人情報の入力業務の委託先の変更
+  2.  個人情報の利用目的の合理的な範囲での変更
+  3.  利用しなくなった個人情報の削除
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: b
+  - label: エ
+    text: b，c
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

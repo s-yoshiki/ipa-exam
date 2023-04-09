@@ -1,0 +1,17 @@
+label: 46
+question: >-
+  ユーザからの問合せに効率よく迅速に対応していくために，ユーザがWeb上の入力エリアに問合せを入力すると，システムが会話形式で自動的に問合せに応じる仕組みとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: レコメンデーション
+  - label: イ
+    text: チャットボット
+  - label: ウ
+    text: エスカレーション
+  - label: エ
+    text: FAQ
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

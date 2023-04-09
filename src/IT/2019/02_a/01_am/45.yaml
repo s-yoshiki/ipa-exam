@@ -1,0 +1,17 @@
+label: 45
+question: >-
+  会計システムの開発を受託した会社が，顧客と打合せを行って，必要な決算書の種類や，会計データの確定から決算書類の出力までの処理時間の目標値を明確にした。この作業を実施するのに適切な工程はどれか。
+choice:
+  - label: ア
+    text: システムテスト
+  - label: イ
+    text: システム要件定義
+  - label: ウ
+    text: ソフトウェア詳細設計
+  - label: エ
+    text: ソフトウェア方式設計
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 37
+question: 情報システムで管理している機密情報について，ファシリティマネジメントの観点で行う漏えい対策として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ウイルス対策ソフトウェアの導入
+  - label: イ
+    text: コンピュータ室のある建物への入退館管理
+  - label: ウ
+    text: 情報システムに対するIDとパスワードの管理
+  - label: エ
+    text: 電子文書の暗号化の採用
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

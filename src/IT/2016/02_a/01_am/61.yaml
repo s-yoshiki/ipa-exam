@@ -1,0 +1,16 @@
+label: 61
+question: パスワードの長さが8文字で，各文字に使用できる文字の種類がM種類のとき，設定できるパスワードの総数を表す式はどれか。
+choice:
+  - label: ア
+    text: 8×M
+  - label: イ
+    text: 8M
+  - label: ウ
+    text: M8－1
+  - label: エ
+    text: M8
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

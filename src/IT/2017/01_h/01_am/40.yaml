@@ -1,0 +1,16 @@
+label: 40
+question: ソフトウェア保守で行う作業はどれか。
+choice:
+  - label: ア
+    text: ソフトウェア受入れテストの結果，発注者が開発者に依頼するプログラム修正
+  - label: イ
+    text: プログラムの単体テストで発見した機能不足を補うための，追加コードの作成
+  - label: ウ
+    text: プログラムの単体テストで発見したバグの修正
+  - label: エ
+    text: 本番業務で発生したシステム障害に対応するためのプログラム修正
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

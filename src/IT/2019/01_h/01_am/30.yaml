@@ -1,0 +1,16 @@
+label: 30
+question: 自社の情報システムを，自社が管理する設備内に導入して運用する形態を表す用語はどれか。
+choice:
+  - label: ア
+    text: アウトソーシング
+  - label: イ
+    text: オンプレミス
+  - label: ウ
+    text: クラウドコンピューティング
+  - label: エ
+    text: グリッドコンピューティング
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

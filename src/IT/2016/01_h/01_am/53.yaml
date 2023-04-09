@@ -1,0 +1,17 @@
+label: 53
+question: >-
+  システム開発作業を実施するに当たり，生産性が同じメンバ6名で20日間掛けて完了する計画を立てた。しかし，15日間で作業が終わるように計画を変更することになり，新たなメンバを増員することとした。新メンバの生産性は当初予定していたメンバの半分であるとき，15日間で作業を終わらせるために必要な新メンバは最低何人か。
+choice:
+  - label: ア
+    text: '1'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '4'
+  - label: エ
+    text: '6'
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

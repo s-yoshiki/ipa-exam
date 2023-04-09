@@ -1,0 +1,17 @@
+label: 19
+question: >-
+  小売業を営むある企業の当期の売上高は1,500万円，商品仕入高は1,000万円であった。期首の商品棚卸高が100万円，期末の商品棚卸高が200万円であるとき，当期の売上総利益は何万円か。
+choice:
+  - label: ア
+    text: '200'
+  - label: イ
+    text: '400'
+  - label: ウ
+    text: '500'
+  - label: エ
+    text: '600'
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

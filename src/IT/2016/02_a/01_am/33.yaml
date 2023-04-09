@@ -1,0 +1,16 @@
+label: 33
+question: 個人情報保護法における，個人情報取扱事業者の義務はどれか。
+choice:
+  - label: ア
+    text: 個人情報の安全管理が図られるよう，業務委託先を監督する。
+  - label: イ
+    text: 個人情報の安全管理を図るため，行政によるシステム監査を受ける。
+  - label: ウ
+    text: 個人情報の利用に関して，監督官庁に届出を行う。
+  - label: エ
+    text: プライバシーマークを取得する。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

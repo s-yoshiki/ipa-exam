@@ -1,0 +1,16 @@
+label: 71
+question: 企業におけるISMSの活動において，自社で取り扱う情報資産の保護に関する基本的な考え方や取組み方を示したものはどれか。
+choice:
+  - label: ア
+    text: BCP
+  - label: イ
+    text: ISMS要求事項
+  - label: ウ
+    text: PDCA
+  - label: エ
+    text: 情報セキュリティ方針
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

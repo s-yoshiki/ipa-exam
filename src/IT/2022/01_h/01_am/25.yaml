@@ -1,0 +1,23 @@
+label: 25
+question: |-
+  a～dのうち，業務プロセスの改善に当たり，業務プロセスを表記するために用いられる図表だけを全て挙げたものはどれか。  
+    
+
+  1.  DFD
+  2.  アクティビティ図
+  3.  パレート図
+  4.  レーダチャート
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: b，d
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

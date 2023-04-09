@@ -1,0 +1,17 @@
+label: 72
+question: MDM(Mobile Device Management)の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務に使用するモバイル端末で扱う業務上のデータや文書ファイルなどを統合的に管理すること
+  - label: イ
+    text: 従業員が所有する私物のモバイル端末を，会社の許可を得た上で持ち込み，業務で活用すること
+  - label: ウ
+    text: 犯罪捜査や法的紛争などにおいて，モバイル端末内の削除された通話履歴やファイルなどを復旧させ，証拠として保全すること
+  - label: エ
+    text: >-
+      モバイル端末の状況の監視，リモートロックや遠隔データ削除ができるエージェントソフトの導入などによって，企業システムの管理者による適切な端末管理を実現すること
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

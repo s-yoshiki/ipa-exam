@@ -1,0 +1,16 @@
+label: 26
+question: 有形固定資産の減価償却を表に示した条件で行うとき，当年度の減価償却費は何円か。
+choice:
+  - label: ア
+    text: 112,500
+  - label: イ
+    text: 120,000
+  - label: ウ
+    text: 180,000
+  - label: エ
+    text: 187,500
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

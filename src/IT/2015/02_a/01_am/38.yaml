@@ -1,0 +1,17 @@
+label: 38
+question: >-
+  システム開発の初期の段階で，ユーザと開発者との仕様の認識の違いなどを確認するために，システムの機能の一部やユーザインタフェースなどを試作し，ユーザや開発者がこれを評価することによって暖味さを取り除くシステム開発モデルはどれか。
+choice:
+  - label: ア
+    text: ウォータフォール
+  - label: イ
+    text: オブジェクト指向
+  - label: ウ
+    text: 共通フレーム
+  - label: エ
+    text: プロトタイピング
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

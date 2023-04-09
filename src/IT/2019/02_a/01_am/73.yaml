@@ -1,0 +1,17 @@
+label: 73
+question: >-
+  IoT機器やPCに保管されているデータを暗号化するためのセキュリティチップであり，暗号化に利用する鍵などの情報をチップの内部に記憶しており，外部から内部の情報の取出しが困難な構造をもつものはどれか。
+choice:
+  - label: ア
+    text: GPU
+  - label: イ
+    text: NFC
+  - label: ウ
+    text: TLS
+  - label: エ
+    text: TPM
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

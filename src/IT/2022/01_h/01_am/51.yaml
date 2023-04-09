@@ -1,0 +1,19 @@
+label: 51
+question: >-
+  ITサービスマネジメントにおけるSLAに関する次の記述において，a，bに当てはまる語句の組合せとして，適切なものはどれか。  
+    
+  SLAは，aとbとの間で交わされる合意文書である。aが期待するサービスの目標値を定量化して合意した上でSLAに明記し，bはこれを測定・評価した上でサービスの品質を改善していく。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: M
+figureText: ''

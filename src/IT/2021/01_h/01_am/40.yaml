@@ -1,0 +1,17 @@
+label: 40
+question: >-
+  同一難易度の複数のプログラムから成るソフトウェアのテスト工程での品質管理において，各プログラムの単位ステップ数当たりのバグ数をグラフ化し，上限・下限の限界線を超えるものを異常なプログラムとして検出したい。作成する図として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 管理図
+  - label: イ
+    text: 特性要因図
+  - label: ウ
+    text: パレート図
+  - label: エ
+    text: レーダチャート
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

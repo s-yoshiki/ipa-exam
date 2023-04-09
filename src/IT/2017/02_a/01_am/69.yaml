@@ -1,0 +1,16 @@
+label: 69
+question: 無線LANの暗号化方式であるWEPは，暗号が容易に解読されてしまうという問題が指摘されている。WEPの弱点を改善し，暗号強度を高めた暗号化方式はどれか。
+choice:
+  - label: ア
+    text: ESSID
+  - label: イ
+    text: S/MIME
+  - label: ウ
+    text: SSL
+  - label: エ
+    text: WPA2
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

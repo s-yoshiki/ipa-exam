@@ -1,0 +1,16 @@
+label: 78
+question: ネットワークを構成する機器であるルータがもつルーティング機能の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 会社が支給したモバイル端末に対して，システム設定や状態監視を集中して行う。
+  - label: イ
+    text: 異なるネットワークを相互接続し，最適な経路を選んでパケットの中継を行う。
+  - label: ウ
+    text: 光ファイバと銅線ケーブルを接続し，流れる信号を物理的に相互変換する。
+  - label: エ
+    text: ホスト名とIPアドレスの対応情報を管理し，端末からの問合せに応答する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

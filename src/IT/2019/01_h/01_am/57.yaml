@@ -1,0 +1,16 @@
+label: 57
+question: DNSの機能に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: IPアドレスとMACアドレスを対応付ける。
+  - label: イ
+    text: IPアドレスとドメイン名を対応付ける。
+  - label: ウ
+    text: IPアドレスを利用してパケット転送の経路を選択する。
+  - label: エ
+    text: アナログ信号とディジタル信号を相互に変換する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

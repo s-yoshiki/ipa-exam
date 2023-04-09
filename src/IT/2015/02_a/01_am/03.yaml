@@ -1,0 +1,16 @@
+label: 3
+question: 請負契約によるシステム開発作業において，法律で禁止されている行為はどれか。
+choice:
+  - label: ア
+    text: 請負先が，請け負ったシステム開発を，派遣契約の社員だけで開発している。
+  - label: イ
+    text: 請負先が，請負元と合意の上で，請負元に常駐して作業している。
+  - label: ウ
+    text: 請負元が，請負先との合意の上で，請負先から進捗状況を毎日報告させている。
+  - label: エ
+    text: 請負元が，請負先の社員を請負元に常駐させ，直接作業指示を出している。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

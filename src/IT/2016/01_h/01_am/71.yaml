@@ -1,0 +1,16 @@
+label: 71
+question: ネットワークの交換方式に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 回線交換方式では，通信利用者間で通信経路を占有するので，接続速度や回線品質の保証を行いやすい。
+  - label: イ
+    text: 回線交換方式はメタリック線を使用するので，アナログ信号だけを扱える。
+  - label: ウ
+    text: パケット交換方式は，複数の端末で伝送路を共有しないので，通信回線の利用効率が悪い。
+  - label: エ
+    text: パケット交換方式は無線だけで利用でき，回線交換方式は有線だけで利用できる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

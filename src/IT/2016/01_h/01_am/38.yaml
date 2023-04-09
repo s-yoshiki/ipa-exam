@@ -1,0 +1,16 @@
+label: 38
+question: システムの利用者からの問合せを電話で受け付けるサービスデスクのサービスレベルを評価するための項目の例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: サービスのコスト
+  - label: イ
+    text: システム障害の件数
+  - label: ウ
+    text: システムの可用性
+  - label: エ
+    text: 問合せの応答待ち時間
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

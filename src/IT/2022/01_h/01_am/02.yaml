@@ -1,0 +1,17 @@
+label: 2
+question: >-
+  年齢，性別，家族構成などによって顧客を分類し，それぞれのグループの購買行動を分析することによって，集中すべき顧客層を絞り込むマーケティング戦略として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: サービスマーケティング
+  - label: イ
+    text: セグメントマーケティング
+  - label: ウ
+    text: ソーシャルマーケティング
+  - label: エ
+    text: マスマーケティング
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

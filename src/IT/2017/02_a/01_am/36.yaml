@@ -1,0 +1,16 @@
+label: 36
+question: サービスの提供者と利用者間で結ばれた，サービス内容に関する合意書はどれか。
+choice:
+  - label: ア
+    text: SCM
+  - label: イ
+    text: SLA
+  - label: ウ
+    text: SLM
+  - label: エ
+    text: SFA
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

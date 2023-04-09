@@ -1,0 +1,16 @@
+label: 35
+question: ITIL(Information Technology Infrastructure Library)を説明したものはどれか。
+choice:
+  - label: ア
+    text: ITサービスマネジメントのフレームワーク
+  - label: イ
+    text: ITに関する個人情報保護のフレームワーク
+  - label: ウ
+    text: ITに関する品質管理マネジメントのフレームワーク
+  - label: エ
+    text: グリーンITのフレームワーク
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 29
+question: コンプライアンスの取組み強化活動の事例として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 従業員の社会貢献活動を支援するプログラムを拡充した。
+  - label: イ
+    text: 遵守すべき法律やルールについて従業員に教育を行った。
+  - label: ウ
+    text: 迅速な事業展開のために，他社の事業を買収した。
+  - label: エ
+    text: 利益が得られにくい事業から撤退した。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

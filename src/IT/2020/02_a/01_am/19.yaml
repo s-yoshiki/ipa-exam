@@ -1,0 +1,16 @@
+label: 19
+question: ディープラー二ングを構成する技術の一つであり，人間の脳内にある神経回路を数学的なモデルで表現したものはどれか。
+choice:
+  - label: ア
+    text: コンテンツデリバリネットワーク
+  - label: イ
+    text: ストレージエリアネットワーク
+  - label: ウ
+    text: ニューラルネットワーク
+  - label: エ
+    text: ユビキタスネットワーク
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 30
+question: 企業の収益性を測る指標の一つであるROEの"E"が表すものはどれか。
+choice:
+  - label: ア
+    text: Earnings(所得)
+  - label: イ
+    text: Employee(従業員)
+  - label: ウ
+    text: Enterprise(企業)
+  - label: エ
+    text: Equity(自己資本)
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

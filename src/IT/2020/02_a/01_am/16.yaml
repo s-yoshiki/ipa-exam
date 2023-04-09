@@ -1,0 +1,22 @@
+label: 16
+question: |-
+  新製品の開発に当たって生み出される様々な成果a～cのうち，特許法による保護の対象となり得るものだけを全て挙げたものはどれか。  
+    
+
+  1.  機能を実現するために考え出された独創的な発明
+  2.  新製品の形状，模様，色彩など，斬新的な発想で創作されたデザイン
+  3.  新製品発表に向けて考え出された新製品のブランド名
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: a，b，c
+  - label: エ
+    text: a，c
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

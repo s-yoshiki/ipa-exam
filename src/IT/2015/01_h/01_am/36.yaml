@@ -1,0 +1,16 @@
+label: 36
+question: 情報システムの設備を維持・保全するファシリティマネジメントに関する記述はどれか。
+choice:
+  - label: ア
+    text: 情報システムの開発プロジェクトを成功させるために，スケジュール，予算，人的資源などを管理する。
+  - label: イ
+    text: 情報システムの障害監視やバックアップの取得などを管理する。
+  - label: ウ
+    text: 情報システムを稼働させているデータセンタなどの施設を管理する。
+  - label: エ
+    text: 情報システムを使用するためのユーザIDとパスワードを管理する。
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

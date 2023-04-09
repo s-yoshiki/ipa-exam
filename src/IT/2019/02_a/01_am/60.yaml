@@ -1,0 +1,16 @@
+label: 60
+question: コンピュータの記憶階層におけるキャッシュメモリ，主記憶及び補助記憶と，それぞれに用いられる記憶装置の組合せとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

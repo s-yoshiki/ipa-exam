@@ -1,0 +1,23 @@
+label: 7
+question: |-
+  著作権法によって保護の対象と成り得るものだけを，全て挙げたものはどれか。  
+    
+
+  1.  インターネットに公開されたフリーソフトウェア
+  2.  データベースの操作マニュアル
+  3.  プログラム言語
+  4.  プログラムのアルゴリズム
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，d
+  - label: ウ
+    text: b，c
+  - label: エ
+    text: c，d
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

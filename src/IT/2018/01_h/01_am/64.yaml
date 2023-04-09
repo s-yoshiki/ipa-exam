@@ -1,0 +1,18 @@
+label: 64
+question: >-
+  インターネットでURLが "http://srv01.ipa.go.jp/abc.html" のWebページにアクセスするとき，このURL中の
+  "srv01" は何を表しているか。
+choice:
+  - label: ア
+    text: '"ipa.go.jp" がWebサービスであること'
+  - label: イ
+    text: アクセスを要求するWebページのファイル名
+  - label: ウ
+    text: 通信プロトコルとしてHTTP又はHTTPSを指定できること
+  - label: エ
+    text: ドメイン名 "ipa.go.jp" に属するコンピュータなどのホスト名
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

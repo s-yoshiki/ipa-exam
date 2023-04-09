@@ -1,0 +1,23 @@
+label: 15
+question: |-
+  経営課題と，それを実現するための手法の組合せのうち，適切なものはどれか。  
+    
+  〔経営課題〕
+
+  1.  部品の調達から販売までの一貫した効率的な業務プロセスを構築したい。
+  2.  顧客の嗜好(しこう)などの情報を把握し，製品の企画，販売促進につなげたい。
+  3.  販売時点で，商品名，数量などの売上に関する情報を把握し，適切な在庫補充や売れ筋商品の分析を行いたい。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

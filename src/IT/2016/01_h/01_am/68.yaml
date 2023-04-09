@@ -1,0 +1,16 @@
+label: 68
+question: MACアドレスに関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 同じアドレスをもつ機器は世界中で一つしか存在しないように割り当てられる。
+  - label: イ
+    text: 国別情報が含まれており，同じアドレスをもつ機器は各国に一つしか存在しないように割り当てられる。
+  - label: ウ
+    text: ネットワーク管理者によって割り当てられる。
+  - label: エ
+    text: プ口バイダ(ISP)によって割り当てられる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

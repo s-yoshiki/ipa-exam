@@ -1,0 +1,16 @@
+label: 28
+question: 新しい概念やアイディアの実証を目的とした，開発の前段階における検証を表す用語はどれか。
+choice:
+  - label: ア
+    text: CRM
+  - label: イ
+    text: KPI
+  - label: ウ
+    text: PoC
+  - label: エ
+    text: SLA
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

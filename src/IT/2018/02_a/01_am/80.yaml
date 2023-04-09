@@ -1,0 +1,19 @@
+label: 80
+question: >-
+  セル D2 と E2 に設定した2種類の税率で，商品Aと商品Bの税込み価格を計算する。セル D4 に入力する正しい計算式は $B4＊(1.0＋D$2)
+  であるが，誤って $B4＊(1.0＋$D$2) と入力した。セル D4 に入力した計算式を，セル D5，E4 及び E5 に複写したとき，セル E5
+  に表示される数値はどれか。
+choice:
+  - label: ア
+    text: '525'
+  - label: イ
+    text: '550'
+  - label: ウ
+    text: '630'
+  - label: エ
+    text: '660'
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

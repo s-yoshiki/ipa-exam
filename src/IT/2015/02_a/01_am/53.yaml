@@ -1,0 +1,22 @@
+label: 53
+question: |-
+  コンピュータシステムに関する費用 a～c のうち，TCOに含まれるものだけを全て挙げたものはどれか。  
+    
+
+  1.  運用に関わる消耗品費
+  2.  システム導入に関わる初期費用
+  3.  利用者教育に関わる費用
+choice:
+  - label: ア
+    text: a，b
+  - label: イ
+    text: a，b，c
+  - label: ウ
+    text: a，c
+  - label: エ
+    text: b，c
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

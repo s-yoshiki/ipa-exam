@@ -1,0 +1,17 @@
+label: 22
+question: >-
+  A社は，単一市場をターゲットとして複数の製品を提供しており，毎年社内の調査部門が市場の成長率と各製品のシェアを調査している。この調査情報を用いて資源配分の最適化を行うために，製品別の投資計画作成に活用する手法として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: CRM
+  - label: イ
+    text: ERP
+  - label: ウ
+    text: PPM
+  - label: エ
+    text: SWOT
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

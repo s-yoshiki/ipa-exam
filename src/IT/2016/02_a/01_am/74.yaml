@@ -1,0 +1,16 @@
+label: 74
+question: '"気温"表の2011年の7月1日から8月31日までの間で，最高気温が35度以上のレコードを全て抽出したい。抽出条件として，適切なものはどれか。'
+choice:
+  - label: ア
+    text: 年＝2011 and (月＝7 and 月＝8) and 最高気温≦35
+  - label: イ
+    text: 年＝2011 and (月＝7 and 月＝8) and 最高気温≧35
+  - label: ウ
+    text: 年＝2011 and (月＝7 or 月＝8) and 最高気温≦35
+  - label: エ
+    text: 年＝2011 and (月＝7 or 月＝8) and 最高気温≧35
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

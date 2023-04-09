@@ -1,0 +1,16 @@
+label: 36
+question: ITサービスマネジメントにおける可用性管理の目的として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ITサービスを提供する上で，目標とする稼働率を達成する。
+  - label: イ
+    text: ITサービスを提供するシステムの変更を，確実に実施する。
+  - label: ウ
+    text: サービス停止の根本原因を究明し，再発を防止する。
+  - label: エ
+    text: 停止したサービスを可能な限り迅速に回復させる。
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

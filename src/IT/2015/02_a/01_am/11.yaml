@@ -1,0 +1,17 @@
+label: 11
+question: >-
+  個々の営業担当者が保有している営業情報や営業ノウハウをデータベースで管理し，営業部門全体で共有できるようにしたい。この目的を達成するために活用する情報システムとして，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: CRMシステム
+  - label: イ
+    text: SCMシステム
+  - label: ウ
+    text: SFAシステム
+  - label: エ
+    text: データウェアハウス
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

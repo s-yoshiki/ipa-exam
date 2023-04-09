@@ -1,0 +1,16 @@
+label: 6
+question: ある商品の販売計画及び販売実績は表のとおりとなった。このとき，利益の計画に対する実績の比率は何%か。ここで，比率の小数点以下は切り捨てて求めるものとする。
+choice:
+  - label: ア
+    text: '77'
+  - label: イ
+    text: '99'
+  - label: ウ
+    text: '110'
+  - label: エ
+    text: '129'
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

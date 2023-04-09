@@ -1,0 +1,16 @@
+label: 21
+question: 財務諸表から求められる総資産営業利益率は何%か。
+choice:
+  - label: ア
+    text: '20'
+  - label: イ
+    text: '25'
+  - label: ウ
+    text: '30'
+  - label: エ
+    text: '50'
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

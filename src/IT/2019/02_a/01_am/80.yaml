@@ -1,0 +1,17 @@
+label: 80
+question: >-
+  パスワードの解読方法の一つとして，全ての文字の組合せを試みる総当たり攻撃がある。"A"から"Z"の26種類の文字を使用できるパスワードにおいて，文字数を4文字から6文字に増やすと，総当たり攻撃でパスワードを解読するための最大の試行回数は何倍になるか。
+choice:
+  - label: ア
+    text: '2'
+  - label: イ
+    text: '24'
+  - label: ウ
+    text: '52'
+  - label: エ
+    text: '676'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

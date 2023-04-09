@@ -1,0 +1,16 @@
+label: 51
+question: システム監査における被監査部門の役割として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 監査に必要な資料や情報を提供する。
+  - label: イ
+    text: 監査報告書に示す指摘事項や改善提案に対する改善実施状況の報告を受ける。
+  - label: ウ
+    text: システム監査人から監査報告書を受領する。
+  - label: エ
+    text: 予備調査を実施する。
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

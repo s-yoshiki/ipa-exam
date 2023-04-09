@@ -1,0 +1,16 @@
+label: 48
+question: Webページにおいて，一般的にフィードアイコンと呼ばれる次のアイコンが表示されることがある。このアイコンが説明しているものはどれか。
+choice:
+  - label: ア
+    text: Webサイトが更新情報やページの概要などをまとめたRSSやAtomフォーマットのデータを提供している。
+  - label: イ
+    text: 現在表示されているWebページが，個人やグループで運営される日記的なWebサイトである。
+  - label: ウ
+    text: 現在表示されているWebページが，使用しているPCのブラウザにブックマークとして登録されている。
+  - label: エ
+    text: ブログにおいて，別のブログへのリンクを設定したときに，リンク先に対してリンクを設定したことを通知済である。
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

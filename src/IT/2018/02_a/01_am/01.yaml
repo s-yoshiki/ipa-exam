@@ -1,0 +1,17 @@
+label: 1
+question: >-
+  表はコンピュータa～dのネットワーク接続(インターネットなどのオープンネットワークに接続，又はローカルエリアネットワークに接続)の有無及びアクセス制御機能の有無を示したものである。コンピュータa～dのうち，不正アクセス禁止法における不正アクセス行為の対象になり得るものはどれか。
+choice:
+  - label: ア
+    text: コンピュータa
+  - label: イ
+    text: コンピュータb
+  - label: ウ
+    text: コンピュータc
+  - label: エ
+    text: コンピュータd
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

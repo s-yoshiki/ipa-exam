@@ -1,0 +1,16 @@
+label: 79
+question: 中小企業の情報セキュリティ対策普及の加速化に向けて，IPAが創設した制度である"SECURITY ACTION"に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: ISMS認証取得に必要な費用の一部を国が補助する制度
+  - label: イ
+    text: 営利を目的としている組織だけを対象とした制度
+  - label: ウ
+    text: 情報セキュリティ対策に取り組むことを自己宣言する制度
+  - label: エ
+    text: 情報セキュリティ対策に取り組んでいることを第三者が認定する制度
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

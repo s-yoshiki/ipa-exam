@@ -1,0 +1,22 @@
+label: 41
+question: |-
+  適切なITガバナンスを構築するための役割①～④に関して，それを担う経営者と情報システム部門の責任者の分担の適切な組合せはどれか。
+
+  1.  ITガバナンスの方針の明確化
+  2.  情報化投資の決定における原則の制定
+  3.  情報システム部門内における役割分担と権限の決定
+  4.  プロジェクト計画に基づいたシステム開発の進捗管理
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: M
+figureText: ''

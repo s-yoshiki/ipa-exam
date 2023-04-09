@@ -1,0 +1,17 @@
+label: 80
+question: >-
+  自動車などの移動体に搭載されたセンサや表示機器を通信システムや情報システムと連動させて，運転者へ様々な情報をリアルタイムに提供することを可能にするものはどれか。
+choice:
+  - label: ア
+    text: アクチュエータ
+  - label: イ
+    text: キャリアアグリゲーション
+  - label: ウ
+    text: スマートメータ
+  - label: エ
+    text: テレマティクス
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

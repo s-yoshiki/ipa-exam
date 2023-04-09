@@ -1,0 +1,16 @@
+label: 57
+question: SSL/TLSによる通信内容の暗号化を実現させるために用いるものはどれか。
+choice:
+  - label: ア
+    text: ESSID
+  - label: イ
+    text: WPA2
+  - label: ウ
+    text: サーバ証明書
+  - label: エ
+    text: ファイアウォール
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

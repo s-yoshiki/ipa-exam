@@ -1,0 +1,16 @@
+label: 19
+question: コーポレートガバナンスを強化するための施策として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務の執行を行う執行役が，取締役の職務の適否を監査する。
+  - label: イ
+    text: 社外取締役の過半数に，親会社や取引先の関係者を登用する。
+  - label: ウ
+    text: 独立性の高い社外取締役を登用する。
+  - label: エ
+    text: 取締役会が経営の監督と業務執行を一元的に行って内部統制を図る。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

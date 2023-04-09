@@ -1,0 +1,16 @@
+label: 55
+question: ブラウザとWebサーバ間でSSLを使った通信を行うことを示すURLの先頭の記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: http://
+  - label: イ
+    text: https://
+  - label: ウ
+    text: shttp://
+  - label: エ
+    text: ssl://
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

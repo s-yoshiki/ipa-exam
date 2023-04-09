@@ -1,0 +1,16 @@
+label: 71
+question: 複数のIoTデバイスとそれらを管理するIoTサーバで構成されるIoTシステムにおける，エッジコンピューティングに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: IoTサーバ上のデータベースの複製を別のサーバにも置き，両者を常に同期させて運用する。
+  - label: イ
+    text: IoTデバイス群の近くにコンピュータを配置して，IoTサーバの負荷低減とIoTシステムのリアルタイム性向上に有効な処理を行わせる。
+  - label: ウ
+    text: IoTデバイスとIoTサーバ間の通信負荷の状況に応じて，ネットワークの構成を自動的に最適化する。
+  - label: エ
+    text: IoTデバイスを少ない電力で稼働させて，一般的な電池で長期間の連続運用を行う。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

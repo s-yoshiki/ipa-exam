@@ -1,0 +1,16 @@
+label: 74
+question: サーバ室など，セキュリティで保護された区画への入退室管理において，一人の認証で他者も一緒に入室する共連れの防止対策として，利用されるものはどれか。
+choice:
+  - label: ア
+    text: アンチパスバック
+  - label: イ
+    text: コールバック
+  - label: ウ
+    text: シングルサインオン
+  - label: エ
+    text: バックドア
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

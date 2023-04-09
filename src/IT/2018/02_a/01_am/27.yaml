@@ -1,0 +1,16 @@
+label: 27
+question: ある商品を表の条件で販売したとき，損益分岐点売上高は何円か。
+choice:
+  - label: ア
+    text: 150,000
+  - label: イ
+    text: 200,000
+  - label: ウ
+    text: 250,000
+  - label: エ
+    text: 300,000
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

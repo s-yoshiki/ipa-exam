@@ -1,0 +1,18 @@
+label: 20
+question: |-
+  A社は競合する他社とのポジショニングの分析を行った。3社の中でA社が最高の評価を得るには，A社のブランドの評価項目は，最低何ポイントが必要か。  
+  　なお，各評価項目の最低値は1ポイント，最高値は10ポイントとし，それぞれの評価項目の重み付けをした合計値で各社の評価を行うものとする。
+choice:
+  - label: ア
+    text: '6'
+  - label: イ
+    text: '7'
+  - label: ウ
+    text: '8'
+  - label: エ
+    text: '9'
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

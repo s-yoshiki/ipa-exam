@@ -1,0 +1,16 @@
+label: 3
+question: インターネットの検索エンジンの検索結果において，自社のホームページの表示順位を，より上位にしようとするための技法や手法の総称はどれか。
+choice:
+  - label: ア
+    text: DNS
+  - label: イ
+    text: RSS
+  - label: ウ
+    text: SEO
+  - label: エ
+    text: SNS
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

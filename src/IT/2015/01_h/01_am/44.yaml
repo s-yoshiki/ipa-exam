@@ -1,0 +1,16 @@
+label: 44
+question: ITサービスマネジメントにおいて，インシデントの根本原因を解決して再発を防止することを活動目的とするプロセスとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: インシデント管理
+  - label: イ
+    text: 変更管理
+  - label: ウ
+    text: 問題管理
+  - label: エ
+    text: リリース管理
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

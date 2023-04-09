@@ -1,0 +1,16 @@
+label: 34
+question: ある業務システムの構築を計画している企業が，SIベンダにRFPを提示することになった。最低限RFPに記述する必要がある事項はどれか。
+choice:
+  - label: ア
+    text: 開発実施スケジュール
+  - label: イ
+    text: 業務システムで実現すべき機能
+  - label: ウ
+    text: 業務システムの実現方式
+  - label: エ
+    text: プロジェクト体制
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

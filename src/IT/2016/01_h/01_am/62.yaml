@@ -1,0 +1,16 @@
+label: 62
+question: 電子メールに関するプロトコルの説明のうち，適切な記述はどれか。
+choice:
+  - label: ア
+    text: IMAP4によって，画像のようなバイナリデータをASCII文字列に変換して，電子メールで送ることができる。
+  - label: イ
+    text: POP3によって，PCから電子メールを送信することができる。
+  - label: ウ
+    text: POP3やIMAP4によって，メールサーバから電子メールを受信することができる。
+  - label: エ
+    text: SMTPによって，電子メールを暗号化することができる。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

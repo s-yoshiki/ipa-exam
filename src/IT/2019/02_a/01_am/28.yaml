@@ -1,0 +1,16 @@
+label: 28
+question: 業務の効率化を目指すために，SFAを導入するのに適した部門はどれか。
+choice:
+  - label: ア
+    text: 営業
+  - label: イ
+    text: 経理・会計
+  - label: ウ
+    text: 資材・購買
+  - label: エ
+    text: 製造
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

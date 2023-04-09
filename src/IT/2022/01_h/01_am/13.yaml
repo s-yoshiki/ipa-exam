@@ -1,0 +1,16 @@
+label: 13
+question: 情報公開法に基づいて公開請求することができる文書として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 国会などの立法機関が作成，保有する立法文書
+  - label: イ
+    text: 最高裁判所などの司法機関が作成，保有する司法文書
+  - label: ウ
+    text: 証券取引所に上場している企業が作成，保有する社内文書
+  - label: エ
+    text: 総務省などの行政機関が作成，保有する行政文書
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

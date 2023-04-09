@@ -1,0 +1,17 @@
+label: 45
+question: >-
+  インターネットなどの共用のネットワークに接続された端末同士を，暗号化や認証によってセキュリティを確保して，あたかも専用線で結んだように利用できる技術を何というか。
+choice:
+  - label: ア
+    text: ADSL
+  - label: イ
+    text: ISDN
+  - label: ウ
+    text: VPN
+  - label: エ
+    text: Wi-Fi
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

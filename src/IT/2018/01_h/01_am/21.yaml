@@ -1,0 +1,19 @@
+label: 21
+question: >-
+  不正アクセス禁止法に関して，次の記述中のa，bに入れる字句の適切な組合せはどれか。  
+    
+  　不正アクセス禁止法で規制されている不正アクセス行為とは，ネットワークを通じて無断でaを使い，コンピュータにアクセスする行為などのことである。他にも，無断でbという行為も規制されている。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

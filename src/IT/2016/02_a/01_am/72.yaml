@@ -1,0 +1,18 @@
+label: 72
+question: プライベートIPアドレスに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: >-
+      プライベートIPアドレスは，ICANN(The Internet Corporation for Assigned Names and
+      Numbers)によって割り当てられる。
+  - label: イ
+    text: プライベートIPアドレスは，PCやルータには割当て可能だが，サーバのように多数の利用者からアクセスされる機器には割り当てることはできない。
+  - label: ウ
+    text: プライベートIPアドレスを利用した企業内ネットワーク上の端末から外部のインターネットへのアクセスは，NAT機能を使えば可能となる。
+  - label: エ
+    text: プライベートIPアドレスを利用するためには，プロバイダ(ISP)に申請して承認を受ける必要がある。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

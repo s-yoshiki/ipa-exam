@@ -1,0 +1,23 @@
+label: 77
+question: |-
+  次のa～dのうち，DBMSに備わる機能として，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  ウイルスチェック
+  2.  データ検索・更新
+  3.  テーブルの正規化
+  4.  同時実行制御
+choice:
+  - label: ア
+    text: a，b，c
+  - label: イ
+    text: a，c
+  - label: ウ
+    text: b，c，d
+  - label: エ
+    text: b，d
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

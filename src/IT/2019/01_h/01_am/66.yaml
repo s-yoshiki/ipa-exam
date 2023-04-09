@@ -1,0 +1,18 @@
+label: 66
+question: >-
+  値の小さな数や大きな数を分かりやすく表現するために，接頭語が用いられる。例えば，10<sup>\-3</sup>と10<sup>3</sup>を表すのに，それぞれ"m"と"k"
+  が用いられる。10<sup>\-9</sup>と10<sup>9</sup>を表すのに用いられる接頭語はどれか。
+choice:
+  - label: ア
+    text: nとG
+  - label: イ
+    text: nとM
+  - label: ウ
+    text: pとG
+  - label: エ
+    text: pとM
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

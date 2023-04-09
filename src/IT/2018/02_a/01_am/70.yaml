@@ -1,0 +1,16 @@
+label: 70
+question: ISMSにおける情報セキュリティ方針の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 個人情報を取り扱う事業者が守るべき義務を規定するものである。
+  - label: イ
+    text: 情報管理者が情報セキュリティを確保するために実施する具体的な手順を示すものである。
+  - label: ウ
+    text: 情報セキュリティに対する組織の意図を示し，方向付けをするものである。
+  - label: エ
+    text: 保護すべき情報を管理しているサーバのセキュリティの設定値を規定するものである。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 10
+question: 企業のアライアンス戦略のうち，ジョイントベンチャの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 2社以上の企業が共同出資して経営する企業のこと
+  - label: イ
+    text: 企業間で相互に出資や株式の持合などの協力関係を結ぶこと
+  - label: ウ
+    text: 企業の合併や買収によって相手企業の支配権を取得すること
+  - label: エ
+    text: 技術やブランド，販売活動などに関する権利の使用を認めること
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

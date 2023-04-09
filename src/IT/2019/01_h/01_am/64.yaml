@@ -1,0 +1,16 @@
+label: 64
+question: 二つの拠点を専用回線で接続したWANでパケットを送受信する場合，可用性を高める例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 異なる通信事業者が提供する別回線を加え，2回線でパケットを送受信する。
+  - label: イ
+    text: 受信側でパケットの誤りを検知し訂正する。
+  - label: ウ
+    text: 送信側でウイルス検査を行い，ウイルスが含まれないパケットを送る。
+  - label: エ
+    text: 送信側でパケットを暗号化して送る。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

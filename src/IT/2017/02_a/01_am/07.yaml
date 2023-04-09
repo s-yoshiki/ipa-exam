@@ -1,0 +1,22 @@
+label: 7
+question: |-
+  財務分析によって得られる指標とその値に関する記述a～cのうち，適切なものだけを全て挙げたものはどれか。  
+    
+
+  1.  自己資本比率は，数値が大きいほど財務の安全性が高いと考えられる。
+  2.  総資産回転率は，数値が大きいほど総資産の回転期間が長くなると考えられる。
+  3.  流動比率は，数値が小さいほど支払能力が高いと考えられる。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: a，b
+  - label: ウ
+    text: a，c
+  - label: エ
+    text: b
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

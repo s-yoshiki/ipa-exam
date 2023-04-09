@@ -1,0 +1,16 @@
+label: 41
+question: PMBOKについて説明したものはどれか。
+choice:
+  - label: ア
+    text: システム開発を行う組織がプロセス改善を行うためのガイドラインとなるものである。
+  - label: イ
+    text: 組織全体のプロジェクトマネジメントの能力と品質を向上し，個々のプロジェクトを支援することを目的に設置される専門部署である。
+  - label: ウ
+    text: ソフトウェアエンジニアリングに関する理論や方法論，ノウハウ，そのほかの各種知識を体系化したものである。
+  - label: エ
+    text: プロジェクトマネジメントの知識を体系化したものである。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''
