@@ -9,5 +9,8 @@ choice:
     text: 作業票や作業日報などから各作業の実績時間を集計し，作業ごとに平均して標準時間を求める。
   - label: エ
     text: 実際の作業動作そのものをストップウォッチで数回反復測定して，作業時間を調査する。
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

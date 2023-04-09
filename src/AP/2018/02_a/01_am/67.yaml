@@ -9,5 +9,8 @@ choice:
     text: 生産，販売，在庫管理，財務会計，人事管理など基幹業務のあらゆる情報を統合管理することによって，経営効率の向上を目的とする。
   - label: エ
     text: 複数の企業や組織にまたがる調達から販売までの業務プロセス全ての情報を統合的に管理することによって，コスト低減や納期短縮などを目的とする。
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

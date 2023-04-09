@@ -9,5 +9,8 @@ choice:
     text: 電子手形の受取り側が早期に債権回収することが容易になり，また，必要な分だけ債権の一部を分割して譲渡できる。
   - label: エ
     text: ネットショップで商品を購入した者に与信チェックを行い，問題がなければ商品代金の立替払いをすることによって，購入者は早く商品を入手できる。
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

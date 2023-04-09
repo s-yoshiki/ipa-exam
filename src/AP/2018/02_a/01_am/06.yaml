@@ -10,5 +10,8 @@ choice:
     text: 節点の個数がnならば，深さはlog2nである。
   - label: エ
     text: 葉の個数がnならば，葉以外の節点の個数はn－1である。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

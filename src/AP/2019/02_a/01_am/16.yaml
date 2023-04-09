@@ -9,5 +9,8 @@ choice:
     text: 故障が発生したときに，その影響が誤りとなって外部に出ないように訂正することをフェールセーフという。
   - label: エ
     text: 故障が発生したときに対処するのではなく，品質管理などを通じてシステム構成要素の信頼性を高めることをフォールトアボイダンスという。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

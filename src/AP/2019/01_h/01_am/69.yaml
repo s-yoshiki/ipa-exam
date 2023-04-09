@@ -9,5 +9,8 @@ choice:
     text: 形式知から新たに暗黙知を得ること
   - label: エ
     text: 形式知から新たに形式知を得ること
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

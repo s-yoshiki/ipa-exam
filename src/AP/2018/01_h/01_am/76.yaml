@@ -10,5 +10,8 @@ choice:
     text: '15.0'
   - label: エ
     text: '17.0'
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

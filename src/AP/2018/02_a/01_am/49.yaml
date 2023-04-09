@@ -11,5 +11,8 @@ choice:
     text: 同値分割
   - label: エ
     text: 分岐網羅
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

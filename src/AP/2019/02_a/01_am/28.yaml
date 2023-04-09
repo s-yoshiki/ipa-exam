@@ -9,5 +9,8 @@ choice:
     text: XがA表に対して共有ロックを獲得しているときでも，YはA表に対して専有ロックを獲得することができる。
   - label: エ
     text: XがA表に対して専有ロックを獲得しているときでも，YはA表内の特定行aに対して専有ロックを獲得することができる。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

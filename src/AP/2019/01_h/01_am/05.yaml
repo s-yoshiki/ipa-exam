@@ -10,5 +10,8 @@ choice:
     text: 空き領域の大きさをキーとする2分探索木
   - label: エ
     text: アドレスに対応したビットマップ
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

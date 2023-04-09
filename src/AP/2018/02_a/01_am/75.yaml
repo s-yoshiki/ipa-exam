@@ -9,5 +9,8 @@ choice:
     text: ポアソン分布
   - label: エ
     text: ワイブル分布
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

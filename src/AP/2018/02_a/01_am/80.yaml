@@ -9,5 +9,8 @@ choice:
     text: 発注書面を交付する代わりに，下請業者の承諾を得て，必要な事項を記載した電子メールで発注を行う。
   - label: エ
     text: ユーザの事情で下請予定の業務内容の一部が未定なので，その部分及び下請代金は別途取り決める。
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

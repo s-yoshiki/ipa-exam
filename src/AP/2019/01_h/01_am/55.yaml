@@ -12,5 +12,8 @@ choice:
   - label: エ
     text: >-
       同時に被災する可能性がほとんどない複数のデータセンタにシステムを分散して稼働させることによって，一部のデータセンタが被災しても顧客に対するサービスの深刻な停止を引き起こすことなく，ITサービスを即時に復旧させる。
+calculation: false
+figure: false
 answer: ア
 category: M
+figureText: ''

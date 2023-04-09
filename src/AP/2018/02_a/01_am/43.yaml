@@ -9,5 +9,8 @@ choice:
     text: ベンダや情報セキュリティ関連機関が提供するセキュリティアドバイザリなどの最新のセキュリティ情報に注目し，ソフトウェアの脆弱性の検査を行う。
   - label: エ
     text: ホワイトボックス検査の一つであり，ソフトウェアの内部構造に注目し，ソースコードの構文をチェックすることによって脆弱性を見つける。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

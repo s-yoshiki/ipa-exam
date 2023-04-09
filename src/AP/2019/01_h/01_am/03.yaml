@@ -9,5 +9,8 @@ choice:
     text: 多様なデータや大量のデータに対して，三段論法，統計的手法やパターン認識手法を組み合わせることによって，高度なデータ分析を行う手法である。
   - label: エ
     text: 知識がルールに従って表現されており，演繹手法を利用した推論によって有意な結論を導く手法である。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

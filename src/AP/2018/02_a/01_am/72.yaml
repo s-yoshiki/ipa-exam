@@ -9,5 +9,8 @@ choice:
     text: 商品提案から販売，アフターサービスまでの，企業と顧客との双方向の対話を，AIを活用した自動応答機能などによって実現するシステムである。
   - label: エ
     text: スマートフォンのカメラなどを通して，利用者の視界に有用な情報を重ね合わせ，現実世界での行動や認知を支援する技術である。
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

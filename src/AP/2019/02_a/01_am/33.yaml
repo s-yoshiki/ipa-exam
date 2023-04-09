@@ -9,5 +9,8 @@ choice:
     text: MACアドレスからIPアドレスを得るためのプロトコル
   - label: エ
     text: ホスト名(ドメイン名)からIPアドレスを得るためのプロトコル
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

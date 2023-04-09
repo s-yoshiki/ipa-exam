@@ -9,5 +9,8 @@ choice:
     text: 主記憶と入出力装置との間でCPUとは独立にデータ転送を行う。
   - label: エ
     text: 主記憶を複数のバンクに分けて，CPUからのアクセス要求を並列的に処理できるようにする。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

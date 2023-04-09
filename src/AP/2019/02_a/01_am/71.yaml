@@ -9,5 +9,8 @@ choice:
     text: 車両の状態や周囲の環境を認識し，利用者が行き先を指定するだけで自律的な走行を可能とするレーダ，GPS，カメラなどの自動運転関連機器
   - label: エ
     text: 人の生活と同じ空間で安全性を確保しながら，食事，清掃，移動，コミュニケーションなどの生活支援に使用されるロボット
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

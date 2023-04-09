@@ -9,5 +9,8 @@ choice:
     text: ネットワークカードのコントローラを二重化しておき，片方のコントローラが故障しても運用できるようにする。
   - label: エ
     text: ハードディスクにRAID1を採用して，MTBFで示される信頼性が向上するようにする。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

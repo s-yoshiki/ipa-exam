@@ -1,6 +1,10 @@
 label: 49
 question: >-
-  (1)～(7)に示した七つの原則を適用して，アジャイル開発プラクティスを実践する考え方はどれか。ムダをなくす品質を作り込む知識を作り出す決定を遅らせる早く提供する人を尊重する全体を最適化する
+  (1)～(7)に示した七つの原則を適用して，アジャイル開発プラクティスを実践する考え方はどれか。<ul><li
+  class="li1">ムダをなくす</li><li class="li2">品質を作り込む</li><li
+  class="li3">知識を作り出す</li><li class="li4">決定を遅らせる</li><li
+  class="li5">早く提供する</li><li class="li6">人を尊重する</li><li
+  class="li7">全体を最適化する</li></ul>
 choice:
   - label: ア
     text: エクストリームプログラミング
@@ -10,5 +14,8 @@ choice:
     text: フィーチャ駆動型開発
   - label: エ
     text: リーンソフトウェア開発
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

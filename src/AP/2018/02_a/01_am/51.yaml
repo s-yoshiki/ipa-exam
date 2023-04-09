@@ -9,5 +9,8 @@ choice:
     text: 先行作業の一部の成果物が完成した時点で，後続作業を開始する。
   - label: エ
     text: プロジェクトの外部から要員を調達し，クリティカルパス上の作業に投入する。
+calculation: false
+figure: false
 answer: エ
 category: M
+figureText: ''

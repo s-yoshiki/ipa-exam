@@ -9,5 +9,8 @@ choice:
     text: ナビゲーションバー
   - label: エ
     text: パンくずリスト
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

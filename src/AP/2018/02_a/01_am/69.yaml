@@ -9,5 +9,8 @@ choice:
     text: デルファイ法
   - label: エ
     text: モンテカルロ法
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

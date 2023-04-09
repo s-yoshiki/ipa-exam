@@ -9,5 +9,8 @@ choice:
     text: ドメイン名とホスト名からIPアドレスを求める。
   - label: エ
     text: プライベートIPアドレスとグローバルIPアドレスを相互に変換する。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

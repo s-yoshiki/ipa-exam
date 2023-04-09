@@ -9,5 +9,8 @@ choice:
     text: マルウェアがIoT機器やサーバなどの攻撃対象を探すために送信するパケット
   - label: エ
     text: 有効な電子メールアドレスに対して攻撃者が標的型攻撃メールを送信するSMTPのパケット
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: システム利用者に対するアクセス権の付与・変更・削除に関する管理手続が，規程として定められていた。
   - label: エ
     text: 退職・異動したシステム利用者に付与されていたアクセス権の削除・変更は，定期人事異動がある年度初めに全てまとめて行われていた。
+calculation: false
+figure: false
 answer: エ
 category: M
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 映像と音声をパケット化して，シリアル伝送できる。
   - label: エ
     text: 著作権保護の機能をもたない。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

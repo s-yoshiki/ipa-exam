@@ -9,5 +9,8 @@ choice:
     text: カプセル化
   - label: エ
     text: 汎化
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

@@ -10,5 +10,8 @@ choice:
     text: SCMソリューション
   - label: エ
     text: 財務管理ソリューション
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

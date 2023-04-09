@@ -9,5 +9,8 @@ choice:
     text: インターネット上の特定のWebサービスを利用するHTTP通信を検知し，遮断できる。
   - label: エ
     text: 内部ネットワークからインターネットにアクセスする利用者PCについて，インターネットからの不正アクセスを困難にすることができる。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

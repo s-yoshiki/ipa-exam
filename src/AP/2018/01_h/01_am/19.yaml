@@ -9,5 +9,8 @@ choice:
     text: プログラムに割り当てられる主記憶容量は一定であり，プログラムの進行によって変動することはない。
   - label: エ
     text: プログラムの実行開始時には，プログラムのデータ領域とコード領域のうち，少なくとも全てのコード領域に主記憶が割り当てられる。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: ソースコードを無償で使用許諾すると，無条件でオープンソースソフトウェアになる。
   - label: エ
     text: 特許で保護された技術を使っていないソフトウェアであっても，使用許諾することは可能である。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

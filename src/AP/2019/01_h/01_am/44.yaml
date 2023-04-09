@@ -9,5 +9,8 @@ choice:
     text: 送信元のMACアドレス
   - label: エ
     text: 利用者のPCから送信されたURL
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: ニモニックコード
   - label: エ
     text: ブロックコード
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

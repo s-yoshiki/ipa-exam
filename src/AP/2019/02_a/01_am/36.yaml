@@ -9,5 +9,8 @@ choice:
     text: 情報漏えい検知機能
   - label: エ
     text: マルウェア検知機能
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

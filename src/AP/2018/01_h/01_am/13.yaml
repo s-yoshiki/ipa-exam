@@ -9,5 +9,8 @@ choice:
     text: クライアント端末の機器を交換する場合，アプリケーションやデータのインストール作業を軽減することができる。
   - label: エ
     text: 必要なアプリケーションをクライアント端末にインストールしているので，サーバに接続できない環境でも，アプリケーションを利用することができる。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

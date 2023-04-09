@@ -9,5 +9,8 @@ choice:
     text: データ同士の類似度を定義し，その定義した類似度に従って似たもの同士は同じグループに入るようにデータをグループ化するクラスタリング
   - label: エ
     text: プロットされた時系列データに対して，曲線の当てはめを行い，得られた近似曲線によってデータの補完や未来予測を行う回帰分析
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

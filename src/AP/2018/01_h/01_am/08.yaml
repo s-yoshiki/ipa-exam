@@ -9,5 +9,8 @@ choice:
     text: LIFO
   - label: エ
     text: LRU
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 広域イーサネット
   - label: エ
     text: マルチホーミング
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

@@ -10,5 +10,8 @@ choice:
     text: 複数の観点でプロセスを表現するために，目的に応じたモデル図法を使用し，オブジェクトモデリングのために標準化された記述ルールで表現する。
   - label: エ
     text: プロセスの機能を網羅的に表現するために，一つの要件に対し発生する事象を条件分岐の形式で記述する。
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

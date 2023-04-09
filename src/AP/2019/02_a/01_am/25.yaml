@@ -9,5 +9,8 @@ choice:
     text: テレビの電子番組案内で使用される番組内容のメタデータを記述する方式
   - label: エ
     text: ワンセグやインターネットで用いられる動画データの圧縮符号化方式
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

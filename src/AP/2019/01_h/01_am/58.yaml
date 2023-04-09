@@ -9,5 +9,8 @@ choice:
     text: 監査項目について，十分かつ適切な証拠を入手するための手順
   - label: エ
     text: 監査テーマに合わせて，監査チームを編成する手順
+calculation: false
+figure: false
 answer: ウ
 category: M
+figureText: ''

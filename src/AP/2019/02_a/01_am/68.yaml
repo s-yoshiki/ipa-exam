@@ -9,5 +9,8 @@ choice:
     text: コミュニケーション（Communication）
   - label: エ
     text: 利便性（Convenience）
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 電子メールを外部に送る際に，本文及び添付ファイルを暗号化することによって，情報漏えいを防ぐ。
   - label: エ
     text: プログラムを実行する際に，プログラムファイルのハッシュ値と脅威情報を突き合わせることによって，マルウェアを発見する。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

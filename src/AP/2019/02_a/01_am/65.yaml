@@ -9,5 +9,8 @@ choice:
     text: ソフトウェア詳細設計
   - label: エ
     text: 利害関係者の識別
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 物体を，ポリゴンや曲面パッチを用いて表現する。
   - label: エ
     text: 物体を，メタボールと呼ぶ構造を使い、球体を変形させることで得られる滑らかな曲線で表現する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

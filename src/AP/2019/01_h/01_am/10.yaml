@@ -1,6 +1,6 @@
 label: 10
 question: >-
-  バス幅が16ビット，メモリサイクルタイムが80ナノ秒で連続して動作できるメモリがある。このメモリのデータ転送速度は何Mバイト／秒か。ここで，Mは106を表す。
+  バス幅が16ビット，メモリサイクルタイムが80ナノ秒で連続して動作できるメモリがある。このメモリのデータ転送速度は何Mバイト／秒か。ここで，Mは10<sup>6</sup>を表す。
 choice:
   - label: ア
     text: '12.5'
@@ -10,5 +10,8 @@ choice:
     text: '160'
   - label: エ
     text: '200'
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

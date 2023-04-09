@@ -12,5 +12,8 @@ choice:
   - label: エ
     text: >-
       複数の衛星からの電波を受け取り，電波に含まれる情報から発信と受信の時刻差を求め，電波の伝播速度をかけることによって，各衛星との距離を割り出し，それを基に緯度及び経度を特定する。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

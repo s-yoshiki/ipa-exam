@@ -9,5 +9,8 @@ choice:
     text: ネットワークの負荷状況の推移が記録，分析されているか。
   - label: エ
     text: ネットワークへのアクセスコントロールが有効に機能しているか。
+calculation: false
+figure: false
 answer: エ
 category: M
+figureText: ''

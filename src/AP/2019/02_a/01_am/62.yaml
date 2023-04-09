@@ -9,5 +9,8 @@ choice:
     text: システム障害の発生などによって，その障害とは直接関係のない仕入先企業が被るおそれがある，将来的な損失額も考慮する。
   - label: エ
     text: 利用部門におけるシステム利用に起因する，埋没原価などの見えない費用も考慮する。
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

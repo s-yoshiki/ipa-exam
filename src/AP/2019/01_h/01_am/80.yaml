@@ -9,5 +9,8 @@ choice:
     text: 公衆の安全
   - label: エ
     text: コストの低減
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

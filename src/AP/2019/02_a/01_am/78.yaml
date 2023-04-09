@@ -9,5 +9,8 @@ choice:
     text: 職務著作のプログラムを，作成した担当者が独断で複製し，他社に貸与した。
   - label: エ
     text: 処理速度を向上させるために，購入したプログラムを改変した。
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

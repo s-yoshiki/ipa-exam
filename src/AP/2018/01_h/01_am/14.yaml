@@ -9,5 +9,8 @@ choice:
     text: サーバのディスクを増設して冗長化することによって，サーバ当たりの信頼性を向上させること
   - label: エ
     text: サーバのメモリを増設することによって，単位時間当たりの処理能力を向上させること
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

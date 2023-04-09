@@ -9,5 +9,8 @@ choice:
     text: 販売管理システムから出力したプルーフリストと受注伝票との照合が行われているか，プルーフリストと受注伝票上の照合印を確かめる。
   - label: エ
     text: 並行シミュレーション法を用いて，受注伝票を処理するプログラムの論理の正当性を確かめる。
+calculation: false
+figure: false
 answer: ウ
 category: M
+figureText: ''

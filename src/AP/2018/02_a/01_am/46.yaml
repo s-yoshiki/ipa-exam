@@ -9,5 +9,8 @@ choice:
     text: ハードウェアとソフトウェアとの協調設計(コデザイン)に用いられる，C言語又はC++言語を基としたシステムレベル記述言語
   - label: エ
     text: 論理合成してFPGAで動作させるハードウェア論理の記述に用いられる，ハードウェア記述言語
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

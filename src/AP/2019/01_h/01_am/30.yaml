@@ -9,5 +9,8 @@ choice:
     text: トランザクションは，完全に実行が完了するか，全く実行されなかったかの状態しかとらない性質である。
   - label: エ
     text: ひとたびコミットすれば，その後どのような障害が起こっても状態の変更が保たれるという性質である。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

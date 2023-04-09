@@ -9,5 +9,8 @@ choice:
     text: 標的型サイバー攻撃
   - label: エ
     text: 無線LANの盗聴
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

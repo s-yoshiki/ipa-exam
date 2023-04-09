@@ -9,5 +9,8 @@ choice:
     text: 直積
   - label: エ
     text: 和
+calculation: false
+figure: true
 answer: エ
 category: T
+figureText: ''

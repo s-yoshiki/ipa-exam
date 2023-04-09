@@ -10,5 +10,8 @@ choice:
   - label: エ
     text: >-
       入力文字列からアクセスするファイル名を組み立てるアプリケーションに対して，攻撃者が，上位のディレクトリを意味する文字列を入力して，非公開のファイルにアクセスする。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

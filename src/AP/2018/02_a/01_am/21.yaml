@@ -9,5 +9,8 @@ choice:
     text: 複数のチップで構成していたコンピュータシステムを，一つのチップで実現したLSI
   - label: エ
     text: 複数のチップを単一のパッケージに封入してシステム化したデバイス
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

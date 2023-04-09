@@ -10,5 +10,8 @@ choice:
     text: 自動応答に必要なシステム機能及び能力などのシステム要件を定義し，システム要件を，AIなどを利用した製品又はサービスなどのシステム要素に割り当てる。
   - label: エ
     text: 自動応答を実現するソフトウェア製品又はシステムの要件定義を行い，AIなどを利用した実現方式やインタフェース設計を行う。
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

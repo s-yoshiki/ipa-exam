@@ -9,5 +9,8 @@ choice:
     text: JPCERT/CC
   - label: エ
     text: NISC
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

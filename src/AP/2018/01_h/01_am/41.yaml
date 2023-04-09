@@ -11,5 +11,8 @@ choice:
     text: Webサイトからの受信データを処理してVDIサーバで生成したデスクトップ画面の画像データだけをPCに送信する。
   - label: エ
     text: Webサイトからの受信データを全てIPsecでカプセル化し，PCに送信する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

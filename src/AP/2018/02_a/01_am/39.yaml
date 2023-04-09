@@ -9,5 +9,8 @@ choice:
     text: 再帰的な問合せを行う際の送信元のポート番号を固定する。
   - label: エ
     text: 再帰的な問合せを行う際のトランザクションIDを固定する。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

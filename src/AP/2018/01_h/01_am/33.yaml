@@ -9,5 +9,8 @@ choice:
     text: '4.17×10-5 '
   - label: エ
     text: 3.33×10-4
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

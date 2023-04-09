@@ -10,5 +10,8 @@ choice:
     text: '750'
   - label: エ
     text: 1,200
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: CREATE TABLE文の参照制約で制限する。
   - label: エ
     text: GRANT文で許可する。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

@@ -13,5 +13,8 @@ choice:
     text: 明示された時間帯で，明示された条件下に，システム，製品又は構成要素が明示された機能を実行する度合い
   - label: エ
     text: 明示された状況下で使用するとき，明示的ニーズ及び暗黙のニーズを満足させる機能を，製品又はシステムが提供する度合い
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

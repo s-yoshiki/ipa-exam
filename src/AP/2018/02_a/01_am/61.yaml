@@ -10,5 +10,8 @@ choice:
     text: 複数のアプリケーションによって共有される基盤部分を提供する。
   - label: エ
     text: ルーチン化された業務のコスト削減や処理効率向上を図る。
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

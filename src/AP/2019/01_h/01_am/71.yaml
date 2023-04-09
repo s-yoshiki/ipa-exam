@@ -9,5 +9,8 @@ choice:
     text: 自宅の家電機器とインターネットでつながり，稼働監視や操作を遠隔で行うことができるウェアラブルデバイスのこと
   - label: エ
     text: ディジタル空間に現実世界と同等な世界を，様々なセンサで収集したデータを用いて構築し，現実世界では実施できないようなシミュレーションを行うこと
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

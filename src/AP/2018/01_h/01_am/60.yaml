@@ -9,5 +9,8 @@ choice:
     text: マスタファイルのメンテナンスは，特権アカウントを付与された者だけに許されていること
   - label: エ
     text: マスタファイルへのデータ入力チェック機能が，システムに盛り込まれていること
+calculation: false
+figure: false
 answer: ア
 category: M
+figureText: ''

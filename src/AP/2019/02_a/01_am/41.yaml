@@ -11,5 +11,8 @@ choice:
     text: Webサイトからの受信データは，受信処理ののち生成したデスクトップ画面の画像データだけをPCに送信する。
   - label: エ
     text: Webサイトからの受信データは，不正なコード列が検知されない場合だけPCに送信する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

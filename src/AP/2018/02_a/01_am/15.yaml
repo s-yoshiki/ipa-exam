@@ -9,5 +9,8 @@ choice:
     text: MTTRは，MTBFに稼働率を掛けると求めることができる。
   - label: エ
     text: MTTRは，システムに発生する故障と故障の間隔の平均時間を示す。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

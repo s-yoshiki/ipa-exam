@@ -9,5 +9,8 @@ choice:
     text: セキュリティ製品を設計する際の早い段階から実際に動作する試作品を作成し，それに対する利用者の反応を見ながら徐々に完成に近づける開発手法
   - label: エ
     text: ソフトウェアやハードウェアの脆弱性を検査するために作成されたプログラム
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

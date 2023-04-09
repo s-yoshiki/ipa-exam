@@ -10,5 +10,8 @@ choice:
     text: nm
   - label: エ
     text: n2m
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

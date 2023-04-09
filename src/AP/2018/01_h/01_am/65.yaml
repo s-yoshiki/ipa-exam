@@ -9,5 +9,8 @@ choice:
     text: 自社ブランドで販売する電子機器のソフトウェア開発だけを外部に委託し，ハードウェアは自社で設計製造する。
   - label: エ
     text: 生産設備をもつ企業が，他社からの委託を受けて電子機器を製造する。
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

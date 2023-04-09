@@ -9,5 +9,8 @@ choice:
     text: フリップフロップ回路で構成された揮発性メモリ
   - label: エ
     text: リフレッシュ動作が必要な揮発性メモリ
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

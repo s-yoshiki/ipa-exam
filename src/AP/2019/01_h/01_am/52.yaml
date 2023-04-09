@@ -10,5 +10,8 @@ choice:
     text: '135'
   - label: エ
     text: '150'
+calculation: false
+figure: true
 answer: エ
 category: M
+figureText: ''

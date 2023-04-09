@@ -9,5 +9,8 @@ choice:
     text: IFRS
   - label: エ
     text: SEC
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

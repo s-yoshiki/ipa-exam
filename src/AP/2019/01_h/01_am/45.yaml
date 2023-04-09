@@ -9,5 +9,8 @@ choice:
     text: サーバのOSへの不正なログインを監視する。
   - label: エ
     text: ファイルへのマルウェア感染を監視し，検出する。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

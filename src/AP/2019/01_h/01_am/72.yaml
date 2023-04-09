@@ -9,5 +9,8 @@ choice:
     text: 製品の生産計画に基づいてその生産に必要な資材の所要量を展開し，これを基準にして資材の需要とその発注時期を算出する。
   - label: エ
     text: 部品の供給から製品の販売までの一連のプロセスの情報をリアルタイムで交換することによって，在庫の削減とリードタイムの短縮を実現する。
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

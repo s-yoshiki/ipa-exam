@@ -9,5 +9,8 @@ choice:
     text: 抵抗
   - label: エ
     text: フリップフロップ
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

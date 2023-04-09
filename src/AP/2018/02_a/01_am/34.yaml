@@ -12,5 +12,8 @@ choice:
     text: 10.16.32.117
   - label: エ
     text: 10.16.32.118
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

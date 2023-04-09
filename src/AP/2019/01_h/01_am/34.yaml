@@ -1,7 +1,7 @@
 label: 34
 question: >-
-  次のIPアドレスとサブネットマスクをもつPCがある。このPCのネットワークアドレスとして，適切なものはどれか。　IPアドレス：
-  10.170.70.19　サブネットマスク：255.255.255.240
+  次のIPアドレスとサブネットマスクをもつPCがある。このPCのネットワークアドレスとして，適切なものはどれか。<br><br>　IPアドレス：
+  10.170.70.19<br>　サブネットマスク：255.255.255.240
 choice:
   - label: ア
     text: 10.170.70.0
@@ -11,5 +11,8 @@ choice:
     text: 10.170.70.31
   - label: エ
     text: 10.170.70.255
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

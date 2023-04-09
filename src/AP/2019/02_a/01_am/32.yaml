@@ -9,5 +9,8 @@ choice:
     text: データ送受信の開始時にデータ送受信のネゴシエーションとしてRTS/CTS方式を用い，受信の確認はACKを使用する。
   - label: エ
     text: 伝送路上にトークンを巡回させ，トークンを受け取った端末だけがデータを送信できる。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

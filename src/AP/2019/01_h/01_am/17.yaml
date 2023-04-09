@@ -9,5 +9,8 @@ choice:
     text: ヒープ領域はスタック領域の予備領域であり，スタック領域が一杯になった場合にヒープ領域が動的に使用される。
   - label: エ
     text: ヒープ領域も構造的にはスタックと同じプッシュとポップの操作によって，データの格納と取出しを行う。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

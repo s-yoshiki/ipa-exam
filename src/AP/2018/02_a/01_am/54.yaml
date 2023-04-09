@@ -9,5 +9,8 @@ choice:
     text: プログラムステップ数
   - label: エ
     text: 利用者数
+calculation: false
+figure: false
 answer: イ
 category: M
+figureText: ''

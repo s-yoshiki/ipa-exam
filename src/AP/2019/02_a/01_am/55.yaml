@@ -9,5 +9,8 @@ choice:
     text: 成果物，価格，連絡先などが内容として含まれた，稼働中の全てのITサービスに関する情報を格納するデータベース又は構造化された文書である。
   - label: エ
     text: ハードウェア，ソフトウェア，ライセンス，文書などで構成された，稼働中のITサービスに対して承認された変更を実施するためのコンポーネントの集合である。
+calculation: false
+figure: false
 answer: ア
 category: M
+figureText: ''

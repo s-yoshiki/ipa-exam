@@ -9,5 +9,8 @@ choice:
     text: 共通鍵暗号方式によるメッセージ認証を用いることによって，正当なDNSサーバからの応答であることをクライアントが検証できる。
   - label: エ
     text: 公開鍵暗号方式によるディジタル署名を用いることによって，正当なDNSサーバからの応答であることをクライアントが検証できる。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

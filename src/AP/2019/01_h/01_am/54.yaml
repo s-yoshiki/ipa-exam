@@ -9,5 +9,8 @@ choice:
     text: インシデントの発生に備えて，復旧のための設計をする。
   - label: エ
     text: インシデントの発生を記録し，関係する部署に状況を連絡する。
+calculation: false
+figure: false
 answer: イ
 category: M
+figureText: ''

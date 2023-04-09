@@ -9,5 +9,8 @@ choice:
     text: 目標とする投資収益率を実現するように価格を決定する。
   - label: エ
     text: リサーチなどによる消費者の値頃感に基づいて価格を決定する。
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

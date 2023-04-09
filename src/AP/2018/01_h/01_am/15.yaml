@@ -9,5 +9,8 @@ choice:
     text: 装置の一部が故障しても，システムの全面的なサービス停止にならないようにする。
   - label: エ
     text: 利用者が決められた順序でしか入力できないようにするなどして，単純なミスが起こらないようにする。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

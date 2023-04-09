@@ -1,5 +1,5 @@
 label: 79
-question: 下請代金支払遅延等防止法において，親事業者の違法となる行為はどれか。
+question: 下請代金支払遅延等防止法において，<b>親事業者の違法となる行為</b>はどれか。
 choice:
   - label: ア
     text: 支払期日を，発注したソフトウェアの受領後45日と決めた。
@@ -9,5 +9,8 @@ choice:
     text: 納品され受領したソフトウェアの仕様を変更したいので，返品した。
   - label: エ
     text: 納品されるソフトウェアに不具合があるので，受領拒否した。
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

@@ -10,5 +10,8 @@ choice:
     text: '199'
   - label: エ
     text: '211'
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

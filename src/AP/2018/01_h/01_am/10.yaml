@@ -9,5 +9,8 @@ choice:
     text: ページ単位で書込み，バイト単位で読出しを行う。
   - label: エ
     text: ページ単位で書込み及び読出しを行う。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

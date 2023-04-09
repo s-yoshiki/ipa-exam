@@ -11,5 +11,8 @@ choice:
     text: コンビニエンスストアチェーンの売上データや運輸業者の運送量データなど，事業運営に役立つデータであり，提供元が提供先を限定して販売しているデータ
   - label: エ
     text: 商用のDBMSに代わりオープンソースのDBMSを用いて蓄積されている企業内の基幹業務データ
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

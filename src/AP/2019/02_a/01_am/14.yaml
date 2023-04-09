@@ -9,5 +9,8 @@ choice:
     text: ソフトウェアとハードウェアをチューニングして，現状の処理能力を最大限に引き出して，スループットを向上させることである。
   - label: エ
     text: パフォーマンスの問題はリソースの過剰使用によって発生するので，特定のリソースの有効利用を向上させることである。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

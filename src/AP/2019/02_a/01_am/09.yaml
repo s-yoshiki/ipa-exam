@@ -9,5 +9,8 @@ choice:
     text: 命令のデコードを行うために，メモリから読み出した命令を保持する。
   - label: エ
     text: 命令を読み出すために，次の命令が格納されたアドレスを保持する。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

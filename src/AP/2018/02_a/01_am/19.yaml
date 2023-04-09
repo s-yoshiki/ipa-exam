@@ -9,5 +9,8 @@ choice:
     text: パーサ
   - label: エ
     text: プロファイラ
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

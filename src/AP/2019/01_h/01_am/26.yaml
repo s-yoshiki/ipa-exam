@@ -9,5 +9,8 @@ choice:
     text: サブスキーマ
   - label: エ
     text: 内部スキーマ
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

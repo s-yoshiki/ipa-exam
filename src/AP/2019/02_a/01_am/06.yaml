@@ -10,5 +10,8 @@ choice:
     text: 末尾にデータを追加する処理
   - label: エ
     text: 末尾のデータを削除する処理
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

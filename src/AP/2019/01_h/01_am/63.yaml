@@ -10,5 +10,8 @@ choice:
     text: 分散処理のフレームワークを用いて，計算処理を複数サーバに分散させる並列処理システムを設計できる。
   - label: エ
     text: 分析要件に応じ，決定木分析，ニューラルネットワークなどのモデリング手法の選択，モデルへのパラメタの設定，分析結果の評価ができる。
+calculation: false
+figure: true
 answer: エ
 category: S
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: マトリックス図
   - label: エ
     text: 連関図
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

@@ -11,5 +11,8 @@ choice:
     text: (n＋1) OR 255
   - label: エ
     text: (n＋1) OR 256
+calculation: false
+figure: true
 answer: ア
 category: T
+figureText: ''

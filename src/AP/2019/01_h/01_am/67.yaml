@@ -9,5 +9,8 @@ choice:
     text: 参入を予定している事業分野の競合状況
   - label: エ
     text: 収益性が高い事業分野での市場シェア
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

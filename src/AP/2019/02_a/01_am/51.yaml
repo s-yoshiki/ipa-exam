@@ -10,5 +10,8 @@ choice:
     text: プロジェクトに関連するガバナンス・プロセスを標準化し，資源，方法論，ツール及び技法の共有を促進する。
   - label: エ
     text: プロジェクトの要求事項を満たすために，知識，スキル，ツールと技法をプロジェクトのアクティビティへ適用する。
+calculation: false
+figure: false
 answer: ウ
 category: M
+figureText: ''

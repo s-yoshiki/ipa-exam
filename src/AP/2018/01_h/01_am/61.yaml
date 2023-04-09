@@ -9,5 +9,8 @@ choice:
     text: 日次や月次で行う利用者業務やコンピュータ入出力作業の業務手順
   - label: エ
     text: 必要なハードウェアやソフトウェアを記述した最上位レベルのシステム方式
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

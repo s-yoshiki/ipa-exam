@@ -9,5 +9,8 @@ choice:
     text: 表の列データの組
   - label: エ
     text: 表の列に付けられたインデックスの内容
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

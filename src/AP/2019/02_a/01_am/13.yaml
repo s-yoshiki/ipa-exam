@@ -9,5 +9,8 @@ choice:
     text: データを追加するトランザクションが多いので，データの整合性を取るためのオーバヘッドを小さくしなければならないシステム
   - label: エ
     text: 同一のマスタデータベースがシステム内に複数配置されているので，マスタを更新する際にはデータベース間で整合性を保持しなければならないシステム
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

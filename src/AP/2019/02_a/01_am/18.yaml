@@ -10,5 +10,8 @@ choice:
     text: ページフォールト→置換え対象ページの決定→ページアウト→ページイン
   - label: エ
     text: ページフォールト→置換え対象ページの決定→ページイン→ページアウト
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

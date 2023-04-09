@@ -9,5 +9,8 @@ choice:
     text: RISC
   - label: エ
     text: VLIW
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: システム異常を検出した場合，マスカブル割込みでシステムに通知する。
   - label: エ
     text: システムが一定時間異常であった場合，上位の管理プログラムを呼び出す。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

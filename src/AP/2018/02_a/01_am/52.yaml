@@ -9,5 +9,8 @@ choice:
     text: 作業の進捗状況と予算の消費状況を関連付けて折れ線で示したもの
   - label: エ
     text: 作業の順序や相互関係をネットワーク図で示したもの
+calculation: false
+figure: false
 answer: ウ
 category: M
+figureText: ''

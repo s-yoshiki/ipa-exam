@@ -10,5 +10,8 @@ choice:
     text: B1
   - label: エ
     text: C6
+calculation: false
+figure: true
 answer: イ
 category: T
+figureText: ''

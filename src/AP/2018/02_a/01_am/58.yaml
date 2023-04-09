@@ -9,5 +9,8 @@ choice:
     text: 統計的サンプリングとは，特定の種類の例外取引を全て抽出する方法である。
   - label: エ
     text: 母集団とは，評価対象から結論を導き出すのに必要なデータ全体のうち，リスクが高いデータの集合である。
+calculation: false
+figure: false
 answer: ア
 category: M
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 入力原票はデータ入力処理の期日まで情報システム部門で保管し，受領枚数の点検などの授受確認は，データ入力処理の期日直前に一括して行う。
   - label: エ
     text: 入力済みの入力原票は，不正使用や機密情報の漏えいなどを防止するために，入力後直ちに廃棄する。
+calculation: false
+figure: false
 answer: ア
 category: M
+figureText: ''

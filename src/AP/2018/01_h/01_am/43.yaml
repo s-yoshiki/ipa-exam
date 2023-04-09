@@ -10,5 +10,8 @@ choice:
     text: WebブラウザにおいてキャッシュしているWebページをクリアする。
   - label: エ
     text: WebブラウザにおいてセッションIDをディスクに格納する。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

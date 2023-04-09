@@ -9,5 +9,8 @@ choice:
     text: 企業全体の経営資源を有効かつ総合的に計画して管理し，経営の効率向上を図るための手法・概念である。
   - label: エ
     text: 消費者向けや企業間の商取引を，インターネットなどの電子的なネットワークを活用して行う手法・概念である。
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

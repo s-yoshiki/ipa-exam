@@ -9,5 +9,8 @@ choice:
     text: プロキシARP
   - label: エ
     text: リバースプロキシ
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

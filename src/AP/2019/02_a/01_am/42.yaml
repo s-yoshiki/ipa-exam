@@ -10,5 +10,8 @@ choice:
     text: OSやアプリケーションソフトウェアの脆弱性を悪用して攻撃するツール
   - label: エ
     text: Webサイトのアクセスログから，Webサイトの脆弱性を悪用した攻撃を検出するツール
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: ファイバチャネルなどを用いてストレージをネットワーク化する。
   - label: エ
     text: 利用者の要求に対して仮想ボリュームを提供し，物理ディスクは実際の使用量に応じて割り当てる。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: マルウェアに感染しているファイルを，マルウェアに感染していないと判断する。
   - label: エ
     text: マルウェアに感染しているファイルを，マルウェアに感染していると判断する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

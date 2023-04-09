@@ -9,5 +9,8 @@ choice:
     text: 電子メールに添付されたファイルに含まれるマクロウイルスの侵入
   - label: エ
     text: 不特定多数のIoT機器から大量のHTTPリクエストを送り付けるDDoS攻撃
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

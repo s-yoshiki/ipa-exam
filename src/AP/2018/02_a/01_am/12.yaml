@@ -9,5 +9,8 @@ choice:
     text: 複数の利用者でサーバやデータベースを共有しながら，利用者ごとにデータベースの内容を明確に分離する技術である。
   - label: エ
     text: 利用者の要求に応じてリソースを動的に割り当てたり，不要になったリソースを回収して別の利用者のために移し替えたりする技術である。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

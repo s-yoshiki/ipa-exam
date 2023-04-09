@@ -9,5 +9,8 @@ choice:
     text: '"ニコニコカレンダー"に全チームメンバが記入し終えたとき'
   - label: エ
     text: 毎日行う"朝会"
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

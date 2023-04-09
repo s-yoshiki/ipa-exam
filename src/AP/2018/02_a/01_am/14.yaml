@@ -10,5 +10,8 @@ choice:
     text: 常にAの稼働率が高い。
   - label: エ
     text: 常にBの稼働率が高い。
+calculation: false
+figure: true
 answer: エ
 category: T
+figureText: ''

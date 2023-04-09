@@ -10,5 +10,8 @@ choice:
     text: '0.16'
   - label: エ
     text: '1.6'
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

@@ -11,5 +11,8 @@ choice:
     text: 保守性
   - label: エ
     text: 有効性
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

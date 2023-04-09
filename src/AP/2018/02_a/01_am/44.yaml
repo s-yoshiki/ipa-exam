@@ -10,5 +10,8 @@ choice:
     text: ニューラルネットワーク
   - label: エ
     text: ブロックチェーン
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

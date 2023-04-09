@@ -9,5 +9,8 @@ choice:
     text: 作業Eの総余裕日数は30日である。
   - label: エ
     text: 作業Fを最も遅く開始できるのは11日目である。
+calculation: false
+figure: true
 answer: ウ
 category: M
+figureText: ''

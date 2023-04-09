@@ -9,5 +9,8 @@ choice:
     text: 新規開発した業務システムのソフトウェア開発費を無形固定資産として計上して，自社で利用する。
   - label: エ
     text: ベンダが提供するソフトウェアを，利用料金を支払うことによって一定期間の利用権を得て利用する。
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

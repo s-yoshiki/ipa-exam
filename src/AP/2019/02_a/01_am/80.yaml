@@ -9,5 +9,8 @@ choice:
     text: 日本国内で販売する電気用品が，日本の電気用品安全法の基準に適合していることを証明する。
   - label: エ
     text: 米国で設置する通信機器が，米国の規則に適合していることを証明する。
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

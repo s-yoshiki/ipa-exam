@@ -10,5 +10,8 @@ choice:
     text: リピータ
   - label: エ
     text: ルータ
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

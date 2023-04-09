@@ -9,5 +9,8 @@ choice:
     text: 新規事業又は市場への参入のための，企業の合併又は買収の支援
   - label: エ
     text: 大学の研究成果の特許化及び企業への技術移転の促進
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

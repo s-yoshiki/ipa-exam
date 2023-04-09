@@ -9,5 +9,8 @@ choice:
     text: 楽観値，悲観値，最可能値を使って，個々のアクティビティのコストを見積もる。
   - label: エ
     text: 類似のプロジェクトにおける過去のコスト実績を使って，プロジェクトのコストを見積もる。
+calculation: false
+figure: false
 answer: イ
 category: M
+figureText: ''

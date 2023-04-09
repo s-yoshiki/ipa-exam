@@ -9,5 +9,8 @@ choice:
     text: 新システムの利用者研修会の受講率を100%とする。
   - label: エ
     text: 注文受付から製品出荷までの日数を3日短縮とする。
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

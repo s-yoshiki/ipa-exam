@@ -9,5 +9,8 @@ choice:
     text: 市場成長率が低く，相対的市場占有率が高い事業
   - label: エ
     text: 市場成長率が低く，相対的市場占有率が低い事業
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

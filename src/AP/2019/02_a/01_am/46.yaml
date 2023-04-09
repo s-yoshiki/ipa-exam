@@ -9,5 +9,8 @@ choice:
     text: 対象となる問題領域に対して，プロセスではなくオブジェクトを用いて解決を図るというアプローチをとる。
   - label: エ
     text: 並行して進行する事象間の同期を表す。その構造はプレースとトランジションという2種類の節点をもつ有向2部グラフで表される。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

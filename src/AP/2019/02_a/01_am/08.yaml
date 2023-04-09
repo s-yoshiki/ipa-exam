@@ -9,5 +9,8 @@ choice:
     text: 選択ソート
   - label: エ
     text: 挿入ソート
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

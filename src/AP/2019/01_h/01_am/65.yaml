@@ -9,5 +9,8 @@ choice:
     text: クラス図
   - label: エ
     text: ユースケース図
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

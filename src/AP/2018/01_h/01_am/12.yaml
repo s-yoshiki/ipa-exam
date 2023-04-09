@@ -9,5 +9,8 @@ choice:
     text: 最大供給電流は，USB2.0と同じ500ミリアンペアである。
   - label: エ
     text: ピン数が9本に増えたので，USB2.0のケーブルは挿すことができない。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

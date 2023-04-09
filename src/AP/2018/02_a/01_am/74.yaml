@@ -9,5 +9,8 @@ choice:
     text: 企業の法令遵守の体制の構築と運用
   - label: エ
     text: ビジネス価値を最大化させるITサービス活用の促進
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

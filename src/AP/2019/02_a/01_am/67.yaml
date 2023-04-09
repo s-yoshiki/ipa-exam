@@ -9,5 +9,8 @@ choice:
     text: 市場成長率は高いが，市場占有率が低い製品である。長期的な将来性を見込むことはできるが，資金創出効果の大きさは分からない。
   - label: エ
     text: 市場成長率は低いが，市場占有率は高い製品である。資金創出効果が大きく，企業の支柱となる資金源である。
+calculation: false
+figure: false
 answer: ア
 category: S
+figureText: ''

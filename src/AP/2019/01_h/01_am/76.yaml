@@ -10,5 +10,8 @@ choice:
     text: 4,000
   - label: エ
     text: 5,000
+calculation: false
+figure: true
 answer: ウ
 category: S
+figureText: ''

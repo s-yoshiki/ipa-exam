@@ -9,5 +9,8 @@ choice:
     text: 物体の表面に陰影を付けたり，光を反射させたりして，画像を作ること
   - label: エ
     text: 物体をワイヤフレーム，ポリゴンなどを用いて，モデル化すること
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

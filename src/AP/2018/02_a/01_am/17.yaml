@@ -10,5 +10,8 @@ choice:
     text: タスクCが実行可能状態になった。
   - label: エ
     text: タスクDが実行可能状態になった。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

@@ -10,5 +10,8 @@ choice:
     text: PCとWebサーバ間の通信データを暗号化するとともに，正当なDBサーバであるかを検証することができるようになる。
   - label: エ
     text: PCとWebサーバ間の通信データを暗号化するとともに，利用者を認証することができるようになる。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

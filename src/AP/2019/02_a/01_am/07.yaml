@@ -1,7 +1,7 @@
 label: 7
 question: >-
-  自然数をキーとするデータを，ハッシュ表を用いて管理する。キーxのハッシュ関数h(x)を　　h(x) = x mod
-  nとすると，任意のキーaとbが衝突する条件はどれか。ここで，nはハッシュ表の大きさであり，x mod nはxをnで割った余りを表す。
+  自然数をキーとするデータを，ハッシュ表を用いて管理する。キーxのハッシュ関数h(x)を<br>　　h(x) = x mod
+  n<br>とすると，任意のキーaとbが衝突する条件はどれか。ここで，nはハッシュ表の大きさであり，x mod nはxをnで割った余りを表す。
 choice:
   - label: ア
     text: a＋bがnの倍数
@@ -11,5 +11,8 @@ choice:
     text: nがa＋bの倍数
   - label: エ
     text: nがa－bの倍数
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 複数のOS上で利用できるプログラム言語でマルウェアを作成することによって，複数のOS上でマルウェアが動作する。
   - label: エ
     text: ルートキットを利用して，マルウェアに感染していないように見せかけることによって，マルウェアを隠蔽する。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

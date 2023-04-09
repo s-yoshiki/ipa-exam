@@ -9,5 +9,8 @@ choice:
     text: ドロップシッピング
   - label: エ
     text: ロングテール
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

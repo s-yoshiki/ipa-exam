@@ -9,5 +9,8 @@ choice:
     text: 著作物の共有をより円滑に行うために，再利用の許諾条件を著作者があらかじめ明示する枠組みを策定して普及させようとする活動及びその運営主体である団体名
   - label: エ
     text: 著作物の保護期間は，著作者の生存期間，及び著作者の死後少なくとも50年間とし，それ以降，著作権は消滅するという考え方
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

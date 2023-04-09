@@ -9,5 +9,8 @@ choice:
     text: 対象業務領域のモデル化に当たって，情報資源であるデータの構造に着目する。
   - label: エ
     text: プログラムが最も効率よくアクセスできるようにデータ構造を設計する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

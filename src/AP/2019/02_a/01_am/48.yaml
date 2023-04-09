@@ -9,5 +9,8 @@ choice:
     text: パスアラウンド
   - label: エ
     text: ペアプログラミング
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

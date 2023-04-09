@@ -9,5 +9,8 @@ choice:
     text: スイッチを押す力を電力に変換して作動するRFリモコン
   - label: エ
     text: 無停電電源装置を備えたデータサーバ
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

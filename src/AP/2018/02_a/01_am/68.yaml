@@ -9,5 +9,8 @@ choice:
     text: 事業の成長戦略を，製品(既存・新規)と市場(既存・新規)の2軸を用いて，市場浸透，市場開発，製品開発，多角化の4象限のマトリックスに分類する。
   - label: エ
     text: 製品を，市場の魅力度と自社の強みの2軸を用いて，花形，金のなる木，問題児，負け犬の4象限のマトリックスに分類する。
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

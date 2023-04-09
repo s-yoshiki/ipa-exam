@@ -9,5 +9,8 @@ choice:
     text: 不正競争防止法
   - label: エ
     text: プロパイダ責任制限法
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

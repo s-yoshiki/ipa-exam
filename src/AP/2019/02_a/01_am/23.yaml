@@ -1,5 +1,5 @@
 label: 23
-question: 3ビットのデータX1，X2，X3に偶数パリティビットcを付加する回路はどれか。
+question: 3ビットのデータX<sub>1</sub>，X<sub>2</sub>，X<sub>3</sub>に偶数パリティビットcを付加する回路はどれか。
 choice:
   - label: ア
     text: ''
@@ -9,5 +9,8 @@ choice:
     text: ''
   - label: エ
     text: ''
+calculation: false
+figure: true
 answer: ウ
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 資源獲得の順序を両方のタスクで逆にする。
   - label: エ
     text: 両方のタスクの優先度を同じにする。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

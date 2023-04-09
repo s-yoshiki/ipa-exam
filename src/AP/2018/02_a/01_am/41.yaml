@@ -9,5 +9,8 @@ choice:
     text: Webページに入力されたデータの出力データが，HTMLタグとして解釈されないように処理する。
   - label: エ
     text: 許容量を超えた大きさのデータをWebページに入力することを禁止する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

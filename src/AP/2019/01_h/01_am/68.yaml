@@ -9,5 +9,8 @@ choice:
     text: 自社の強み
   - label: エ
     text: 遵法
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

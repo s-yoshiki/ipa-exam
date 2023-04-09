@@ -9,5 +9,8 @@ choice:
     text: ソフトウェアを実行する機器とはCPUのアーキテクチャが異なる機器で開発を行うこと
   - label: エ
     text: 派生開発を，変更プロセスと追加プロセスとに分けて開発を行うこと
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

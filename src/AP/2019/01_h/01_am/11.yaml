@@ -9,5 +9,8 @@ choice:
     text: 低消費電力で低速の通信を行い，センサネットワークなどに使われる。
   - label: エ
     text: 連絡用，業務用などに利用される小型の携帯型トランシーバに使われる。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

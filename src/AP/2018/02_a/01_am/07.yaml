@@ -9,5 +9,8 @@ choice:
     text: 4,999
   - label: エ
     text: 5,050
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

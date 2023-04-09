@@ -9,5 +9,8 @@ choice:
     text: 受託者から納品された成果物に対して，委託者が要件定義に基づきユーザ受入テストを実施していること
   - label: エ
     text: 受託者から納品された成果物に対して，監査人がユーザ受入テスト計画を策定していること
+calculation: false
+figure: false
 answer: ウ
 category: M
+figureText: ''

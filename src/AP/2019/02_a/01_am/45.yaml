@@ -9,5 +9,8 @@ choice:
     text: 他人受入率を顔認証と比べて低くすることが可能である。
   - label: エ
     text: 本人が装置に接触したあとに残された遺留物を採取し，それを加工することによって認証データを偽造し，本人になりすますことが可能である。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

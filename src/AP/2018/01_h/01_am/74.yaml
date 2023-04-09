@@ -9,5 +9,8 @@ choice:
     text: p2％よりも大きい不良率のロットが合格する確率は，L2よりも小さい。
   - label: エ
     text: p2％よりも小さい不良率のロットが不合格となる確率は，L2よりも小さい。
+calculation: false
+figure: true
 answer: ウ
 category: S
+figureText: ''

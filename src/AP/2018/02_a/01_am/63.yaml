@@ -9,5 +9,8 @@ choice:
     text: クラウドサービスの利用開始に備え，自社で保有しているサーバの機能強化や記憶域の増加を実施する。
   - label: エ
     text: 事業継続計画は自社の資産の範囲で実施することを優先し，クラウドサービスを利用する範囲から除外する。
+calculation: false
+figure: false
 answer: イ
 category: S
+figureText: ''

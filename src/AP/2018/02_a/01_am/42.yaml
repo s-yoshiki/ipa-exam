@@ -9,5 +9,8 @@ choice:
     text: 使用可能な文字のあらゆる組合せをそれぞれパスワードとして，繰り返しログインを試みる。
   - label: エ
     text: 正当な利用者のログインシーケンスを盗聴者が記録してサーバに送信する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

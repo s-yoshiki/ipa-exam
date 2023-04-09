@@ -9,5 +9,8 @@ choice:
     text: 関係モデル
   - label: エ
     text: ネットワークモデル
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

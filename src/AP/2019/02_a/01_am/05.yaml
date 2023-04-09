@@ -9,5 +9,8 @@ choice:
     text: 入力された順序を守って応答する。
   - label: エ
     text: 入力時刻を記録して応答する。
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

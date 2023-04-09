@@ -11,5 +11,8 @@ choice:
     text: サービスの設計，移行，提供及び改善のためにSMSを導入し，運用する。
   - label: エ
     text: 方針，目的，計画及びサービスの要求事項について，SMS及びサービスを監視，測定及びレビューし，それらの結果を報告する。
+calculation: false
+figure: false
 answer: ウ
 category: M
+figureText: ''

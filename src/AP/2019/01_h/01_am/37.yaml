@@ -10,5 +10,8 @@ choice:
   - label: エ
     text: >-
       利用者が認証情報を忘れ，かつ，Webブラウザに保存しているパスワード情報も使用できない場合でも，救済することによって，利用者は普段どおりにシステムを利用できる。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

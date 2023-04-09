@@ -9,5 +9,8 @@ choice:
     text: 生存する個人に関する，個人を特定するために用いられる勤務先や住所などの情報
   - label: エ
     text: 本人の病歴，犯罪の経歴など不当な差別や不利益を生じさせるおそれのある情報
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 情報システム部門の長
   - label: エ
     text: 被監査部門の長
+calculation: false
+figure: false
 answer: イ
 category: M
+figureText: ''

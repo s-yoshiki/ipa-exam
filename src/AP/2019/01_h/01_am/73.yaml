@@ -9,5 +9,8 @@ choice:
     text: 検索エンジンの検索結果一覧において自社サイトがより上位にランクされるようにWebページの記述内容を見直すなど様々な試みを行うこと
   - label: エ
     text: 検索エンジンを運営する企業と契約し，自社の商品・サービスと関連したキーワードが検索に用いられた際に広告を表示する仕組み
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

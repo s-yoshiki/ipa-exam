@@ -9,5 +9,8 @@ choice:
     text: 情報システムから入手した監査証拠の十分性と監査報告書の完成度が保たれていること
   - label: エ
     text: 情報システム部門の積極的な協力が得られること
+calculation: false
+figure: false
 answer: ア
 category: M
+figureText: ''

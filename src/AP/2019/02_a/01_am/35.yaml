@@ -9,5 +9,8 @@ choice:
     text: Webブラウザの代理として，Webサーバに対するリクエストを送信する。
   - label: エ
     text: 電子メールをインターネット上の複数のサーバを経由して転送する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 日本国内の事業者が運営するオンラインゲームでだけ流通する通貨である。
   - label: エ
     text: 不特定の者に対する代金の支払に使用可能で，電子的に記録・移転でき，法定通貨やプリペイドカードではない財産的価値である。
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

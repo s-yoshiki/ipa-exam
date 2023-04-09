@@ -11,5 +11,8 @@ choice:
     text: '80'
   - label: エ
     text: '640'
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

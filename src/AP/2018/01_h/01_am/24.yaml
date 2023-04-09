@@ -9,5 +9,8 @@ choice:
     text: 入力が必須な項目は，色で強調するだけでなく，項目名の隣に"(必須)"などと明記する。
   - label: エ
     text: ハイパリンク先の内容が推測できるように，ハイパリンク画像のalt属性にリンク先のURLを付記する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

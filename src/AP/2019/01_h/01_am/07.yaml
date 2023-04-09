@@ -10,5 +10,8 @@ choice:
     text: SOAP
   - label: エ
     text: XML
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

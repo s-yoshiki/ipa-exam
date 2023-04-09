@@ -9,5 +9,8 @@ choice:
     text: 公開鍵暗号方式であり，TLSにも利用されている。
   - label: エ
     text: 素因数分解問題の困難性を利用している。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

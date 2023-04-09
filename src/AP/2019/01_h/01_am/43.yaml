@@ -10,5 +10,8 @@ choice:
     text: Webサーバの前段に設置し，不特定多数のPCから特定のWebサーバへのリクエストに代理応答する。
   - label: エ
     text: 不正な動作の可能性があるプログラムを特別な領域で動作させることによって，他の領域に悪影響が及ぶのを防ぐ。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

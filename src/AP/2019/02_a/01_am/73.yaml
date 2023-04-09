@@ -9,5 +9,8 @@ choice:
     text: Webサイト上の広告に掛けた費用の何倍の収益をその広告から得ることができたかを示す指標である。
   - label: エ
     text: Webサイト上の広告をクリックして訪れた人のうち会員登録や商品購入などに至った顧客数の割合を示す指標である。
+calculation: false
+figure: false
 answer: エ
 category: S
+figureText: ''

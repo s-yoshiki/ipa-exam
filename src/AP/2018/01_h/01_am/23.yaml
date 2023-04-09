@@ -10,5 +10,8 @@ choice:
     text: 1／28
   - label: エ
     text: 1／210
+calculation: false
+figure: true
 answer: エ
 category: T
+figureText: ''

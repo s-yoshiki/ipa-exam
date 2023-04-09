@@ -9,5 +9,8 @@ choice:
     text: 限界利益率はB社の方が高い。
   - label: エ
     text: 損益分岐点売上高はB社の方が高い。
+calculation: false
+figure: true
 answer: ア
 category: S
+figureText: ''

@@ -9,5 +9,8 @@ choice:
     text: 著作権保護技術としてAACSを採用し，従来のSDメモリカードよりもセキュリティが強化された。
   - label: エ
     text: ファイルシステムにexFATを採用し，最大2Tバイトの容量に対応できる。
+calculation: false
+figure: false
 answer: エ
 category: T
+figureText: ''

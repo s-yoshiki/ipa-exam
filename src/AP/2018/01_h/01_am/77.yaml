@@ -9,5 +9,8 @@ choice:
     text: '450'
   - label: エ
     text: '480'
+calculation: false
+figure: true
 answer: ウ
 category: S
+figureText: ''

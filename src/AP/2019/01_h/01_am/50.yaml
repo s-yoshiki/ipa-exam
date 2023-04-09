@@ -9,5 +9,8 @@ choice:
     text: 取得ニーズとの一貫性
   - label: エ
     text: 使用されたテスト方法及び作業標準の適切性
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

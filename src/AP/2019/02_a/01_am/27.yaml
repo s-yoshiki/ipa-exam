@@ -11,5 +11,8 @@ choice:
     text: RESTRICT
   - label: エ
     text: UNIQUE
+calculation: false
+figure: true
 answer: ア
 category: T
+figureText: ''

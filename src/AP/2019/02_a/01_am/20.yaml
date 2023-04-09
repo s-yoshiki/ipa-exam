@@ -10,5 +10,8 @@ choice:
     text: 2.5／256
   - label: エ
     text: 2.5／512
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''

@@ -10,5 +10,8 @@ choice:
   - label: エ
     text: >-
       ネットワーク上を流れるパケットを収集し，そのプロトコルヘッダやデータを解析して，あらかじめ登録された攻撃パターンと一致した場合は不正アクセスと判断する。
+calculation: false
+figure: false
 answer: ウ
 category: T
+figureText: ''

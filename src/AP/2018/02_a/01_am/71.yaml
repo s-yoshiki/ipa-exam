@@ -10,5 +10,8 @@ choice:
     text: クラウドサービスを介して，機械同土が互いの状態を常時監視・分析し，人手を介すことなく目標に合わせた協調動作を自動で行う。
   - label: エ
     text: クラウドシステム上に常時収集されている機械の稼働情報を基に，機械の故障検知時に，保守員が故障部位を分析して特定する。
+calculation: false
+figure: false
 answer: ウ
 category: S
+figureText: ''

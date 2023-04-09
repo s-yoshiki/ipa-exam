@@ -9,5 +9,8 @@ choice:
     text: 正しい場所及び時間での構成品目の配付
   - label: エ
     text: 変更管理方針で定義された構成品目に対する変更要求の管理
+calculation: false
+figure: false
 answer: イ
 category: M
+figureText: ''

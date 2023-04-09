@@ -10,5 +10,8 @@ choice:
     text: プロトコルの文法を形式言語を使って厳密に定義する，ISOで標準化された通信プロトコルの規格
   - label: エ
     text: ルータやスイッチの機器内部で動作するソフトウェアを，オープンソースソフトウェア(OSS)で実現する方式
+calculation: false
+figure: false
 answer: イ
 category: T
+figureText: ''

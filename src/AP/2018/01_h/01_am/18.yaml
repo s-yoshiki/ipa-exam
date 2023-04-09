@@ -9,5 +9,8 @@ choice:
     text: スラッシングの発生を回避する。
   - label: エ
     text: セグメンテーションを実現する。
+calculation: false
+figure: false
 answer: ア
 category: T
+figureText: ''
