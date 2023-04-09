@@ -1,0 +1,16 @@
+label: 16
+question: システム全体のスループットを高めるために，主記憶装置と低速の出力装置とのデータ転送を，高速の補助記憶装置を介して行う方式はどれか。
+choice:
+  - label: ア
+    text: スプーリング
+  - label: イ
+    text: スワッピング
+  - label: ウ
+    text: ブロッキング
+  - label: エ
+    text: ページング
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

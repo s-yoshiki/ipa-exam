@@ -1,0 +1,18 @@
+label: 65
+question: >-
+  投資案件において，5年間の投資効果をROI(Return On
+  Investment)で評価した場合，四つの案件a～dのうち，最もROIが高いものはどれか。ここで，割引率は考慮しなくてもよいものとする。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: b
+  - label: ウ
+    text: c
+  - label: エ
+    text: d
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

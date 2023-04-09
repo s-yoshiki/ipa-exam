@@ -1,0 +1,16 @@
+label: 59
+question: アクセス制御を監査するシステム監査人が採った行動のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: ソフトウェアに関するアクセス制御の管理表の作成と保管
+  - label: イ
+    text: データに関するアクセス制御の管理状況の確認
+  - label: ウ
+    text: ネットワークに関するアクセス制御の管理方針の制定
+  - label: エ
+    text: ハードウェアに関するアクセス制御の運用管理の実施
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

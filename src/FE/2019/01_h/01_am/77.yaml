@@ -1,0 +1,16 @@
+label: 77
+question: 図は特性要因図の一部を表したものである。a，bの関係はどれか。
+choice:
+  - label: ア
+    text: bはaの原因である。
+  - label: イ
+    text: bはaの手段である。
+  - label: ウ
+    text: bはaの属性である。
+  - label: エ
+    text: bはaの目的である。
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

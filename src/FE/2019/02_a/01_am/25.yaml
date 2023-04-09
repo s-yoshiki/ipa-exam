@@ -1,0 +1,16 @@
+label: 25
+question: UMLを用いて表した図の概念データモデルの解釈として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 従業員の総数と部署の総数は一致する。
+  - label: イ
+    text: 従業員は，同時に複数の部署に所属してもよい。
+  - label: ウ
+    text: 従業員が所属していない部署の存在は許されない。
+  - label: エ
+    text: どの部署にも所属していない従業員が存在してもよい。
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

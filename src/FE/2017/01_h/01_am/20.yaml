@@ -1,0 +1,17 @@
+label: 20
+question: >-
+  分解能が8ビットのD/A変換器に，ディジタル値0を入力したときの出力電圧が0Vとなり，ディジタル値128を入力したときの出力電圧が2.5Vとなる場合，最下位の1ビットの変化による当該D/A変換器の出力電圧の変化は何Vか。
+choice:
+  - label: ア
+    text: 2.5／128
+  - label: イ
+    text: 2.5／255
+  - label: ウ
+    text: 2.5／256
+  - label: エ
+    text: 2.5／512
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

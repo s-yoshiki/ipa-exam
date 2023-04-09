@@ -1,0 +1,16 @@
+label: 41
+question: マルウェアについて，トロイの木馬とワームを比較したとき，ワームの特徴はどれか。
+choice:
+  - label: ア
+    text: 勝手にファイルを暗号化して正常に読めなくする。
+  - label: イ
+    text: 単独のプログラムとして不正な動作を行う。
+  - label: ウ
+    text: 特定の条件になるまで活動をせずに待機する。
+  - label: エ
+    text: ネットワークやリムーバブルメディアを媒介として自ら感染を広げる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

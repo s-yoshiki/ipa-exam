@@ -1,0 +1,16 @@
+label: 25
+question: 液晶ディスプレイなどの表示装置において，傾いた直線を滑らかに表示する手法はどれか。
+choice:
+  - label: ア
+    text: アンチエイリアシング
+  - label: イ
+    text: シェーディング
+  - label: ウ
+    text: テクスチャマッピング
+  - label: エ
+    text: バンプマッピング
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

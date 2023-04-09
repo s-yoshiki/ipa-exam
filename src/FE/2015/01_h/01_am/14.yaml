@@ -1,0 +1,17 @@
+label: 14
+question: >-
+  オンラインリアルタイムシステムにおけるCPUの使用率と平均応答時間の関係を表したグラフとして，適切なものはどれか。ここで，トランザクションの発生はポアソン分布に従い，その処理時間は指数分布に従うものとする。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 51
+question: 図のアローダイアグラムで表されるプロジェクトは，完了までに最短で何日を要するか。
+choice:
+  - label: ア
+    text: '105'
+  - label: イ
+    text: '115'
+  - label: ウ
+    text: '120'
+  - label: エ
+    text: '125'
+calculation: false
+figure: true
+answer: ウ
+category: M
+figureText: ''

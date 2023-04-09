@@ -1,0 +1,16 @@
+label: 7
+question: プログラムのコーディング規約に規定する事項のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 局所変数は，用途が異なる場合でもデータ型が同じならば，できるだけ同一の変数を使うようにする。
+  - label: イ
+    text: 処理性能を向上させるために，ループの制御変数には浮動小数点型変数を使用する。
+  - label: ウ
+    text: 同様の計算を何度も繰り返すときは，関数の再帰呼出しを用いる。
+  - label: エ
+    text: 領域割付け関数を使用するときは，割付けができなかったときの処理を記述する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

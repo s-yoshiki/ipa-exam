@@ -1,0 +1,16 @@
+label: 31
+question: OSI基本参照モデルの第3層に位置し，通信の経路選択機能や中継機能を果たす層はどれか。
+choice:
+  - label: ア
+    text: セション層
+  - label: イ
+    text: データリンク層
+  - label: ウ
+    text: トランスポート層
+  - label: エ
+    text: ネットワーク層
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

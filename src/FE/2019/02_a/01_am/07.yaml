@@ -1,0 +1,22 @@
+label: 7
+question: |-
+  次のBNFで定義される＜変数名＞に合致するものはどれか。  
+    
+  　＜数字＞::＝ 0｜1｜2｜3｜4｜5｜6｜7｜8｜9  
+  　＜英字＞::＝ A｜B｜C｜D｜E｜F  
+  　＜英数字＞::＝＜英字＞｜＜数字＞｜\_  
+  　＜変数名＞::＝＜英字＞｜＜変数名＞＜英数字＞
+choice:
+  - label: ア
+    text: _B39
+  - label: イ
+    text: '246'
+  - label: ウ
+    text: '3E5'
+  - label: エ
+    text: F5_1
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 6
+question: 再帰呼出しの説明はどれか。
+choice:
+  - label: ア
+    text: あらかじめ決められた順番ではなく，起きた事象に応じた処理を行うこと
+  - label: イ
+    text: 関数の中で自分自身を用いた処理を行うこと
+  - label: ウ
+    text: 処理が終了した関数をメモリから消去せず，必要になったとき再び用いること
+  - label: エ
+    text: 処理に失敗したときに，その処理を呼び出す直前の状態に戻すこと
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

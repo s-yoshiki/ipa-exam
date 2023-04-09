@@ -1,0 +1,16 @@
+label: 48
+question: オブジェクト指向の考え方に基づくとき，一般的に“自動車”のサブクラスといえるものはどれか。
+choice:
+  - label: ア
+    text: エンジン
+  - label: イ
+    text: 製造番号
+  - label: ウ
+    text: タイヤ
+  - label: エ
+    text: トラック
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

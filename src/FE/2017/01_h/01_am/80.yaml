@@ -1,0 +1,16 @@
+label: 80
+question: 不正競争防止法において，営業秘密となる要件は，"秘密として管理されていること"，"事業活動に有用な技術上又は経営上の情報であること"ともう一つはどれか。
+choice:
+  - label: ア
+    text: 営業譲渡が可能なこと
+  - label: イ
+    text: 期間が10年を超えないこと
+  - label: ウ
+    text: 公然と知られていないこと
+  - label: エ
+    text: 特許出願をしていること
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

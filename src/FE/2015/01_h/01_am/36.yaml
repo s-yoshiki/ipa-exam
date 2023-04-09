@@ -1,0 +1,16 @@
+label: 36
+question: IPv4のグローバルIPアドレスはどれか。
+choice:
+  - label: ア
+    text: 118.151.146.138
+  - label: イ
+    text: 127.158.32.134
+  - label: ウ
+    text: 172.22.151.43
+  - label: エ
+    text: 192.168.38.158
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

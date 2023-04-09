@@ -1,0 +1,16 @@
+label: 25
+question: テクスチャマッピングを説明したものはどれか。
+choice:
+  - label: ア
+    text: 光源からの反射や屈折，透過を計算し描画していく。
+  - label: イ
+    text: 光源と物体の形状などに基づいて，表示するときに陰影をつける。
+  - label: ウ
+    text: 表示画面からはみ出す箇所をあらかじめ見つけ，表示対象から外す。
+  - label: エ
+    text: 物体の表面に画像を貼り付けることによって，表面の質感を表現する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

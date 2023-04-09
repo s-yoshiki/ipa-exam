@@ -1,0 +1,16 @@
+label: 43
+question: Webサーバのコンテンツの改ざんを検知する方法のうち，最も有効なものはどれか。
+choice:
+  - label: ア
+    text: Webサーバのコンテンツの各ファイルの更新日を保管しておき，定期的に各ファイルの更新日と比較する。
+  - label: イ
+    text: Webサーバのコンテンツの各ファイルのハッシュ値を保管しておき，定期的に各ファイルから生成したハッシュ値と比較する。
+  - label: ウ
+    text: Webサーバのメモリ使用率を定期的に確認し，バッファオーバフローが発生していないことを確認する。
+  - label: エ
+    text: Webサーバへの通信を監視し，HTTP，HTTPS以外の通信がないことを確認する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

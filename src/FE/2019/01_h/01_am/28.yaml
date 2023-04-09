@@ -1,0 +1,16 @@
+label: 28
+question: 関係モデルにおいて表Xから表Yを得る関係演算はどれか。
+choice:
+  - label: ア
+    text: 結合(join)
+  - label: イ
+    text: 射影(projection)
+  - label: ウ
+    text: 選択(selection)
+  - label: エ
+    text: 併合(merge)
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

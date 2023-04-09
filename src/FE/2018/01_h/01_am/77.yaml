@@ -1,0 +1,16 @@
+label: 77
+question: 貸借対照表の純資産の部に表示される項目はどれか。
+choice:
+  - label: ア
+    text: 売掛金
+  - label: イ
+    text: 資本金
+  - label: ウ
+    text: 社債
+  - label: エ
+    text: 投資有価証券
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

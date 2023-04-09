@@ -1,0 +1,16 @@
+label: 80
+question: 労働者派遣法に基づく，派遣先企業と労働者との関係(図の太線部分)はどれか。
+choice:
+  - label: ア
+    text: 請負契約関係
+  - label: イ
+    text: 雇用関係
+  - label: ウ
+    text: 指揮命令関係
+  - label: エ
+    text: 労働者派遣契約関係
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

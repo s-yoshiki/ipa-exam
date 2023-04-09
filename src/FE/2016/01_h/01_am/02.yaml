@@ -1,0 +1,16 @@
+label: 2
+question: 次の状態遷移図で表現されるオートマトンで受理されるビット列はどれか。ここで，ビット列は左から順に読み込まれるものとする。
+choice:
+  - label: ア
+    text: '0000'
+  - label: イ
+    text: '0111'
+  - label: ウ
+    text: '1010'
+  - label: エ
+    text: '1111'
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 10
+question: 割込み処理の終了後に割込みによって中断された処理を割り込まれた場所から再開するために，割込み発生時にプロセッサが保存するものはどれか。
+choice:
+  - label: ア
+    text: インデックスレジスタ
+  - label: イ
+    text: データレジスタ
+  - label: ウ
+    text: プログラムカウンタ
+  - label: エ
+    text: 命令レジスタ
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

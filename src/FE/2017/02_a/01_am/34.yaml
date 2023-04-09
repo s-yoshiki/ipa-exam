@@ -1,0 +1,16 @@
+label: 34
+question: トランスポート層のプロトコルであり，信頼性よりもリアルタイム性が重視される場合に用いられるものはどれか。
+choice:
+  - label: ア
+    text: HTTP
+  - label: イ
+    text: IP
+  - label: ウ
+    text: TCP
+  - label: エ
+    text: UDP
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

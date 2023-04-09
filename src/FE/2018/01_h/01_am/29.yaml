@@ -1,0 +1,16 @@
+label: 29
+question: データベースの更新前や更新後の値を書き出して，データベースの更新記録として保存するファイルはどれか。
+choice:
+  - label: ア
+    text: ダンプファイル
+  - label: イ
+    text: チェックポイントファイル
+  - label: ウ
+    text: バックアップファイル
+  - label: エ
+    text: ログファイル
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

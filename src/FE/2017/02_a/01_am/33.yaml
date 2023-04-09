@@ -1,0 +1,16 @@
+label: 33
+question: IPv4において，インターネット接続用ルータのNAT機能の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: インターネットへのアクセスをキャッシュしておくことによって，その後に同じIPアドレスのWebサイトへアクセスする場合，表示を高速化できる機能である。
+  - label: イ
+    text: 通信中のIPパケットを検査して，インターネットからの攻撃や侵入を検知する機能である。
+  - label: ウ
+    text: 特定の端末宛てのIPパケットだけを通過させる機能である。
+  - label: エ
+    text: プライベートIPアドレスとグローバルIPアドレスを相互に変換する機能である。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

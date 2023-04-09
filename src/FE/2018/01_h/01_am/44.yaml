@@ -1,0 +1,17 @@
+label: 44
+question: >-
+  社内ネットワークとインターネットの接続点に，ステートフルインスペクション機能をもたない，静的なパケットフィルタリング型のファイアウォールを設置している。このネットワーク構成において，社内のPCからインターネット上のSMTPサーバに電子メールを送信できるようにするとき，ファイアウォールで通過を許可するTCPパケットのポート番号の組合せはどれか。ここで，SMTP通信には，デフォルトのポート番号を使うものとする。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

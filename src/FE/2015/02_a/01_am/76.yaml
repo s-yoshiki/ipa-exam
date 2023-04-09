@@ -1,0 +1,16 @@
+label: 76
+question: キャッシュフローを改善する行為はどれか。
+choice:
+  - label: ア
+    text: 受取手形の期日を長くして受け取る。
+  - label: イ
+    text: 売掛金を回収するまでの期間を短くする。
+  - label: ウ
+    text: 買掛金を支払うまでの期間を短くする。
+  - label: エ
+    text: 支払手形の期日を短くして支払う。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

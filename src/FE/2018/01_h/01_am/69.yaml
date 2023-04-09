@@ -1,0 +1,16 @@
+label: 69
+question: コストプラス価格決定法を説明したものはどれか。
+choice:
+  - label: ア
+    text: 買い手が認める品質や価格をリサーチし，訴求力のある価格を決定する。
+  - label: イ
+    text: 業界の平均水準や競合企業の設定価格を参考に，競争力のある価格を決定する。
+  - label: ウ
+    text: 製造原価又は仕入原価に一定のマージンを乗せて価格を決定する。
+  - label: エ
+    text: 目標販売量を基に，総費用吸収後に一定の利益率を確保できる価格を決定する。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

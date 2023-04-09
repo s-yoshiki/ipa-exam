@@ -1,0 +1,16 @@
+label: 45
+question: 図は構造化分析法で用いられるDFDの例である。図中の"○"が表しているものはどれか。
+choice:
+  - label: ア
+    text: アクティビティ
+  - label: イ
+    text: データストア
+  - label: ウ
+    text: データフロー
+  - label: エ
+    text: プロセス
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

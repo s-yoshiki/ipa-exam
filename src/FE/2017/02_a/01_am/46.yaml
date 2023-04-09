@@ -1,0 +1,16 @@
+label: 46
+question: UML2.0において，オブジェクト間の相互作用を時系列に表す図はどれか。
+choice:
+  - label: ア
+    text: アクティビティ図
+  - label: イ
+    text: コンポーネント図
+  - label: ウ
+    text: シーケンス図
+  - label: エ
+    text: 状態遷移図
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

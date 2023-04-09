@@ -1,0 +1,16 @@
+label: 20
+question: リンカの機能として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 作成したプログラムをライブラリに登録する。
+  - label: イ
+    text: 実行に先立ってロードモジュールを主記憶にロードする。
+  - label: ウ
+    text: 相互参照の解決などを行い，複数の目的モジュールなどから一つのロードモジュールを生成する。
+  - label: エ
+    text: プログラムの実行を監視し，ステップごとに実行結果を記録する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 18
+question: >-
+  仮想記憶方式のコンピュータシステムにおいて処理の多重度を増やしたところ，ページイン，ページアウトが多発して，システムの応答速度が急激に遅くなった。このような現象を何というか。
+choice:
+  - label: ア
+    text: オーバレイ
+  - label: イ
+    text: スラッシング
+  - label: ウ
+    text: メモリコンパクション
+  - label: エ
+    text: ロールアウト
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

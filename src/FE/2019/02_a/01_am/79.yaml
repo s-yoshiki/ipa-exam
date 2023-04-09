@@ -1,0 +1,16 @@
+label: 79
+question: シュリンクラップ契約において，ソフトウェアの使用許諾契約が成立するのはどの時点か。
+choice:
+  - label: ア
+    text: 購入したソフトウェアの代金を支払った時点
+  - label: イ
+    text: ソフトウェアの入ったDVD-ROMを受け取った時点
+  - label: ウ
+    text: ソフトウェアの入ったDVD-ROMの包装を解いた時点
+  - label: エ
+    text: ソフトウェアをPCにインストールした時点
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

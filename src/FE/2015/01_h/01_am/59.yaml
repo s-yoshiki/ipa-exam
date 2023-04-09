@@ -1,0 +1,16 @@
+label: 59
+question: ITに係る内部統制を評価し検証するシステム監査の対象となるものはどれか。
+choice:
+  - label: ア
+    text: 経営企画部が行っている中期経営計画の策定の経緯
+  - label: イ
+    text: 人事部が行っている従業員の人事考課の結果
+  - label: ウ
+    text: 製造部が行っている不良品削減のための生産設備の見直しの状況
+  - label: エ
+    text: 販売部が行っているデータベースの入力・更新における正確性確保の方法
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

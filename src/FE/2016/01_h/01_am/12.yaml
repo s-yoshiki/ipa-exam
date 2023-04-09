@@ -1,0 +1,17 @@
+label: 12
+question: >-
+  表示解像度が1000×800ドットで，色数が65,536色(2<sup>16</sup>色)の画像を表示するのに最低限必要なビデオメモリ容量は何Mバイトか。ここで，1Mバイト＝1,000kバイト，1kバイト＝1,000バイトとする。
+choice:
+  - label: ア
+    text: '1.6'
+  - label: イ
+    text: '3.2'
+  - label: ウ
+    text: '6.4'
+  - label: エ
+    text: '12.8'
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

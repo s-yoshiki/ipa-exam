@@ -1,0 +1,16 @@
+label: 73
+question: CGM(Consumer Generated Media)の説明はどれか。
+choice:
+  - label: ア
+    text: オークション形式による物品の売買機能を提供することによって，消費者同士の個人売買の仲介役を果たすもの
+  - label: イ
+    text: 個人商店主のオンラインショップを集め，共通ポイントの発行やクレジットカード決済を代行するもの
+  - label: ウ
+    text: 個人が制作したディジタルコンテンツの閲覧者・視聴者への配信や利用者同士の共有を可能とするもの
+  - label: エ
+    text: 自社の顧客のうち，希望者をメーリングリストに登録し，電子メールを通じて定期的に情報を配信するもの
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 11
+question: >-
+  図に示すように，データを細分化して複数台の磁気ディスクに格納することを何と呼ぶか。ここで，b<sub>0</sub>～b<sub>15</sub>はデータがビットごとにデータディスクに格納される順番を示す。
+choice:
+  - label: ア
+    text: ストライピング
+  - label: イ
+    text: ディスクキャッシュ
+  - label: ウ
+    text: ブロック化
+  - label: エ
+    text: ミラーリング
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

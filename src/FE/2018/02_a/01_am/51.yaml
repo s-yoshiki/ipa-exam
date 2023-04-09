@@ -1,0 +1,16 @@
+label: 51
+question: ソフトウェア開発プロジェクトにおいてWBS(Work Breakdown Structure)を使用する目的として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 開発の期間と費用がトレードオフの関係にある場合に，総費用の最適化を図る。
+  - label: イ
+    text: 作業の順序関係を明確にして，重点管理すべきクリティカルパスを把握する。
+  - label: ウ
+    text: 作業の日程を横棒(バー)で表して，作業の開始や終了時点，現時点の進捗を明確にする。
+  - label: エ
+    text: 作業を階層的に詳細化して，管理可能な大きさに細分化する。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

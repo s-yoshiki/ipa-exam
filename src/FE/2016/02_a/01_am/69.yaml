@@ -1,0 +1,16 @@
+label: 69
+question: CRMの目的はどれか。
+choice:
+  - label: ア
+    text: 顧客ロイヤリティの獲得と顧客生涯価値の最大化
+  - label: イ
+    text: 在庫不足による販売機会損失の削減
+  - label: ウ
+    text: 製造に必要な資材の発注量と発注時期の決定
+  - label: エ
+    text: 販売時点での商品ごとの販売情報の把握
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

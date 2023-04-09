@@ -1,0 +1,17 @@
+label: 21
+question: >-
+  出力待ちの印刷要求を，同一機種の3台のプリンタA～CのうちAから順に空いているプリンタに割り当てる(Cの次は再びAに戻る)システムがある。印刷要求の印刷時間が出力待ちの順に，5，12，4，3，10，4(分)である場合，印刷に要した時間が長い順にプリンタを並べたものはどれか。ここで，初期状態ではプリンタはすべて空いているものとする。
+choice:
+  - label: ア
+    text: A，B，C
+  - label: イ
+    text: B，A，C
+  - label: ウ
+    text: B，C，A
+  - label: エ
+    text: C，B，A
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

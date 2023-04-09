@@ -1,0 +1,18 @@
+label: 3
+question: >-
+  P，Q，Rはいずれも命題である。命題Pの真理値は真であり，命題 (not P) or Q 及び命題 (not Q) or R
+  のいずれの真理値も真であることが分かっている。Q，Rの真理値はどれか。ここで，X or Y は X と Y の論理和，not X は X の否定を表す。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

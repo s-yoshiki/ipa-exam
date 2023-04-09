@@ -1,0 +1,16 @@
+label: 75
+question: 企業が社会的責任を果たすために採るべき施策のうち，環境対策の観点で実施するものはどれか。
+choice:
+  - label: ア
+    text: 株主に対し，企業の経営状況の透明化を図る。
+  - label: イ
+    text: グリーン購入に向けて社内体制を整備する。
+  - label: ウ
+    text: 災害時における従業員のボランティア活動を支援する制度を構築する。
+  - label: エ
+    text: 社内に倫理ヘルプラインを設置する。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

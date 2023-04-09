@@ -1,0 +1,16 @@
+label: 72
+question: MRPの特徴はどれか。
+choice:
+  - label: ア
+    text: 顧客の注文を受けてから製品の生産を行う。
+  - label: イ
+    text: 作業指示票を利用して作業指示，運搬指示をする。
+  - label: ウ
+    text: 製品の開発，設計，生産準備を同時並行で行う。
+  - label: エ
+    text: 製品の基準生産計画を基に，部品の手配数量を算出する。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

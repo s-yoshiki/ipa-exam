@@ -1,0 +1,16 @@
+label: 57
+question: ITサービスマネジメントのインシデント及びサービス要求管理プロセスにおいて，インシデントに対して最初に実施する活動はどれか。
+choice:
+  - label: ア
+    text: 記録
+  - label: イ
+    text: 段階的取扱い
+  - label: ウ
+    text: 分類
+  - label: エ
+    text: 優先度の割当て
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

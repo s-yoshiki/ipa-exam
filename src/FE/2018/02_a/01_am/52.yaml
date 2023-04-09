@@ -1,0 +1,16 @@
+label: 52
+question: 図のプロジェクトの日程計画において，プロジェクトの所要日数は何日か。
+choice:
+  - label: ア
+    text: '40'
+  - label: イ
+    text: '45'
+  - label: ウ
+    text: '50'
+  - label: エ
+    text: '55'
+calculation: false
+figure: true
+answer: エ
+category: M
+figureText: ''

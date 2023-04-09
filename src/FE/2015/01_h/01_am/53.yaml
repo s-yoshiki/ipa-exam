@@ -1,0 +1,16 @@
+label: 53
+question: プロジェクトスコープマネジメントにおいて，WBS作成のプロセスで行うことはどれか。
+choice:
+  - label: ア
+    text: 作業の工数を算定して，コストを見積もる。
+  - label: イ
+    text: 作業を階層的に細分化する。
+  - label: ウ
+    text: 作業を順序付けして，スケジュールとして組み立てる。
+  - label: エ
+    text: 成果物を生成するアクティビティを定義する。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

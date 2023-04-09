@@ -1,0 +1,16 @@
+label: 8
+question: Perlの実行に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: UNIX用として開発されており，Windows用の言語処理系はない。
+  - label: イ
+    text: 実行にWebサーバを必要とする言語であり，CGIの開発に適している。
+  - label: ウ
+    text: 動的デバッグは，言語処理系から独立したプログラムを実行して行う。
+  - label: エ
+    text: プログラムをコンパイルしたファイルを事前に用意する必要はない。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

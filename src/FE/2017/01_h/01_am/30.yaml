@@ -1,0 +1,17 @@
+label: 30
+question: >-
+  本社と工場との間を専用線で接続してデータを伝送するシステムがある。このシステムでは2,000バイト／件の伝票データを2件ずつまとめ，それに400バイトのヘッダ情報を付加して送っている。伝票データは，1時間に平均100,000件発生している。回線速度を1Mビット／秒としたとき，回線利用率はおよそ何%か。
+choice:
+  - label: ア
+    text: '6.1'
+  - label: イ
+    text: '44'
+  - label: ウ
+    text: '49'
+  - label: エ
+    text: '53'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

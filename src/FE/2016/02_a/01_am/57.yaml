@@ -1,0 +1,16 @@
+label: 57
+question: ITILでは，可用性管理における重要業績評価指標(KPI)の例として，保守性を表す指標値の短縮を挙げている。この指標に該当するものはどれか。
+choice:
+  - label: ア
+    text: 一定期間内での中断の数
+  - label: イ
+    text: 平均故障間隔
+  - label: ウ
+    text: 平均サービス・インシデント間隔
+  - label: エ
+    text: 平均サービス回復時間
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

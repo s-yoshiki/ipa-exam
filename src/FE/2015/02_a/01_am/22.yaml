@@ -1,0 +1,16 @@
+label: 22
+question: 機械式接点の押しボタンスイッチを1回押したときに，押してから数ミリ秒の間，複数回のON，OFFが発生する現象はどれか。
+choice:
+  - label: ア
+    text: サンプリング
+  - label: イ
+    text: シェアリング
+  - label: ウ
+    text: チャタリング
+  - label: エ
+    text: バッファリング
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

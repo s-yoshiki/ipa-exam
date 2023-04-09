@@ -1,0 +1,18 @@
+label: 7
+question: >-
+  整数x，y(x＞y≧0)に対して，次のように定義された関数F(x，y)がある。F(231，15)の値は幾らか。ここで，x mod y
+  はxをyで割った余りである。
+choice:
+  - label: ア
+    text: '2 '
+  - label: イ
+    text: '3 '
+  - label: ウ
+    text: '5 '
+  - label: エ
+    text: '7'
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,20 @@
+label: 77
+question: >-
+  品質管理における検査特性曲線(OC曲線)は，通常，横軸にロットの不良率を，縦軸にロットの合格の確率を目盛ったものである。大きさ N のロットから，大きさ n
+  のサンプルを抜き取り，このサンプル中に見いだされた不良個数が合格判定個数 c 以下のときにはロットを合格とし，cを超えたときはロットを不合格とする。  
+
+  　N と n を一定にして c を0, 1, 2と替えたときの，OC曲線の変化の傾向を表す図はどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 76
+question: 従業員1人当たりの勤務時間を減らして社会全体の雇用維持や雇用機会増加を図るものはどれか。
+choice:
+  - label: ア
+    text: カフェテリアプラン
+  - label: イ
+    text: フリーエージェント制
+  - label: ウ
+    text: ワークシェアリング
+  - label: エ
+    text: ワークライフバランス
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

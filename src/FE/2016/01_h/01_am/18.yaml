@@ -1,0 +1,16 @@
+label: 18
+question: UNIXにおいて，あるコマンドの標準出力を，直接別のコマンドの標準入力につなげる機能はどれか。
+choice:
+  - label: ア
+    text: パイプ
+  - label: イ
+    text: バックグラウンドジョブ
+  - label: ウ
+    text: ブレース展開
+  - label: エ
+    text: リダイレクト
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

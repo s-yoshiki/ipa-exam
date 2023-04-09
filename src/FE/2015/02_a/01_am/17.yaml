@@ -1,0 +1,16 @@
+label: 17
+question: 仮想記憶管理のページ入替え方式のうち，最後に使われてからの経過時間が最も長いページを入れ替えるものはどれか。
+choice:
+  - label: ア
+    text: FlFO
+  - label: イ
+    text: LFU
+  - label: ウ
+    text: LIFO
+  - label: エ
+    text: LRU
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

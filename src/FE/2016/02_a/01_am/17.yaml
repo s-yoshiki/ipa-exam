@@ -1,0 +1,17 @@
+label: 17
+question: >-
+  仮想記憶システムにおいて主記憶の容量が十分でない場合，プログラムの多重度を増加させるとシステムのオーバヘッドが増加し，アプリケーションのプロセッサ使用率が減少する状態を表すものはどれか。
+choice:
+  - label: ア
+    text: スラッシング
+  - label: イ
+    text: フラグメンテーション
+  - label: ウ
+    text: ページング
+  - label: エ
+    text: ボトルネック
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

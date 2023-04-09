@@ -1,0 +1,16 @@
+label: 15
+question: 稼働率が最も高いシステム構成はどれか。ここで，並列に接続したシステムは，少なくともそのうちのどれか一つが稼働していればよいものとする。
+choice:
+  - label: ア
+    text: 稼働率70％の同一システムを四つ並列に接続
+  - label: イ
+    text: 稼働率80％の同一システムを三つ並列に接続
+  - label: ウ
+    text: 稼働率90％の同一システムを二つ並列に接続
+  - label: エ
+    text: 稼働率99％の単一システム
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

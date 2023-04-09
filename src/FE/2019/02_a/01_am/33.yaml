@@ -1,0 +1,17 @@
+label: 33
+question: >-
+  LANに接続されている複数のPCをインターネットに接続するシステムがあり，装置AのWAN側インタフェースには1個のグローバルIPアドレスが割り当てられている。この1個のグローバルIPアドレスを使って複数のPCがインターネットを利用するのに必要となる装置Aの機能はどれか。
+choice:
+  - label: ア
+    text: DHCP
+  - label: イ
+    text: NAPT(IPマスカレード)
+  - label: ウ
+    text: PPPoE
+  - label: エ
+    text: パケットフィルタリング
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

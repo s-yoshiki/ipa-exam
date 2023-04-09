@@ -1,0 +1,17 @@
+label: 25
+question: >-
+  音声のサンプリングを1秒間に11,000回行い，サンプリングした値をそれぞれ8ビットのデータとして記録する。このとき，512×10<sup>6</sup>バイトの容量をもつフラッシュメモリに記録できる音声の長さは，最大何分か。
+choice:
+  - label: ア
+    text: '77'
+  - label: イ
+    text: '96'
+  - label: ウ
+    text: '775'
+  - label: エ
+    text: '969'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

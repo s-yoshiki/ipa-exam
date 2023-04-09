@@ -1,0 +1,16 @@
+label: 46
+question: オブジェクト指向において，あるクラスの属性や機能がサブクラスで利用できることを何というか。
+choice:
+  - label: ア
+    text: オーバーライド
+  - label: イ
+    text: カプセル化
+  - label: ウ
+    text: 継承
+  - label: エ
+    text: 多相性
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

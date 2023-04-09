@@ -1,0 +1,16 @@
+label: 55
+question: ミッションクリティカルシステムの意味として，適切なものはどれか。
+choice:
+  - label: ア
+    text: OSなどのように，業務システムを稼働させる上で必要不可欠なシステム
+  - label: イ
+    text: システム運用条件が，性能の限界に近い状態の下で稼働するシステム
+  - label: ウ
+    text: 障害が起きると，企業活動に重大な影響を及ぼすシステム
+  - label: エ
+    text: 先行して試験導入され，成功すると本格的に導入されるシステム
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

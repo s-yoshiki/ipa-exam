@@ -1,0 +1,16 @@
+label: 32
+question: LANに接続されたPCに対して，そのIPアドレスをPCの起動時などに自動設定するために用いるプロトコルはどれか。
+choice:
+  - label: ア
+    text: DHCP
+  - label: イ
+    text: DNS
+  - label: ウ
+    text: 'FTP '
+  - label: エ
+    text: PPP
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

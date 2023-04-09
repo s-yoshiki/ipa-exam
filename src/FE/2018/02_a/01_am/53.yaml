@@ -1,0 +1,17 @@
+label: 53
+question: >-
+  表は，1人で行うプログラム開発の開始時点での計画表である。6月1日に開発を開始し，6月11日の終了時点でコーディング作業の25%が終了した。6月11日の終了時点で残っている作業量は全体の約何%か。ここで，開発は，土曜日と日曜日を除く週5日間で行うものとする。
+choice:
+  - label: ア
+    text: '30'
+  - label: イ
+    text: '47'
+  - label: ウ
+    text: '52'
+  - label: エ
+    text: '53'
+calculation: false
+figure: true
+answer: イ
+category: M
+figureText: ''

@@ -1,0 +1,27 @@
+label: 51
+question: |-
+  プロジェクトマネジメントにおいて，目的1をもつプロセスと目的2をもつプロセスとが含まれる対象群はどれか。  
+    
+  〔目的〕  
+
+  目的1
+
+  プロジェクトの目標，成果物，要求事項及び境界を明確にする。
+
+  目的2
+
+  プロジェクトの目標や成果物などの変更によって生じる，プロジェクトの機会となる影響を最大化し，脅威となる影響を最小化する。
+choice:
+  - label: ア
+    text: コミュニケーション
+  - label: イ
+    text: スコープ
+  - label: ウ
+    text: 調達
+  - label: エ
+    text: リスク
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

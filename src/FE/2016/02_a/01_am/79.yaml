@@ -1,0 +1,16 @@
+label: 79
+question: プログラム開発において，法人の発意に基づく法人名義の著作物について，著作権法で規定されているものはどれか。
+choice:
+  - label: ア
+    text: 就業規則などに特段の取決めがない限り，権利は法人に帰属する。
+  - label: イ
+    text: 担当した従業員に権利は帰属するが，法人に譲渡することができる。
+  - label: ウ
+    text: 担当した従業員に権利は帰属するが，法人はそのプログラムを使用できる。
+  - label: エ
+    text: 法人が権利を取得する場合は，担当した従業員に相当の対価を支払う必要がある。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

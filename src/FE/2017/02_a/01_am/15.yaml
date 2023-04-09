@@ -1,0 +1,16 @@
+label: 15
+question: MTBFが45時間でMTTRが5時間の装置がある。この装置を二つ直列に接続したシステムの稼働率は幾らか。
+choice:
+  - label: ア
+    text: '0.81'
+  - label: イ
+    text: '0.90'
+  - label: ウ
+    text: '0.95'
+  - label: エ
+    text: '0.99'
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

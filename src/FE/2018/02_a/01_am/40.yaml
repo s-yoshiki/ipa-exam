@@ -1,0 +1,16 @@
+label: 40
+question: 組織的なインシデント対応体制の構築や運用を支援する目的でJPCERT/CCが作成したものはどれか。
+choice:
+  - label: ア
+    text: CSIRTマテリアル
+  - label: イ
+    text: ISMSユーザーズガイド
+  - label: ウ
+    text: 証拠保全ガイドライン
+  - label: エ
+    text: 組織における内部不正防止ガイドライン
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

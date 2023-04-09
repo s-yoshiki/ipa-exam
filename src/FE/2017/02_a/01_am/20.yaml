@@ -1,0 +1,16 @@
+label: 20
+question: ページング方式の仮想記憶において，ページフォールトの発生回数を増加させる要因はどれか。
+choice:
+  - label: ア
+    text: 主記憶に存在しないページへのアクセスが増加すること
+  - label: イ
+    text: 主記憶に存在するページへのアクセスが増加すること
+  - label: ウ
+    text: 主記憶のページのうち，更新されたページの比率が高くなること
+  - label: エ
+    text: 長時間アクセスしなかった主記憶のページをアクセスすること
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

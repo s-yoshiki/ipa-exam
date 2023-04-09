@@ -1,0 +1,16 @@
+label: 63
+question: ビッグデータを企業が活用している事例はどれか。
+choice:
+  - label: ア
+    text: カスタマセンタへの問合せに対し，登録済みの顧客情報から連絡先を抽出する。
+  - label: イ
+    text: 最重要な取引先が公表している財務諸表から，売上利益率を計算する。
+  - label: ウ
+    text: 社内研修の対象者リスト作成で，人事情報から入社10年目の社員を抽出する。
+  - label: エ
+    text: 多種多様なソーシャルメディアの大量な書込みを分析し，商品の改善を行う。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

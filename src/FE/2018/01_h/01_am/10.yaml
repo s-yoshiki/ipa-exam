@@ -1,0 +1,16 @@
+label: 10
+question: 内部割込みに分類されるものはどれか。
+choice:
+  - label: ア
+    text: 商用電源の瞬時停電などの電源異常による割込み
+  - label: イ
+    text: ゼロで除算を実行したことによる割込み
+  - label: ウ
+    text: 入出力が完了したことによる割込み
+  - label: エ
+    text: メモリパリティエラーが発生したことによる割込み
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

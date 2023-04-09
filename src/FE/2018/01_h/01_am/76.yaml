@@ -1,0 +1,16 @@
+label: 76
+question: 抜取り検査において，ある不良率のロットがどれだけの確率で合格するかを知ることができるものはどれか。
+choice:
+  - label: ア
+    text: OC曲線
+  - label: イ
+    text: ゴンペルツ曲線
+  - label: ウ
+    text: バスタブ曲線
+  - label: エ
+    text: ロジスティック曲線
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

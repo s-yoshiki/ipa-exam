@@ -1,0 +1,17 @@
+label: 35
+question: >-
+  PCとWebサーバがHTTPで通信している。PCからWebサーバ宛てのパケットでは，送信元ポート番号はPC側で割り当てた50001，宛先ポート番号は80であった。WebサーバからPCへの戻りのパケットでのポート番号の組合せはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

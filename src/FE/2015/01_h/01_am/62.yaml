@@ -1,0 +1,16 @@
+label: 62
+question: 企業活動におけるBPM(Business Process Management)の目的はどれか。
+choice:
+  - label: ア
+    text: 業務プロセスの継続的な改善
+  - label: イ
+    text: 経営資源の有効活用
+  - label: ウ
+    text: 顧客情報の管理，分析
+  - label: エ
+    text: 情報資源の分析，有効活用
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

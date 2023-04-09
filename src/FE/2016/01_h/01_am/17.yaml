@@ -1,0 +1,16 @@
+label: 17
+question: 入出力管理におけるバッファの機能として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 入出力装置が利用可能になったことを，入出力装置が処理装置に伝える。
+  - label: イ
+    text: 入出力装置と処理装置との間に特別な記憶域を設け，処理速度の違いを緩和する。
+  - label: ウ
+    text: 入出力装置と処理装置との間のデータ交換に階層を設けることによって，入出力装置固有の仕様を意識せずに利用できる。
+  - label: エ
+    text: 入出力装置をファイルと同じように取り扱えるようにする。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

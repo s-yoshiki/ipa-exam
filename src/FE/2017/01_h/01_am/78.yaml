@@ -1,0 +1,17 @@
+label: 78
+question: >-
+  当期の建物の減価償却費を計算すると，何千円になるか。ここで，建物の取得価額は10,000千円，前期までの減価償却累計額は3,000千円であり，償却方法は定額法，会計期間は1年間，耐用年数は20年とし，残存価額は0円とする。
+choice:
+  - label: ア
+    text: '150'
+  - label: イ
+    text: '350'
+  - label: ウ
+    text: '500'
+  - label: エ
+    text: '650'
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

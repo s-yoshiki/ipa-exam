@@ -1,0 +1,16 @@
+label: 47
+question: オブジェクト指向におけるクラスとインスタンスとの関係のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: インスタンスはクラスの仕様を定義したものである。
+  - label: イ
+    text: クラスの定義に基づいてインスタンスが生成される。
+  - label: ウ
+    text: 一つのインスタンスに対して，複数のクラスが対応する。
+  - label: エ
+    text: 一つのクラスに対して，インスタンスはただ一つ存在する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 47
+question: オブジェクト指向分析を用いてモデリングしたとき，クラスとオブジェクトの関係になる組みはどれか。
+choice:
+  - label: ア
+    text: 公園，ぶらんこ
+  - label: イ
+    text: 公園，代々木公園
+  - label: ウ
+    text: 鉄棒，ぶらんこ
+  - label: エ
+    text: 中之島公園，代々木公園
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

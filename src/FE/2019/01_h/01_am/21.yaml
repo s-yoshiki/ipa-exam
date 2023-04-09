@@ -1,0 +1,16 @@
+label: 21
+question: メモリセルにフリップフロップ回路を利用したものはどれか。
+choice:
+  - label: ア
+    text: 'DRAM '
+  - label: イ
+    text: 'EEPROM '
+  - label: ウ
+    text: SDRAM
+  - label: エ
+    text: SRAM
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

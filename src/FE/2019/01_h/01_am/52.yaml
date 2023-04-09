@@ -1,0 +1,16 @@
+label: 52
+question: ある会場で資格試験を実施する際のアクティビティである"受付"と"試験"の依存関係のうち，プレシデンスダイアグラム法(PDM)の開始-終了関係はどれか。
+choice:
+  - label: ア
+    text: 受付の開始から30分経過したら，試験を開始する。
+  - label: イ
+    text: 受付の終了から10分経過したら，試験を開始する。
+  - label: ウ
+    text: 受付の終了から45分経過したら，試験を終了する。
+  - label: エ
+    text: 試験の開始から20分経過したら，受付を終了する。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

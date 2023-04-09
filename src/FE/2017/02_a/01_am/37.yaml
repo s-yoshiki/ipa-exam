@@ -1,0 +1,16 @@
+label: 37
+question: DNSキャッシュポイズニングに分類される攻撃内容はどれか。
+choice:
+  - label: ア
+    text: DNSサーバのソフトウェアのバージョン情報を入手して，DNSサーバのセキュリティホールを特定する。
+  - label: イ
+    text: PCが参照するDNSサーバに偽のドメイン情報を注入して，利用者を偽装されたサーバに誘導する。
+  - label: ウ
+    text: 攻撃対象のサービスを妨害するために，攻撃者がDNSサーバを踏み台に利用して再帰的な問合せを大量に行う。
+  - label: エ
+    text: 内部情報を入手するために，DNSサーバが保存するゾーン情報をまとめて転送させる。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

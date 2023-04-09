@@ -1,0 +1,16 @@
+label: 68
+question: 特定顧客，特定製品のセグメントに資源を集中し，専門化を図る戦略はどれか。
+choice:
+  - label: ア
+    text: チャレンジャ戦略
+  - label: イ
+    text: ニッチ戦略
+  - label: ウ
+    text: フォロワ戦略
+  - label: エ
+    text: リーダ戦略
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

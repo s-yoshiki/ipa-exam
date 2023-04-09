@@ -1,0 +1,16 @@
+label: 49
+question: 流れ図において，判定条件網羅(分岐網羅)を満たす最少のテストケース数は幾つか。
+choice:
+  - label: ア
+    text: '1'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '3'
+  - label: エ
+    text: '4'
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

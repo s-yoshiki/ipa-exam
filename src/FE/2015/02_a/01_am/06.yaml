@@ -1,0 +1,17 @@
+label: 6
+question: >-
+  配列Aが図2の状態のとき，図1の流れ図を実行すると，配列Bが図3の状態になった。図1のaに入れるべき操作はどれか。ここで，配列A，Bの要素をそれぞれ　A(i，j)，B(i，j)とする。
+choice:
+  - label: ア
+    text: A(i，j) → B(7－i，7－j)
+  - label: イ
+    text: A(i，j) → B(7－j，i)
+  - label: ウ
+    text: A(i，j) → B(i，7－j)
+  - label: エ
+    text: A(i，j) → B(j，7－i)
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

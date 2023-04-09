@@ -1,0 +1,17 @@
+label: 28
+question: >-
+  分散データベースシステムにおいて，一連のトランザクション処理を行う複数サイトに更新処理が確定可能かどうかを問い合わせ，すべてのサイトが確定可能である場合，更新処理を確定する方式はどれか。
+choice:
+  - label: ア
+    text: 2相コミット
+  - label: イ
+    text: 排他制御
+  - label: ウ
+    text: ロールバック
+  - label: エ
+    text: ロールフォワード
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

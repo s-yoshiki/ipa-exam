@@ -1,0 +1,16 @@
+label: 9
+question: 外部割込みの原因となるものはどれか。
+choice:
+  - label: ア
+    text: ゼロによる除算命令の実行
+  - label: イ
+    text: 存在しない命令コードの実行
+  - label: ウ
+    text: タイマによる時間経過の通知
+  - label: エ
+    text: ページフォールトの発生
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

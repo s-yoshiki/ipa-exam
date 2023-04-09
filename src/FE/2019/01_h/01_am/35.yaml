@@ -1,0 +1,16 @@
+label: 35
+question: OpenFlowを使ったSDN(Software-Defined Networking)の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: RFIDを用いるIoT(Internet of Things)技術の一つであり，物流ネットワークを最適化するためのソフトウェアアーキテクチャ
+  - label: イ
+    text: 様々なコンテンツをインターネット経由で効率よく配信するために開発された，ネットワーク上のサーバの最適配置手法
+  - label: ウ
+    text: データ転送と経路制御の機能を論理的に分離し，データ転送に特化したネットワーク機器とソフトウェアによる経路制御の組合せで実現するネットワーク技術
+  - label: エ
+    text: データフロー図やアクティビティ図などを活用し，業務プロセスの問題点を発見して改善を行うための，業務分析と可視化ソフトウェアの技術
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

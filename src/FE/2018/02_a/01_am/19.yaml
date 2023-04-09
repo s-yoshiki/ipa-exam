@@ -1,0 +1,16 @@
+label: 19
+question: 手続型言語のコンパイラが行う処理のうち，最初に行う処理はどれか。
+choice:
+  - label: ア
+    text: 意味解析
+  - label: イ
+    text: 構文解析
+  - label: ウ
+    text: 最適化
+  - label: エ
+    text: 字句解析
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

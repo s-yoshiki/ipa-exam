@@ -1,0 +1,19 @@
+label: 51
+question: |-
+  二つのアクティビティが次の関係にあるとき，論理的な依存関係はどれか。  
+    
+  "システム要件定義プロセス"が完了すれば，"システム方式設計プロセス"が開始できる。
+choice:
+  - label: ア
+    text: FF関係(Finish-to-Finish)
+  - label: イ
+    text: FS関係(Finish-to-Start)
+  - label: ウ
+    text: SF関係(Start-to-Finish)
+  - label: エ
+    text: SS関係(Start-to-Start)
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

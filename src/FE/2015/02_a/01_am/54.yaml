@@ -1,0 +1,16 @@
+label: 54
+question: プロジェクトのリスクに対応する戦略として，損害発生時のリスクに備え，損害賠償保険に加入することにした。PMBOKによれば，該当する戦略はどれか。
+choice:
+  - label: ア
+    text: 回避
+  - label: イ
+    text: 軽減
+  - label: ウ
+    text: 受容
+  - label: エ
+    text: 転嫁
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

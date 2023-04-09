@@ -1,0 +1,16 @@
+label: 66
+question: 企業経営におけるニッチ戦略はどれか。
+choice:
+  - label: ア
+    text: キャッシュフローの重視
+  - label: イ
+    text: 市場の特定化
+  - label: ウ
+    text: 垂直統合
+  - label: エ
+    text: リードタイムの短縮
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

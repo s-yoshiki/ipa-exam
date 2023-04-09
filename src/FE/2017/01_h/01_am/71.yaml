@@ -1,0 +1,16 @@
+label: 71
+question: 図は，生産管理システムの手法であるMRP(資材所要量計画)の作業手順である。図中のaに入る，正味所要量計算に必要な情報はどれか。
+choice:
+  - label: ア
+    text: 基準日程(完成時期，リードタイム日数)
+  - label: イ
+    text: 在庫状況(在庫量，注文残，仕掛量)
+  - label: ウ
+    text: 発注方針(ロット編成方法，発注方式，安全在庫)
+  - label: エ
+    text: 部品構成表(最終製品における各部品の構成と所要量)
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

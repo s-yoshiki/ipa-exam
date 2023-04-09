@@ -1,0 +1,16 @@
+label: 11
+question: 96dpiのディスプレイに12ポイントの文字をビットマップで表示したい。正方フォントの縦は何ドットになるか。ここで，1ポイントは1／72インチとする。
+choice:
+  - label: ア
+    text: '8'
+  - label: イ
+    text: '9'
+  - label: ウ
+    text: '12'
+  - label: エ
+    text: '16'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

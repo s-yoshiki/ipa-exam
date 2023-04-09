@@ -1,0 +1,16 @@
+label: 71
+question: ブロックチェーンによって実現されている仮想通貨マイニングの説明はどれか。
+choice:
+  - label: ア
+    text: 仮想通貨取引の確認や記録の計算作業に参加し，報酬として仮想通貨を得る。
+  - label: イ
+    text: 仮想通貨を売買することによってキャピタルゲインを得る。
+  - label: ウ
+    text: 個人や組織に対して，仮想通貨による送金を行う。
+  - label: エ
+    text: 実店舗などで仮想通貨を使った支払や決済を行う。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

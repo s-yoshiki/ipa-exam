@@ -1,0 +1,16 @@
+label: 46
+question: レビュー技法の一つであるインスペクションにおけるモデレータの役割はどれか。
+choice:
+  - label: ア
+    text: レビューで提起された欠陥，課題，コメントを記録する。
+  - label: イ
+    text: レビューで発見された欠陥を修正する。
+  - label: ウ
+    text: レビューの対象となる資料を，他のレビュー参加者に説明する。
+  - label: エ
+    text: レビューを主導し，参加者にそれぞれの役割を果たさせるようにする。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

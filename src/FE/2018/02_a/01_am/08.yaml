@@ -1,0 +1,16 @@
+label: 8
+question: Javaの特徴に関する説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: オブジェクト指向言語であり，複数のスーパクラスを指定する多重継承が可能である。
+  - label: イ
+    text: 整数や文字は常にクラスとして扱われる。
+  - label: ウ
+    text: ポインタ型があるので，メモリ上のアドレスを直接参照できる。
+  - label: エ
+    text: メモリ管理のためのガーベジコレクションの機能がある。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

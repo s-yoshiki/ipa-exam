@@ -1,0 +1,16 @@
+label: 39
+question: 公開鍵暗号方式を採用した電子商取引において，認証局(CA)の役割はどれか。
+choice:
+  - label: ア
+    text: 取引当事者間で共有する秘密鍵を管理する。
+  - label: イ
+    text: 取引当事者の公開鍵に対するディジタル証明書を発行する。
+  - label: ウ
+    text: 取引当事者のディジタル署名を管理する。
+  - label: エ
+    text: 取引当事者のパスワードを管理する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

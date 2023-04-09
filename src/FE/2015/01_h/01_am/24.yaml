@@ -1,0 +1,16 @@
+label: 24
+question: ビットマップフォントよりも，アウトラインフォントの利用が適しているケースはどれか。
+choice:
+  - label: ア
+    text: 英数字だけでなく，漢字も表示する。
+  - label: イ
+    text: 各文字の幅を一定にして表示する。
+  - label: ウ
+    text: 画面上にできるだけ高速に表示する。
+  - label: エ
+    text: 文字を任意の倍率で拡大して表示する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

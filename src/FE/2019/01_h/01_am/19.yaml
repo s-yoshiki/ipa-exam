@@ -1,0 +1,16 @@
+label: 19
+question: インタプリタの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 原始プログラムを，解釈しながら実行するプログラムである。
+  - label: イ
+    text: 原始プログラムを，推論しながら翻訳するプログラムである。
+  - label: ウ
+    text: 原始プログラムを，目的プログラムに翻訳するプログラムである。
+  - label: エ
+    text: 実行可能なプログラムを，主記憶装置にロードするプログラムである。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

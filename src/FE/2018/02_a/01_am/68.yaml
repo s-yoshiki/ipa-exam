@@ -1,0 +1,21 @@
+label: 68
+question: |-
+  ある製品の設定価格と需要の関係が1次式で表せるとき，aに入れる適切な数値はどれか。  
+
+  *   設定価格を3,000円にすると，需要は0個になる。
+  *   設定価格を1,000円にすると，需要は60,000個になる。
+  *   設定価格を1,500円にすると，需要はa個になる。
+choice:
+  - label: ア
+    text: 30,000
+  - label: イ
+    text: 35,000
+  - label: ウ
+    text: 40,000
+  - label: エ
+    text: 45,000
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

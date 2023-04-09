@@ -1,0 +1,16 @@
+label: 47
+question: 開発プロセスにおいて，ソフトウェア方式設計で行うべき作業はどれか。
+choice:
+  - label: ア
+    text: 顧客に意見を求めて仕様を決定する。
+  - label: イ
+    text: ソフトウェア品目に対する要件を，最上位レベルの構造を表現する方式であって，かつ，ソフトウェアコンポーネントを識別する方式に変換する。
+  - label: ウ
+    text: プログラムを，コード化した1行ごとの処理まで明確になるように詳細化する。
+  - label: エ
+    text: 要求内容を図表などの形式でまとめ，段階的に詳細化して分析する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

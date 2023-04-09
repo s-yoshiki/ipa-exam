@@ -1,0 +1,18 @@
+label: 65
+question: >-
+  IT投資案件において，5年間の投資効果をROI(Return On Investment)で評価した場合，四つの案件a～d
+  のうち，最も効果が高いものはどれか。ここで，内部収益率(IRR)は0とする。
+choice:
+  - label: ア
+    text: a
+  - label: イ
+    text: b
+  - label: ウ
+    text: c
+  - label: エ
+    text: d
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

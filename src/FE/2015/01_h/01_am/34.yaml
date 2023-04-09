@@ -1,0 +1,16 @@
+label: 34
+question: IPv6のIPアドレスは何ビットか。
+choice:
+  - label: ア
+    text: '32'
+  - label: イ
+    text: '64'
+  - label: ウ
+    text: '128'
+  - label: エ
+    text: '256'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 30
+question: 図は，DBMSが受け付けたクエリを実行するまでの処理の流れを表している。①～③に入る処理の組合せとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

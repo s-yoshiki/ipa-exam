@@ -1,0 +1,16 @@
+label: 77
+question: キャッシュフロー計算書において，営業活動によるキャッシュフローに該当するものはどれか。
+choice:
+  - label: ア
+    text: 株式の発行による収入
+  - label: イ
+    text: 商品の仕入れによる支出
+  - label: ウ
+    text: 短期借入金の返済による支出
+  - label: エ
+    text: 有形固定資産の売却による収入
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

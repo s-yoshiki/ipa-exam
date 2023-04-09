@@ -1,0 +1,16 @@
+label: 68
+question: 技術経営におけるプロダクトイノベーションの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 新たな商品や他社との差別化ができる商品を開発すること
+  - label: イ
+    text: 技術開発の成果によって事業利益を獲得すること
+  - label: ウ
+    text: 技術を核とするビジネスを戦略的にマネジメントすること
+  - label: エ
+    text: 業務プロセスにおいて革新的な改革をすること
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

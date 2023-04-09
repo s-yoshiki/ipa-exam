@@ -1,0 +1,17 @@
+label: 26
+question: >-
+  クライアントサーバシステムにおいて，利用頻度の高い命令群をあらかじめサーバ上のDBMSに格納しておくことによって，クライアントサーバ間のネットワーク負荷を軽減する仕組みはどれか。
+choice:
+  - label: ア
+    text: 2相コミットメント
+  - label: イ
+    text: グループコミットメント
+  - label: ウ
+    text: サーバプロセスのマルチスレッド化
+  - label: エ
+    text: ストアドプロシージャ
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

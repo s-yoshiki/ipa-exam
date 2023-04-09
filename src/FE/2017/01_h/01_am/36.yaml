@@ -1,0 +1,17 @@
+label: 36
+question: >-
+  攻撃者が用意したサーバXのIPアドレスが，A社WebサーバのFQDNに対応するIPアドレスとして，B社DNSキャッシュサーバに記憶された。この攻撃によって，意図せずサーバXに誘導されてしまう利用者はどれか。ここで，A社，B社の各従業員は自社のDNSキャッシュサーバを利用して名前解決を行う。
+choice:
+  - label: ア
+    text: A社WebサーバにアクセスしようとするA社従業員
+  - label: イ
+    text: A社WebサーバにアクセスしようとするB社従業員
+  - label: ウ
+    text: B社WebサーバにアクセスしようとするA社従業員
+  - label: エ
+    text: B社WebサーバにアクセスしようとするB社従業員
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

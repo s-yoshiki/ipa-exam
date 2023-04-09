@@ -1,0 +1,16 @@
+label: 21
+question: DRAMの特徴はどれか。
+choice:
+  - label: ア
+    text: 書込み及び消去を一括又はブロック単位で行う。
+  - label: イ
+    text: データを保持するためのリフレッシュ操作又はアクセス操作が不要である。
+  - label: ウ
+    text: 電源が遮断された状態でも，記憶した情報を保持することができる。
+  - label: エ
+    text: メモリセル構造が単純なので高集積化することができ，ビット単価を安くできる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

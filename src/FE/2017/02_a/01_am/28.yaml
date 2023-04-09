@@ -1,0 +1,16 @@
+label: 28
+question: UMLを用いて表した図のデータモデルの解釈のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 事業部以外の部門が，部門を管理できる。
+  - label: イ
+    text: 社員は事業部に所属できる。
+  - label: ウ
+    text: 所属する社員がいない部門が存在する。
+  - label: エ
+    text: 部門は，いずれかの事業部が管理している。
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

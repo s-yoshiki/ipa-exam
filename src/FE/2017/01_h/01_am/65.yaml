@@ -1,0 +1,16 @@
+label: 65
+question: 非機能要件の定義で行う作業はどれか。
+choice:
+  - label: ア
+    text: 業務を構成する機能間の情報(データ)の流れを明確にする。
+  - label: イ
+    text: システム開発で用いるプログラム言語に合わせた開発基準，標準の技術要件を作成する。
+  - label: ウ
+    text: システム機能として実現する範囲を定義する。
+  - label: エ
+    text: 他システムとの情報授受などのインタフェースを明確にする。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 15
+question: ページング方式の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 仮想記憶空間と実記憶空間を，固定長の領域に区切り，対応づけて管理する方式
+  - label: イ
+    text: 主記憶装置の異なった領域で実行できるように，プログラムを再配置する方式
+  - label: ウ
+    text: 主記憶装置を，同時に並行して読み書き可能な複数の領域に分ける方式
+  - label: エ
+    text: 補助記憶装置に，複数のレコードをまとめて読み書きする方式
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

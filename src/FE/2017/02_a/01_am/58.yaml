@@ -1,0 +1,16 @@
+label: 58
+question: システム運用業務のオペレーション管理に関する監査で判明した状況のうち，指摘事項として監査報告書に記載すべきものはどれか。
+choice:
+  - label: ア
+    text: 運用責任者が，オペレータの作成したオペレーション記録を確認している。
+  - label: イ
+    text: 運用責任者が，期間を定めてオペレーション記録を保管している。
+  - label: ウ
+    text: オペレータが，オペレーション中に起きた例外処理を記録している。
+  - label: エ
+    text: オペレータが，日次の運用計画を決定し，自ら承認している。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

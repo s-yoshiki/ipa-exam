@@ -1,0 +1,17 @@
+label: 20
+question: >-
+  ページング方式の仮想記憶において，ページ置換えアルゴリズムにLRU方式を採用する。主記憶に割り当てられるページ枠が4のとき，ページ1，2，3，4，5，2，1，3，2，6の順にアクセスすると，ページ6をアクセスする時点で置き換えられるページはどれか。ここで，初期状態では主記憶にどのページも存在しないものとする。
+choice:
+  - label: ア
+    text: '1'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '4'
+  - label: エ
+    text: '5'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

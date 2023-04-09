@@ -1,0 +1,16 @@
+label: 67
+question: バランススコアカードの内部ビジネスプロセスの視点における戦略目標と業績評価指標の例はどれか。
+choice:
+  - label: ア
+    text: 持続的成長が目標であるので，受注残を指標とする。
+  - label: イ
+    text: 主要顧客との継続的な関係構築が目標であるので，クレーム件数を指標とする。
+  - label: ウ
+    text: 製品開発力の向上が目標であるので，製品開発領域の研修受講時間を指標とする。
+  - label: エ
+    text: 製品の製造の生産性向上が目標であるので，製造期間短縮日数を指標とする。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

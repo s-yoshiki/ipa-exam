@@ -1,0 +1,16 @@
+label: 40
+question: 公開鍵暗号方式を用いて，図のようにAさんからBさんへ，他人に秘密にしておきたい文章を送るとき，暗号化に用いる鍵Kとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: Aさんの公開鍵
+  - label: イ
+    text: Aさんの秘密鍵
+  - label: ウ
+    text: Bさんの公開鍵
+  - label: エ
+    text: 共通の秘密鍵
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

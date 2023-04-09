@@ -1,0 +1,16 @@
+label: 66
+question: 図に示す手順で情報システムを調達するとき，bに入れるものはどれか。
+choice:
+  - label: ア
+    text: RFI
+  - label: イ
+    text: RFP
+  - label: ウ
+    text: 供給者の選定
+  - label: エ
+    text: 契約の締結
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

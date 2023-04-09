@@ -1,0 +1,16 @@
+label: 30
+question: データベースが格納されている記憶媒体に故障が発生した場合，バックアップファイルとログを用いてデータベースを回復する操作はどれか。
+choice:
+  - label: ア
+    text: 'アーカイブ '
+  - label: イ
+    text: コミット
+  - label: ウ
+    text: 'チェックポイントダンプ '
+  - label: エ
+    text: ロールフォワード
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 17
+question: デバイスドライバの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: PCに接続された周辺機器を制御するソフトウェア
+  - label: イ
+    text: アプリケーションプログラムをPCに導入するソフトウェア
+  - label: ウ
+    text: キーボードなどの操作手順を登録して，その操作を自動化するソフトウェア
+  - label: エ
+    text: 他のPCに入り込んで不利益をもたらすソフトウェア
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

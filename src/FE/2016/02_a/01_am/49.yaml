@@ -1,0 +1,17 @@
+label: 49
+question: >-
+  階層構造のモジュール群から成るソフトウェアの結合テストを，上位のモジュールから行う。この場合に使用する，下位モジュールの代替となるテスト用のモジュールはどれか。
+choice:
+  - label: ア
+    text: エミュレータ
+  - label: イ
+    text: シミュレータ
+  - label: ウ
+    text: スタブ
+  - label: エ
+    text: ドライバ
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

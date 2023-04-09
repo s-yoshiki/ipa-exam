@@ -1,0 +1,16 @@
+label: 29
+question: ビッグデータの活用例として，大量のデータから統計学的手法などを用いて新たな知識(傾向やパターン)を見つけ出すプロセスはどれか。
+choice:
+  - label: ア
+    text: データウェアハウス
+  - label: イ
+    text: データディクショナリ
+  - label: ウ
+    text: データマイニング
+  - label: エ
+    text: メタデータ
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

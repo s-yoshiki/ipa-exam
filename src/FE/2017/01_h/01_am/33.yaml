@@ -1,0 +1,16 @@
+label: 33
+question: ルータがパケットの経路決定に用いる情報として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 宛先IPアドレス
+  - label: イ
+    text: 宛先MACアドレス
+  - label: ウ
+    text: 発信元IPアドレス
+  - label: エ
+    text: 発信元MACアドレス
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

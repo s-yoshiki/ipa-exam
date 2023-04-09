@@ -1,0 +1,16 @@
+label: 36
+question: ボットネットにおいてC&Cサーバが果たす役割はどれか。
+choice:
+  - label: ア
+    text: 遠隔操作が可能なマルウェアに，情報収集及び攻撃活動を指示する。
+  - label: イ
+    text: 電子商取引事業者などに，偽のディジタル証明書の発行を命令する。
+  - label: ウ
+    text: 不正なWebコンテンツのテキスト，画像及びレイアウト情報を一元的に管理する。
+  - label: エ
+    text: 踏み台となる複数のサーバからの通信を制御し遮断する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

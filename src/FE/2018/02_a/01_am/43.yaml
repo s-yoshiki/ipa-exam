@@ -1,0 +1,16 @@
+label: 43
+question: セキュアブートの説明はどれか。
+choice:
+  - label: ア
+    text: BIOSにパスワードを設定し，PC起動時にBIOSのパスワード入力を要求することによって，OSの不正な起動を防ぐ技術
+  - label: イ
+    text: HDDにパスワードを設定し，PC起動時にHDDのパスワード入力を要求することによって，OSの不正な起動を防ぐ技術
+  - label: ウ
+    text: PCの起動時にOSやドライバのディジタル署名を検証し，許可されていないものを実行しないようにすることによって，OS起動前のマルウェアの実行を防ぐ技術
+  - label: エ
+    text: マルウェア対策ソフトをスタートアッププログラムに登録し，OS起動時に自動的にマルウェアスキャンを行うことによって，マルウェアの被害を防ぐ技術
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

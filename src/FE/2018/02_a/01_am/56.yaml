@@ -1,0 +1,17 @@
+label: 56
+question: >-
+  システム障害が発生したときにシステムを初期状態に戻して再開する方法であり，更新前コピー又は更新後コピーの前処理を伴わないシステム開始のことであって，初期プログラムロードとも呼ばれるものはどれか。
+choice:
+  - label: ア
+    text: ウォームスタート
+  - label: イ
+    text: コールドスタート
+  - label: ウ
+    text: ロ－ルバック
+  - label: エ
+    text: ロールフォワード
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

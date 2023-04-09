@@ -1,0 +1,16 @@
+label: 52
+question: あるプロジェクトの日程計画をアローダイアグラムで示す。クリティカルパスはどれか。
+choice:
+  - label: ア
+    text: A，C，E，F
+  - label: イ
+    text: A，D，G
+  - label: ウ
+    text: B，E，F
+  - label: エ
+    text: B，E，G
+calculation: false
+figure: true
+answer: ウ
+category: M
+figureText: ''

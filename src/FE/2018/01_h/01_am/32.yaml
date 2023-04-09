@@ -1,0 +1,21 @@
+label: 32
+question: >-
+  次のネットワークアドレスとサブネットマスクをもつネットワークがある。このネットワークをあるPCが利用する場合，そのPCに**割り振ってはいけない**IPアドレスはどれか。  
+    
+  　ネットワークアドレス: 200.170.70.16  
+
+  　サブネットマスク　　: 255.255.255.240
+choice:
+  - label: ア
+    text: 200.170.70.17
+  - label: イ
+    text: 200.170.70.20
+  - label: ウ
+    text: 200.170.70.30
+  - label: エ
+    text: 200.170.70.31
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

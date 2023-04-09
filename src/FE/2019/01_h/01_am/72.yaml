@@ -1,0 +1,16 @@
+label: 72
+question: CGM(Consumer Generated Media)の例はどれか。
+choice:
+  - label: ア
+    text: 企業が，経営状況や財務状況，業績動向に関する情報を，個人投資家向けに公開する自社のWebサイト
+  - label: イ
+    text: 企業が，自社の商品の特徴や使用方法に関する情報を，一般消費者向けに発信する自社のWebサイト
+  - label: ウ
+    text: 行政機関が，政策，行政サービスに関する情報を，一般市民向けに公開する自組織のWebサイト
+  - label: エ
+    text: 個人が，自らが使用した商品などの評価に関する情報を，不特定多数に向けて発信するブログやSNSなどのWebサイト
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

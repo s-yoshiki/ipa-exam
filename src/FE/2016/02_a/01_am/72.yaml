@@ -1,0 +1,17 @@
+label: 72
+question: >-
+  図は，製品Aの構成部品を示し，括弧内の数字は上位の製品・部品1個当たりの所要数量である。この製品Aを10個生産する場合，部品Cの発注数量は何個になるか。ここで，現在の部品Cの在庫は5個である。
+choice:
+  - label: ア
+    text: '15'
+  - label: イ
+    text: '20'
+  - label: ウ
+    text: '25'
+  - label: エ
+    text: '30'
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

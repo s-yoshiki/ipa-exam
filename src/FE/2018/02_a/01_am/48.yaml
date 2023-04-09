@@ -1,0 +1,16 @@
+label: 48
+question: モジュール間の情報の受渡しがパラメタだけで行われる，結合度が最も弱いモジュール結合はどれか。
+choice:
+  - label: ア
+    text: 共通結合
+  - label: イ
+    text: 制御結合
+  - label: ウ
+    text: データ結合
+  - label: エ
+    text: 内容結合
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

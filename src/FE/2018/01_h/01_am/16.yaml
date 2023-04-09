@@ -1,0 +1,17 @@
+label: 16
+question: >-
+  三つのタスクA～Cの優先度と，各タスクを単独で実行した場合のCPUと入出力装置(I/O)の動作順序と処理時間は，表のとおりである。A～Cが同時に実行可能状態になって3ミリ秒経過後から7ミリ秒間のスケジューリング状況を表したものはどれか。ここで，I/Oは競合せず，OSのオーバヘッドは考慮しないものとする。また，表の()の数字は処理時間を表すものとし，解答群の中の"待ち"はタスクが実行可能状態にあり，CPUの割当て待ちであることを意味する。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

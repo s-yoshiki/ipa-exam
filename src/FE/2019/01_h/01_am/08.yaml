@@ -1,0 +1,16 @@
+label: 8
+question: 複数のプロセスから同時に呼び出されたときに，互いに干渉することなく並行して動作することができるプログラムの性質を表すものはどれか。
+choice:
+  - label: ア
+    text: リエントラント
+  - label: イ
+    text: リカーシブ
+  - label: ウ
+    text: リユーザブル
+  - label: エ
+    text: リロケータブル
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

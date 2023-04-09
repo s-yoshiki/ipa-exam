@@ -1,0 +1,16 @@
+label: 73
+question: インターネット上で，一般消費者が買いたい品物とその購入条件を提示し，単数又は複数の売り手がそれに応じる取引形態はどれか。
+choice:
+  - label: ア
+    text: B to B
+  - label: イ
+    text: G to C
+  - label: ウ
+    text: 逆オークション
+  - label: エ
+    text: バーチャルモール
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

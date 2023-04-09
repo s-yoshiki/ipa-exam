@@ -1,0 +1,16 @@
+label: 25
+question: DBMSにおいて，スキーマを決める機能はどれか。
+choice:
+  - label: ア
+    text: 機密保護機能
+  - label: イ
+    text: 障害回復機能
+  - label: ウ
+    text: 定義機能
+  - label: エ
+    text: 保全機能
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

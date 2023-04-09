@@ -1,0 +1,16 @@
+label: 2
+question: 0以外の数値を浮動小数点表示で表現する場合，仮数部の最上位桁が0以外になるように，桁合わせする操作はどれか。ここで，仮数部の表現方法は，絶対値表現とする。
+choice:
+  - label: ア
+    text: 切上げ
+  - label: イ
+    text: 切捨て
+  - label: ウ
+    text: 桁上げ
+  - label: エ
+    text: 正規化
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

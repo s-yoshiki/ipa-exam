@@ -1,0 +1,16 @@
+label: 45
+question: 2要素認証に該当するものはどれか。
+choice:
+  - label: ア
+    text: 2本の指の指紋で認証する。
+  - label: イ
+    text: 虹彩とパスワードで認証する。
+  - label: ウ
+    text: 異なる2種類の特殊文字を混ぜたパスワードで認証する。
+  - label: エ
+    text: 異なる2つのパスワードで認証する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

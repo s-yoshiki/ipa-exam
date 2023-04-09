@@ -1,0 +1,16 @@
+label: 64
+question: UMLをビジネスモデリングに用いる場合，ビジネスプロセスの実行順序や条件による分岐などのワークフローを表すことができる図はどれか。
+choice:
+  - label: ア
+    text: アクティビティ図
+  - label: イ
+    text: オブジェクト図
+  - label: ウ
+    text: クラス図
+  - label: エ
+    text: コンポーネント図
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

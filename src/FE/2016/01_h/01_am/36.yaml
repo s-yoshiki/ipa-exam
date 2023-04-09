@@ -1,0 +1,16 @@
+label: 36
+question: 検索サイトの検索結果の上位に悪意のあるサイトが並ぶように細工する攻撃の名称はどれか。
+choice:
+  - label: ア
+    text: DNSキャッシュポイズニング
+  - label: イ
+    text: SEOポイズニング
+  - label: ウ
+    text: クロスサイトスクリプティング
+  - label: エ
+    text: ソーシャルエンジニアリング
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,28 @@
+label: 3
+question: >-
+  関数ƒ(x)は，引数も戻り値も実数型である。この関数を使った，①～⑤から成る手続を考える。手続の実行を開始してから②～⑤を十分に繰り返した後に，③で表示されるyの値に変化がなくなった。このとき成立する関係式はどれか。
+
+
+  1.  x←a
+
+  2.  y←ƒ(x)
+
+  3.  yの値を表示する。
+
+  4.  x←y
+
+  5.  ②に戻る。
+choice:
+  - label: ア
+    text: ƒ(a)＝y
+  - label: イ
+    text: ƒ(y)＝0
+  - label: ウ
+    text: ƒ(y)＝a
+  - label: エ
+    text: 'ƒ(y)＝y '
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

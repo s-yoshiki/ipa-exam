@@ -1,0 +1,17 @@
+label: 16
+question: >-
+  2台の処理装置から成るシステムがある。少なくともいずれか一方が正常に動作すればよいときの稼働率と，2台とも正常に動作しなければならないときの稼働率の差は幾らか。ここで，処理装置の稼働率はいずれも0.9とし，処理装置以外の要因は考慮しないものとする。
+choice:
+  - label: ア
+    text: '0.09'
+  - label: イ
+    text: '0.10'
+  - label: ウ
+    text: '0.18'
+  - label: エ
+    text: '0.19'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 67
+question: SWOT分析を用いて識別した，自社製品に関する外部要因はどれか。
+choice:
+  - label: ア
+    text: 営業力における強み
+  - label: イ
+    text: 機能面における強み
+  - label: ウ
+    text: 新規参入による脅威
+  - label: エ
+    text: 品質における弱み
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

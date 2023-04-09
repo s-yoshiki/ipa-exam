@@ -1,0 +1,16 @@
+label: 28
+question: 次の埋込みSQLを用いたプログラムの一部において，Xは何を表す名前か。
+choice:
+  - label: ア
+    text: カーソル
+  - label: イ
+    text: スキーマ
+  - label: ウ
+    text: テーブル
+  - label: エ
+    text: ビュー
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

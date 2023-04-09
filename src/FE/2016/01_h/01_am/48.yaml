@@ -1,0 +1,16 @@
+label: 48
+question: システム結合テストにおける状態遷移テストに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: イベントの発生によって内部状態が変化しない計算処理システムのテストに適した手法
+  - label: イ
+    text: システムの内部状態に着目しないブラックボックステスト用の手法
+  - label: ウ
+    text: 設計されたイベントと内部状態の組合せどおりにシステムが動作することを確認する手法
+  - label: エ
+    text: データフロー図，決定表を使用してシステムの内部状態を解析する手法
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 80
+question: 請負契約を締結していても，労働者派遣とみなされる受託者の行為はどれか。
+choice:
+  - label: ア
+    text: 休暇取得の承認を発注者側の指示に従って行う。
+  - label: イ
+    text: 業務の遂行に関する指導や評価を自ら実施する。
+  - label: ウ
+    text: 勤務に関する規律や職場秩序の保持を実施する。
+  - label: エ
+    text: 発注者の業務上の要請を受託者側の責任者が窓口となって受け付ける。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

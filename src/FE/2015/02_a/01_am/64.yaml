@@ -1,0 +1,16 @@
+label: 64
+question: 企業が保有する顧客や市場などの膨大なデータから，有用な情報や関係を見つけ出す手法はどれか。
+choice:
+  - label: ア
+    text: データウェアハウス
+  - label: イ
+    text: データディクショナリ
+  - label: ウ
+    text: データフローダイアグラム
+  - label: エ
+    text: データマイニング
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 71
+question: IoTの構成要素に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: アナログ式の機器を除く，ディジタル式の機器が対象となる。
+  - label: イ
+    text: インターネット又は閉域網に接続できる全てのものが対象となる。
+  - label: ウ
+    text: 自律的にデータを収集してデータ分析を行う機器だけが対象となる。
+  - label: エ
+    text: 人や生物を除く，形のある全てのものが対象となる。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

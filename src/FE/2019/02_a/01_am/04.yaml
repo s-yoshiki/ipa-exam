@@ -1,0 +1,16 @@
+label: 4
+question: a及びbを定数とする関数 ƒ(t)＝at＋1 及び g(t)＝bt<sup>2</sup>－t に対して， はどれか。ここで，a≠0，b≠0，t＞1とする。
+choice:
+  - label: ア
+    text: '0'
+  - label: イ
+    text: '1'
+  - label: ウ
+    text: ba
+  - label: エ
+    text: ∞
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

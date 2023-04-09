@@ -1,0 +1,16 @@
+label: 55
+question: ITサービスマネジメントにおける問題管理で実施する活動のうち，事前予防的な活動はどれか。
+choice:
+  - label: ア
+    text: インシデントの発生傾向を分析して，将来のインシデントを予防する方策を提案する。
+  - label: イ
+    text: 検出して記録した問題を分類して，対応の優先度を設定する。
+  - label: ウ
+    text: 重大な問題に対する解決策の有効性を評価する。
+  - label: エ
+    text: 問題解決後の一定期間，インシデントの再発の有無を監視する。
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

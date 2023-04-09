@@ -1,0 +1,23 @@
+label: 3
+question: |-
+  UNIXにおける正規表現 \[A－Z\]＋\[0－9\]＊ が表現する文字列の集合の要素となるものはどれか。ここで，正規表現は次の規則に従う。  
+    
+
+  *   \[A－Z\]は，英字1文字を表す。
+  *   \[0－9\]は，数字1文字を表す。
+  *   ＊は，直前の正規表現の0回以上の繰返しを表す。
+  *   ＋は，直前の正規表現の1回以上の繰返しを表す。
+choice:
+  - label: ア
+    text: '456789'
+  - label: イ
+    text: ABC＋99
+  - label: ウ
+    text: ABC99＊
+  - label: エ
+    text: ABCDEF
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

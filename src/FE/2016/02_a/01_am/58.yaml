@@ -1,0 +1,17 @@
+label: 58
+question: >-
+  "システム管理基準"に基づいて，システムの信頼性，安全性，効率性を監査する際に，システムが不正な使用から保護されているかどうかという安全性の検証項目として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: アクセス管理機能の検証
+  - label: イ
+    text: フェールソフト機能の検証
+  - label: ウ
+    text: フォールトトレラント機能の検証
+  - label: エ
+    text: リカバリ機能の検証
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

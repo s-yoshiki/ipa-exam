@@ -1,0 +1,16 @@
+label: 58
+question: システム監査人の行為のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 調査が不十分な事項について，過去の経験に基づいて監査意見をまとめた。
+  - label: イ
+    text: 調査によって発見した問題点について，改善指摘を行った。
+  - label: ウ
+    text: 調査の過程で発見した問題点について，その都度，改善を命令した。
+  - label: エ
+    text: 調査の途中で当初計画していた期限がきたので，監査報告書の作成に移った。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

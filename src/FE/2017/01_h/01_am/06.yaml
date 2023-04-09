@@ -1,0 +1,16 @@
+label: 6
+question: 関数 ƒ(x，y)が次のように定義されているとき，ƒ(775，527)の値は幾らか。ここで，x mod yはxをyで割った余りを返す。
+choice:
+  - label: ア
+    text: '0'
+  - label: イ
+    text: '31'
+  - label: ウ
+    text: '248'
+  - label: エ
+    text: '527'
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

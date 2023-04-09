@@ -1,0 +1,17 @@
+label: 74
+question: >-
+  インターネット広告などで見られるアフィリエイトプログラムのモデル例の⑤に当てはまるものはどれか。ここで，①～⑤はこのモデルでの業務順序を示し，①，②，④，⑤はア～エのいずれかに対応する。
+choice:
+  - label: ア
+    text: Webサイト上の掲載広告をクリックする。
+  - label: イ
+    text: アフィリエイトプログラムに同意し参加する。
+  - label: ウ
+    text: 希望する商品を購入する。
+  - label: エ
+    text: 商品の売上に応じた成功報酬を支払う。
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

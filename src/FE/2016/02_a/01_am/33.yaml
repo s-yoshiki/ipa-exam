@@ -1,0 +1,17 @@
+label: 33
+question: >-
+  2台のPCにIPv4アドレスを割り振りたい。サブネットマスクが255.255.255.240のとき，両PCのIPv4アドレスが同一ネットワークに所属する組合せはどれか。
+choice:
+  - label: ア
+    text: 192.168.1.14と192.168.1.17
+  - label: イ
+    text: 192.168.1.17と192.168.1.29
+  - label: ウ
+    text: 192.168.1.29と192.168.1.33
+  - label: エ
+    text: 192.168.1.33と192.168.1.49
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

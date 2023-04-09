@@ -1,0 +1,16 @@
+label: 21
+question: 変形を感知するセンサを用いると，高架道路などの状態を監視してメンテナンスすることが可能である。この目的で使用されているセンサはどれか。
+choice:
+  - label: ア
+    text: サーミスタ
+  - label: イ
+    text: ジャイロ
+  - label: ウ
+    text: ひずみゲージ
+  - label: エ
+    text: ホール素子
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

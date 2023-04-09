@@ -1,0 +1,16 @@
+label: 51
+question: XP(Extreme Programming)において，実践することが提唱されているものはどれか。
+choice:
+  - label: ア
+    text: 構造化設計
+  - label: イ
+    text: テストツールの活用
+  - label: ウ
+    text: ペアプログラミング
+  - label: エ
+    text: ユースケースの活用
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

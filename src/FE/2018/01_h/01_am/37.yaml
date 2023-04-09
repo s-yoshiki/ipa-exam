@@ -1,0 +1,16 @@
+label: 37
+question: 攻撃者がシステムに侵入するときにポートスキャンを行う目的はどれか。
+choice:
+  - label: ア
+    text: 後処理の段階において，システムログに攻撃の痕跡が残っていないかどうかを調査する。
+  - label: イ
+    text: 権限取得の段階において，権限を奪取できそうなアカウントがあるかどうかを調査する。
+  - label: ウ
+    text: 事前調査の段階において，攻撃できそうなサービスがあるかどうかを調査する。
+  - label: エ
+    text: 不正実行の段階において，攻撃者にとって有益な利用者情報があるかどうかを調査する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

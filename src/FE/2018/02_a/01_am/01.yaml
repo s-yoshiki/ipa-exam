@@ -1,0 +1,16 @@
+label: 1
+question: 16進数の小数0.248を10進数の分数で表したものはどれか。
+choice:
+  - label: ア
+    text: '3132'
+  - label: イ
+    text: '31125'
+  - label: ウ
+    text: '31512'
+  - label: エ
+    text: '73512'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

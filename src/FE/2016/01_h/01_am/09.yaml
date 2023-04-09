@@ -1,0 +1,16 @@
+label: 9
+question: PCのクロック周波数に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: CPUのクロック周波数と，主記憶を接続するシステムバスのクロック周波数は同一でなくてもよい。
+  - label: イ
+    text: CPUのクロック周波数の逆数が，1秒間に実行できる命令数を表す。
+  - label: ウ
+    text: CPUのクロック周波数を2倍にすると，システム全体としての実行性能も2倍になる。
+  - label: エ
+    text: 使用しているCPUの種類とクロック周波数が等しければ，2種類のPCのプログラム実行性能は同等になる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

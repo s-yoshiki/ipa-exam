@@ -1,0 +1,16 @@
+label: 48
+question: モジュール結合度が最も弱くなるものはどれか。
+choice:
+  - label: ア
+    text: 一つのモジュールで，できるだけ多くの機能を実現する。
+  - label: イ
+    text: 二つのモジュール間で必要なデータ項目だけを引数として渡す。
+  - label: ウ
+    text: 他のモジュールとデータ項目を共有するためにグローバルな領域を使用する。
+  - label: エ
+    text: 他のモジュールを呼び出すときに，呼び出したモジュールの論理を制御するための引数を渡す。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

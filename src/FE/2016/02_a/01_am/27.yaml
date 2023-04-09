@@ -1,0 +1,16 @@
+label: 27
+question: 6行だけから成る"配送"表において成立している関数従属はどれか。ここで，X→Yは，XはYを関数的に決定することを表す。
+choice:
+  - label: ア
+    text: 配送先→部品ID
+  - label: イ
+    text: 配送日→部品ID
+  - label: ウ
+    text: 部署ID→部品ID
+  - label: エ
+    text: 部署名→配送先
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

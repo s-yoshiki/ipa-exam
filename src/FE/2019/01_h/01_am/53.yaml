@@ -1,0 +1,16 @@
+label: 53
+question: アローダイアグラムの日程計画をもつプロジェクトの，開始から終了までの最少所要日数は何日か。
+choice:
+  - label: ア
+    text: '9'
+  - label: イ
+    text: '10'
+  - label: ウ
+    text: '11'
+  - label: エ
+    text: '12'
+calculation: false
+figure: true
+answer: エ
+category: M
+figureText: ''

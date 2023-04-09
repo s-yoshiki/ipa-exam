@@ -1,0 +1,19 @@
+label: 78
+question: >-
+  図は，定量発注方式の在庫モデルを表している。発注 a の直後に資材使用量の予測が変わって，納品 a
+  の直前の時点における在庫量予測が安全在庫量Sから①で示される X になるとき，発注 a 時点での発注量 E
+  に対する適切な変更はどれか。ここで，発注直後の発注量の変更は可能であり，納品直後の在庫量は最大在庫量を超えないものとする。
+choice:
+  - label: ア
+    text: E＋S－Xを追加発注する。
+  - label: イ
+    text: K＋S－Xを追加発注する。
+  - label: ウ
+    text: K－Xの発注取消を行う。
+  - label: エ
+    text: X－Sの発注取消を行う。
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

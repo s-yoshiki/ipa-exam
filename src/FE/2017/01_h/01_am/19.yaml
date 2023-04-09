@@ -1,0 +1,21 @@
+label: 19
+question: >-
+  仮想記憶方式のコンピュータにおいて，実記憶に割り当てられるページ数は3とし，追い出すページを選ぶアルゴリズムは，FIFOとLRUの二つ考える。あるタスクのページアクセス順序が  
+
+  　　1, 3, 2, 1, 4, 5, 2, 3, 4, 5  
+
+  のとき，ページを置き換える回数の組合せとして適切なものはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 58
+question: システムの費用を表すTCO(総所有費用)の意味として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 業務システムの開発に関わる費用の総額
+  - label: イ
+    text: システム導入から運用及び維持・管理までを含めた費用の総額
+  - label: ウ
+    text: システム導入時の費用の総額
+  - label: エ
+    text: 通信・ネットワークに関わるシステムの運用費用の総額
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 6
+question: 整列されたn個のデータの中から，求める要素を2分探索法で探索する。この処理の計算量のオーダを表す式はどれか。
+choice:
+  - label: ア
+    text: log n
+  - label: イ
+    text: 'n'
+  - label: ウ
+    text: n2
+  - label: エ
+    text: n log n
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

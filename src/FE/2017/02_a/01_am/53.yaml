@@ -1,0 +1,16 @@
+label: 53
+question: 図に示すプロジェクト活動のクリティカルパスはどれか。
+choice:
+  - label: ア
+    text: A→B→E→I→L
+  - label: イ
+    text: A→C→D→E→H→K
+  - label: ウ
+    text: A→C→F→I→L
+  - label: エ
+    text: A→C→G→J→L
+calculation: false
+figure: true
+answer: エ
+category: M
+figureText: ''

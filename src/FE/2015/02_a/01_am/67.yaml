@@ -1,0 +1,17 @@
+label: 67
+question: >-
+  コトラーの競争戦略によると，業界でのシェアは高くないが，特定の製品・サービスに経営資源を集中することによって，収益を高め，独自の地位を獲得することを戦略目標とする企業はどれか。
+choice:
+  - label: ア
+    text: マーケットチャレンジャ
+  - label: イ
+    text: マーケットニッチャ
+  - label: ウ
+    text: マーケットフォロワ
+  - label: エ
+    text: マーケットリーダ
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

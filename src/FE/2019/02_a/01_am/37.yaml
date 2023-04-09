@@ -1,0 +1,16 @@
+label: 37
+question: WPA3はどれか。
+choice:
+  - label: ア
+    text: HTTP通信の暗号化規格
+  - label: イ
+    text: TCP/IP通信の暗号化規格
+  - label: ウ
+    text: Webサーバで使用するディジタル証明書の規格
+  - label: エ
+    text: 無線LANのセキュリティ規格
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

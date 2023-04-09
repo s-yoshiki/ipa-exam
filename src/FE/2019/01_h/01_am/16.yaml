@@ -1,0 +1,16 @@
+label: 16
+question: タスクのディスパッチの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 各タスクの実行順序を決定すること
+  - label: イ
+    text: 実行可能なタスクに対してプロセッサの使用権を割り当てること
+  - label: ウ
+    text: タスクの実行に必要な情報であるコンテキストのこと
+  - label: エ
+    text: 一つのプロセッサで複数のタスクを同時に実行しているかのように見せかけた状態のこと
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

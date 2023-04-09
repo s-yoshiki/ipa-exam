@@ -1,0 +1,16 @@
+label: 15
+question: RAIDの分類において，ミラーリングを用いることで信頼性を高め，障害発生時には冗長ディスクを用いてデータ復元を行う方式はどれか。
+choice:
+  - label: ア
+    text: RAID1
+  - label: イ
+    text: RAID2
+  - label: ウ
+    text: RAID3
+  - label: エ
+    text: RAID4
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

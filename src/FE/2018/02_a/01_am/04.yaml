@@ -1,0 +1,17 @@
+label: 4
+question: >-
+  出現頻度の異なるA，B，C，D，Eの5文字で構成される通信データを，ハフマン符号化を使って圧縮するために，符号表を作成した。aに入る符号として，適切なものはどれか。
+choice:
+  - label: ア
+    text: '001'
+  - label: イ
+    text: '010'
+  - label: ウ
+    text: '101'
+  - label: エ
+    text: '110'
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

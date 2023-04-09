@@ -1,0 +1,17 @@
+label: 71
+question: >-
+  工場の機器メンテナンス業務においてIoTを活用した場合の基本要素とデバイス・サービスの例を整理した。ア～エがa～dのいずれかに該当するとき，aに該当するものはどれか。
+choice:
+  - label: ア
+    text: 異常値判定ツール
+  - label: イ
+    text: 機器の温度センサ
+  - label: ウ
+    text: 工場内無線通信
+  - label: エ
+    text: 作業指示用ディスプレイ
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 19
+question: ソフトウェアの統合開発環境として提供されているOSSはどれか。
+choice:
+  - label: ア
+    text: Apache Tomcat
+  - label: イ
+    text: Eclipse
+  - label: ウ
+    text: GCC
+  - label: エ
+    text: Linux
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

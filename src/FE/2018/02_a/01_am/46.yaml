@@ -1,0 +1,16 @@
+label: 46
+question: UML2.0のシーケンス図とコミュニケーション図のどちらにも表現されるものはどれか。
+choice:
+  - label: ア
+    text: イベントとオブジェクトの状態
+  - label: イ
+    text: オブジェクトがある状態にとどまる最短時間及び最長時間
+  - label: ウ
+    text: オブジェクトがメッセージを処理している期間
+  - label: エ
+    text: オブジェクト間で送受信されるメッセージ
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

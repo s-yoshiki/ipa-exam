@@ -1,0 +1,16 @@
+label: 44
+question: 別のサービスやシステムから流出したアカウント認証情報を用いて，アカウント認証情報を使い回している利用者のアカウントを乗っ取る攻撃はどれか。
+choice:
+  - label: ア
+    text: パスワードリスト攻撃
+  - label: イ
+    text: ブルートフォース攻撃
+  - label: ウ
+    text: リバースブルートフォース攻撃
+  - label: エ
+    text: レインボー攻撃
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

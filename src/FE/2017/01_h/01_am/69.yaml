@@ -1,0 +1,16 @@
+label: 69
+question: アンゾフが提唱した成長マトリクスにおいて，既存市場に対して既存製品で事業拡大する場合の戦略はどれか。
+choice:
+  - label: ア
+    text: 市場開発
+  - label: イ
+    text: 市場浸透
+  - label: ウ
+    text: 製品開発
+  - label: エ
+    text: 多角化
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

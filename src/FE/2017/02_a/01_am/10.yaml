@@ -1,0 +1,16 @@
+label: 10
+question: 外部割込みに分類されるものはどれか。
+choice:
+  - label: ア
+    text: インターバルタイマによって，指定時間経過時に生じる割込み
+  - label: イ
+    text: 演算結果のオーバフローやゼロによる除算で生じる割込み
+  - label: ウ
+    text: 仮想記憶管理において，存在しないページへのアクセスによって生じる割込み
+  - label: エ
+    text: ソフトウェア割込み命令の実行によって生じる割込み
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

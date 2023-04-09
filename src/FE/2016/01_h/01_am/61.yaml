@@ -1,0 +1,16 @@
+label: 61
+question: ソフトウェアのパッチの適用において，システムに不具合が発生するリスクを低滅するコントロールを監査する際のチェックポイントはどれか。
+choice:
+  - label: ア
+    text: キャパシティプランニングの手続を定めていること
+  - label: イ
+    text: データベース管理者が任命され，マスタデータの管理手続を定めていること
+  - label: ウ
+    text: ハードウェア管理台帳を作成し，システム管理者が管理していること
+  - label: エ
+    text: 本稼働前にシステムの動作確認を十分に実施していること
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

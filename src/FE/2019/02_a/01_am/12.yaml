@@ -1,0 +1,17 @@
+label: 12
+question: >-
+  1GHzのクロックで動作するCPUがある。このCPUは，機械語の1命令を平均0.8クロックで実行できることが分かっている。このCPUは1秒間に平均何万命令を実行できるか。
+choice:
+  - label: ア
+    text: '125'
+  - label: イ
+    text: '250'
+  - label: ウ
+    text: 80,000
+  - label: エ
+    text: 125,000
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 2
+question: >-
+  送信側では，ビット列をある生成多項式で割った余りをそのビット列に付加して送信し，受信側では，受信したビット列が同じ生成多項式で割り切れるか否かで誤りの発生を判断する誤り検査方式はどれか。
+choice:
+  - label: ア
+    text: CRC方式
+  - label: イ
+    text: 垂直パリティチェック方式
+  - label: ウ
+    text: 水平パリティチェック方式
+  - label: エ
+    text: ハミング符号方式
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

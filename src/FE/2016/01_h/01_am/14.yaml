@@ -1,0 +1,17 @@
+label: 14
+question: >-
+  図のように，1台のサーバ，3台のクライアント及び2台のプリンタがLANで接続されている。このシステムはクライアントからの指示に基づいて，サーバにあるデータをプリンタに出力する。各装置の稼働率が表のとおりであるとき，このシステムの稼働率を表す計算式はどれか。ここで，クライアントは3台のうち1台でも稼働していればよく，プリンタは2台のうちどちらかが稼働していればよい。
+choice:
+  - label: ア
+    text: ab3c2
+  - label: イ
+    text: a(1－b3)(1－c2)
+  - label: ウ
+    text: a(1－b)3(1－c)2
+  - label: エ
+    text: a(1－(1－b)3)(1－(1－c)2)
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

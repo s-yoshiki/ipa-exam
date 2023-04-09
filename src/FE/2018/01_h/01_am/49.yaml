@@ -1,0 +1,22 @@
+label: 49
+question: >-
+  プログラムの流れ図で示される部分に関するテストデータを，判定条件網羅(decision
+  coverage)によって設定した。このテストデータを複数条件網羅(multiple condition
+  coverage)による設定に変更したとき，加えるべきテストデータのうち，適切なものはどれか。ここで，(
+  )で囲んだ部分は，一組みのテストデータを表すものとする。・判定条件網羅によるテストデータ  
+
+  　　(A＝4，B＝1)，(A＝5，B＝0)
+choice:
+  - label: ア
+    text: (A＝3，B＝0)，(A＝7，B＝2)
+  - label: イ
+    text: (A＝3，B＝2)，(A＝8，B＝0)
+  - label: ウ
+    text: (A＝4，B＝0)，(A＝8，B＝0)
+  - label: エ
+    text: (A＝7，B＝0)，(A＝8，B＝2)
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

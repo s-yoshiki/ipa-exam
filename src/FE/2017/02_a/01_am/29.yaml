@@ -1,0 +1,16 @@
+label: 29
+question: RDBMSの機能によって実現されるトランザクションの性質はどれか。
+choice:
+  - label: ア
+    text: ACID特性
+  - label: イ
+    text: 関数従属性
+  - label: ウ
+    text: 候補キーの一意性
+  - label: エ
+    text: データ独立性
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

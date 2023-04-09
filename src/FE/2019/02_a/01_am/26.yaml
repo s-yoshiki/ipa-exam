@@ -1,0 +1,27 @@
+label: 26
+question: >-
+  "得点"表から，学生ごとに全科目の点数の平均を算出し，平均が80点以上の学生の学生番号とその平均点を求める。aに入れる適切な字句はどれか。ここで，実線の下線は主キーを表す。  
+    
+  　得点（<u>学生番号</u>，<u>科目</u>，点数）  
+    
+  〔SQL文〕  
+
+  SELECT 学生番号，AVG(点数)  
+
+  FROM 得点  
+
+  GROUP BY a
+choice:
+  - label: ア
+    text: 科目 HAVING AVG(点数) >= 80
+  - label: イ
+    text: 科目 WHERE 点数 >= 80
+  - label: ウ
+    text: 学生番号 HAVING AVG(点数) >= 80
+  - label: エ
+    text: 学生番号 WHERE 点数 >= 80
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

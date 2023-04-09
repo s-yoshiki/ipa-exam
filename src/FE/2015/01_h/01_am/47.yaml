@@ -1,0 +1,16 @@
+label: 47
+question: E-R図の説明はどれか。
+choice:
+  - label: ア
+    text: オブジェクト指向モデルを表現する図である。
+  - label: イ
+    text: 時間や行動などに応じて，状態が変化する状況を表現する図である。
+  - label: ウ
+    text: 対象とする世界を実体と関連の二つの概念で表現する図である。
+  - label: エ
+    text: データの流れを視覚的に分かりやすく表現する図である。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

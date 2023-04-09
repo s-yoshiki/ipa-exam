@@ -1,0 +1,16 @@
+label: 37
+question: キーロガーの悪用例はどれか。
+choice:
+  - label: ア
+    text: 通信を行う2者間の経路上に割り込み，両者が交換する情報を収集し，改ざんする。
+  - label: イ
+    text: ネットバンキング利用時に，利用者が入力したパスワードを収集する。
+  - label: ウ
+    text: ブラウザでの動画閲覧時に，利用者の意図しない広告を勝手に表示する。
+  - label: エ
+    text: ブラウザの起動時に，利用者がインストールしていないツールバーを勝手に表示する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 48
+question: ブラックボックステストのテストデータの作成方法のうち，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 稼動中のシステムから実データを無作為に抽出し，テストデータを作成する。
+  - label: イ
+    text: 機能仕様から同値クラスや限界値を識別し，テストデータを作成する。
+  - label: ウ
+    text: 業務で発生するデータの発生頻度を分析し，テストデータを作成する。
+  - label: エ
+    text: プログラムの流れ図を基に，分岐条件に基づいたテストデータを作成する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

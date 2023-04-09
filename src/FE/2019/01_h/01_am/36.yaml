@@ -1,0 +1,16 @@
+label: 36
+question: CAPTCHAの目的はどれか。
+choice:
+  - label: ア
+    text: Webサイトなどにおいて，コンピュータではなく人間がアクセスしていることを確認する。
+  - label: イ
+    text: 公開鍵暗号と共通鍵暗号を組み合わせて，メッセージを効率よく暗号化する。
+  - label: ウ
+    text: 通信回線を流れるパケットをキャプチャして，パケットの内容の表示や解析，集計を行う。
+  - label: エ
+    text: 電子政府推奨暗号の安全性を評価し，暗号技術の適切な実装法，運用法を調査，検討する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

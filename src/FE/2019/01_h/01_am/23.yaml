@@ -1,0 +1,16 @@
+label: 23
+question: データセンタなどで採用されているサーバ，ネットワーク機器に対する直流給電の利点として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 交流から直流への変換，直流から交流への変換で生じる電力損失を低減できる。
+  - label: イ
+    text: 受電設備からCPUなどのLSIまで，同じ電圧のまま給電できる。
+  - label: ウ
+    text: 停電の危険がないので，電源バックアップ用のバッテリを不要にできる。
+  - label: エ
+    text: トランスを用いて容易に昇圧，降圧ができる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

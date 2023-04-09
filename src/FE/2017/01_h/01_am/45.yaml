@@ -1,0 +1,16 @@
+label: 45
+question: Webサーバの検査におけるポートスキャナの利用目的はどれか。
+choice:
+  - label: ア
+    text: Webサーバで稼働しているサービスを列挙して，不要なサービスが稼働していないことを確認する。
+  - label: イ
+    text: Webサーバの利用者IDの管理状況を運用者に確認して，情報セキュリティポリシからの逸脱がないことを調べる。
+  - label: ウ
+    text: Webサーバへのアクセス履歴を解析して，不正利用を検出する。
+  - label: エ
+    text: 正規の利用者IDでログインし，Webサーバのコンテンツを直接確認して，コンテンツの脆(ぜい)弱性を検出する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

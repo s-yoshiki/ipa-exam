@@ -1,0 +1,16 @@
+label: 24
+question: H.264/MPEG-4 AVCの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 5.1チャンネルサラウンドシステムで使用されている音声圧縮技術
+  - label: イ
+    text: 携帯電話で使用されている音声圧縮技術
+  - label: ウ
+    text: ディジタルカメラで使用されている静止画圧縮技術
+  - label: エ
+    text: ワンセグ放送で使用されている動画圧縮技術
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

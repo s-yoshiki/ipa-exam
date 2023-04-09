@@ -1,0 +1,21 @@
+label: 57
+question: |-
+  事業継続計画で用いられる用語であり，インシデントの発生後，次のいずれかの事項までに要する時間を表すものはどれか。  
+
+  *   製品又はサービスが再開される。
+  *   事業活動が再開される。
+  *   資源が復旧される。
+choice:
+  - label: ア
+    text: MTBF
+  - label: イ
+    text: MTTR
+  - label: ウ
+    text: RPO
+  - label: エ
+    text: RTO
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

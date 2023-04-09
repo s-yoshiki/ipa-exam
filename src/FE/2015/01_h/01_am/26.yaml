@@ -1,0 +1,16 @@
+label: 26
+question: DBMSが，3層スキーマアーキテクチャを採用する目的として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 関係演算によって元の表から新たな表を導出し，それが実在しているように見せる。
+  - label: イ
+    text: 対話的に使われるSQL文を，アプリケーションプログラムからも使えるようにする。
+  - label: ウ
+    text: データの物理的な格納構造を変更しても，アプリケーションプログラムに影響が及ばないようにする。
+  - label: エ
+    text: プログラム言語を限定して，アプリケーションプログラムとDBMSを緊密に結合する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

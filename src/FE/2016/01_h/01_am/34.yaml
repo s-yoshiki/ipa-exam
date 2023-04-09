@@ -1,0 +1,16 @@
+label: 34
+question: IPアドレス 192.168.57.123/22 が属するネットワークのブロードキャストアドレスはどれか。
+choice:
+  - label: ア
+    text: 192.168.55.255
+  - label: イ
+    text: 192.168.57.255
+  - label: ウ
+    text: 192.168.59.255
+  - label: エ
+    text: 192.168.63.255
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

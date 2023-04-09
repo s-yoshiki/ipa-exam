@@ -1,0 +1,16 @@
+label: 59
+question: システムに関わるドキュメントが漏えい，改ざん，不正使用されるリスクに対するコントロールを監査する際のチェックポイントはどれか。
+choice:
+  - label: ア
+    text: システムの変更に伴い，ドキュメントを遅滞なく更新していること
+  - label: イ
+    text: ドキュメントの機密性を確保するための対策を講じていること
+  - label: ウ
+    text: ドキュメントの標準化を行っていること
+  - label: エ
+    text: プロトタイプ型開発においても，必要なドキュメントを作成していること
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

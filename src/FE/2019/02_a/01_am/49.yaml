@@ -1,0 +1,16 @@
+label: 49
+question: 単一の入り口をもち，入力項目を用いた複数の判断を含むプログラムのテストケースを設計する。命令網羅と判定条件網羅の関係のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 判定条件網羅を満足しても命令網羅を満足しない場合がある。
+  - label: イ
+    text: 判定条件網羅を満足するならば，命令網羅も満足する。
+  - label: ウ
+    text: 命令網羅を満足しなくても，判定条件網羅を満足する場合がある。
+  - label: エ
+    text: 命令網羅を満足するならば，判定条件網羅も満足する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

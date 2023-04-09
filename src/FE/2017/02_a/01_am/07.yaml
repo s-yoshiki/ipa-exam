@@ -1,0 +1,16 @@
+label: 7
+question: オブジェクト指向プログラミングにおける，多相性を実現するためのオーバーライドの説明はどれか。
+choice:
+  - label: ア
+    text: オブジェクト内の詳細な仕様や構造を外部から隠蔽すること
+  - label: イ
+    text: スーパークラスで定義されたメソッドをサブクラスで再定義すること
+  - label: ウ
+    text: 同一クラス内に，メソッド名が同一で，引数の型，個数，並び順が異なる複数のメソッドを定義すること
+  - label: エ
+    text: 複数のクラスの共通する性質をまとめて，抽象化したクラスを作ること
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

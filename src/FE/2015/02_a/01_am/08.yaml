@@ -1,0 +1,19 @@
+label: 8
+question: |-
+  自然数nに対して，次のとおり再帰的に定義される関数ƒ(n)を考える。ƒ(5)の値はどれか。  
+    
+  　ƒ(n)：if n≦1 then return 1 else return n＋ƒ(n－1)
+choice:
+  - label: ア
+    text: '6'
+  - label: イ
+    text: '9'
+  - label: ウ
+    text: '15'
+  - label: エ
+    text: '25'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

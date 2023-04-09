@@ -1,0 +1,17 @@
+label: 71
+question: >-
+  ある工場では表に示す3製品を製造している。実現可能な最大利益は何円か。ここで，各製品の月間需要量には上限があり，また，組立て工程に使える工場の時間は月間200時間までで、複数種類の製品を同時に並行して製造することはできないものとする。
+choice:
+  - label: ア
+    text: 2,625,000
+  - label: イ
+    text: 3,000,000
+  - label: ウ
+    text: 3,150,000
+  - label: エ
+    text: 3,300,000
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

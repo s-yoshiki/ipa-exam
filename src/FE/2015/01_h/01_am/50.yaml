@@ -1,0 +1,17 @@
+label: 50
+question: >-
+  図の構造をもつプログラムに対して，ホワイトボックステストのテストケースを設計するとき，少なくとも実施しなければならないテストケース数が最大になるテスト技法はどれか。
+choice:
+  - label: ア
+    text: 条件網羅
+  - label: イ
+    text: 判定条件網羅
+  - label: ウ
+    text: 複数条件網羅
+  - label: エ
+    text: 命令網羅
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

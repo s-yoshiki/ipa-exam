@@ -1,0 +1,16 @@
+label: 1
+question: 8ビットのビット列の下位4ビットが変化しない操作はどれか。
+choice:
+  - label: ア
+    text: 16進表記 0F のビット列との排他的論理和をとる。
+  - label: イ
+    text: 16進表記 0F のビット列との否定論理積をとる。
+  - label: ウ
+    text: 16進表記 0F のビット列との論理積をとる。
+  - label: エ
+    text: 16進表記 0F のビット列との論理和をとる。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

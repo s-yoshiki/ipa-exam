@@ -1,0 +1,21 @@
+label: 35
+question: |-
+  携帯電話網で使用される通信規格の名称であり，次の三つの特徴をもつものはどれか。
+
+  *   全ての通信をパケット交換方式で処理する。
+  *   複数のアンテナを使用するMIMOと呼ばれる通信方式が利用可能である。
+  *   国際標準化プロジェクト3GPP(3rd Generation Partnership Project)で標準化されている。
+choice:
+  - label: ア
+    text: LTE(Long Term Evolution)
+  - label: イ
+    text: MAC(Media Access Control)
+  - label: ウ
+    text: MDM(Mobile Device Management)
+  - label: エ
+    text: VoIP(Voice over Internet Protocol)
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

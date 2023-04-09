@@ -1,0 +1,16 @@
+label: 46
+question: システムの外部設計を完了させるとき，顧客から承認を受けるものはどれか。
+choice:
+  - label: ア
+    text: 画面レイアウト
+  - label: イ
+    text: システム開発計画
+  - label: ウ
+    text: 物理データベース仕様
+  - label: エ
+    text: プログラム流れ図
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

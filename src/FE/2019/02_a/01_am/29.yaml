@@ -1,0 +1,19 @@
+label: 29
+question: >-
+  2相ロッキングプロトコルに従ってロックを獲得するトランザクションA，Bを図のように同時実行した場合に，デッドロックが発生しないデータ処理順序はどれか。ここで，read
+  と update の位置は，アプリケーションプログラムでの命令発行時点を表す。また，データWへの read は共有ロックを要求し，データX，Y，Zへの
+  update は各データへの専有ロックを要求する。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

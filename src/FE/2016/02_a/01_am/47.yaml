@@ -1,0 +1,16 @@
+label: 47
+question: オブジェクト指向におけるカプセル化を説明したものはどれか。
+choice:
+  - label: ア
+    text: 同じ性質をもつ複数のオブジェクトを抽象化して，整理すること
+  - label: イ
+    text: 基底クラスの性質を派生クラスに受け継がせること
+  - label: ウ
+    text: クラス間に共通する性質を抽出し，基底クラスを作ること
+  - label: エ
+    text: データとそれを操作する手続を一つのオブジェクトにして，データと手続の詳細をオブジェクトの外部から隠蔽すること
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

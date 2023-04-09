@@ -1,0 +1,16 @@
+label: 78
+question: 財務諸表のうち，一定時点における企業の資産，負債及び純資産を表示し，企業の財政状態を明らかにするものはどれか。
+choice:
+  - label: ア
+    text: 株主資本等変動計算書
+  - label: イ
+    text: キャッシュフロー計算書
+  - label: ウ
+    text: 損益計算書
+  - label: エ
+    text: 貸借対照表
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

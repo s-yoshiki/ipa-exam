@@ -1,0 +1,16 @@
+label: 13
+question: 冗長構成におけるデュアルシステムの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 2系統のシステムで並列処理をすることによって性能を上げる方式である。
+  - label: イ
+    text: 2系統のシステムの負荷が均等になるように，処理を分散する方式である。
+  - label: ウ
+    text: 現用系と待機系の2系統のシステムで構成され，現用系に障害が生じたときに，待機系が処理を受け継ぐ方式である。
+  - label: エ
+    text: 一つの処理を2系統のシステムで独立に行い，結果を照合する方式である。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

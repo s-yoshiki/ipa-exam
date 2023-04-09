@@ -1,0 +1,22 @@
+label: 54
+question: |-
+  10人のメンバで構成されているプロジェクトチームにメンバ2人を増員する。次の条件でメンバ同士が打合せを行う場合，打合せの回数は何回増えるか。  
+    
+  〔条件〕
+
+  *   打合せは1対1で行う。
+  *   各メンバが，他の全てのメンバと1回ずつ打合せを行う。
+choice:
+  - label: ア
+    text: '12'
+  - label: イ
+    text: '21'
+  - label: ウ
+    text: '22'
+  - label: エ
+    text: '42'
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

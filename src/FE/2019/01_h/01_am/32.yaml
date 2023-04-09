@@ -1,0 +1,17 @@
+label: 32
+question: >-
+  192.168.0.0/23(サブネットマスク255.255.254.0)のIPv4ネットワークにおいて，ホストとして使用できるアドレスの個数の上限はどれか。
+choice:
+  - label: ア
+    text: '23'
+  - label: イ
+    text: '24'
+  - label: ウ
+    text: '254'
+  - label: エ
+    text: '510'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

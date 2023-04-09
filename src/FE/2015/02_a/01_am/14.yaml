@@ -1,0 +1,16 @@
+label: 14
+question: MTBFとMTTRに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: エラーログや命令トレースの機能によって， MTTRは長くなる。
+  - label: イ
+    text: 遠隔保守によって，システムのMTBFは短くなり， MTTRは長くなる。
+  - label: ウ
+    text: システムを構成する装置の種類が多いほど，システムのMTBFは長くなる。
+  - label: エ
+    text: 予防保守によって，システムのMTBFは長くなる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

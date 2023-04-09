@@ -1,0 +1,16 @@
+label: 74
+question: CIOの説明はどれか。
+choice:
+  - label: ア
+    text: 経営戦略の立案及び業務執行を統括する最高責任者
+  - label: イ
+    text: 資金調達，財務報告などの財務面での戦略策定及び執行を統括する最高責任者
+  - label: ウ
+    text: 自社の技術戦略や研究開発計画の立案及び執行を統括する最高責任者
+  - label: エ
+    text: 情報管理，情報システムに関する戦略立案及び執行を統括する最高責任者
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 28
+question: >-
+  一つのトランザクションはトランザクションを開始した後，五つの状態(アクティブ，アボート処理中，アボート済，コミット処理中，コミット済)を取り得るものとする。このとき，**取ることのない**状態遷移はどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

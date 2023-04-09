@@ -1,0 +1,16 @@
+label: 33
+question: プライベートIPアドレスの複数の端末が，一つのグローバルIPアドレスを使ってインターネット接続を利用する仕組みを実現するものはどれか。
+choice:
+  - label: ア
+    text: DHCP
+  - label: イ
+    text: DNS
+  - label: ウ
+    text: NAPT
+  - label: エ
+    text: RADIUS
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

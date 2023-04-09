@@ -1,0 +1,16 @@
+label: 76
+question: 社内カンパニー制を説明したものはどれか。
+choice:
+  - label: ア
+    text: 1部門を切り離して別会社として独立させ，機動力のある多角化戦略を展開する。
+  - label: イ
+    text: 合併，買収によって，自社にない経営資源を相手企業から得て，スピーディな戦略展開を図る。
+  - label: ウ
+    text: 時間を掛けて研究・開発を行い，その成果を経営戦略の基礎とする。
+  - label: エ
+    text: 事業分野ごとの仮想企業を作り，経営資源配分の効率化，意思決定の迅速化，創造性の発揮を促進する。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

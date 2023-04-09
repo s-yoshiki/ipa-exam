@@ -1,0 +1,16 @@
+label: 50
+question: ソフトウェアのリバースエンジニアリングの説明はどれか。
+choice:
+  - label: ア
+    text: 開発支援ツールなどを用いて，設計情報からソースコードを自動生成する。
+  - label: イ
+    text: 外部から見たときの振る舞いを変えずに，ソフトウェアの内部構造を変える。
+  - label: ウ
+    text: 既存のソフトウェアを解析し，その仕様や構造を明らかにする。
+  - label: エ
+    text: 既存のソフトウェアを分析し理解した上で，ソフトウェア全体を新しく構築し直す。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

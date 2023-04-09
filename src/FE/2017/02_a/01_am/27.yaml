@@ -1,0 +1,16 @@
+label: 27
+question: SQL文においてFOREIGN KEYとREFERENCESを用いて指定する制約はどれか。
+choice:
+  - label: ア
+    text: キー制約
+  - label: イ
+    text: 検査制約
+  - label: ウ
+    text: 参照制約
+  - label: エ
+    text: 表明
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

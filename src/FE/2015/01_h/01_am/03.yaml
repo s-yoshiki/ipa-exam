@@ -1,0 +1,25 @@
+label: 3
+question: >-
+  次の例に示すように，関数ƒ(x)はx以下で最大の整数を表す。  
+    
+  　ƒ(1.0)＝1  
+
+  　ƒ(0.9)＝0  
+
+  　ƒ(－0.4)＝－1  
+    
+  小数点以下1桁の小数－0.9，－0.8，…，－0.1，0.0，0.1，…，0.8，0.9からxを等確率で選ぶとき，ƒ(x＋0.5)の期待値(平均値)は幾らか。
+choice:
+  - label: ア
+    text: －120
+  - label: イ
+    text: '0'
+  - label: ウ
+    text: '120'
+  - label: エ
+    text: '119'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

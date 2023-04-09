@@ -1,0 +1,16 @@
+label: 2
+question: 8ビットの値の全ビットを反転する操作はどれか。
+choice:
+  - label: ア
+    text: 16進表記 00 のビット列と排他的論理和をとる。
+  - label: イ
+    text: 16進表記 00 のビット列と論理和をとる。
+  - label: ウ
+    text: 16進表記 FF のビット列と排他的論理和をとる。
+  - label: エ
+    text: 16進表記 FF のビット列と論理和をとる。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

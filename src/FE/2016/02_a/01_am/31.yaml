@@ -1,0 +1,16 @@
+label: 31
+question: 二つのLANセグメントを接続する装置Aの機能をTCP/IPの階層モデルで表すと図のようになる。この装置Aはどれか。
+choice:
+  - label: ア
+    text: スイッチングハブ
+  - label: イ
+    text: ブリッジ
+  - label: ウ
+    text: リピータハブ
+  - label: エ
+    text: ルータ
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

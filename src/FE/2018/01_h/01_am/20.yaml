@@ -1,0 +1,16 @@
+label: 20
+question: 多数のサーバで構成された大規模な分散ファイルシステム機能を提供し，MapReduceによる大規模データの分散処理を実現するOSSはどれか。
+choice:
+  - label: ア
+    text: Apache Hadoop
+  - label: イ
+    text: Apache Kafka
+  - label: ウ
+    text: Apache Spark
+  - label: エ
+    text: Apache Storm
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

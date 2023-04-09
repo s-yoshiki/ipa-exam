@@ -1,0 +1,17 @@
+label: 76
+question: >-
+  製品X及びYを生産するために2種類の原料A，Bが必要である。製品1個の生産に必要となる原料の量と調達可能量は表に示すとおりである。製品XとYの1個当たりの販売利益が，それぞれ100円，150円であるとき，最大利益は何円か。
+choice:
+  - label: ア
+    text: 5,000
+  - label: イ
+    text: 6,000
+  - label: ウ
+    text: 7,000
+  - label: エ
+    text: 8,000
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

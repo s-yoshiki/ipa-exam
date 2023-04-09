@@ -1,0 +1,16 @@
+label: 33
+question: TCP/IPネットワークでDNSが果たす役割はどれか。
+choice:
+  - label: ア
+    text: PCやプリンタなどからのIPアドレス付与の要求に対して，サーバに登録してあるIPアドレスの中から使用されていないIPアドレスを割り当てる。
+  - label: イ
+    text: サーバにあるプログラムを，サーバのIPアドレスを意識することなく，プログラム名の指定だけで呼び出すようにする。
+  - label: ウ
+    text: 社内のプライベートIPアドレスをグローバルIPアドレスに変換し，インターネットへのアクセスを可能にする。
+  - label: エ
+    text: ドメイン名やホスト名などとIPアドレスとを対応付ける。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

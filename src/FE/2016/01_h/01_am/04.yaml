@@ -1,0 +1,17 @@
+label: 4
+question: >-
+  PCM伝送方式によって音声をサンプリング(標本化)して8ビットのディジタルデータに変換し、圧縮せずにリアルタイムで転送したところ、転送速度は64,000ビット／秒であった。このときのサンプリング間隔は何マイクロ秒か。
+choice:
+  - label: ア
+    text: '15.6'
+  - label: イ
+    text: '46.8'
+  - label: ウ
+    text: '125'
+  - label: エ
+    text: '128'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

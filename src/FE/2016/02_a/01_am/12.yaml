@@ -1,0 +1,16 @@
+label: 12
+question: データを分散して複数の磁気ディスクに書き込むことによって，データ入出力の高速化を図る方式はどれか。
+choice:
+  - label: ア
+    text: ストライピング
+  - label: イ
+    text: スワッピング
+  - label: ウ
+    text: ディスクキャッシュ
+  - label: エ
+    text: ミラーリング
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

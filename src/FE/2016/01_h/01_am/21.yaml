@@ -1,0 +1,16 @@
+label: 21
+question: 静的テストツールの機能に分類されるものはどれか。
+choice:
+  - label: ア
+    text: ソースコードを解析して，プログラムの誤りを検出する。
+  - label: イ
+    text: テスト対象モジュールに必要なドライバ又はスタブを生成する。
+  - label: ウ
+    text: テストによって実行した経路から網羅度を算出する。
+  - label: エ
+    text: プログラムの特定の経路をテストするためのデータを生成する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

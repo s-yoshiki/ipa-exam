@@ -1,0 +1,16 @@
+label: 61
+question: リスクや投資価値の類似性で分けたカテゴリごとの情報化投資について，最適な資源配分を行う手法はどれか。
+choice:
+  - label: ア
+    text: 3C分析
+  - label: イ
+    text: ITポートフォリオ
+  - label: ウ
+    text: エンタープライズアーキテクチャ
+  - label: エ
+    text: ベンチマーキング
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

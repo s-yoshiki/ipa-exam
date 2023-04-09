@@ -1,0 +1,18 @@
+label: 11
+question: >-
+  メモリのエラー検出及び訂正にECCを利用している。データバス幅
+  2<sup>n</sup>ビットに対して冗長ビットがn＋2ビット必要なとき，128ビットのデータバス幅に必要な冗長ビットは何ビットか。
+choice:
+  - label: ア
+    text: '7'
+  - label: イ
+    text: '8'
+  - label: ウ
+    text: '9'
+  - label: エ
+    text: '10'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

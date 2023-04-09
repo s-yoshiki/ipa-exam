@@ -1,0 +1,16 @@
+label: 62
+question: オンデマンド型のサービスはどれか。
+choice:
+  - label: ア
+    text: インターネットサイトで購入したDVDで視聴する映画
+  - label: イ
+    text: 出版社が部数を決めてオフセット印刷した文庫本
+  - label: ウ
+    text: 定期的に決められたスケジュールでスマートフォンに配信されるインターネットニュース
+  - label: エ
+    text: 利用者の要求に応じてインターネット上で配信される再放送のドラマ
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

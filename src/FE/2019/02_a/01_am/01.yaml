@@ -1,0 +1,19 @@
+label: 1
+question: >-
+  次の流れ図は，10進整数 j(0＜j＜100) を8桁の2進数に変換する処理を表している。2進数は下位桁から順に，配列の要素 NISHIN(1) から
+  NISHIN(8) に格納される。流れ図のa及びbに入る処理はどれか。ここで，j div 2 はjを2で割った商の整数部分を，j mod 2
+  はjを2で割った余りを表す。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

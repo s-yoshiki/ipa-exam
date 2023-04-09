@@ -1,0 +1,16 @@
+label: 60
+question: 我が国の証券取引所に上場している企業において，内部統制の整備及び運用に最終的な責任を負っている者は誰か。
+choice:
+  - label: ア
+    text: 株主
+  - label: イ
+    text: 監査役
+  - label: ウ
+    text: 業務担当者
+  - label: エ
+    text: 経営者
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

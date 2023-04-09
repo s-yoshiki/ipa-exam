@@ -1,0 +1,16 @@
+label: 52
+question: プロジェクトに関わるステークホルダの説明のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 組織の内部に属しており，組織の外部にいることはない。
+  - label: イ
+    text: プロジェクトに直接参加し，間接的な関与にとどまることはない。
+  - label: ウ
+    text: プロジェクトの成果が，自らの利益になる者と不利益になる者がいる。
+  - label: エ
+    text: プロジェクトマネージャのように，個人として特定できることが必要である。
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

@@ -1,0 +1,16 @@
+label: 23
+question: コードから商品の内容が容易に分かるようにしたいとき，どのコード体系を選択するのが適切か。
+choice:
+  - label: ア
+    text: 区分コード
+  - label: イ
+    text: 桁別コード
+  - label: ウ
+    text: 表意コード
+  - label: エ
+    text: 連番コード
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

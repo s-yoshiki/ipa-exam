@@ -1,0 +1,16 @@
+label: 42
+question: IDSの機能はどれか。
+choice:
+  - label: ア
+    text: PCにインストールされているソフトウェア製品が最新のバージョンであるかどうかを確認する。
+  - label: イ
+    text: 検査対象の製品にテストデータを送り，製品の応答や挙動から脆(ぜい)弱性を検出する。
+  - label: ウ
+    text: サーバやネットワークを監視し，侵入や侵害を検知した場合に管理者へ通知する。
+  - label: エ
+    text: 情報システムの運用管理状況などの情報セキュリティ対策状況と企業情報を入力し，組織の情報セキュリティへの取組み状況を自己診断する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 36
+question: >-
+  人間には読み取ることが可能でも，プログラムでは読み取ることが難しいという差異を利用して，ゆがめたり一部を隠したりした画像から文字を判読させ入力させることで，人間以外による自動入力を排除する技術はどれか。
+choice:
+  - label: ア
+    text: CAPTCHA
+  - label: イ
+    text: QRコード
+  - label: ウ
+    text: 短縮URL
+  - label: エ
+    text: トラックバックping
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

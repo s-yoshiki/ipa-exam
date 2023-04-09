@@ -1,0 +1,16 @@
+label: 33
+question: IPv4にはなく，IPv6で追加・変更された仕様はどれか。
+choice:
+  - label: ア
+    text: アドレス空間として128ビットを割り当てた。
+  - label: イ
+    text: サブネットマスクの導入によって，アドレス空間の有効利用を図った。
+  - label: ウ
+    text: ネットワークアドレスとサブネットマスクの対によってIPアドレスを表現した。
+  - label: エ
+    text: プライベートアドレスの導入によって，IPアドレスの有効利用を図った。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

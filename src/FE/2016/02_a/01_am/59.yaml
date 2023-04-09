@@ -1,0 +1,16 @@
+label: 59
+question: 情報セキュリティ監査において，可用性を確認するチェック項目はどれか。
+choice:
+  - label: ア
+    text: 外部記憶媒体の無断持出しが禁止されていること
+  - label: イ
+    text: 中断時間を定めたSLAの水準が保たれるように管理されていること
+  - label: ウ
+    text: データ入力時のエラーチェックが適切に行われていること
+  - label: エ
+    text: データベースが暗号化されていること
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

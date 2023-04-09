@@ -1,0 +1,16 @@
+label: 37
+question: 情報の"完全性"を脅かす攻撃はどれか。
+choice:
+  - label: ア
+    text: Webページの改ざん
+  - label: イ
+    text: システム内に保管されているデータの不正コピー
+  - label: ウ
+    text: システムを過負荷状態にするDoS攻撃
+  - label: エ
+    text: 通信内容の盗聴
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 32
+question: 複数のLANを接続するために用いる装置で，OSI基本参照モデルのデータリンク層のプロトコル情報に基づいてデータを中継する装置はどれか。
+choice:
+  - label: ア
+    text: ゲートウェイ
+  - label: イ
+    text: ブリッジ
+  - label: ウ
+    text: リピータ
+  - label: エ
+    text: ルータ
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 28
+question: トランザクションが，データベースに対する更新処理を完全に行うか，全く処理しなかったのように取り消すか，のどちらかの結果になることを保証する特性はどれか。
+choice:
+  - label: ア
+    text: 一貫性(consistency)
+  - label: イ
+    text: 原子性(atomicity)
+  - label: ウ
+    text: 耐久性(durability)
+  - label: エ
+    text: 独立性(isolation)
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

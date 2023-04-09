@@ -1,0 +1,17 @@
+label: 1
+question: >-
+  数値を2進数で格納するレジスタがある。このレジスタに正の整数xを設定した後，"レジスタの値を2ビット左にシフトして，xを加える"操作を行うと，レジスタの値はxの何倍になるか。ここで，あふれ(オーバフロー)は，発生しないものとする。
+choice:
+  - label: ア
+    text: '3'
+  - label: イ
+    text: '4'
+  - label: ウ
+    text: '5'
+  - label: エ
+    text: '6'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

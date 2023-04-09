@@ -1,0 +1,16 @@
+label: 34
+question: インターネットにおける電子メールの規約で，ヘッダフィールドの拡張を行い，テキストだけでなく，音声，画像なども扱えるようにしたものはどれか。
+choice:
+  - label: ア
+    text: HTML
+  - label: イ
+    text: MHS
+  - label: ウ
+    text: MIME
+  - label: エ
+    text: SMTP
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

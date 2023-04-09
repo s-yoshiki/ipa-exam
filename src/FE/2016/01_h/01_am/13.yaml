@@ -1,0 +1,16 @@
+label: 13
+question: システムが単位時間内にジョブを処理する能力の評価尺度はどれか。
+choice:
+  - label: ア
+    text: MIPS値
+  - label: イ
+    text: 応答時間
+  - label: ウ
+    text: スループット
+  - label: エ
+    text: ターンアラウンドタイム
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

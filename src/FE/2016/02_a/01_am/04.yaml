@@ -1,0 +1,16 @@
+label: 4
+question: 32ビットで表現できるビットパターンの個数は，24ビットで表現できる個数の何倍か。
+choice:
+  - label: ア
+    text: '8'
+  - label: イ
+    text: '16'
+  - label: ウ
+    text: '128'
+  - label: エ
+    text: '256'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

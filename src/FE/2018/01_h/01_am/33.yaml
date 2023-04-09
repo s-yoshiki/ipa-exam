@@ -1,0 +1,17 @@
+label: 33
+question: >-
+  LANに接続されているプリンタのMACアドレスを，同一LAN上のPCから調べるときに使用するコマンドはどれか。ここで，PCはこのプリンタを直前に使用しており，プリンタのIPアドレスは分かっているものとする。
+choice:
+  - label: ア
+    text: arp
+  - label: イ
+    text: ipconfig
+  - label: ウ
+    text: netstat
+  - label: エ
+    text: ping
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

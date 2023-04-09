@@ -1,0 +1,16 @@
+label: 26
+question: 関係モデルの属性に関する説明のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 関係内の属性の定義域は重複してはならない。
+  - label: イ
+    text: 関係内の属性の並び順に意味はなく，順番を入れ替えても同じ関係である。
+  - label: ウ
+    text: 関係内の二つ以上の属性に，同じ名前を付けることができる。
+  - label: エ
+    text: 名前をもたない属性を定義することができる。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

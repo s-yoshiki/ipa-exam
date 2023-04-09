@@ -1,0 +1,17 @@
+label: 30
+question: >-
+  トランザクションTはチェックポイント取得後に完了したが，その後にシステム障害が発生した。データベースをトランザクションTの終了直後の状態に戻すために用いられる復旧技法はどれか。ここで，チェックポイントの他に，トランザクションログを利用する。
+choice:
+  - label: ア
+    text: 2相ロック
+  - label: イ
+    text: シャドウページ
+  - label: ウ
+    text: ロールバック
+  - label: エ
+    text: ロールフォワード
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

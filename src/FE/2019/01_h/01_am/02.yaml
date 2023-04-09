@@ -1,0 +1,16 @@
+label: 2
+question: 最上位をパリティビットとする8ビット符号において，パリティビット以外の下位7ビットを得るためのビット演算はどれか。
+choice:
+  - label: ア
+    text: 16進数0FとのANDをとる。
+  - label: イ
+    text: 16進数0FとのORをとる。
+  - label: ウ
+    text: 16進数7FとのANDをとる。
+  - label: エ
+    text: 16進数FFとのXOR(排他的論理和)をとる。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

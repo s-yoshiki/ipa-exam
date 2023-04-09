@@ -1,0 +1,16 @@
+label: 36
+question: アプリケーションソフトウェアにディジタル署名を施す目的はどれか。
+choice:
+  - label: ア
+    text: アプリケーションソフトウェアの改ざんを利用者が検知できるようにする。
+  - label: イ
+    text: アプリケーションソフトウェアの使用を特定の利用者に制限する。
+  - label: ウ
+    text: アプリケーションソフトウェアの著作権が作成者にあることを証明する。
+  - label: エ
+    text: アプリケーションソフトウェアの利用者による修正や改変を不可能にする。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

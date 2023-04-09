@@ -1,0 +1,16 @@
+label: 22
+question: 二つの入力と一つの出力をもつ論理回路で，二つの入力A，Bがともに1のときだけ，出力Xが0になるものはどれか。
+choice:
+  - label: ア
+    text: AND回路
+  - label: イ
+    text: NAND回路
+  - label: ウ
+    text: OR回路
+  - label: エ
+    text: XOR回路
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

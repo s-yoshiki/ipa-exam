@@ -1,0 +1,17 @@
+label: 64
+question: >-
+  システム開発の上流工程において，システム稼働後に発生する可能性がある個人情報の漏えいや目的外利用などのリスクに対する予防的な機能を検討し，その機能をシステムに組み込むものはどれか。
+choice:
+  - label: ア
+    text: 情報セキュリティ方針
+  - label: イ
+    text: セキュリティレベル
+  - label: ウ
+    text: プライバシーバイデザイン
+  - label: エ
+    text: プライバシーマーク
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 4
+question: 入力されたビットに対して出力されるビットが0か1のいずれかである確率を遷移確率という。遷移確率を表にしたとき，a，b，c，dの関係はどれか。
+choice:
+  - label: ア
+    text: a＋b＋c＋d＝1
+  - label: イ
+    text: a＋b＝1，c＋d＝1
+  - label: ウ
+    text: a＋c＝1，b＋d＝1
+  - label: エ
+    text: a＋d＝1，b＋c＝1
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

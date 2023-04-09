@@ -1,0 +1,16 @@
+label: 38
+question: 非常に大きな数の素因数分解が困難なことを利用した公開鍵暗号方式はどれか。
+choice:
+  - label: ア
+    text: AES
+  - label: イ
+    text: DH
+  - label: ウ
+    text: DSA
+  - label: エ
+    text: RSA
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 15
+question: >-
+  2台のコンピュータを並列に接続して使うシステムがある。それぞれのMTBFとMTTRを次の表に示す。どちらか1台が稼働していればよい場合，システム全体の稼働率は何%か。
+choice:
+  - label: ア
+    text: '91.2'
+  - label: イ
+    text: '95.5'
+  - label: ウ
+    text: '96.5'
+  - label: エ
+    text: '99.8'
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

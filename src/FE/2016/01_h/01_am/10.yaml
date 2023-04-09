@@ -1,0 +1,23 @@
+label: 10
+question: |-
+  RISCプロセッサの5段パイプラインの命令実行制御の順序はどれか。ここで，このパイプラインのステージは次の五つとする。
+
+  1.  書込み
+  2.  実行とアドレス生成
+  3.  命令デコードとレジスタファイル読出し
+  4.  命令フェッチ
+  5.  メモリアクセス
+choice:
+  - label: ア
+    text: ③，④，②，⑤，①
+  - label: イ
+    text: ③，⑤，②，④，①
+  - label: ウ
+    text: ④，③，②，⑤，①
+  - label: エ
+    text: ④，⑤，③，②，①
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

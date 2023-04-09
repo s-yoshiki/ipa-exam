@@ -1,0 +1,16 @@
+label: 18
+question: コンパイラによる最適化の主な目的はどれか。
+choice:
+  - label: ア
+    text: プログラムの実行時間を短縮する。
+  - label: イ
+    text: プログラムのデバッグを容易にする。
+  - label: ウ
+    text: プログラムの保守性を改善する。
+  - label: エ
+    text: 目的プログラムを生成する時間を短縮する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 38
+question: >-
+  Xさんは，Yさんにインターネットを使って電子メールを送ろうとしている。電子メールの内容を秘密にする必要があるので，公開鍵暗号方式を用いて暗号化して送信したい。電子メールの内容を暗号化するのに使用する鍵はどれか。
+choice:
+  - label: ア
+    text: Xさんの公開鍵
+  - label: イ
+    text: Xさんの秘密鍵
+  - label: ウ
+    text: Yさんの公開鍵
+  - label: エ
+    text: Yさんの秘密鍵
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

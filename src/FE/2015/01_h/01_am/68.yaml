@@ -1,0 +1,17 @@
+label: 68
+question: >-
+  衣料品製造販売会社を対象にバリューチェーン分析を行った。会社の活動を，購買物流，製造，出荷物流，販売とマーケティング，サービスに分類した場合，購買物流の活動はどれか。
+choice:
+  - label: ア
+    text: 衣料品を購入者へ配送する。
+  - label: イ
+    text: 生地を発注し，検品し，在庫管理する。
+  - label: ウ
+    text: 広告宣伝を行う。
+  - label: エ
+    text: 縫製作業を行う。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

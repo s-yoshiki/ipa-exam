@@ -1,0 +1,16 @@
+label: 45
+question: ファジングで得られるセキュリティ上の効果はどれか。
+choice:
+  - label: ア
+    text: ソフトウェアの脆弱性を自動的に修正できる。
+  - label: イ
+    text: ソフトウェアの脆弱性を検出できる。
+  - label: ウ
+    text: 複数のログデータを相関分析し，不正アクセスを検知できる。
+  - label: エ
+    text: 利用者IDを統合的に管理し，統ーしたパスワードポリシを適用できる。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

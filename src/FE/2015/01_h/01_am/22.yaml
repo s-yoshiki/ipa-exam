@@ -1,0 +1,16 @@
+label: 22
+question: SRAMと比較した場合のDRAMの特徴はどれか。
+choice:
+  - label: ア
+    text: 主にキャッシュメモリとして使用される。
+  - label: イ
+    text: データを保持するためのリフレッシュ又はアクセス動作が不要である。
+  - label: ウ
+    text: メモリセル構成が単純なので，ビット当たりの単価が安くなる。
+  - label: エ
+    text: メモリセルにフリップフロップを用いてデータを保存する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

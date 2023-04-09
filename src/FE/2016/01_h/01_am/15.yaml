@@ -1,0 +1,16 @@
+label: 15
+question: システムの稼働率に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: MTBFが異なってもMTTRが等しければ，システムの稼働率は等しい。
+  - label: イ
+    text: MTBFとMTTRの和が等しければ，システムの稼働率は等しい。
+  - label: ウ
+    text: MTBFを変えずにMTTRを短くできれば，システムの稼働率は向上する。
+  - label: エ
+    text: MTTRが変わらずMTBFが長くなれば，システムの稼働率は低下する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

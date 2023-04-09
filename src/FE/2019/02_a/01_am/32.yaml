@@ -1,0 +1,16 @@
+label: 32
+question: メディアコンバータ，リピータハブ，レイヤ2スイッチ，レイヤ3スイッチのうち，レイヤ3スイッチだけがもつ機能はどれか。
+choice:
+  - label: ア
+    text: データリンク層において，宛先アドレスに従って適切なLANポートにパケットを中継する機能
+  - label: イ
+    text: ネットワーク層において，宛先アドレスに従って適切なLANポートにパケットを中継する機能
+  - label: ウ
+    text: 物理層において，異なる伝送媒体を接続し，信号を相互に変換する機能
+  - label: エ
+    text: 物理層において，入力信号を全てのLANポートに対して中継する機能
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

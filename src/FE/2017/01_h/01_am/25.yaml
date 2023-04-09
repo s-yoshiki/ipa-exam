@@ -1,0 +1,19 @@
+label: 25
+question: >-
+  属性 a の値が決まれば属性 b
+  の値が一意に定まることを，a→bで表す。例えば，社員番号が決まれば社員名が一意に定まるということの表現は，社員番号→社員名である。この表記法に基づいて，図のような関係が成立している属性
+  a～j を，関係データベース上の三つのテーブルで定義する組合せとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: テーブル1 {a}テーブル2 {b，c，d，e}テーブル3 {f，g，h，i，j}
+  - label: イ
+    text: テーブル1 {a，b，c，d，e}テーブル2 {b，f，g，h}テーブル3 {e，i，j}
+  - label: ウ
+    text: テーブル1 {a，b，f，g，h}テーブル2 {c，d}テーブル3 {e，i，j}
+  - label: エ
+    text: テーブル1 {a，c，d}テーブル2 {b，f，g，h}テーブル3 {e，i，j}
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

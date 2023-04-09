@@ -1,0 +1,17 @@
+label: 75
+question: >-
+  商品の1日当たりの販売個数の予想確率が表のとおりであるとき，1個当たりの利益を1,000円とすると，利益の期待値が最大になる仕入個数は何個か。ここで，仕入れた日に売れ残った場合，1個当たり300円の廃棄ロスが出るものとする。
+choice:
+  - label: ア
+    text: '4'
+  - label: イ
+    text: '5'
+  - label: ウ
+    text: '6'
+  - label: エ
+    text: '7'
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

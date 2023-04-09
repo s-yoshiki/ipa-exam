@@ -1,0 +1,16 @@
+label: 39
+question: PKIにおける認証局が，信頼できる第三者機関として果たす役割はどれか。
+choice:
+  - label: ア
+    text: 利用者からの要求に対して正確な時刻を返答し，時刻合わせを可能にする。
+  - label: イ
+    text: 利用者から要求された電子メールの本文に対して，ディジタル署名を付与する。
+  - label: ウ
+    text: 利用者やサーバの公開鍵を証明するディジタル証明書を発行する。
+  - label: エ
+    text: 利用者やサーバの秘密鍵を証明するディジタル証明書を発行する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

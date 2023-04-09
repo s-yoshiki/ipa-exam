@@ -1,0 +1,16 @@
+label: 24
+question: 次のような注文データが入力されたとき，注文日が入力日以前の営業日かどうかを検査するチェックはどれか。
+choice:
+  - label: ア
+    text: シーケンスチェック
+  - label: イ
+    text: 重複チェック
+  - label: ウ
+    text: フォーマットチェック
+  - label: エ
+    text: 論理チェック
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 31
+question: 1.5Mビット／秒の伝送路を用いて12Mバイトのデータを転送するために必要な伝送時間は何秒か。ここで，伝送路の伝送効率を50%とする。
+choice:
+  - label: ア
+    text: '16'
+  - label: イ
+    text: '32'
+  - label: ウ
+    text: '64'
+  - label: エ
+    text: '128'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,18 @@
+label: 42
+question: >-
+  社内ネットワークとインターネットの接続点にパケットフィルタリング型ファイアウォールを設置して，社内ネットワーク上のPCからインターネット上のWebサーバ(ポート番号80)
+  にアクセスできるようにするとき，フィルタリングで許可するルールの適切な組合せはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 34
+question: >-
+  クライアントAがポート番号8080のHTTPプロキシサーバBを経由してポート番号80のWebサーバCにアクセスしているとき，宛先ポート番号が常に8080になるTCPパケットはどれか。
+choice:
+  - label: ア
+    text: AからBへのHTTP要求及びCからBへのHTTP応答
+  - label: イ
+    text: AからBへのHTTP要求だけ
+  - label: ウ
+    text: BからAへのHTTP応答だけ
+  - label: エ
+    text: BからCへのHTTP要求及びCからBへのHTTP応答
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

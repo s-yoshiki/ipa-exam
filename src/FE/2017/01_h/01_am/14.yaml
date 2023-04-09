@@ -1,0 +1,17 @@
+label: 14
+question: >-
+  稼働率Rの装置を図のように接続したシステムがある。このシステム全体の稼働率を表わす式はどれか。ここで，並列に接続されている部分はどちらかの装置が稼働していれば良く，直列に接続されている部分は両方の装置が稼働していなければならない。
+choice:
+  - label: ア
+    text: (1－(1－R2))2
+  - label: イ
+    text: 1－(1－R2)2
+  - label: ウ
+    text: (1－(1－R)2)2
+  - label: エ
+    text: 1－(1－R)4
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

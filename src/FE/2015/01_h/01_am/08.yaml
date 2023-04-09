@@ -1,0 +1,16 @@
+label: 8
+question: Javaのプログラムにおいて，よく使われる機能などを部品化し，再利用できるようにコンポーネント化するための仕様はどれか。
+choice:
+  - label: ア
+    text: JavaBeans
+  - label: イ
+    text: JavaScript
+  - label: ウ
+    text: Javaアプリケーション
+  - label: エ
+    text: Javaアプレット
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

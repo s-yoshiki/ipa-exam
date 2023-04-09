@@ -1,0 +1,16 @@
+label: 44
+question: 侵入者やマルウェアの挙動を調査するために，意図的に脆弱性をもたせたシステム又はネットワークはどれか。
+choice:
+  - label: ア
+    text: DMZ
+  - label: イ
+    text: SIEM
+  - label: ウ
+    text: ハニーポット
+  - label: エ
+    text: ボットネット
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

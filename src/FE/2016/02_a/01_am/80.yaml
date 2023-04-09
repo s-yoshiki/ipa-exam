@@ -1,0 +1,16 @@
+label: 80
+question: マルウェアを用いて，企業で使用されているコンピュータの記憶内容を消去する行為を処罰の対象とする法律はどれか。
+choice:
+  - label: ア
+    text: 刑法
+  - label: イ
+    text: 製造物責任法
+  - label: ウ
+    text: 不正アクセス禁止法
+  - label: エ
+    text: プロバイダ責任制限法
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

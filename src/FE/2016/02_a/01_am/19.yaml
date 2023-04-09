@@ -1,0 +1,16 @@
+label: 19
+question: LRUアルゴリズムで，ページ置換えの判断基準に用いられる項目はどれか。
+choice:
+  - label: ア
+    text: 最後に参照した時刻
+  - label: イ
+    text: 最初に参照した時刻
+  - label: ウ
+    text: 単位時間当たりの参照頻度
+  - label: エ
+    text: 累積の参照回数
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

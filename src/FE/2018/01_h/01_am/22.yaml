@@ -1,0 +1,16 @@
+label: 22
+question: フラッシュメモリに関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 高速に書換えができ，CPUのキャッシュメモリに用いられる。
+  - label: イ
+    text: 紫外線で全データ一括消去できる。
+  - label: ウ
+    text: 周期的にデータの再書込みが必要である。
+  - label: エ
+    text: ブロック単位で電気的に内容の消去ができる。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

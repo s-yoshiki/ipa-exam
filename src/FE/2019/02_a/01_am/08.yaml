@@ -1,0 +1,17 @@
+label: 8
+question: >-
+  A，C，K，S，Tの順に文字が入力される。スタックを利用して，S，T，A，C，Kという順に文字を出力するために，最小限必要となるスタックは何個か。ここで，どのスタックにおいてもポップ操作が実行されたときには必ず文字を出力する。また，スタック間の文字の移動は行わない。
+choice:
+  - label: ア
+    text: '1'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '3'
+  - label: エ
+    text: '4'
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

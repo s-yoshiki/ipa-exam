@@ -1,0 +1,16 @@
+label: 11
+question: 4Tバイトのデータを格納できるようにRAID1の外部記憶装置を構成するとき，フォーマット後の記憶容量が1Tバイトの磁気記憶装置は少なくとも何台必要か。
+choice:
+  - label: ア
+    text: '4'
+  - label: イ
+    text: '5'
+  - label: ウ
+    text: '6'
+  - label: エ
+    text: '8'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 20
+question: オープンソースの統合開発環境であって，アプリケーション開発のためのソフトウェア及び支援ツール類をまとめたものはどれか。
+choice:
+  - label: ア
+    text: Eclipse
+  - label: イ
+    text: Perl
+  - label: ウ
+    text: PHP
+  - label: エ
+    text: Ruby
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

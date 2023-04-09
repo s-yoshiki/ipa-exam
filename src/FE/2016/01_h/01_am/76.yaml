@@ -1,0 +1,16 @@
+label: 76
+question: プロジェクト組織を説明したものはどれか。
+choice:
+  - label: ア
+    text: ある問題を解決するために一定の期間に限って結成され，問題解決とともに解散する。
+  - label: イ
+    text: 業務を機能別に分け，各機能について部下に命令，指導を行う。
+  - label: ウ
+    text: 製品，地域などで構成された組織単位に，利益責任をもたせる。
+  - label: エ
+    text: 戦略的提携や共同開発など外部の経営資源を積極的に活用するために，企業間にまたがる組織を構成する。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

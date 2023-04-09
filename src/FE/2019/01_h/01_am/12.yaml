@@ -1,0 +1,16 @@
+label: 12
+question: 3Dプリンタの機能の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 高温の印字ヘッドのピンを感熱紙に押し付けることによって印刷を行う。
+  - label: イ
+    text: コンピュータグラフィックスを建物，家具など凹凸のある立体物に投影する。
+  - label: ウ
+    text: 熱溶解積層方式などによって，立体物を造形する。
+  - label: エ
+    text: 立体物の形状を感知して，3Dデータとして出力する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

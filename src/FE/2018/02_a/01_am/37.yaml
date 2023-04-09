@@ -1,0 +1,17 @@
+label: 37
+question: >-
+  AES-256で暗号化されていることが分かっている暗号文が与えられているとき，ブルートフォース攻撃で鍵と解読した平文を得るまでに必要な試行回数の最大値はどれか。
+choice:
+  - label: ア
+    text: '256'
+  - label: イ
+    text: '2128'
+  - label: ウ
+    text: '2255'
+  - label: エ
+    text: '2256'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

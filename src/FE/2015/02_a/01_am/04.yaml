@@ -1,0 +1,16 @@
+label: 4
+question: アナログ電圧をディジタル化した後に演算処理することの利点として，適切なものはどれか。
+choice:
+  - label: ア
+    text: アナログからディジタルへの変換では誤差が発生しない。
+  - label: イ
+    text: 演算結果が部品精度，温度変化及び外来雑音の影響を受けにくい。
+  - label: ウ
+    text: 数値演算において丸め誤差が発生することはない。
+  - label: エ
+    text: 電圧が変化してから演算結果を得るまでの遅延時間が発生しない。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

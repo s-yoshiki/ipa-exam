@@ -1,0 +1,16 @@
+label: 24
+question: 音声などのアナログデータをディジタル化するために用いられるPCMにおいて，音の信号を一定の周期でアナログ値のまま切り出す処理はどれか。
+choice:
+  - label: ア
+    text: 暗号化
+  - label: イ
+    text: 標本化
+  - label: ウ
+    text: 符号化
+  - label: エ
+    text: 量子化
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

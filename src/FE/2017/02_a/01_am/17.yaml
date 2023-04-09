@@ -1,0 +1,16 @@
+label: 17
+question: ソフトウェア制御における，ポーリング制御はどれか。
+choice:
+  - label: ア
+    text: CPUが状態レジスタ又はビジー信号などを読み出して，入出力装置の状態を監視する。
+  - label: イ
+    text: 実行中の処理を一時的に中断して，緊急度の高い別の処理を実行する。
+  - label: ウ
+    text: 送信側のタスクがメモリにデータを格納し，受信側のタスクにそのアドレスを伝える。
+  - label: エ
+    text: 複数のタスクが利用する共有資源を，一つのタスクが占有できるようにする。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

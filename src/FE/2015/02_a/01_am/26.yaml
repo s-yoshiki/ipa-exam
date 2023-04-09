@@ -1,0 +1,16 @@
+label: 26
+question: インデックス方式のうち，キー値を基にして格納位置を算出するとき，異なったキー値でも同一の算出結果となる可能性があるものはどれか。
+choice:
+  - label: ア
+    text: B+木インデックス
+  - label: イ
+    text: 転置インデックス
+  - label: ウ
+    text: ハッシュインデックス
+  - label: エ
+    text: ビットマップインデックス
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

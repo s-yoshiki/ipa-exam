@@ -1,0 +1,16 @@
+label: 32
+question: LAN間接続装置に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: ゲートウェイは，OSI基本参照モデルにおける第1～3層だけのプロトコルを変換する。
+  - label: イ
+    text: ブリッジは，IPアドレスを基にしてフレームを中継する。
+  - label: ウ
+    text: リピータは，同種のセグメント間で信号を増幅することによって伝送距離を延長する。
+  - label: エ
+    text: ルータは，MACアドレスを基にしてフレームを中継する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

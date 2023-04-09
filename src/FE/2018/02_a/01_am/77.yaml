@@ -1,0 +1,16 @@
+label: 77
+question: ある商品の前月繰越と受払いが表のとおりであるとき，先入先出法によって算出した当月度の売上原価は何円か。
+choice:
+  - label: ア
+    text: 26,290
+  - label: イ
+    text: 26,450
+  - label: ウ
+    text: 27,250
+  - label: エ
+    text: 27,586
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

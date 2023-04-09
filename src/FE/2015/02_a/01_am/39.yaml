@@ -1,0 +1,16 @@
+label: 39
+question: 標的型攻撃メールで利用されるソーシャルエンジニアリング手法に該当するものはどれか。
+choice:
+  - label: ア
+    text: 件名に"未承諾広告※"と記述する。
+  - label: イ
+    text: 件名や本文に，受信者の業務に関係がありそうな内容を記述する。
+  - label: ウ
+    text: 支払う必要がない料金を振り込ませるために，債権回収会社などを装い無差別に送信する。
+  - label: エ
+    text: 偽のホームページにアクセスさせるために，金融機関などを装い無差別に送信する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 22
+question: 2入力NAND素子を用いて4入力NAND回路を構成したものはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

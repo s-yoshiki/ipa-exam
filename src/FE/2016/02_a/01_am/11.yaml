@@ -1,0 +1,18 @@
+label: 11
+question: >-
+  1Mバイトのメモリを図のようにMPUに接続するとき，最低限必要なアドレスバスの信号線の本数 n
+  はどれか。ここで，メモリにはバイト単位でアクセスするものとし，1Mバイトは1,024kバイト，1kバイトは1,024バイトとする。
+choice:
+  - label: ア
+    text: '18'
+  - label: イ
+    text: '19'
+  - label: ウ
+    text: '20'
+  - label: エ
+    text: '21'
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

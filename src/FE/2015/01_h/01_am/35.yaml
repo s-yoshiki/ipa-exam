@@ -1,0 +1,16 @@
+label: 35
+question: TCP/IPを利用している環境で，電子メールに画像データなどを添付するための規格はどれか。
+choice:
+  - label: ア
+    text: JPEG
+  - label: イ
+    text: MIME
+  - label: ウ
+    text: MPEG
+  - label: エ
+    text: SMTP
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

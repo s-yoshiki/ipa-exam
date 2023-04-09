@@ -1,0 +1,16 @@
+label: 52
+question: 表の機能と特性をもったプログラムのファンクションポイント値は幾らか。ここで，複雑さの補正係数は0.75とする。
+choice:
+  - label: ア
+    text: '18'
+  - label: イ
+    text: '24'
+  - label: ウ
+    text: '30'
+  - label: エ
+    text: '32'
+calculation: false
+figure: true
+answer: ア
+category: M
+figureText: ''

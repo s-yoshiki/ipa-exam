@@ -1,0 +1,18 @@
+label: 50
+question: >-
+  エクストリームプログラミング(XP:eXtreme
+  Programming)のプラクティスのうち，プログラム開発において，相互に役割を交替し，チェックし合うことによって，コミュニケーションを円滑にし，プログラムの品質向上を図るものはどれか。
+choice:
+  - label: ア
+    text: 計画ゲーム
+  - label: イ
+    text: コーディング標準
+  - label: ウ
+    text: テスト駆動開発
+  - label: エ
+    text: ペアプログラミング
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

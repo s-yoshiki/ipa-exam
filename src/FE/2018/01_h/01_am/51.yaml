@@ -1,0 +1,17 @@
+label: 51
+question: >-
+  図のアローダイアグラムにおいて，プロジェクト全体の期間を短縮するために，作業A～Eの幾つかを1日ずつ短縮する。プロジェクト全体を2日短縮できる作業の組合せはどれか。
+choice:
+  - label: ア
+    text: A，C，E
+  - label: イ
+    text: A，D
+  - label: ウ
+    text: B，C，E
+  - label: エ
+    text: B，D
+calculation: false
+figure: true
+answer: エ
+category: M
+figureText: ''

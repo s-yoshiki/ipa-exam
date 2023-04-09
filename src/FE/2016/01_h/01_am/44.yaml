@@ -1,0 +1,16 @@
+label: 44
+question: ディジタルフォレンジックスでハッシュ値を利用する目的として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 一方向性関数によってパスワードを復元できないように変換して保存する。
+  - label: イ
+    text: 改変されたデータを，証拠となり得るように復元する。
+  - label: ウ
+    text: 証拠となり得るデータについて，原本と複製の同一性を証明する。
+  - label: エ
+    text: パスワードの盗聴の有無を検証する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 80
+question: 独占禁止法の目的として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 公正かつ自由な競争を促進する。
+  - label: イ
+    text: 国際的な平和及び安全の維持を阻害する取引を防止する。
+  - label: ウ
+    text: 製造物の欠陥によって損害が生じたときの製造業者の責任を定める。
+  - label: エ
+    text: 特許権者に発明を実施する権利を与え，発明を保護する。
+calculation: false
+figure: false
+answer: ア
+category: S
+figureText: ''

@@ -1,0 +1,18 @@
+label: 56
+question: >-
+  JIS Q
+  20000-1は，サービスマネジメントシステム(SMS)及びサービスのあらゆる場面でPDCA方法論の適用を要求している。SMSの計画(Plan)に含まれる活動はどれか。
+choice:
+  - label: ア
+    text: あらかじめ定めた間隔でのマネジメントレビューの実施とその記録の維持
+  - label: イ
+    text: 権限，責任及び，プロセスにおける役割についての枠組みの作成
+  - label: ウ
+    text: 資金及び予算の割当て及び管理の活動を通じた，SMSの導入及び運用
+  - label: エ
+    text: 承認された改善についての計画の作成，改善の実施とその報告
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

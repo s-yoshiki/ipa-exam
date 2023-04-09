@@ -1,0 +1,16 @@
+label: 2
+question: 図の線上を，点Pから点Rを通って，点Qに至る最短経路は何通りあるか。
+choice:
+  - label: ア
+    text: '16'
+  - label: イ
+    text: '24'
+  - label: ウ
+    text: '32'
+  - label: エ
+    text: '60'
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

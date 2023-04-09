@@ -1,0 +1,16 @@
+label: 69
+question: コストプラス法による価格設定方法を表すものはどれか。
+choice:
+  - label: ア
+    text: 価格分析によって，利益最大，リスク最小を考慮し，段階的に価格を決める。
+  - label: イ
+    text: 顧客に対する値引きを前提にし，当初からマージンを加えて価格を決める。
+  - label: ウ
+    text: 市場で競争可能と推定できるレベルで価格を決める。
+  - label: エ
+    text: 製造原価，営業費を基準にし，希望マージンを織り込んで価格を決める。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,17 @@
+label: 77
+question: >-
+  ある工場では，これまでに発生した不良品について，発生要因ごとの件数を記録している。この記録に基づいて，不良品発生の上位を占める要因と件数の累積割合を表したパレート図はどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: S
+figureText: ''

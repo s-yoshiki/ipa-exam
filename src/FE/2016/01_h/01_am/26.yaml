@@ -1,0 +1,16 @@
+label: 26
+question: 関係モデルとその実装である関係データベースの対応に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: 関係は，表に対応付けられる。
+  - label: イ
+    text: 属性も列も，左から右に順序付けられる。
+  - label: ウ
+    text: タプルも行も，ともに重複しない。
+  - label: エ
+    text: 定義域は，文字型又は文字列型に対応付けられる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 30
+question: トランザクション処理プログラムが，データベース更新の途中で異常終了した場合，ロールバック処理によってデータベースを復元する。このとき使用する情報はどれか。
+choice:
+  - label: ア
+    text: 最新のスナップショット情報
+  - label: イ
+    text: 最新のバックアップファイル情報
+  - label: ウ
+    text: ログファイルの更新後情報
+  - label: エ
+    text: ログファイルの更新前情報
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 71
+question: セル生産方式の利点が生かせる対象はどれか。
+choice:
+  - label: ア
+    text: 生産性を上げるために，大量生産が必要なもの
+  - label: イ
+    text: 製品の仕様が長期間変わらないもの
+  - label: ウ
+    text: 多種類かつフレキシブルな生産が求められるもの
+  - label: エ
+    text: 標準化，単純化，専門化による分業が必要なもの
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

@@ -1,0 +1,21 @@
+label: 19
+question: >-
+  コンパイラで構文解析した結果の表現方法の一つに四つ組形式がある。  
+
+  　　(演算子，被演算子1，被演算子2，結果)  
+
+  　この形式は，被演算子1と被演算子2に演算子を作用させたものが結果であることを表す。次の一連の四つ組は，どの式を構文解析した結果か。ここで，T<sub>1</sub>，T<sub>2</sub>，T<sub>3</sub>は一時変数を表す。
+choice:
+  - label: ア
+    text: A＋B＊C／D
+  - label: イ
+    text: A＋B＊C／T2
+  - label: ウ
+    text: B＊C＋A／D
+  - label: エ
+    text: B＊C＋T1／D
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

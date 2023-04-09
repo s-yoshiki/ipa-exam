@@ -1,0 +1,16 @@
+label: 41
+question: JIS Q 27000:2014(情報セキュリティマネジメントシステム－用語)における"リスクレベル"の定義はどれか。
+choice:
+  - label: ア
+    text: 脅威によって付け込まれる可能性のある，資産又は管理策の弱点
+  - label: イ
+    text: 結果とその起こりやすさの組合せとして表現される，リスクの大きさ
+  - label: ウ
+    text: 対応すべきリスクに付与する優先順位
+  - label: エ
+    text: リスクの重大性を評価するために目安とする条件
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

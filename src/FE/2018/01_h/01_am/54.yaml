@@ -1,0 +1,17 @@
+label: 54
+question: >-
+  あるソフトウェアにおいて，機能の個数と機能の複雑度に対する重み付け係数は表のとおりである。このソフトウェアのファンクションポイント値は幾らか。ここで，ソフトウェアの全体的な複雑さの補正係数は0.75とする。
+choice:
+  - label: ア
+    text: '18'
+  - label: イ
+    text: '24'
+  - label: ウ
+    text: '30'
+  - label: エ
+    text: '32'
+calculation: false
+figure: true
+answer: ア
+category: M
+figureText: ''

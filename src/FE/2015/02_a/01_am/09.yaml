@@ -1,0 +1,16 @@
+label: 9
+question: 50MIPSのプロセッサの平均命令実行時間は幾らか。
+choice:
+  - label: ア
+    text: 20ナノ秒
+  - label: イ
+    text: 50ナノ秒
+  - label: ウ
+    text: 2マイクロ秒
+  - label: エ
+    text: 5マイクロ秒
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

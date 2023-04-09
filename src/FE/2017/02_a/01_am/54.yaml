@@ -1,0 +1,17 @@
+label: 54
+question: >-
+  プロジェクトで発生した課題の傾向を分析するために，ステークホルダ，コスト，スケジュール，品質などの管理項目別の課題件数を棒グラフとして件数が多い順に並べ，この順で累積した課題件数を折れ線グラフとして重ね合わせた図を作成した。この図はどれか。
+choice:
+  - label: ア
+    text: 管理図
+  - label: イ
+    text: 散布図
+  - label: ウ
+    text: 特性要因図
+  - label: エ
+    text: パレート図
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

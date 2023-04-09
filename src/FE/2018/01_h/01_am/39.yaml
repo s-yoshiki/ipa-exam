@@ -1,0 +1,18 @@
+label: 39
+question: >-
+  JIS Q
+  27000:2019(情報セキュリティマネジメントシステム－用語)において，"エンティティは，それが主張するとおりのものであるという特性"と定義されているものはどれか。
+choice:
+  - label: ア
+    text: 真正性
+  - label: イ
+    text: 信頼性
+  - label: ウ
+    text: 責任追跡性
+  - label: エ
+    text: 否認防止
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

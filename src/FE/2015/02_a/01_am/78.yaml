@@ -1,0 +1,16 @@
+label: 78
+question: 表から，期末在庫品を先入先出法で評価した場合の在庫評価額は何千円か。
+choice:
+  - label: ア
+    text: '132'
+  - label: イ
+    text: '138'
+  - label: ウ
+    text: '150'
+  - label: エ
+    text: '168'
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

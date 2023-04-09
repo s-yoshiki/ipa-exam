@@ -1,0 +1,16 @@
+label: 38
+question: メッセージ認証符号の利用目的に該当するものはどれか。
+choice:
+  - label: ア
+    text: メッセージが改ざんされていないことを確認する。
+  - label: イ
+    text: メッセージの暗号化方式を確認する。
+  - label: ウ
+    text: メッセージの概要を確認する。
+  - label: エ
+    text: メッセージの秘匿性を確保する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

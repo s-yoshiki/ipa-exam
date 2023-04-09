@@ -1,0 +1,16 @@
+label: 67
+question: SWOT分析において，一般に脅威として位置付けられるものはどれか。
+choice:
+  - label: ア
+    text: 競合他社に比べて高い生産効率
+  - label: イ
+    text: 事業ドメインの高い成長率
+  - label: ウ
+    text: 市場への強力な企業の参入
+  - label: エ
+    text: 低いマーケットシェア
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

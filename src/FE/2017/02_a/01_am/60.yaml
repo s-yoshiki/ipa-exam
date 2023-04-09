@@ -1,0 +1,16 @@
+label: 60
+question: 監査調書の説明はどれか。
+choice:
+  - label: ア
+    text: 監査人が行った監査手続の実施記録であり，監査意見の根拠となる。
+  - label: イ
+    text: 監査人が監査実施に当たり被監査部門に対して提出する，監査人自身のセキュリティ誓約書をまとめたものである。
+  - label: ウ
+    text: 監査人が監査の実施に利用した基準書，ガイドラインをまとめたものである。
+  - label: エ
+    text: 監査人が正当な注意義務を払ったことを証明するために，監査報告書とともに公表するよう義務付けられたものである。
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

@@ -1,0 +1,25 @@
+label: 27
+question: |-
+  "中間テスト"表からクラスごと，教科ごとの平均点を求め，クラス名，教科名の昇順に表示するSQL文中のaに入れる字句はどれか。  
+    
+  　中間テスト(クラス名,教科名,学生番号,名前,点数)  
+    
+  〔SQL文〕
+
+  SELECT クラス名，教科名，AVG(点数) AS 平均点  
+  　　FROM 中間テスト  
+  　　a
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

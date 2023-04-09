@@ -1,0 +1,17 @@
+label: 35
+question: >-
+  Webサーバにおいて，クライアントからの要求に応じてアプリケーションプログラムを実行して，その結果をWebブラウザに返すなどのインタラクティブなページを実現するために，Webサーバと外部プログラムを連携させる仕組みはどれか。
+choice:
+  - label: ア
+    text: CGI
+  - label: イ
+    text: HTML
+  - label: ウ
+    text: MIME
+  - label: エ
+    text: URL
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

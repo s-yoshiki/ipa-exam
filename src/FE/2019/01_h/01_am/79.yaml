@@ -1,0 +1,16 @@
+label: 79
+question: 著作者人格権に該当するものはどれか。
+choice:
+  - label: ア
+    text: 印刷，撮影，複写などの方法によって著作物を複製する権利
+  - label: イ
+    text: 公衆からの要求に応じて自動的にサーバから情報を送信する権利
+  - label: ウ
+    text: 著作物の複製物を公衆に貸し出す権利
+  - label: エ
+    text: 自らの意思に反して著作物を変更，切除されない権利
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

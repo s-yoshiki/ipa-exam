@@ -1,0 +1,16 @@
+label: 49
+question: 流れ図で表される部分を命令網羅によってテストするとき，テストケースは少なくとも幾つ用意する必要があるか。
+choice:
+  - label: ア
+    text: '2'
+  - label: イ
+    text: '3'
+  - label: ウ
+    text: '4'
+  - label: エ
+    text: '5'
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

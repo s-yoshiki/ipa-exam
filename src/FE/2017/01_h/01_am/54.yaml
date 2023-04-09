@@ -1,0 +1,16 @@
+label: 54
+question: システム開発の進捗管理などに用いられるトレンドチャートの説明はどれか。
+choice:
+  - label: ア
+    text: 作業に関与する人と責任をマトリックス状に示したもの
+  - label: イ
+    text: 作業日程の計画と実績を対比できるように帯状に示したもの
+  - label: ウ
+    text: 作業の進捗状況と，予算の消費状況を関連付けて折れ線で示したもの
+  - label: エ
+    text: 作業の順序や相互関係をネットワーク状に示したもの
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

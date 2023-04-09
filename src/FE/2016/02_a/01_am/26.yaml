@@ -1,0 +1,16 @@
+label: 26
+question: E-R図に関する記述として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 関係データベースの表として実装することを前提に表現する。
+  - label: イ
+    text: 業務で扱う情報をエンティティ及びエンティテイ間のリレーションシップとして表現する。
+  - label: ウ
+    text: データの生成から消滅に至るデータ操作を表現する。
+  - label: エ
+    text: リレーションシップは，業務上の手順を表現する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

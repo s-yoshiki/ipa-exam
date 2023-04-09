@@ -1,0 +1,16 @@
+label: 31
+question: 64kビット／秒の回線を用いて10<sup>6</sup>バイトのファイルを送信するとき，伝送におよそ何秒掛かるか。ここで，回線の伝送効率は80%とする。
+choice:
+  - label: ア
+    text: '19.6'
+  - label: イ
+    text: '100'
+  - label: ウ
+    text: '125'
+  - label: エ
+    text: '156'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

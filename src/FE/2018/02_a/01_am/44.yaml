@@ -1,0 +1,16 @@
+label: 44
+question: 公衆無線LANのアクセスポイントを設置するときのセキュリティ対策と効果の組みのうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

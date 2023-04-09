@@ -1,0 +1,20 @@
+label: 7
+question: |-
+  nの階乗を再帰的に計算する関数 F(n) の定義において，aに入れるべき式はどれか。ここで，nは非負の整数である。  
+    
+  　n＞0のとき， F(n)＝a  
+  　n＝0のとき， F(n)＝1
+choice:
+  - label: ア
+    text: n＋F(n－1)
+  - label: イ
+    text: n－1＋F(n)
+  - label: ウ
+    text: n×F(n－1)
+  - label: エ
+    text: (n－1)×F(n)
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

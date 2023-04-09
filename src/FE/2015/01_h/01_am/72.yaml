@@ -1,0 +1,16 @@
+label: 72
+question: 電子自治体において，G to Bに該当するものはどれか。
+choice:
+  - label: ア
+    text: 自治体内で電子決裁や電子公文書管理を行う。
+  - label: イ
+    text: 自治体の利用する物品や資材の電子調達，電子入札を行う。
+  - label: ウ
+    text: 住民基本台帳ネットワークによって，自治体間で住民票データを送受信する。
+  - label: エ
+    text: 住民票，戸籍謄本，婚姻届，パスポートなどを電子申請する。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

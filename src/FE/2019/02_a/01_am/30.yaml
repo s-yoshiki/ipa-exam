@@ -1,0 +1,17 @@
+label: 30
+question: >-
+  10Mビット／秒の回線で接続された端末間で，平均1Mバイトのファイルを，10秒ごとに転送するときの回線利用率は何%か。ここで，ファイル転送時には，転送量の20%が制御情報として付加されるものとし，1Mビット＝10<sup>6</sup>ビットとする。
+choice:
+  - label: ア
+    text: '1.2'
+  - label: イ
+    text: '6.4'
+  - label: ウ
+    text: '8.0'
+  - label: エ
+    text: '9.6'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

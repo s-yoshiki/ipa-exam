@@ -1,0 +1,16 @@
+label: 35
+question: TCP/IPネットワークにおいて，TCPコネクションを識別するために必要な情報の組合せはどれか。
+choice:
+  - label: ア
+    text: IPアドレス，セッションID
+  - label: イ
+    text: IPアドレス，ポート番号
+  - label: ウ
+    text: MACアドレス，セッションID
+  - label: エ
+    text: ポート番号，セッションID
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

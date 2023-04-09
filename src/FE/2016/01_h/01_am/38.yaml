@@ -1,0 +1,17 @@
+label: 38
+question: スパイウェアに該当するものはどれか。
+choice:
+  - label: ア
+    text: >-
+      Webサイトへの不正な入力を排除するために，Webサイトの入力フォームの入力データから，HTMLタグ，JavaScript，SQL文などを検出し，それらを他の文字列に置き換えるプログラム
+  - label: イ
+    text: サーバへの侵入口となり得る脆弱なポートを探すために，攻撃者のPCからサーバのTCPポートに順番にアクセスするプログラム
+  - label: ウ
+    text: 利用者の意図に反してPCにインストールされ，利用者の個人情報やアクセス履歴などの情報を収集するプログラム
+  - label: エ
+    text: 利用者のパスワードを調べるために，サーバにアクセスし，辞書に載っている単語を総当たりで試すプログラム
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

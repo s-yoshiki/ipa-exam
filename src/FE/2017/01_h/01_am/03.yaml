@@ -1,0 +1,16 @@
+label: 3
+question: XとYの否定論理積 X NAND Yは，NOT(X AND Y)として定義される。X OR YをNANDだけを使って表した論理式はどれか。
+choice:
+  - label: ア
+    text: '((X NAND Y) NAND X) NAND Y '
+  - label: イ
+    text: (X NAND X) NAND (Y NAND Y)
+  - label: ウ
+    text: (X NAND Y) NAND (X NAND Y)
+  - label: エ
+    text: X NAND (Y NAND (X NAND Y))
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

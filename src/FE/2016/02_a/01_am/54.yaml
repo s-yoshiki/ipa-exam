@@ -1,0 +1,17 @@
+label: 54
+question: >-
+  開発期間10か月，開発工数200人月のプロジェクトを計画する。次の配分表を前提とすると，ピーク時の要員は何人か。ここで，各工程の開始から終了までの要員数は一定とする。
+choice:
+  - label: ア
+    text: '18'
+  - label: イ
+    text: '20'
+  - label: ウ
+    text: '21'
+  - label: エ
+    text: '22'
+calculation: false
+figure: true
+answer: エ
+category: M
+figureText: ''

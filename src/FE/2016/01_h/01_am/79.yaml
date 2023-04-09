@@ -1,0 +1,16 @@
+label: 79
+question: 著作権法において，保護の対象と**ならないもの**はどれか。
+choice:
+  - label: ア
+    text: インターネットで公開されたフリーソフトウェア
+  - label: イ
+    text: ソフトウェアの操作マニュアル
+  - label: ウ
+    text: データベース
+  - label: エ
+    text: プログラム言語や規約
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

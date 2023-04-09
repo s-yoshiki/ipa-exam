@@ -1,0 +1,17 @@
+label: 64
+question: >-
+  ある営業部員の1日の業務活動を分析した結果は，表のとおりである。営業支援システムの導入によって訪問準備時間が1件あたり0.1時間短縮できる。総業務時間と1件当たりの顧客訪問時間を変えずに，1日の顧客訪問件数を6件にするには，"その他業務時間"を何時間削減する必要があるか。
+choice:
+  - label: ア
+    text: '0.3'
+  - label: イ
+    text: '0.5'
+  - label: ウ
+    text: '0.7'
+  - label: エ
+    text: '1.0'
+calculation: false
+figure: true
+answer: ウ
+category: S
+figureText: ''

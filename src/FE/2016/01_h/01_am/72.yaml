@@ -1,0 +1,21 @@
+label: 72
+question: |-
+  ①～③の手順に従って処理を行うものはどれか。  
+
+  1.  今後の一定期間に生産が予定されている製品の種類と数量及び部品構成表を基にして，その構成部品についての必要量を計算する。
+  2.  引当て可能な在庫量から各構成部品の正味発注量を計算する。
+  3.  製造／調達リードタイムを考慮して構成部品の発注時期を決定する。
+choice:
+  - label: ア
+    text: CAD
+  - label: イ
+    text: CRP
+  - label: ウ
+    text: JIT
+  - label: エ
+    text: MRP
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 58
+question: システムテストの監査におけるチェックポイントのうち，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: テストケースが網羅的に想定されていること
+  - label: イ
+    text: テスト計画は利用者側の責任者だけで承認されていること
+  - label: ウ
+    text: テストは実際に業務が行われている環境で実施されていること
+  - label: エ
+    text: テストは利用者側の担当者だけで行われていること
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

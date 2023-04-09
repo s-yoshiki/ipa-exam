@@ -1,0 +1,16 @@
+label: 1
+question: 数値を2進数で表すレジスタがある。このレジスタに格納されている正の整数xを10倍する操作はどれか。ここで，桁あふれは，起こらないものとする。
+choice:
+  - label: ア
+    text: xを2ビット左にシフトした値にxを加算し，更に1ビット左にシフトする。
+  - label: イ
+    text: xを2ビット左にシフトした値にxを加算し，更に2ビット左にシフトする。
+  - label: ウ
+    text: xを3ビット左にシフトした値と，xを2ビット左にシフトした値を加算する。
+  - label: エ
+    text: xを3ビット左にシフトした値にxを加算し，更に1ビット左にシフトする。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

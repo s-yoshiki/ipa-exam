@@ -1,0 +1,16 @@
+label: 60
+question: アクセス制御を監査するシステム監査人の行為のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: ソフトウェアに関するアクセス制御の管理台帳を作成し，保管した。
+  - label: イ
+    text: データに関するアクセス制御の管理規程を閲覧した。
+  - label: ウ
+    text: ネットワークに関するアクセス制御の管理方針を制定した。
+  - label: エ
+    text: ハードウェアに関するアクセス制御の運用手続を実施した。
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

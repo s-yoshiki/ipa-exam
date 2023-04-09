@@ -1,0 +1,16 @@
+label: 47
+question: プログラム中の図の部分を判定条件網羅(分岐網羅)でテストするときのテストケースとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

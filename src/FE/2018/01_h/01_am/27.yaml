@@ -1,0 +1,16 @@
+label: 27
+question: DBMSが提供する機能のうち，データ機密保護を実現する手段はどれか。
+choice:
+  - label: ア
+    text: 一連の処理を論理的単位としてまとめたトランザクションを管理する。
+  - label: イ
+    text: データに対するユーザのアクセス権限を管理する。
+  - label: ウ
+    text: データを更新するときに参照制約をチェックする。
+  - label: エ
+    text: データを更新する前に専有ロックをかける。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

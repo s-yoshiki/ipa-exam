@@ -1,0 +1,16 @@
+label: 3
+question: フィードバック制御の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: あらかじめ定められた順序で制御を行う。
+  - label: イ
+    text: 外乱の影響が出力に現れる前に制御を行う。
+  - label: ウ
+    text: 出力結果と目標値とを比較して，一致するように制御を行う。
+  - label: エ
+    text: 出力結果を使用せず制御を行う。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,18 @@
+label: 6
+question: |-
+  2次元の整数型配列 a の各要素 a(i，j) の値は，2i＋j である。このとき，  
+  a(a(1，1)×2，a(2，2)＋1) の値は幾つか。
+choice:
+  - label: ア
+    text: '12'
+  - label: イ
+    text: '13'
+  - label: ウ
+    text: '18'
+  - label: エ
+    text: '19'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 5
+question: A，B，C，Dの順に到着するデータに対して，一つのスタックだけを用いて出力可能なデータ列はどれか。
+choice:
+  - label: ア
+    text: A，D，B，C
+  - label: イ
+    text: B，D，A，C
+  - label: ウ
+    text: C，B，D，A
+  - label: エ
+    text: D，C，A，B
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

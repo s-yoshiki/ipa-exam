@@ -1,0 +1,16 @@
+label: 23
+question: 二次電池(充電式電池)はどれか。
+choice:
+  - label: ア
+    text: アルカリマンガン乾電池
+  - label: イ
+    text: 酸化銀電池
+  - label: ウ
+    text: 燃料電池
+  - label: エ
+    text: リチウムイオン電池
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

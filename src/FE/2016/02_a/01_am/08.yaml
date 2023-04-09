@@ -1,0 +1,16 @@
+label: 8
+question: Web環境での動的処理を実現するプログラムであって，Webサーバ上だけで動作するものはどれか。
+choice:
+  - label: ア
+    text: JavaScript
+  - label: イ
+    text: Javaアプレット
+  - label: ウ
+    text: Javaサーブレット
+  - label: エ
+    text: VBScript
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

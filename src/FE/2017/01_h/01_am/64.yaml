@@ -1,0 +1,16 @@
+label: 64
+question: BYOD(Bring Your Own Device)の説明はどれか。
+choice:
+  - label: ア
+    text: 会社から貸与された情報機器を常に携行して業務にあたること
+  - label: イ
+    text: 会社所有のノートPCなどの情報機器を社外で私的に利用すること
+  - label: ウ
+    text: 個人所有の情報機器を私的に使用するために利用環境を設定すること
+  - label: エ
+    text: 従業員が個人で所有する情報機器を業務のために使用すること
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

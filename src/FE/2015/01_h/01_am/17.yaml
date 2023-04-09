@@ -1,0 +1,16 @@
+label: 17
+question: スプーリングの説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: キーボードからの入力データを主記憶のキューに一旦保存しておく。
+  - label: イ
+    text: システムに投入されたジョブの実行順序を，その特性や優先順位に応じて決定する。
+  - label: ウ
+    text: 通信データを直接通信相手に送らず，あらかじめ登録しておいた代理に送る。
+  - label: エ
+    text: プリンタなどの低速な装置への出力データを一旦高速な磁気ディスクに格納しておき，その後に目的の装置に出力する。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

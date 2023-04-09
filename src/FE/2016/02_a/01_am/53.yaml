@@ -1,0 +1,16 @@
+label: 53
+question: ファンクションポイント法で，システムの開発規模を見積もるときに際に必要となる情報はどれか。
+choice:
+  - label: ア
+    text: 開発者数
+  - label: イ
+    text: 画面数
+  - label: ウ
+    text: プログラムステップ数
+  - label: エ
+    text: 利用者数
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

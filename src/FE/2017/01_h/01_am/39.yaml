@@ -1,0 +1,17 @@
+label: 39
+question: >-
+  経済産業省とIPAが策定した"サイバーセキュリティ経営ガイドライン(Ver1.1)"が，自社のセキュリティ対策に加えて，実施状況を確認すべきとしている対策はどれか。
+choice:
+  - label: ア
+    text: 自社が提供する商品及びサービスの個人利用者が行うセキュリティ対策
+  - label: イ
+    text: 自社に出資している株主が行うセキュリティ対策
+  - label: ウ
+    text: 自社のサプライチェーンのビジネスパートナが行うセキュリティ対策
+  - label: エ
+    text: 自社の事業所近隣の地域社会が行うセキュリティ対策
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

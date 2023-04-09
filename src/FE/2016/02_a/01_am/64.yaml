@@ -1,0 +1,16 @@
+label: 64
+question: 改善の効果を定量的に評価するとき，複数の項目で評価した結果を統合し，定量化する方法として重み付け総合評価法がある。表の中で優先すべき改善案はどれか。
+choice:
+  - label: ア
+    text: 案1
+  - label: イ
+    text: 案2
+  - label: ウ
+    text: 案3
+  - label: エ
+    text: 案4
+calculation: false
+figure: true
+answer: イ
+category: S
+figureText: ''

@@ -1,0 +1,16 @@
+label: 34
+question: 電子メールのヘッダフィールドのうち，SMTPでメッセージが転送される過程で削除されるものはどれか。
+choice:
+  - label: ア
+    text: Bcc
+  - label: イ
+    text: Date
+  - label: ウ
+    text: Received
+  - label: エ
+    text: X-Mailer
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

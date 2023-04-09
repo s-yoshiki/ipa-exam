@@ -1,0 +1,18 @@
+label: 58
+question: >-
+  JIS Q
+  27001:2014(情報セキュリティマネジメントシステム－要求事項)に基づいてISMS内部監査を行った結果として判明した状況のうち，監査人が指摘事項として監査報告書に記載すべきものはどれか。
+choice:
+  - label: ア
+    text: USBメモリの使用を，定められた手順に従って許可していた。
+  - label: イ
+    text: 個人情報の誤廃棄事故を主務官庁などに，規定されたとおりに報告していた。
+  - label: ウ
+    text: マルウェアスキャンでスパイウェアが検知され，駆除されていた。
+  - label: エ
+    text: リスクアセスメントを実施した後に，リスク受容基準を決めた。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

@@ -1,0 +1,22 @@
+label: 5
+question: |-
+  次の二つのスタック操作を定義する。  
+  　PUSH n：スタックにデータ(整数値n)をプッシュする。  
+  　POP：スタックからデータをポップする。  
+  空のスタックに対して，次の順序でスタック操作を行った結果はどれか。  
+    
+  　PUSH 1 → PUSH 5 → POP → PUSH 7 → PUSH 6 → PUSH 4 → POP → POP → PUSH 3
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

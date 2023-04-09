@@ -1,0 +1,16 @@
+label: 10
+question: USB3.0の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 1クロックで2ビットの情報を伝送する4対の信号線を使用し，最大1Gビット／秒のスループットをもつインタフェースである。
+  - label: イ
+    text: PCと周辺機器とを接続するATA仕様をシリアル化したものである。
+  - label: ウ
+    text: 音声，映像などに適したアイソクロナス転送を採用しており，ブロードキャスト転送モードをもつシリアルインタフェースである。
+  - label: エ
+    text: スーパースピードと呼ばれる5Gビット／秒のデータ転送モードをもつシリアルインタフェースである。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

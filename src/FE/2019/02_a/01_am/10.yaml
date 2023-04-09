@@ -1,0 +1,21 @@
+label: 10
+question: >-
+  10進法で5桁の数 a<sub>1</sub>a<sub>2</sub>a<sub>3</sub>a<sub>4</sub>a<sub>5</sub>
+  をハッシュ法を用いて配列に格納したい。ハッシュ関数を
+  mod(a<sub>1</sub>＋a<sub>2</sub>＋a<sub>3</sub>＋a<sub>4</sub>＋a<sub>5</sub>，13)
+  とし，求めたハッシュ値に対応する位置の配列要素に格納する場合，54321は配列のどの位置に入るか。ここで，mod(x，13)
+  は，xを13で割った余りとする。
+choice:
+  - label: ア
+    text: '1'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '7'
+  - label: エ
+    text: '11'
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

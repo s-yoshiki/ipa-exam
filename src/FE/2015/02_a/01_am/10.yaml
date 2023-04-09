@@ -1,0 +1,16 @@
+label: 10
+question: キャッシュメモリをもつメモリシステムにおいて，平均メモリアクセス時間が増加する原因となるものはどれか。
+choice:
+  - label: ア
+    text: キャッシュメモリへのアクセス時間の減少
+  - label: イ
+    text: ヒット率の低下
+  - label: ウ
+    text: ミスペナルティの減少
+  - label: エ
+    text: ミス率の低下
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

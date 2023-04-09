@@ -1,0 +1,17 @@
+label: 31
+question: >-
+  符号化速度が192kビット／秒の音声データ2.4Mバイトを，通信速度が128kビット／秒のネットワークを用いてダウンロードしながら途切れることなく再生するためには，再生開始前のデータのバッファリング時間として最低何秒間が必要か。
+choice:
+  - label: ア
+    text: '50'
+  - label: イ
+    text: '100'
+  - label: ウ
+    text: '150'
+  - label: エ
+    text: '250'
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

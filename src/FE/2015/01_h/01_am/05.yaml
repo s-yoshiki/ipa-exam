@@ -1,0 +1,16 @@
+label: 5
+question: キューに関する記述として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: 最後に格納されたデータが最初に取り出される。
+  - label: イ
+    text: 最初に格納されたデータが最初に取り出される。
+  - label: ウ
+    text: 添字を用いて特定のデータを参照する。
+  - label: エ
+    text: 二つ以上のポインタを用いてデータの階層関係を表現する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

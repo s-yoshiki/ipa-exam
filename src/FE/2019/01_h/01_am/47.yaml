@@ -1,0 +1,16 @@
+label: 47
+question: ブラックボックステストに関する記述として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: テストデータの作成基準として，プログラムの命令や分岐に対する網羅率を使用する。
+  - label: イ
+    text: 被テストプログラムに冗長なコードがあっても検出できない。
+  - label: ウ
+    text: プログラムの内部構造に着目し，必要な部分が実行されたかどうかを検証する。
+  - label: エ
+    text: 分岐命令やモジュールの数が増えると，テストデータが急増する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

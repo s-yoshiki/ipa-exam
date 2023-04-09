@@ -1,0 +1,16 @@
+label: 21
+question: コンデンサに蓄えた電荷の有無で情報を記憶するメモリはどれか。
+choice:
+  - label: ア
+    text: EEPROM
+  - label: イ
+    text: SDRAM
+  - label: ウ
+    text: SRAM
+  - label: エ
+    text: フラッシュメモリ
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

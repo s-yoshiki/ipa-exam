@@ -1,0 +1,17 @@
+label: 14
+question: 次に示す接続のうち，デイジーチェーン接続と呼ばれる接続方法はどれか。
+choice:
+  - label: ア
+    text: PCと計測機器とをRS-232Cで接続し，PCとプリンタとをUSBを用いて接続する。
+  - label: イ
+    text: >-
+      Thunderbolt接続コネクタが2口ある4kディスプレイ2台を，PCのThunderbolt接続ポートから1台目のディスプレイにケーブルで接続し，さらに，1台目のディスプレイと2台目のディスプレイとの間をケーブルで接続する。
+  - label: ウ
+    text: キーボード，マウス，プリンタをUSBハブにつなぎ，USBハブとPCとを接続する。
+  - label: エ
+    text: 数台のネットワークカメラ及びPCをネットワークハブに接続する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

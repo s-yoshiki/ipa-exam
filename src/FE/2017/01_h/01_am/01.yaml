@@ -1,0 +1,16 @@
+label: 1
+question: 集合A，B，Cを使った等式のうち，集合A，B，Cの内容によらず常に成立する等式はどれか。ここで，∪は和集合，∩は積集合を示す。
+choice:
+  - label: ア
+    text: (A∪B)∩(A∩C) ＝ B∩(A∪C)
+  - label: イ
+    text: (A∪B)∩C ＝ (A∪C)∩(B∪C)
+  - label: ウ
+    text: (A∩C)∪(B∩A) ＝ (A∩B)∪(B∩C)
+  - label: エ
+    text: (A∩C)∪(B∩C) ＝ (A∪B)∩C
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

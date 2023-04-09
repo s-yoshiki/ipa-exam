@@ -1,0 +1,17 @@
+label: 43
+question: >-
+  ワームの検知方式の一つとして，検査対象のファイルからSHA-256を使ってハッシュ値を求め，既知のワーム検体ファイルのハッシュ値のデータベースと照合することによって，検知できるものはどれか。
+choice:
+  - label: ア
+    text: ワーム検体と同一のワーム
+  - label: イ
+    text: ワーム検体と特徴あるコード列が同じワーム
+  - label: ウ
+    text: ワーム検体とファイルサイズが同じワーム
+  - label: エ
+    text: ワーム検体の亜種に当たるワーム
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

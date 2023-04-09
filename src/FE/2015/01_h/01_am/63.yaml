@@ -1,0 +1,16 @@
+label: 63
+question: ワークフローシステムを用いて業務改善を行ったとき，期待できる効果として適切なものはどれか。
+choice:
+  - label: ア
+    text: 顧客の購入金額に応じて，割引などのサービスを提供できる。
+  - label: イ
+    text: 自社と取引先とのデータ交換の標準規約が提供できる。
+  - label: ウ
+    text: 書類の申請から決裁に至る事務手続の処理速度が上がる。
+  - label: エ
+    text: 保管する商品の倉庫内での搬入搬出作業の自動化が可能となる。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

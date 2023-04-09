@@ -1,0 +1,16 @@
+label: 37
+question: 暗号解読の手法のうち，ブルートフォース攻撃はどれか。
+choice:
+  - label: ア
+    text: 与えられた1組の平文と暗号文に対し，総当たりで鍵を割り出す。
+  - label: イ
+    text: 暗号化関数の統計的な偏りを線形関数によって近似して解読する。
+  - label: ウ
+    text: 暗号化装置の動作を電磁波から解析することによって解読する。
+  - label: エ
+    text: 異なる二つの平文とそれぞれの暗号文の差分を観測して鍵を割り出す。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

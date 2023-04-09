@@ -1,0 +1,16 @@
+label: 23
+question: 図に示すディジタル回路と等価な論理式はどれか。ここで，論理式中の"・"は論理積，"＋"は論理和，XはXの否定を表す。
+choice:
+  - label: ア
+    text: X＝A・B＋A・B
+  - label: イ
+    text: X＝A・B＋A・B
+  - label: ウ
+    text: X＝A・B＋A・B
+  - label: エ
+    text: X＝(A＋B)・(A＋B)
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

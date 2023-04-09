@@ -1,0 +1,16 @@
+label: 27
+question: クライアントサーバシステムにおいて，クライアント側からストアドプロシージャを利用したときの利点として，適切なものはどれか。
+choice:
+  - label: ア
+    text: クライアントとサーバ間の通信量を削減できる。
+  - label: イ
+    text: サーバ内でのデータベースファイルへのアクセス量を削減できる。
+  - label: ウ
+    text: サーバのメモリ使用量を削減できる。
+  - label: エ
+    text: データベースファイルの格納領域を削減できる。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

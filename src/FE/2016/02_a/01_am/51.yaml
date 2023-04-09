@@ -1,0 +1,16 @@
+label: 51
+question: プロジェクトマネジメントのプロセスのうち，計画プロセスグループ内で実施するプロセスはどれか。
+choice:
+  - label: ア
+    text: スコープの定義
+  - label: イ
+    text: ステークホルダの特定
+  - label: ウ
+    text: 品質保証の実施
+  - label: エ
+    text: プロジェクト憲章の作成
+calculation: false
+figure: false
+answer: ア
+category: M
+figureText: ''

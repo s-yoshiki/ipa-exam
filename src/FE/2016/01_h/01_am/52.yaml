@@ -1,0 +1,16 @@
+label: 52
+question: プロジェクトの目的及び範囲を明確にするマネジメントプロセスはどれか。
+choice:
+  - label: ア
+    text: コストマネジメント
+  - label: イ
+    text: スコープマネジメント
+  - label: ウ
+    text: タイムマネジメント
+  - label: エ
+    text: リスクマネジメント
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

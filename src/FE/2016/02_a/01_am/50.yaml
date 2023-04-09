@@ -1,0 +1,16 @@
+label: 50
+question: モデリングツールを使用して，本稼働中のデータベースシステムの定義情報からE-R図などで表現した設計書を生成する手法はどれか。
+choice:
+  - label: ア
+    text: コンカレントエンジニアリング
+  - label: イ
+    text: ソーシャルエンジニアリング
+  - label: ウ
+    text: フォワードエンジニアリング
+  - label: エ
+    text: リバースエンジニアリング
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

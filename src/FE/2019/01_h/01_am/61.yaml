@@ -1,0 +1,16 @@
+label: 61
+question: エンタープライズアーキテクチャを構成するアプリケーションアーキテクチャについて説明したものはどれか。
+choice:
+  - label: ア
+    text: 業務に必要なデータの内容，データ間の関連や構造などを体系的に示したもの
+  - label: イ
+    text: 業務プロセスを支援するシステムの機能や構成などを体系的に示したもの
+  - label: ウ
+    text: 情報システムの構築・運用に必要な技術的構成要素を体系的に示したもの
+  - label: エ
+    text: ビジネス戦略に必要な業務プロセスや情報の流れを体系的に示したもの
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

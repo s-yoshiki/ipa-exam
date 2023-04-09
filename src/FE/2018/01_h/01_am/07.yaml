@@ -1,0 +1,16 @@
+label: 7
+question: 表探索におけるハッシュ法の特徴はどれか。
+choice:
+  - label: ア
+    text: 2分木を用いる方法の一種である。
+  - label: イ
+    text: 格納場所の衝突が発生しない方法である。
+  - label: ウ
+    text: キーの関数値によって格納場所を決める。
+  - label: エ
+    text: 探索に要する時間は表全体の大きさにほぼ比例する。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

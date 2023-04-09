@@ -1,0 +1,16 @@
+label: 9
+question: 主記憶のデータを図のように参照するアドレス指定方式はどれか。
+choice:
+  - label: ア
+    text: 間接アドレス指定
+  - label: イ
+    text: 指標アドレス指定
+  - label: ウ
+    text: 相対アドレス指定
+  - label: エ
+    text: 直接アドレス指定
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

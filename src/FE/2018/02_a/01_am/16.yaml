@@ -1,0 +1,18 @@
+label: 16
+question: >-
+  三つのタスクの優先度と，各タスクを単独で実行した場合のCPUと入出力装置(I/O)の動作順序と処理時間は，表のとおりである。優先度方式のタスクスケジューリングを行うOSの下で，三つのタスクが同時に実行可能状態になってから，全てのタスクの実行が終了するまでの，CPUの遊休時間は何ミリ秒か。ここで，CPUは1個であり，1CPUは1コアで構成され，I/Oは競合せず，OSのオーバヘッドは考慮しないものとする。また，表の（
+  ）内の数字は処理時間を示すものとする。
+choice:
+  - label: ア
+    text: '2'
+  - label: イ
+    text: '3'
+  - label: ウ
+    text: '4'
+  - label: エ
+    text: '5'
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 70
+question: EMS(Electronics Manufacturing Service)の説明として適切なものはどれか。
+choice:
+  - label: ア
+    text: 一般消費者からの家電製品に関する問合せの受付窓口となって電話対応を行う。
+  - label: イ
+    text: 製造設備をもたず，製品の企画，設計及び開発を行う。
+  - label: ウ
+    text: 他メーカから仕入れた電子機器などの販売を専門に行う。
+  - label: エ
+    text: 他メーカから受注した電子機器などの受託生産を行う。
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

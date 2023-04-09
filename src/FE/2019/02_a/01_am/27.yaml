@@ -1,0 +1,16 @@
+label: 27
+question: 関係モデルにおいて，関係から特定の属性だけを取り出す演算はどれか。
+choice:
+  - label: ア
+    text: 結合(join)
+  - label: イ
+    text: 射影(projection)
+  - label: ウ
+    text: 選択(selection)
+  - label: エ
+    text: 和(union)
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 8
+question: xとyを自然数とするとき，流れ図で表される手続を実行した結果として，適切なものはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 15
+question: >-
+  東京と福岡を結ぶ実線の回線がある。東京と福岡の間の信頼性を向上させるために，大阪を経由する破線の迂回回線を追加した。迂回回線追加後における，東京と福岡の間の稼働率は幾らか。ここで，回線の稼働率は，東京と福岡，東京と大阪，大阪と福岡の全てが0.9とする。
+choice:
+  - label: ア
+    text: '0.729'
+  - label: イ
+    text: '0.810'
+  - label: ウ
+    text: '0.981'
+  - label: エ
+    text: '0.999'
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

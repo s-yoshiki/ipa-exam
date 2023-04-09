@@ -1,0 +1,16 @@
+label: 29
+question: '"社員"表と"部門"表に対し，次のSQL文を実行したときの結果はどれか。'
+choice:
+  - label: ア
+    text: '1'
+  - label: イ
+    text: '2'
+  - label: ウ
+    text: '3'
+  - label: エ
+    text: '4'
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

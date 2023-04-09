@@ -1,0 +1,17 @@
+label: 31
+question: >-
+  10Mバイトのデータを100,000ビット／秒の回線を使って転送するとき，転送時間は何秒か。ここで，回線の伝送効率を50%とし，1Mバイト＝10<sup>6</sup>バイトとする。
+choice:
+  - label: ア
+    text: '200'
+  - label: イ
+    text: '400'
+  - label: ウ
+    text: '800'
+  - label: エ
+    text: 1,600
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

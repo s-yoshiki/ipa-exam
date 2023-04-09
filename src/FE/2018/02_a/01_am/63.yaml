@@ -1,0 +1,16 @@
+label: 63
+question: SOAを説明したものはどれか。
+choice:
+  - label: ア
+    text: 業務体系，データ体系，適用処理体系，技術体系の四つの主要概念から構成され，業務とシステムの最適化を図る。
+  - label: イ
+    text: サービスというコンポーネントからソフトウェアを構築することによって，ビジネス変化に対応しやすくする。
+  - label: ウ
+    text: データフローダイアグラムを用い，情報に関するモデルと機能に関するモデルを同時に作成する。
+  - label: エ
+    text: 連接，選択，反復の三つの論理構造の組合せで，コンポーネントレベルの設計を行う。
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

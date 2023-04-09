@@ -1,0 +1,23 @@
+label: 1
+question: >-
+  次に示す手順は，列中の少なくとも一つは1であるビット列が与えられたとき，最も右にある1を残し，ほかのビットをすべて0にするアルゴリズムである。例えば，00101000が与えられたとき，00001000が求まる。aに入る論理演算はどれか。  
+    
+  手順1　与えられたビット列Aを符号なしの2進数と見なし，Aから1を引き，結果をBとする。  
+
+  手順2　AとBの排他的論理和(XOR)を求め，結果をCとする。  
+
+  手順3　AとCのaを求め，結果をAとする。
+choice:
+  - label: ア
+    text: 排他的論理和(XOR)
+  - label: イ
+    text: 否定論理積(NAND)
+  - label: ウ
+    text: 論理積(AND)
+  - label: エ
+    text: 論理和(OR)
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 68
+question: >-
+  売手の視点であるマーケティングミックスの4Pに対応する，買手の視点である4Cの中で，図のaに当てはまるものはどれか。ここで，ア～エはa～dのいずれかに対応する。
+choice:
+  - label: ア
+    text: Communication (顧客との対話)
+  - label: イ
+    text: Convenience (顧客の利便性)
+  - label: ウ
+    text: Cost (顧客の負担)
+  - label: エ
+    text: Customer Value (顧客にとっての価値)
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

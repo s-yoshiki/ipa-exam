@@ -1,0 +1,16 @@
+label: 50
+question: XP(eXtreme Programming)において，プラクティスとして提唱されているものはどれか。
+choice:
+  - label: ア
+    text: インスペクション
+  - label: イ
+    text: 構造化設計
+  - label: ウ
+    text: ペアプログラミング
+  - label: エ
+    text: ユースケースの活用
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

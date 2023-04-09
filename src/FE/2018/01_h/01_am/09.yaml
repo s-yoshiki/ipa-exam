@@ -1,0 +1,16 @@
+label: 9
+question: 図はプロセッサによってフェッチされた命令の格納順序を表している。a に当てはまるものはどれか。
+choice:
+  - label: ア
+    text: アキュムレータ
+  - label: イ
+    text: データキャッシュ
+  - label: ウ
+    text: プログラムレジスタ(プログラムカウンタ)
+  - label: エ
+    text: 命令レジスタ
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

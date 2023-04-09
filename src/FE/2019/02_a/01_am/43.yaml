@@ -1,0 +1,16 @@
+label: 43
+question: SIEM(Security Information and Event Management)の機能はどれか。
+choice:
+  - label: ア
+    text: 隔離された仮想環境でファイルを実行して，C&Cサーバへの通信などの振る舞いを監視する。
+  - label: イ
+    text: 様々な機器から集められたログを総合的に分析し，管理者による分析と対応を支援する。
+  - label: ウ
+    text: ネットワーク上の様々な通信機器を集中的に制御し，ネットワーク構成やセキュリティ設定などを変更する。
+  - label: エ
+    text: パケットのヘッダ情報の検査だけではなく，通信先のアプリケーショプログラムを識別して通信を制御する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

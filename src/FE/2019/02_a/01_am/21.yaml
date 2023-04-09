@@ -1,0 +1,17 @@
+label: 21
+question: >-
+  クロックの立上りエッジで，8ビットのシリアル入力パラレル出力シフトレジスタの内容を上位方向ヘシフトすると同時に正論理のデータをレジスタの最下位ビットに取り込む。また，ストローブの立上りエッジで値を確定する。各信号の波形を観測した結果が図のとおりであるとき，確定後のシフトレジスタの値はどれか。ここで，数値は16進数で表記している。
+choice:
+  - label: ア
+    text: '63'
+  - label: イ
+    text: 8D
+  - label: ウ
+    text: B1
+  - label: エ
+    text: C6
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

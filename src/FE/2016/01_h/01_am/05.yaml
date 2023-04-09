@@ -1,0 +1,17 @@
+label: 5
+question: >-
+  10個の節(ノード)からなる次の2分木の各節に，1から10までの値を一意に対応するように割り振ったとき，節a，bの値の組合せはどれになるか。ここで，各節に割り振る値は，左の子及びその子孫に割り振る値より大きく，右の子及びその子孫に割り振る値より小さくする。
+choice:
+  - label: ア
+    text: a＝6，b＝7
+  - label: イ
+    text: a＝6，b＝8
+  - label: ウ
+    text: a＝7，b＝8
+  - label: エ
+    text: a＝7，b＝9
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

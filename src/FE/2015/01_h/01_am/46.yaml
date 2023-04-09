@@ -1,0 +1,16 @@
+label: 46
+question: コンピュータやネットワークのセキュリティ上の脆弱性を発見するために，システムを実際に攻撃して侵入を試みる手法はどれか。
+choice:
+  - label: ア
+    text: ウォークスルー
+  - label: イ
+    text: ソフトウェアインスペクション
+  - label: ウ
+    text: ペネトレーションテスト
+  - label: エ
+    text: リグレッションテスト
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

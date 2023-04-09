@@ -1,0 +1,16 @@
+label: 9
+question: 平均命令実行時間が20ナノ秒のコンピュータがある。このコンピュータの性能は何MIPSか。
+choice:
+  - label: ア
+    text: '5'
+  - label: イ
+    text: '10'
+  - label: ウ
+    text: '20'
+  - label: エ
+    text: '50'
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

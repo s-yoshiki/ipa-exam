@@ -1,0 +1,16 @@
+label: 16
+question: 組込みリアルタイムOSで用いられる，優先度に基づくプリエンプティブなスケジューリングの利用方法として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 各タスクの実行時間を均等配分する場合に利用される。
+  - label: イ
+    text: 起動が早いタスクから順番に処理を行う場合に利用される。
+  - label: ウ
+    text: 重要度及び緊急度に応じて処理を行う場合に利用される。
+  - label: エ
+    text: 処理時間が短いタスクから順番に処理を行う場合に利用される。
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

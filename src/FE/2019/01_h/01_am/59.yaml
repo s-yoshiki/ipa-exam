@@ -1,0 +1,16 @@
+label: 59
+question: 経営者が社内のシステム監査人の外観上の独立性を担保とするために講じる措置として，最も適切なものはどれか。
+choice:
+  - label: ア
+    text: システム監査人にITに関する継続的学習を義務付ける。
+  - label: イ
+    text: システム監査人に必要な知識や経験を定めて公表する。
+  - label: ウ
+    text: システム監査人の監査技法研修制度を設ける。
+  - label: エ
+    text: システム監査人の所属部署を内部監査部門とする。
+calculation: false
+figure: false
+answer: エ
+category: M
+figureText: ''

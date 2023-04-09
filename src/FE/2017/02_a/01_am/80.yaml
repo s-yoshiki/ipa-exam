@@ -1,0 +1,16 @@
+label: 80
+question: 訪問販売，通信販売，電話勧誘販売などを対象に，消費者を守るためのクーリングオフなどのルールを定めている法律はどれか。
+choice:
+  - label: ア
+    text: 商法
+  - label: イ
+    text: 電子消費者契約法
+  - label: ウ
+    text: 特定商取引法
+  - label: エ
+    text: 不正競争防止法
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

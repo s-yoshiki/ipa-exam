@@ -1,0 +1,16 @@
+label: 60
+question: スプレッドシートの処理ロジックの正確性に関わるコントロールを監査する際のチェックポイントはどれか。
+choice:
+  - label: ア
+    text: スプレッドシートの作成者と利用者が同一であること
+  - label: イ
+    text: スプレッドシートのバックアップが行われていること
+  - label: ウ
+    text: スプレッドシートのプログラムの内容が文書化され検証されていること
+  - label: エ
+    text: スプレッドシートの利用者が定められていること
+calculation: false
+figure: false
+answer: ウ
+category: M
+figureText: ''

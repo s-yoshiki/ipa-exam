@@ -1,0 +1,16 @@
+label: 70
+question: コア技術の事例として，適切なものはどれか。
+choice:
+  - label: ア
+    text: アライアンスを組んでインタフェースなどを策定し，共通で使うことを目的とした技術
+  - label: イ
+    text: 競合他社がまねできないような，自動車エンジンのアイドリングストップ技術
+  - label: ウ
+    text: 競合他社と同じCPUコアを採用し，ソフトウェアの移植性を生かす技術
+  - label: エ
+    text: 製品の早期開発，早期市場投入を目的として，汎用部品を組み合わせて開発する技術
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

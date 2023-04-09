@@ -1,0 +1,16 @@
+label: 5
+question: 平均が60，標準偏差が10の正規分布を表すグラフはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,19 @@
+label: 53
+question: |-
+  システム開発において，工数(人月)と期間(月)の関係が次の近似式で示されるとき，工数が4,096人月のときの期間は何か月か。  
+    
+  　期間＝2.5×工数<sup>1/3</sup>
+choice:
+  - label: ア
+    text: '16'
+  - label: イ
+    text: '40'
+  - label: ウ
+    text: '64'
+  - label: エ
+    text: '160'
+calculation: false
+figure: false
+answer: イ
+category: M
+figureText: ''

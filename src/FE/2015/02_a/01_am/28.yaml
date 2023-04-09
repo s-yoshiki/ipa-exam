@@ -1,0 +1,16 @@
+label: 28
+question: '"出庫記録"表に対するSQL文のうち，最も大きな値が得られるものはどれか。'
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

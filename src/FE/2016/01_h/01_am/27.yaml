@@ -1,0 +1,16 @@
+label: 27
+question: 関係XとYを結合した後，関係Zを得る関係代数演算はどれか。
+choice:
+  - label: ア
+    text: 射影と選択
+  - label: イ
+    text: 射影と和
+  - label: ウ
+    text: 選択
+  - label: エ
+    text: 選択と和
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

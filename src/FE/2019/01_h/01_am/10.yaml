@@ -1,0 +1,16 @@
+label: 10
+question: A～Dを，主記憶の実効アクセス時間が短い順に並べたものはどれか。
+choice:
+  - label: ア
+    text: A，B，C，D
+  - label: イ
+    text: A，D，B，C
+  - label: ウ
+    text: C，D，A，B
+  - label: エ
+    text: D，C，A，B
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

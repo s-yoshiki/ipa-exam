@@ -1,0 +1,16 @@
+label: 46
+question: UMLにおける振る舞い図の説明のうち，アクティビティ図のものはどれか。
+choice:
+  - label: ア
+    text: ある振る舞いから次の振る舞いへの制御の流れを表現する。
+  - label: イ
+    text: オブジェクト間の相互作用を時系列で表現する。
+  - label: ウ
+    text: システムが外部に提供する機能と，それを利用する者や外部システムとの関係を表現する。
+  - label: エ
+    text: 一つのオブジェクトの状態がイベントの発生や時間の経過とともにどのように変化するかを表現する。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

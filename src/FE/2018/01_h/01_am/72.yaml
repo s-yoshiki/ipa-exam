@@ -1,0 +1,16 @@
+label: 72
+question: コンビニエンスストアにおいて，ポイントカードなどの個人情報と結び付けられた顧客ID付きPOSデータを収集・分析することによって確認できるものはどれか。
+choice:
+  - label: ア
+    text: 商品の最終的な使用者
+  - label: イ
+    text: 商品の店舗までの流通経路
+  - label: ウ
+    text: 商品を購入する動機
+  - label: エ
+    text: 同一商品の購入頻度
+calculation: false
+figure: false
+answer: エ
+category: S
+figureText: ''

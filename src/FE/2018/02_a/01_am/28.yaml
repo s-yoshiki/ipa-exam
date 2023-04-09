@@ -1,0 +1,16 @@
+label: 28
+question: 関係XとYを自然結合した後，関係Zを得る関係代数演算はどれか。
+choice:
+  - label: ア
+    text: 射影と和
+  - label: イ
+    text: 選択
+  - label: ウ
+    text: 選択と射影
+  - label: エ
+    text: 選択と和
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

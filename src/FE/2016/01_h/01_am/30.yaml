@@ -1,0 +1,16 @@
+label: 30
+question: DBMSにおいて，複数のトランザクション処理プログラムが同一データベースを同時に更新する場合，論理的な矛盾を生じさせないために用いる技法はどれか。
+choice:
+  - label: ア
+    text: 再編成
+  - label: イ
+    text: 正規化
+  - label: ウ
+    text: 整合性制約
+  - label: エ
+    text: 排他制御
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

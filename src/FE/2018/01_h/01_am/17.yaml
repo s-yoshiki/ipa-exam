@@ -1,0 +1,16 @@
+label: 17
+question: ファイルシステムの絶対パス名を説明したものはどれか。
+choice:
+  - label: ア
+    text: あるディレクトリから対象ファイルに至る幾つかのパス名のうち，最短のパス名
+  - label: イ
+    text: カレントディレクトリから対象ファイルに至るパス名
+  - label: ウ
+    text: ホームディレクトリから対象ファイルに至るパス名
+  - label: エ
+    text: ルートディレクトリから対象ファイルに至るパス名
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

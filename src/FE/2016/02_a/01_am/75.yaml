@@ -1,0 +1,16 @@
+label: 75
+question: CIOの果たすべき役割はどれか。
+choice:
+  - label: ア
+    text: 各部門の代表として，自部門のシステム化案を情報システム部門に提示する。
+  - label: イ
+    text: 情報技術に関する調査，利用研究，関連部門への教育などを実施する。
+  - label: ウ
+    text: 全社的観点から情報化戦略を立案し，経営戦略との整合性の確認や評価を行う。
+  - label: エ
+    text: 豊富な業務経験，情報技術の知識，リーダシップをもち，プロジェクトの運営を管理する。
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

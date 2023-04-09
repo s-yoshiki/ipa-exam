@@ -1,0 +1,16 @@
+label: 49
+question: ソースコードやオブジェクトコードを解析して，プログラムの仕様と設計の情報を取り出す手法はどれか。
+choice:
+  - label: ア
+    text: リエンジニアリング
+  - label: イ
+    text: リストラクチャリング
+  - label: ウ
+    text: リバースエンジニアリング
+  - label: エ
+    text: リファクタリング
+calculation: false
+figure: false
+answer: ウ
+category: T
+figureText: ''

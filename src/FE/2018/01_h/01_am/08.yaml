@@ -1,0 +1,16 @@
+label: 8
+question: XML文書のDTDに記述するものはどれか。
+choice:
+  - label: ア
+    text: 使用する文字コード
+  - label: イ
+    text: データ
+  - label: ウ
+    text: バージョン情報
+  - label: エ
+    text: 文書型の定義
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

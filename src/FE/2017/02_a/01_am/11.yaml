@@ -1,0 +1,16 @@
+label: 11
+question: USB Type-Cのプラグ側コネクタの断面図はどれか。ここで，図の縮尺は同一ではない。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

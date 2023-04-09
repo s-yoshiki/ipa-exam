@@ -1,0 +1,17 @@
+label: 78
+question: >-
+  売上高が100百万円のとき，変動費が60百万円，固定費が30百万円掛かる。変動費率，固定費は変わらないものとして，目標利益18百万円を達成するのに必要な売上高は何百万円か。
+choice:
+  - label: ア
+    text: '108'
+  - label: イ
+    text: '120'
+  - label: ウ
+    text: '156'
+  - label: エ
+    text: '180'
+calculation: false
+figure: false
+answer: イ
+category: S
+figureText: ''

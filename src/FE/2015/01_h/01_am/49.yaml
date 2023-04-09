@@ -1,0 +1,16 @@
+label: 49
+question: 図は，テスト項目消化件数 X において，目標値として設定したバグ累積件数に到達したことを示す。この図の状況の説明として，適切なものはどれか。
+choice:
+  - label: ア
+    text: テスト工程が順調に終了したことを示す。
+  - label: イ
+    text: テスト前段階での机上チェックやシミュレーションが十分にされていることを示す。
+  - label: ウ
+    text: まだ多くのバグが内在している可能性があることを示す。
+  - label: エ
+    text: 目標のバグ累積件数が達成されたので，出荷後にバグが発生する確率が低いことを示す。
+calculation: false
+figure: true
+answer: ウ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 70
+question: 表は，投資目的に応じて，投資分類とKPIを整理したものである。投資目的のcに当てはまるものはどれか。ここで，ア～エはa～dのいずれかに入る。
+choice:
+  - label: ア
+    text: 作業プロセスの改善，作業品質の向上
+  - label: イ
+    text: システム維持管理コストの削減，システム性能の向上
+  - label: ウ
+    text: ナレッジの可視化，ナレッジの共有
+  - label: エ
+    text: ビジネスの創出，競争優位の確立
+calculation: false
+figure: true
+answer: エ
+category: S
+figureText: ''

@@ -1,0 +1,18 @@
+label: 7
+question: >-
+  次の流れ図は，2数 A，B
+  の最大公約数を求めるユークリッドの互除法を，引き算の繰返しによって計算するものである。Aが876，Bが204のとき，何回の比較で処理は終了するか。
+choice:
+  - label: ア
+    text: '4'
+  - label: イ
+    text: '9'
+  - label: ウ
+    text: '10'
+  - label: エ
+    text: '11'
+calculation: false
+figure: true
+answer: エ
+category: T
+figureText: ''

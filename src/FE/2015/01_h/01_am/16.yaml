@@ -1,0 +1,16 @@
+label: 16
+question: コンピュータシステムの信頼性に関する記述のうち，適切なものはどれか。
+choice:
+  - label: ア
+    text: システムの遠隔保守は，MTTRを長くし，稼働率を向上させる。
+  - label: イ
+    text: システムの稼働率は，MTTRとMTBFを長くすることによって向上する。
+  - label: ウ
+    text: システムの構成が複雑なほど，MTBFは長くなる。
+  - label: エ
+    text: システムの予防保守は，MTBFを長くするために行う。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

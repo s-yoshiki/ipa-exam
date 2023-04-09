@@ -1,0 +1,16 @@
+label: 80
+question: インターネットで利用される技術の標準化を図り，技術仕様をRFCとして策定している組織はどれか。
+choice:
+  - label: ア
+    text: ANSI
+  - label: イ
+    text: IEEE
+  - label: ウ
+    text: IETF
+  - label: エ
+    text: NIST
+calculation: false
+figure: false
+answer: ウ
+category: S
+figureText: ''

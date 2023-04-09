@@ -1,0 +1,16 @@
+label: 24
+question: HTML文書の文字の大きさ，文字の色，行間などの視覚表現の情報を扱う標準仕様はどれか。
+choice:
+  - label: ア
+    text: CMS
+  - label: イ
+    text: CSS
+  - label: ウ
+    text: RSS
+  - label: エ
+    text: Wiki
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 43
+question: >-
+  クライアントとWebサーバの間において，クライアントからWebサーバに送信されたデータを検査して，SQLインジェクションなどの攻撃を遮断するためのものはどれか。
+choice:
+  - label: ア
+    text: SSL-VPN機能
+  - label: イ
+    text: WAF
+  - label: ウ
+    text: クラスタ構成
+  - label: エ
+    text: ロードバランシング機能
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 22
+question: 図に示す，1桁の2進数xとyを加算して，z(和の1桁目)及びc(桁上げ)を出力する半加算器において，AとBの素子の組合せとして，適切なものはどれか。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: ア
+category: T
+figureText: ''

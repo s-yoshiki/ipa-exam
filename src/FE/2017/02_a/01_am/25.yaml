@@ -1,0 +1,16 @@
+label: 25
+question: 3次元CGのレンダリングにおける，隠線消去及び隠面消去の説明はどれか。
+choice:
+  - label: ア
+    text: 光源の位置と対象物体への光の当たり具合とを解析し，どのような色・明るさで見えるのかを決定する。
+  - label: イ
+    text: 指定された視点から見える部分だけを描くようにする。
+  - label: ウ
+    text: 生成された画像について，表示する画面に収まる部分だけを表示する。
+  - label: エ
+    text: 物体の表面だけでなく物体の内部や背後に隠れた部分の形状も，半透明表示などによって画像として生成する。
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

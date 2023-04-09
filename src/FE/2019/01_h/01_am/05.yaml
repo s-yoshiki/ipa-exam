@@ -1,0 +1,16 @@
+label: 5
+question: 2分探索木として適切なものはどれか。ここで，1～9の数字は，各ノード(節)の値を表す。
+choice:
+  - label: ア
+    text: ''
+  - label: イ
+    text: ''
+  - label: ウ
+    text: ''
+  - label: エ
+    text: ''
+calculation: false
+figure: true
+answer: イ
+category: T
+figureText: ''

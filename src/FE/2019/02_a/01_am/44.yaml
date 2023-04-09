@@ -1,0 +1,16 @@
+label: 44
+question: 電子メールをドメインAの送信者がドメインBの宛先に送信するとき，送信者をドメインAのメールサーバで認証するためのものはどれか。
+choice:
+  - label: ア
+    text: APOP
+  - label: イ
+    text: POP3S
+  - label: ウ
+    text: S/MIME
+  - label: エ
+    text: SMTP-AUTH
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 32
+question: TCP/IPネットワークにおいて，IPアドレスを動的に割り当てるプロトコルはどれか。
+choice:
+  - label: ア
+    text: ARP
+  - label: イ
+    text: DHCP
+  - label: ウ
+    text: RIP
+  - label: エ
+    text: SMTP
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

@@ -1,0 +1,17 @@
+label: 14
+question: >-
+  コンピュータを2台用意しておき，現用系が故障したときは，現用系と同一のオンライン処理プログラムをあらかじめ起動して待機している待機系のコンピュータに速やかに切り替えて，処理を続行するシステムはどれか。
+choice:
+  - label: ア
+    text: コールドスタンバイシステム
+  - label: イ
+    text: ホットスタンバイシステム
+  - label: ウ
+    text: マルチプロセッサシステム
+  - label: エ
+    text: マルチユーザシステム
+calculation: false
+figure: false
+answer: イ
+category: T
+figureText: ''

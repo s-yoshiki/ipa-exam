@@ -1,0 +1,16 @@
+label: 42
+question: SQLインジェクション攻撃を防ぐ方法はどれか。
+choice:
+  - label: ア
+    text: 入力中の文字がデータベースへの問合せや操作において，特別な意味をもつ文字として解釈されないようにする。
+  - label: イ
+    text: 入力にHTMLタグが含まれていたら，HTMLタグとして解釈されない他の文字列に置き換える。
+  - label: ウ
+    text: 入力に上位ディレクトリを指定する文字(../)を含まれているときは受け付けない。
+  - label: エ
+    text: 入力の全体の長さが制限を超えているときは受け付けない。
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

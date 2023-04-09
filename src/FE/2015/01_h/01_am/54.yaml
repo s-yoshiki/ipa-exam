@@ -1,0 +1,16 @@
+label: 54
+question: 図は，あるプロジェクトの作業(A～I)とその作業日数を表している。このプロジェクトが終了するまでに必要な最短日数は何日か。
+choice:
+  - label: ア
+    text: '27'
+  - label: イ
+    text: '28'
+  - label: ウ
+    text: '29'
+  - label: エ
+    text: '31'
+calculation: false
+figure: true
+answer: エ
+category: M
+figureText: ''

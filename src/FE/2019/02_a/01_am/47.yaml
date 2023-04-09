@@ -1,0 +1,17 @@
+label: 47
+question: >-
+  エラー埋込法において，埋め込まれたエラー数をS，埋め込まれたエラーのうち発見されたエラー数をm，埋め込まれたエラーを含まないテスト開始前の潜在エラー数をT，発見された総エラー数をnとしたとき，S，T，m，nの関係を表す式はどれか。
+choice:
+  - label: ア
+    text: mS＝n－mT
+  - label: イ
+    text: mS＝Tn－m
+  - label: ウ
+    text: mS＝nT
+  - label: エ
+    text: mS＝Tn
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

@@ -1,0 +1,16 @@
+label: 31
+question: OSI基本参照モデルのトランスポート層以上が異なるLANシステム相互間でプロトコル変換を行う機器はどれか。
+choice:
+  - label: ア
+    text: ゲートウェイ
+  - label: イ
+    text: ブリッジ
+  - label: ウ
+    text: リピータ
+  - label: エ
+    text: ルータ
+calculation: false
+figure: false
+answer: ア
+category: T
+figureText: ''

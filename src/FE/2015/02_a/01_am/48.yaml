@@ -1,0 +1,16 @@
+label: 48
+question: ボトムアップテストの特徴として，適切なものはどれか。
+choice:
+  - label: ア
+    text: 開発の初期の段階では，並行作業が困難である。
+  - label: イ
+    text: スタブが必要である。
+  - label: ウ
+    text: テスト済みの上位モジュールが必要である。
+  - label: エ
+    text: ドライバが必要である。
+calculation: false
+figure: false
+answer: エ
+category: T
+figureText: ''
