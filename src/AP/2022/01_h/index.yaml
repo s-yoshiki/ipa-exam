@@ -2,6 +2,6 @@ data:
   name: 春期
   part:
     - label: 午前
-      link: '01'
+      link: '01_am'
     - label: 午後
-      link: '02'
+      link: '02_pm'

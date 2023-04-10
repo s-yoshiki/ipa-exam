@@ -2,6 +2,6 @@ data:
   name: 2022
   part:
     - label: 春期
-      link: '01'
+      link: '01_h'
     - label: 秋期
-      link: '02'
+      link: '02_a'
